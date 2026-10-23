@@ -55,3 +55,6 @@ li.pub { display: flex; gap: 16px; align-items: baseline; }
 /* Social icons in the header */
 .social { display: block; padding: 4px; opacity: 0.9; }
 .social:hover { opacity: 1; text-decoration: none; }
+
+/* Bio: line the photo up with the first paragraph, not the heading, when side by side */
+@media (min-width: 920px) { .bio-aside { margin-top: 65px; } }
