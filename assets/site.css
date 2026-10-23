@@ -51,3 +51,7 @@ li.pub { display: flex; gap: 16px; align-items: baseline; }
 .pub-links { display: flex; flex-wrap: wrap; gap: 4px 16px; font-size: 14px; font-weight: 600; }
 .pub-links a.pub-scholar { color: #4A5263; }
 @media (max-width: 600px) { li.pub { gap: 10px; } .pub-id { flex-basis: 44px; } }
+
+/* Social icons in the header */
+.social { display: block; padding: 4px; opacity: 0.9; }
+.social:hover { opacity: 1; text-decoration: none; }
