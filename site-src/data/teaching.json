@@ -1,0 +1,62 @@
+{
+ "grad": [
+  {
+   "name": "ESE 5000 Linear Systems Theory",
+   "terms": "Fall 2001, 2002, 2005, 2017–2026"
+  },
+  {
+   "name": "ESE 6800 Learning for Control (with M. Morari)",
+   "terms": "Spring 2018, 2019"
+  },
+  {
+   "name": "ESE 6800 Optimal Control Theory",
+   "terms": "Fall 2011"
+  },
+  {
+   "name": "ESE 6800 Networked and Embedded Control Systems (with J. Le Ny)",
+   "terms": "Spring 2011"
+  },
+  {
+   "name": "CIS 8000 Green Buildings: Optimization and Adaptation (with B. Taskar)",
+   "terms": "Spring 2011"
+  },
+  {
+   "name": "ESE 6170 Nonlinear Control Theory",
+   "terms": "Fall 2004, 2006, 2010"
+  },
+  {
+   "name": "ESE 6010 Hybrid Systems (2000 jointly with R. Alur)",
+   "terms": "Fall 2000, Fall 2003, Spring 2009"
+  },
+  {
+   "name": "ESE 6800 Special Topics in Systems Biology",
+   "terms": "Spring 2007"
+  },
+  {
+   "name": "EECS 222 Nonlinear Systems: Analysis, Stability, Control (UC Berkeley)",
+   "terms": "Spring 1999"
+  }
+ ],
+ "ugrad": [
+  {
+   "name": "ESE 1110 Introduction to Atoms, Bits, Circuits, and Systems (with S. Deliwala)",
+   "terms": "Fall 2018–2023"
+  },
+  {
+   "name": "ESE 3010 Introduction to Probability",
+   "terms": "2006–2012"
+  },
+  {
+   "name": "ESE 3040 Introduction to Optimization",
+   "terms": "Spring 2005"
+  },
+  {
+   "name": "ESE 3250 Introduction to Signals and Systems",
+   "terms": "Spring 2002, 2003, 2004"
+  },
+  {
+   "name": "EE 325 Introduction to Analog and Digital Communications",
+   "terms": "Spring 2000, 2001"
+  }
+ ]
+}

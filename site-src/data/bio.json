@@ -1,0 +1,322 @@
+{
+ "leadership": [
+  {
+   "title": "Associate Dean for Research and Innovation",
+   "unit": "School of Engineering and Applied Science",
+   "dates": "July 2024–present"
+  },
+  {
+   "title": "Director, Raj and Neera Singh B.S.E. Program in Artificial Intelligence",
+   "unit": "School of Engineering and Applied Science",
+   "dates": "February 2024–present"
+  },
+  {
+   "title": "Chair, Department of Electrical and Systems Engineering",
+   "unit": "School of Engineering and Applied Science",
+   "dates": "July 2012–February 2024"
+  },
+  {
+   "title": "Deputy Dean for Research",
+   "unit": "School of Engineering and Applied Science",
+   "dates": "January 2008–June 2012"
+  },
+  {
+   "title": "Director, GRASP Laboratory",
+   "unit": "General Robotics, Automation, Sensing and Perception Laboratory",
+   "dates": "August 2005–January 2008"
+  },
+  {
+   "title": "Graduate Group Chair",
+   "unit": "Department of Electrical Engineering",
+   "dates": "July 2001–August 2005"
+  }
+ ],
+ "faculty": [
+  {
+   "title": "UPS Foundation Professor",
+   "dates": "July 2018–present"
+  },
+  {
+   "title": "Joseph Moore Professor",
+   "dates": "May 2008–June 2018"
+  },
+  {
+   "title": "Professor",
+   "dates": "July 2007–present"
+  },
+  {
+   "title": "Associate Professor",
+   "dates": "July 2004–July 2007"
+  },
+  {
+   "title": "Assistant Professor",
+   "dates": "March 2000–July 2004"
+  }
+ ],
+ "education": [
+  {
+   "school": "University of California at Berkeley",
+   "date": "December 1998",
+   "degree": "Ph.D., Electrical Engineering and Computer Sciences"
+  },
+  {
+   "school": "Harvard University",
+   "date": "January–August 1994",
+   "degree": "Graduate Fellow, Division of Applied Sciences"
+  },
+  {
+   "school": "Rensselaer Polytechnic Institute",
+   "date": "December 1992",
+   "degree": "M.S., Computer and Systems Engineering"
+  },
+  {
+   "school": "Rensselaer Polytechnic Institute",
+   "date": "December 1991",
+   "degree": "B.S., Magna Cum Laude, Computer and Systems Engineering"
+  }
+ ],
+ "major": [
+  {
+   "y": "2026",
+   "t": "IEEE Leon K. Kirchmayer Graduate Teaching Award"
+  },
+  {
+   "y": "2026",
+   "t": "American Association for the Advancement of Science (AAAS) Fellow"
+  },
+  {
+   "y": "2025",
+   "t": "ECEDHA ECE Technology Integration Award"
+  },
+  {
+   "y": "2024",
+   "t": "Member, U.S. National Academy of Engineering"
+  },
+  {
+   "y": "2021",
+   "t": "UC Berkeley EECS EE Distinguished Alumni Award"
+  },
+  {
+   "y": "2020",
+   "t": "International Federation of Automatic Control (IFAC) Fellow"
+  },
+  {
+   "y": "2017",
+   "t": "University of Pennsylvania Provost’s Award for Distinguished Ph.D. Teaching and Mentoring"
+  },
+  {
+   "y": "2015",
+   "t": "Penn Engineering George H. Heilmeier Faculty Award for Excellence in Research"
+  },
+  {
+   "y": "2010",
+   "t": "IEEE CSS Antonio Ruberti Young Researcher Prize"
+  },
+  {
+   "y": "2009",
+   "t": "IEEE Fellow"
+  },
+  {
+   "y": "2007",
+   "t": "N.A.E.-A. von Humboldt German-American Frontiers of Engineering Program"
+  },
+  {
+   "y": "2004",
+   "t": "NSF Presidential Early Career Award for Scientists and Engineers (PECASE)"
+  },
+  {
+   "y": "2002",
+   "t": "National Science Foundation CAREER Award"
+  },
+  {
+   "y": "1999",
+   "t": "UC Berkeley EECS Eli Jury Award for Excellence in Systems Research"
+  }
+ ],
+ "papers": [
+  {
+   "y": "2026",
+   "t": "IEEE CSS Control Systems Magazine Outstanding Paper Award"
+  },
+  {
+   "y": "2025",
+   "t": "International Conference on Runtime Verification (RV) Test of Time Award"
+  },
+  {
+   "y": "2024",
+   "t": "IEEE CSS George S. Axelby Outstanding Paper Award"
+  },
+  {
+   "y": "2023",
+   "t": "IEEE RAS ICRA Outstanding Multi-Robot Systems Paper"
+  },
+  {
+   "y": "2022",
+   "t": "ACM Transactions on Embedded Computing Systems Best Paper Award"
+  },
+  {
+   "y": "2020",
+   "t": "IEEE SPS ICASSP Best Paper Award, Barcelona, Spain"
+  },
+  {
+   "y": "2018",
+   "t": "IEEE CSS Control Systems Magazine Outstanding Paper Award"
+  },
+  {
+   "y": "2017",
+   "t": "IEEE RAS ICRA Best Conference Paper Award, Singapore"
+  },
+  {
+   "y": "2017",
+   "t": "IEEE/ACM IoTDI Best Poster Award, Pittsburgh, PA"
+  },
+  {
+   "y": "2016",
+   "t": "AACC O. Hugo Schuck Best Paper Award (theory)"
+  },
+  {
+   "y": "2014",
+   "t": "AACC O. Hugo Schuck Best Paper Award (theory)"
+  },
+  {
+   "y": "2014",
+   "t": "ACM/IEEE ICCPS Best Paper Award, Berlin, Germany"
+  },
+  {
+   "y": "2012",
+   "t": "ACM/IEEE IPSN Best Presentation Award, Beijing, China"
+  },
+  {
+   "y": "2009",
+   "t": "IEEE CSS George S. Axelby Outstanding Paper Award"
+  }
+ ],
+ "service": [
+  {
+   "t": "Council Member, CRA Computing Community Consortium (CCC)",
+   "d": "2026–present"
+  },
+  {
+   "t": "Member, IEEE Control Systems Society Nominating Committee",
+   "d": "2026–present"
+  },
+  {
+   "t": "Member, NAE Section 7 Peer Committee",
+   "d": "2026–present"
+  },
+  {
+   "t": "Member, NAE Section 7 Search Committee",
+   "d": "2024–present"
+  },
+  {
+   "t": "Steering Committee Member, International Conference on Neuro-symbolic Systems (NeuS)",
+   "d": "2024–present"
+  },
+  {
+   "t": "Co-chair, NAE Frontiers of Engineering, University of Pennsylvania",
+   "d": "September 2025"
+  },
+  {
+   "t": "General Co-Chair and Program Co-Chair, 2nd International Conference on Neuro-symbolic Systems (NeuS), Philadelphia",
+   "d": "May 2025"
+  },
+  {
+   "t": "Chair, National Academies CSTB Study on Using ML in Safety-Critical Systems",
+   "d": "2023–2025"
+  },
+  {
+   "t": "General Co-Chair, 5th Conference on Learning for Dynamics and Control (L4DC), Philadelphia",
+   "d": "June 2023"
+  },
+  {
+   "t": "Chair, IEEE RAS ICRA Steering Committee",
+   "d": "2022–2025"
+  },
+  {
+   "t": "General Co-Chair, IEEE International Conference on Robotics and Automation (ICRA), Philadelphia",
+   "d": "2022"
+  },
+  {
+   "t": "Member, IEEE Control Systems Society Board of Governors",
+   "d": "2019–2021"
+  },
+  {
+   "t": "Co-Chair, 1st–3rd Conference on Learning for Dynamics and Control (L4DC)",
+   "d": "2019–2021"
+  },
+  {
+   "t": "Member, National Academies CSTB Study on Cyber-Physical Systems Education",
+   "d": "2013–2016"
+  },
+  {
+   "t": "Chair, NSF Cyber-Physical Systems Academic Executive Board",
+   "d": "2010–2012"
+  },
+  {
+   "t": "Steering Committee Chair, Cyber-Physical Systems Week (CPSWEEK)",
+   "d": "2008–2011 and 2014–2017"
+  },
+  {
+   "t": "Steering Committee Chair, Hybrid Systems: Computation and Control (HSCC)",
+   "d": "2006–2011 and 2014–2017"
+  },
+  {
+   "t": "Associate Editor, IEEE Transactions on Automatic Control",
+   "d": "2005–2007"
+  }
+ ],
+ "lectures": [
+  {
+   "t": "Plenary Speaker, American Control Conference",
+   "d": "July 2025"
+  },
+  {
+   "t": "Keynote, NSF Cyber-Physical Systems PI Meeting",
+   "d": "November 2022"
+  },
+  {
+   "t": "Plenary Session, World Artificial Intelligence Conference (WAIC), Shanghai, China",
+   "d": "July 2021"
+  },
+  {
+   "t": "Plenary Speaker, 39th Chinese Control Conference, Shenyang, China",
+   "d": "July 2020"
+  },
+  {
+   "t": "Semi-Plenary Speaker, 21st IFAC World Congress, Berlin, Germany",
+   "d": "July 2020"
+  },
+  {
+   "t": "Keynote, CPS-IoT Week, Sydney, Australia",
+   "d": "April 2020"
+  },
+  {
+   "t": "Plenary Speaker, 38th Benelux Meeting on Systems and Control, Belgium",
+   "d": "March 2019"
+  },
+  {
+   "t": "Astor Visiting Lectureship, University of Oxford, UK",
+   "d": "October 2018"
+  },
+  {
+   "t": "Vistas in Control Symposium, ETH Zurich, Switzerland",
+   "d": "September 2018"
+  },
+  {
+   "t": "Keynote, Perspectives in Systems and Control, Zurich, Switzerland",
+   "d": "May 2016"
+  },
+  {
+   "t": "Keynote, European Forum Alpbach, Technology Symposium, Austria",
+   "d": "August 2015"
+  },
+  {
+   "t": "George H. Heilmeier Lecture, University of Pennsylvania",
+   "d": "March 2015"
+  },
+  {
+   "t": "Mercer Distinguished Lecture, Rensselaer Polytechnic Institute",
+   "d": "February 2015"
+  }
+ ]
+}

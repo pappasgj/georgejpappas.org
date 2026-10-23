@@ -1,0 +1,172 @@
+{
+ "v": 3,
+ "attachments": {},
+ "boards": {
+  "Main.dc.html": {
+   "expand": "fill",
+   "h": 3400,
+   "is_interactive": true,
+   "title": "Home",
+   "w": 1440,
+   "x": 0,
+   "y": 0
+  },
+  "About.dc.html": {
+   "expand": "fill",
+   "h": 4500,
+   "is_interactive": true,
+   "title": "Bio",
+   "w": 1440,
+   "x": 1520,
+   "y": 0
+  },
+  "Research.dc.html": {
+   "expand": "fill",
+   "h": 2600,
+   "is_interactive": true,
+   "title": "Research",
+   "w": 1440,
+   "x": 3040,
+   "y": 0
+  },
+  "Publications.dc.html": {
+   "expand": "fill",
+   "h": 6900,
+   "is_interactive": true,
+   "title": "Publications",
+   "w": 1440,
+   "x": 6080,
+   "y": 0
+  },
+  "Book.dc.html": {
+   "expand": "fill",
+   "h": 2700,
+   "is_interactive": true,
+   "title": "Book",
+   "w": 1440,
+   "x": 7600,
+   "y": 0
+  },
+  "Teaching.dc.html": {
+   "expand": "fill",
+   "h": 2100,
+   "is_interactive": true,
+   "title": "Teaching",
+   "w": 1440,
+   "x": 9120,
+   "y": 0
+  },
+  "Group.dc.html": {
+   "expand": "fill",
+   "h": 5500,
+   "is_interactive": true,
+   "title": "Group",
+   "w": 1440,
+   "x": 4560,
+   "y": 0
+  },
+  "News.dc.html": {
+   "expand": "fill",
+   "h": 5200,
+   "is_interactive": true,
+   "title": "News",
+   "w": 1440,
+   "x": 10640,
+   "y": 0
+  }
+ },
+ "createdOnFiles": {
+  "at": "2026-10-23T09:50:00Z",
+  "v": 1
+ },
+ "designSystems": [],
+ "launch": {
+  "view": "canvas"
+ },
+ "notes": {
+  "title": {
+   "kind": "title1",
+   "maxW": 12080,
+   "text": "georgejpappas.org — final design, every page in menu order",
+   "w": 240,
+   "x": 0,
+   "y": -320
+  },
+  "homeNote": {
+   "fill": "blue",
+   "size": 24,
+   "text": "Home: hero, About summary, research tiles and Selected Publications are hand-written. Latest publications and News come from the CV on every ./build.sh.",
+   "w": 520,
+   "x": 0,
+   "y": 3500
+  },
+  "aboutNote": {
+   "fill": "blue",
+   "size": 24,
+   "text": "About: the biography is hand-written (draft — edit freely). Appointments, education, honors, paper awards, service and lectures come from the CV. Not-yet-public honors stay out.",
+   "w": 520,
+   "x": 1520,
+   "y": 4600
+  },
+  "researchNote": {
+   "fill": "blue",
+   "size": 24,
+   "text": "Research: six areas as tabs. Area descriptions are hand-written (draft — edit freely). Key papers come from the CV; each current project is tagged with its areas and listed under them. No dollar amounts.",
+   "w": 520,
+   "x": 3040,
+   "y": 2700
+  },
+  "pubsNote": {
+   "fill": "blue",
+   "size": 24,
+   "text": "Publications: all 644 entries from the CV (books, journals, chapters, conferences, editorials, white papers), loaded from one data file the build regenerates. Every entry links to its PDF, DOI or publisher page when known, and always to Google Scholar.",
+   "w": 520,
+   "x": 6080,
+   "y": 7000
+  },
+  "bookNote": {
+   "fill": "blue",
+   "size": 24,
+   "text": "Book: a hand-written page, live now as an announcement. The book joins the Publications list and the CV automatically on January 1, 2027, when it is in print.",
+   "w": 520,
+   "x": 7600,
+   "y": 2800
+  },
+  "teachingNote": {
+   "fill": "blue",
+   "size": 24,
+   "text": "Teaching: courses and teaching awards come from the CV; the ESE 5000 and AI program text is hand-written.",
+   "w": 520,
+   "x": 9120,
+   "y": 2200
+  },
+  "groupNote": {
+   "fill": "blue",
+   "size": 24,
+   "text": "Group: current members and all Ph.D., postdoc and master's alumni come straight from the CV's Research Group section, sorted into faculty, research labs and industry.",
+   "w": 520,
+   "x": 4560,
+   "y": 5600
+  },
+  "newsNote": {
+   "fill": "blue",
+   "size": 24,
+   "text": "News: honors, press, lectures and lab news merged into one dated feed from the CV, with filters and story cards. Not-yet-public items stay out.",
+   "w": 520,
+   "x": 10640,
+   "y": 5300
+  }
+ },
+ "order": [
+  "Main.dc.html",
+  "About.dc.html",
+  "Research.dc.html",
+  "Publications.dc.html",
+  "Book.dc.html",
+  "Teaching.dc.html",
+  "Group.dc.html",
+  "News.dc.html"
+ ],
+ "pages": [],
+ "title": "Pappas Website Redesign"
+}

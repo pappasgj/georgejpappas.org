@@ -1,0 +1,54 @@
+<div style="background: #011F5B; color: #FFFFFF">
+<div style="max-width: 1200px; margin: 0 auto; padding: 48px 32px 52px; display: flex; flex-direction: column; gap: 12px">
+<h1 class="page-h1" style="margin: 0; font-family: 'Source Serif 4', Georgia, serif; font-size: 48px; font-weight: 600">News</h1>
+<p style="margin: 0; max-width: 780px; font-size: 19px; color: #E8ECF4">Awards, press coverage and news from the group.</p>
+</div>
+</div>
+
+<div style="max-width: 1200px; margin: 0 auto; padding: 56px 32px 24px; display: flex; flex-direction: column; gap: 24px">
+<h2 style="margin: 0; font-family: 'Source Serif 4', Georgia, serif; font-size: 30px; color: #011F5B">In the Spotlight</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 24px">
+<sc-for list="{{stories}}" as="s">
+<article style="flex: 1 1 320px; min-width: 0; border: 1px solid #DDE1E8; border-top: 4px solid #011F5B; display: flex; flex-direction: column">
+<sc-if value="{{s.hasImg}}"><img src="{{root}}{{s.img}}" alt="" loading="lazy" style="width: 100%; height: 190px; object-fit: cover; display: block"></sc-if>
+<div style="padding: 20px; display: flex; flex-direction: column; gap: 8px; flex: 1 1 auto">
+<span style="font-size: 13px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: #990000">{{s.outlet}} · {{s.date}}</span>
+<h3 style="margin: 0; font-family: 'Source Serif 4', Georgia, serif; font-size: 22px; line-height: 1.25; color: #011F5B">{{s.title}}</h3>
+<p style="margin: 0; font-size: 15px; color: #4A5263">{{s.note}}</p>
+<a href="{{s.url}}" style="margin-top: auto; padding-top: 8px; font-weight: 600">Read the story →</a>
+</div>
+</article>
+</sc-for>
+</div>
+</div>
+
+<div style="max-width: 1200px; margin: 0 auto; padding: 40px 32px 64px; display: flex; flex-direction: column; gap: 20px">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 16px">
+<h2 style="margin: 0; font-family: 'Source Serif 4', Georgia, serif; font-size: 30px; color: #011F5B">All News</h2>
+<div role="group" aria-label="Filter news" class="js-only" hidden style="display: flex; flex-wrap: wrap; gap: 8px">
+<button type="button" class="filter-btn news-filter" data-filter="all" aria-pressed="true">All</button>
+<button type="button" class="filter-btn news-filter" data-filter="honor" aria-pressed="false">Awards</button>
+<button type="button" class="filter-btn news-filter" data-filter="press" aria-pressed="false">Press</button>
+<button type="button" class="filter-btn news-filter" data-filter="lab" aria-pressed="false">Lab news</button>
+</div>
+</div>
+<div style="display: flex; flex-direction: column">
+<sc-for list="{{items}}" as="n">
+<div class="news-item" data-kind="{{n.kind}}" style="display: flex; flex-wrap: wrap; gap: 6px 20px; padding: 16px 0; border-top: 1px solid #DDE1E8; align-items: baseline">
+<span style="flex: 0 0 110px; font-size: 14px; font-weight: 700; color: #4A5263">{{n.date}}</span>
+<span style="flex: 0 0 90px; font-size: 12px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: #011F5B">{{n.kindLabel}}</span>
+<div style="flex: 1 1 520px; min-width: 0; display: flex; flex-direction: column; gap: 2px">
+<sc-if value="{{n.hasUrl}}">
+<a href="{{n.url}}" style="font-size: 17px; font-weight: 600">{{n.text}}</a>
+</sc-if>
+<sc-if value="{{n.noUrl}}">
+<span style="font-size: 17px; font-weight: 600">{{n.text}}</span>
+</sc-if>
+<sc-if value="{{n.hasNote}}">
+<span style="font-size: 15px; color: #4A5263">{{n.note}}</span>
+</sc-if>
+</div>
+</div>
+</sc-for>
+</div>
+</div>

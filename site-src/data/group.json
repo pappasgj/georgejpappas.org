@@ -1,0 +1,467 @@
+{
+ "current": [
+  {
+   "name": "Sribalaji C. Anand",
+   "role": "Swedish Research Council International Postdoc",
+   "dept": "ESE",
+   "since": "October 2025"
+  },
+  {
+   "name": "Tesshu Fujinami",
+   "role": "Ph.D. student",
+   "dept": "ESE",
+   "since": "September 2023"
+  },
+  {
+   "name": "Kyle Horton",
+   "role": "Ph.D. student",
+   "dept": "ESE",
+   "since": "September 2025"
+  },
+  {
+   "name": "Yash Jain",
+   "role": "Ph.D. student",
+   "dept": "CIS",
+   "since": "September 2026"
+  },
+  {
+   "name": "Pavlos Kallinikidis",
+   "role": "Ph.D. student",
+   "dept": "ESE",
+   "since": "September 2021"
+  },
+  {
+   "name": "Shayan Kiyani",
+   "role": "Ph.D. student",
+   "dept": "ESE",
+   "since": "September 2022"
+  },
+  {
+   "name": "Sunggun Lee",
+   "role": "Ph.D. student",
+   "dept": "ESE",
+   "since": "September 2025"
+  },
+  {
+   "name": "Sima Noorani",
+   "role": "Ph.D. student",
+   "dept": "ESE",
+   "since": "September 2022"
+  },
+  {
+   "name": "Zac Ravichandran",
+   "role": "Ph.D. student",
+   "dept": "ESE",
+   "since": "September 2023"
+  },
+  {
+   "name": "Nicholas Rober",
+   "role": "Postdoctoral Researcher",
+   "dept": "ESE",
+   "since": "September 2026"
+  },
+  {
+   "name": "Mahdi Sabbaghi",
+   "role": "Ph.D. student",
+   "dept": "ESE",
+   "since": "September 2022"
+  },
+  {
+   "name": "Pascal Sikorski",
+   "role": "Ph.D. student",
+   "dept": "ESE",
+   "since": "September 2026"
+  },
+  {
+   "name": "David Snyder",
+   "role": "Postdoctoral Researcher",
+   "dept": "ESE",
+   "since": "September 2025"
+  },
+  {
+   "name": "Anne Somalwar",
+   "role": "Ph.D. student",
+   "dept": "AMCS",
+   "since": "September 2023"
+  },
+  {
+   "name": "Victoria Tuck",
+   "role": "Postdoctoral Researcher",
+   "dept": "ESE",
+   "since": "October 2025"
+  },
+  {
+   "name": "Hangtao Zhang",
+   "role": "Ph.D. student",
+   "dept": "CIS",
+   "since": "September 2026"
+  }
+ ],
+ "alumniGroups": [
+  {
+   "label": "Faculty and postdocs",
+   "items": [
+    {
+     "name": "Nikolay Atanasov",
+     "role": "Ph.D. graduate student, ESE, September 2009–August 2015",
+     "now": "Associate Professor, ECE Department, University of California, San Diego, CA"
+    },
+    {
+     "name": "Shun-ichi Azuma",
+     "role": "Visiting Postdoctoral Scholar, ESE, April 2009–April 2010",
+     "now": "Professor, Kyoto University, Kyoto, Japan"
+    },
+    {
+     "name": "Thomas Beckers",
+     "role": "Postdoctoral Researcher, ESE, January 2021–December 2022",
+     "now": "Professor of Autonomous Systems, Ulm University, Germany"
+    },
+    {
+     "name": "Philip Dames",
+     "role": "Postdoctoral Researcher, ESE, September 2015–June 2016",
+     "now": "Associate Professor, Mechanical Engineering, Temple University, Philadelphia, PA"
+    },
+    {
+     "name": "Thao Dang",
+     "role": "Postdoctoral Researcher, CIS, January 2001–December 2001",
+     "now": "Directeur de Recherche at VERIMAG, CNRS, Grenoble, France"
+    },
+    {
+     "name": "Alessandro D'Innocenzo",
+     "role": "Postdoctoral Researcher, ESE, March 2008–December 2008",
+     "now": "Associate Professor, Università di L'Aquila, Italy"
+    },
+    {
+     "name": "Chinwendu Enyioha",
+     "role": "Ph.D. graduate student, ESE, September 2008–December 2014",
+     "now": "Associate Professor, ECE Department, University of Central Florida, Orlando, FL"
+    },
+    {
+     "name": "Mahyar Fazlyab",
+     "role": "Postdoctoral Researcher, ESE, August 2018–August 2020",
+     "now": "Assistant Professor, ECE Department, Johns Hopkins University, MD"
+    },
+    {
+     "name": "Konstantinos Gatsis",
+     "role": "Ph.D. graduate student, ESE, September 2010–October 2019",
+     "now": "Lecturer (Assistant Professor), Engineering Sciences, University of Oxford, Oxford, UK"
+    },
+    {
+     "name": "Antoine Girard",
+     "role": "Postdoctoral Researcher, ESE, October 2004–December 2005",
+     "now": "CNRS Directeur de Recherche, Laboratoire des Signaux et Systèmes, CentraleSupélec, France"
+    },
+    {
+     "name": "Shuo Han",
+     "role": "Postdoctoral Researcher, ESE, October 2013–July 2017",
+     "now": "Associate Professor, ECE Department, University of Illinois Chicago, IL"
+    },
+    {
+     "name": "Radoslav Ivanov",
+     "role": "Postdoctoral Researcher, CIS, August 2017–December 2021",
+     "now": "Assistant Professor, CS Department, Rensselaer Polytechnic Institute, Troy, NY"
+    },
+    {
+     "name": "A. Agung Julius",
+     "role": "Postdoctoral Researcher, ESE, June 2005–December 2008",
+     "now": "Professor, ECSE Department, Rensselaer Polytechnic Institute, Troy, NY"
+    },
+    {
+     "name": "Dionysios Kalogerias",
+     "role": "Postdoctoral Researcher, ESE, June 2019–August 2020",
+     "now": "Assistant Professor, EE Department, Yale University, CT"
+    },
+    {
+     "name": "Ioannis Kantaros",
+     "role": "Postdoctoral Researcher, CIS, August 2018–December 2021",
+     "now": "Assistant Professor, ESE Department, Washington University in St. Louis, MO"
+    },
+    {
+     "name": "Hadas Kress-Gazit",
+     "role": "Ph.D. graduate student, ESE, September 2003–August 2008",
+     "now": "Geoffrey S.M. Hedrick Sr. Professor, Mechanical and Aerospace Eng., Cornell University"
+    },
+    {
+     "name": "Lars Lindemann",
+     "role": "Postdoctoral Researcher, ESE, November 2020–December 2022",
+     "now": "Assistant Professor, Automatic Control Laboratory, ETH Zurich, Switzerland"
+    },
+    {
+     "name": "Fei Miao",
+     "role": "Ph.D. graduate student, ESE, September 2010–May 2016",
+     "now": "Qiushi Distinguished Professor, Control Science and Engineering, Zhejiang University"
+    },
+    {
+     "name": "Aritra Mitra",
+     "role": "Postdoctoral Researcher, ESE, August 2020–December 2022",
+     "now": "Assistant Professor, ECE, North Carolina State University, NC"
+    },
+    {
+     "name": "Truong Nghiem",
+     "role": "Ph.D. graduate student, ESE, September 2005–September 2012",
+     "now": "Associate Professor, ECE Department, University of Central Florida, Orlando, FL"
+    },
+    {
+     "name": "Cameron Nowzari",
+     "role": "Postdoctoral Researcher, ESE, October 2013–July 2016",
+     "now": "Associate Professor, ECE Department, George Mason University, Fairfax, VA"
+    },
+    {
+     "name": "Erfan Nozari",
+     "role": "Postdoctoral Researcher, ESE, August 2019–June 2020",
+     "now": "Assistant Professor, ME Department, University of California, Riverside, CA"
+    },
+    {
+     "name": "Jerome Le Ny",
+     "role": "Postdoctoral Researcher, ESE, September 2008–April 2012",
+     "now": "Professor, Electrical Engineering, École Polytechnique de Montréal, Canada"
+    },
+    {
+     "name": "Miroslav Pajic",
+     "role": "Postdoctoral Researcher, ESE, September 2012–July 2015",
+     "now": "Professor, ECE Department, Duke University, NC"
+    },
+    {
+     "name": "Sergio Pequito",
+     "role": "Postdoctoral Researcher, ESE, August 2014–July 2017",
+     "now": "Associate Professor, Instituto Superior Técnico, University of Lisbon, Portugal"
+    },
+    {
+     "name": "Indranil Saha",
+     "role": "Postdoctoral Researcher, CIS, July 2013–August 2015",
+     "now": "Professor and Soma and Manas Mandal Chair, CSE Department, IIT Kanpur, India"
+    },
+    {
+     "name": "M. Selman Sakar",
+     "role": "Ph.D. graduate student, ESE, September 2005–December 2010",
+     "now": "Associate Professor at EPFL, Lausanne, Switzerland"
+    },
+    {
+     "name": "Rajiv Sambharya",
+     "role": "Postdoctoral Researcher, ESE, September 2024–July 2026",
+     "now": "Assistant Professor, Texas A&M University, College Station, TX"
+    },
+    {
+     "name": "Yasser Shoukry",
+     "role": "Postdoctoral Researcher, ESE, September 2015–July 2017",
+     "now": "Associate Professor, ECE, University of California, Irvine, CA"
+    },
+    {
+     "name": "Igor Spasojevic",
+     "role": "Postdoctoral Researcher, ESE, August 2022–June 2025",
+     "now": "Assistant Professor, ECE Department, University of California, Riverside, CA"
+    },
+    {
+     "name": "Charis Stamouli",
+     "role": "Ph.D. graduate student, ESE, September 2020–July 2026",
+     "now": "Postdoctoral Researcher, ETH Zurich, Switzerland"
+    },
+    {
+     "name": "Shreyas Sundaram",
+     "role": "Postdoctoral Researcher, ESE, September 2009–April 2010",
+     "now": "Marie Gordon Professor, ECE, Purdue University, West Lafayette, IN"
+    },
+    {
+     "name": "Paulo Tabuada",
+     "role": "Postdoctoral Researcher, ESE, January 2002–August 2003",
+     "now": "Professor and Vijay K. Dhir Chair in Engineering, ECE Department, UCLA"
+    },
+    {
+     "name": "Herbert Tanner",
+     "role": "Postdoctoral Researcher, ESE, June 2001–August 2003",
+     "now": "Professor and Chair, Department of Mechanical Engineering, University of Delaware"
+    },
+    {
+     "name": "Anastasios Tsiamis",
+     "role": "Ph.D. graduate student, ESE, September 2015–March 2022",
+     "now": "Assistant Professor, ECE Department, University of Patras, Greece"
+    },
+    {
+     "name": "Vassilios Tzoumas",
+     "role": "Ph.D. graduate student, ESE, September 2012–June 2018",
+     "now": "Assistant Professor, Aerospace Department, University of Michigan, Ann Arbor, MI"
+    },
+    {
+     "name": "Michael Zavlanos",
+     "role": "Ph.D. graduate student, ESE, September 2003–August 2008",
+     "now": "Professor, Mechanical Engineering and Materials Science, Duke University, NC"
+    }
+   ],
+   "count": 37
+  },
+  {
+   "label": "Research institutes and laboratories",
+   "items": [
+    {
+     "name": "Kong Yao Chee",
+     "role": "Ph.D. graduate student, ESE, September 2019–December 2024",
+     "now": "Senior Member of Technical Staff, DSO National Laboratories, Singapore"
+    },
+    {
+     "name": "Matthew Cleaveland",
+     "role": "Ph.D. graduate student, ESE, September 2018–May 2025",
+     "now": "Technical Staff, MIT Lincoln Laboratory, Cambridge, MA"
+    },
+    {
+     "name": "T. John Koo",
+     "role": "Postdoctoral Researcher, EE, August 2000–January 2001",
+     "now": "Director, Embedded Systems, Software, Systems, ASTRI, Hong Kong, China"
+    },
+    {
+     "name": "Pedro Paulo Ventura Tecchio",
+     "role": "Ph.D. graduate student, ESE, September 2013–July 2019",
+     "now": "at Brazilian Institute of Robotics, Salvador, Brazil"
+    },
+    {
+     "name": "Nicholas Watkins",
+     "role": "Ph.D. graduate student, ESE, September 2013–December 2018",
+     "now": "Senior Professional Staff, Johns Hopkins University Applied Physics Laboratory"
+    }
+   ],
+   "count": 5
+  },
+  {
+   "label": "Industry",
+   "items": [
+    {
+     "name": "Ali Ahmadzadeh",
+     "role": "Ph.D. graduate student, ESE, September 2003–August 2008",
+     "now": "Quantitative Strategist, Citadel Energy Marketing, CT"
+    },
+    {
+     "name": "Andreea Alexandru",
+     "role": "Ph.D. graduate student, ESE, September 2015–May 2021",
+     "now": "Senior Scientist, Duality Technologies"
+    },
+    {
+     "name": "Victor Amelkin",
+     "role": "Postdoctoral Researcher, ESE, July 2018–June 2020",
+     "now": "Research Scientist, Amazon Robotics"
+    },
+    {
+     "name": "Mohamed Babaali",
+     "role": "Postdoctoral Researcher, ESE, July 2004–May 2005",
+     "now": "Principal Software Engineer at Mathworks, Boston, MA"
+    },
+    {
+     "name": "Nikolaos Bousias",
+     "role": "Ph.D. graduate student, ESE, September 2019–July 2026",
+     "now": "at Ghost Robotics, Philadelphia, PA"
+    },
+    {
+     "name": "Sean Bowman",
+     "role": "Ph.D. graduate student, CIS, September 2012–December 2021",
+     "now": "Lead Robotics Software Engineer, Exyn Technologies, Philadelphia, PA"
+    },
+    {
+     "name": "Austin Chen",
+     "role": "Ph.D. graduate student, CIS, September 2018–May 2025",
+     "now": "Mission Autonomy Lead at HavocAI, San Diego, CA"
+    },
+    {
+     "name": "Nicolo Dal Fabbro",
+     "role": "Postdoctoral Researcher, ESE, November 2023–July 2026",
+     "now": "at NASDAQ Inc"
+    },
+    {
+     "name": "Georgios Fainekos",
+     "role": "Ph.D. graduate student, CIS, September 2002–August 2008",
+     "now": "Senior Principal Scientist, Toyota Motor North America R&D"
+    },
+    {
+     "name": "Heejin Chloe Jeong",
+     "role": "Ph.D. graduate student, ESE, January 2016–May 2020",
+     "now": "Staff Research Engineer, Waymo"
+    },
+    {
+     "name": "Fragkiskos Koufogiannis",
+     "role": "Ph.D. graduate student, ESE, September 2011–July 2017",
+     "now": "Principal Research Scientist at Raytheon Technologies Research Center"
+    },
+    {
+     "name": "Matthew Malencia",
+     "role": "Ph.D. graduate student, ESE, September 2018–May 2023",
+     "now": "Senior Technical Project Manager, Exyn Technologies, Philadelphia, PA"
+    },
+    {
+     "name": "Alexander Robey",
+     "role": "Ph.D. graduate student, ESE, September 2018–2024",
+     "now": "Member of Technical Staff, Thinking Machines Lab"
+    },
+    {
+     "name": "Alena Rodionova",
+     "role": "Ph.D. graduate student, ESE, September 2017–December 2022",
+     "now": "Senior Software Engineer, Waabi, Boston, MA"
+    },
+    {
+     "name": "Orlando Romero",
+     "role": "Ph.D. graduate student, ESE, September 2020–May 2025",
+     "now": "Senior Specialist, Data Science, Nasdaq Inc"
+    },
+    {
+     "name": "Kelsey Saulnier",
+     "role": "Ph.D. graduate student, ESE, September 2014–December 2022",
+     "now": "Robotics Engineer, Pattern Labs"
+    },
+    {
+     "name": "Brent Schlotfeldt",
+     "role": "Ph.D. graduate student, ESE, September 2016–May 2021",
+     "now": "Staff Software Engineer, Waymo"
+    },
+    {
+     "name": "Jacob Seidman",
+     "role": "Ph.D. graduate student, AMCS, September 2015–September 2022",
+     "now": "Director of Applied AI, Reality Defender, New York, NY"
+    },
+    {
+     "name": "Maria Elizabeth Tzes",
+     "role": "Ph.D. graduate student, ESE, September 2018–May 2024",
+     "now": "Applied Scientist II, Amazon Fulfillment Technologies and Robotics"
+    },
+    {
+     "name": "Shuo Yang",
+     "role": "Ph.D. graduate student, ESE, September 2022–December 2025",
+     "now": "Quantitative Researcher, Point72"
+    },
+    {
+     "name": "Ingvar Ziemann",
+     "role": "Postdoctoral Scholar, ESE, March 2023–June 2025",
+     "now": "at Xantium (Tudor Investment Corporation), New York, NY"
+    }
+   ],
+   "count": 21
+  }
+ ],
+ "masters": [
+  {
+   "name": "Haimin Hu",
+   "role": "MSE Graduate Student, ESE, September 2018–May 2020",
+   "now": "Assistant Professor, Computer Science, Johns Hopkins University, Baltimore, MD"
+  },
+  {
+   "name": "Jingqi Li",
+   "role": "MSE Graduate Student, ESE, September 2017–May 2019",
+   "now": "Peter O’Donnell Jr. Postdoctoral Fellow, Oden Institute, UT Austin, TX"
+  },
+  {
+   "name": "Saad Aleem",
+   "role": "MSE Graduate Student, ESE, September 2014–May 2016",
+   "now": "at Oracle, Redwood Shores, CA"
+  },
+  {
+   "name": "Hakan Yazarel",
+   "role": "MSE Graduate Student, ESE, September 2002–December 2005",
+   "now": "Senior Principal Software Engineer at Carefusion, Orange County, CA"
+  },
+  {
+   "name": "Selcuk Bayraktar",
+   "role": "MSE Graduate Student, ESE, September 2002–September 2004",
+   "now": "Chairman and CTO, Baykar, Istanbul, Turkey"
+  },
+  {
+   "name": "Pradyumna K. Mishra",
+   "role": "MSE Graduate Student, CIS, September 2000–December 2002",
+   "now": "Co-Founder and CEO, Fingertips Lab, San Jose, CA"
+  }
+ ]
+}

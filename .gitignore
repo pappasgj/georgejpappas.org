@@ -1,0 +1,6 @@
+# The CV source and the full CV stay private; only the web CV is published.
+cv/*
+!cv/resume_web.pdf
+!cv/README.md
+.DS_Store
+__pycache__/

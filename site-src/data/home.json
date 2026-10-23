@@ -1,0 +1,136 @@
+{
+ "selected": [
+  {
+   "title": "Jailbreaking LLM-Controlled Robots",
+   "url": "https://arxiv.org/abs/2410.13691",
+   "authors": "A. Robey, Z. Ravichandran, V. Kumar, H. Hassani and G. J. Pappas",
+   "venue": "Proc. IEEE ICRA",
+   "date": "2025"
+  },
+  {
+   "title": "Safety Verification and Robustness Analysis of Neural Networks via Quadratic Constraints and Semidefinite Programming",
+   "url": "https://doi.org/10.1109/TAC.2020.3046193",
+   "authors": "M. Fazlyab, M. Morari and G. J. Pappas",
+   "venue": "IEEE Transactions on Automatic Control",
+   "date": "2022",
+   "label": "IEEE CSS George S. Axelby Outstanding Paper Award, 2024",
+   "labelUrl": "https://ieeecss.org/awards/george-s-axelby-outstanding-paper-award"
+  },
+  {
+   "title": "Probabilistic Data Association for Semantic SLAM",
+   "url": "https://www.cis.upenn.edu/~kostas/mypub.dir/bowman17icra.pdf",
+   "authors": "S. Bowman, N. Atanasov, K. Daniilidis and G. J. Pappas",
+   "venue": "Proc. IEEE ICRA",
+   "date": "2017",
+   "label": "IEEE RAS ICRA Best Conference Paper Award"
+  },
+  {
+   "title": "Approximation Metrics for Discrete and Continuous Systems",
+   "url": "https://repository.upenn.edu/cis_papers/343",
+   "authors": "A. Girard and G. J. Pappas",
+   "venue": "IEEE Transactions on Automatic Control",
+   "date": "2007",
+   "label": "IEEE CSS George S. Axelby Outstanding Paper Award, 2009",
+   "labelUrl": "https://ieeecss.org/awards/george-s-axelby-outstanding-paper-award"
+  },
+  {
+   "title": "Robustness of Temporal Logic Specifications",
+   "url": "https://scholar.google.com/scholar?q=%22Robustness+of+Temporal+Logic+Specifications%22+Fainekos+Pappas+2006",
+   "authors": "G. Fainekos and G. J. Pappas",
+   "venue": "FATES/RV, LNCS 4262",
+   "date": "2006",
+   "label": "International Conference on Runtime Verification (RV) Test of Time Award, 2025"
+  },
+  {
+   "title": "Hierarchically Consistent Control Systems",
+   "url": "https://repository.upenn.edu/ese_papers/87",
+   "authors": "G. J. Pappas, G. Lafferriere and S. Sastry",
+   "venue": "IEEE Transactions on Automatic Control",
+   "date": "2000"
+  }
+ ],
+ "latest": [
+  {
+   "title": "Heterogeneous Robot Collaboration in Unstructured Environments with Grounded Generative Intelligence",
+   "url": "https://arxiv.org/abs/2510.26915",
+   "authors": "Z. Ravichandran et al.",
+   "venue": "Proc. IEEE/RSJ IROS",
+   "date": "September 2026"
+  },
+  {
+   "title": "Conformal Risk Minimization with Variance Reduction",
+   "url": "https://proceedings.mlr.press/v337/noorani26a.html",
+   "authors": "S. Noorani, O. Romero, N. Dal Fabbro, H. Hassani and G. J. Pappas",
+   "venue": "Proc. UAI",
+   "date": "August 2026"
+  },
+  {
+   "title": "When to Trust the Cheap Check: Weak and Strong Verification for Reasoning",
+   "url": "https://arxiv.org/abs/2602.17633",
+   "authors": "S. Kiyani, S. Noorani, G. J. Pappas and H. Hassani",
+   "venue": "Proc. ICML",
+   "date": "July 2026",
+   "label": "Spotlight"
+  },
+  {
+   "title": "Beyond Alignment: Why Robotic Foundation Models Need Context-Aware Safety",
+   "authors": "A. Robey et al.",
+   "venue": "Science Robotics",
+   "date": "April 2026",
+   "url": "https://doi.org/10.1126/scirobotics.aef2191"
+  },
+  {
+   "title": "Safety Guardrails for LLM-Enabled Robots",
+   "authors": "Z. Ravichandran, A. Robey, V. Kumar, G. J. Pappas and H. Hassani",
+   "venue": "IEEE Robotics and Automation Letters",
+   "date": "April 2026",
+   "url": "https://doi.org/10.1109/LRA.2026.3667488"
+  },
+  {
+   "title": "Formal Verification and Control with Conformal Prediction: Practical Safety Guarantees for Autonomous Systems",
+   "authors": "L. Lindemann, Y. Zhao, X. Yu, G. J. Pappas and J. V. Deshmukh",
+   "venue": "IEEE Control Systems Magazine",
+   "date": "December 2025",
+   "url": "https://doi.org/10.1109/MCS.2025.3611545",
+   "label": "IEEE CSS Control Systems Magazine Outstanding Paper Award, 2026"
+  }
+ ],
+ "feed": [
+  {
+   "date": "Oct 2026",
+   "kind": "Press",
+   "text": "TechTarget: Humanoid Buildup Overlooks the Robots Already Running Factories",
+   "url": "https://www.techtarget.com/ai/news/366651418/Humanoid-buildup-overlooks-the-robots-already-running-factories"
+  },
+  {
+   "date": "Sep 2026",
+   "kind": "Press",
+   "text": "IEEE Spectrum: Rethinking Robot Safety in the Age of AI",
+   "url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone"
+  },
+  {
+   "date": "Apr 2026",
+   "kind": "Press",
+   "text": "Penn Today: What It Will Take to Make AI-Enabled Robots Safer",
+   "url": "https://penntoday.upenn.edu/news/penn-engineering-what-it-will-take-make-ai-enabled-robots-safer"
+  },
+  {
+   "date": "2026",
+   "kind": "Award",
+   "text": "IEEE Leon K. Kirchmayer Graduate Teaching Award",
+   "url": "https://corporate-awards.ieee.org/award/ieee-leon-k-kirchmayer-graduate-teaching-award/"
+  },
+  {
+   "date": "2026",
+   "kind": "Award",
+   "text": "American Association for the Advancement of Science (AAAS) Fellow",
+   "url": "https://www.grasp.upenn.edu/news/five-from-penn-named-aaas-fellows/"
+  },
+  {
+   "date": "2025",
+   "kind": "Lab",
+   "text": "A. Robey and M. Tzes receive Penn ESE Joseph and Rosaline Wolf Best Dissertation Awards",
+   "url": "https://www.grasp.upenn.edu/news/2025-grasp-phd-award-round-up/"
+  }
+ ]
+}

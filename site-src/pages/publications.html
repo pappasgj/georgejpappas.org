@@ -1,0 +1,65 @@
+<div style="background: #011F5B; color: #FFFFFF">
+<div style="max-width: 1200px; margin: 0 auto; padding: 48px 32px 52px; display: flex; flex-direction: column; gap: 10px">
+<h1 class="page-h1" style="margin: 0; font-family: 'Source Serif 4', Georgia, serif; font-size: 48px; font-weight: 600">Publications</h1>
+<p style="margin: 0; font-size: 18px; color: #E8ECF4">Every publication from the CV, newest first. Numbering matches the CV.</p>
+</div>
+</div>
+
+<div style="max-width: 1200px; margin: 0 auto; padding: 48px 32px 72px; display: flex; flex-wrap: wrap; gap: 48px; align-items: flex-start">
+
+<div style="flex: 1 1 240px; display: flex; flex-direction: column; gap: 24px">
+<div class="js-only" hidden style="display: flex; flex-direction: column; gap: 24px">
+<label style="display: flex; flex-direction: column; gap: 6px; font-size: 14px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #011F5B">Search publications
+<input id="pub-search" type="search" placeholder="Title, author or venue" autocomplete="off" style="font: inherit; font-size: 16px; font-weight: 400; letter-spacing: 0; text-transform: none; color: #1B1F2A; border: 1px solid #C5CBD6; padding: 10px 12px; min-height: 44px; box-sizing: border-box">
+</label>
+<div style="display: flex; flex-direction: column; gap: 8px">
+<h2 style="margin: 0; font-size: 14px; letter-spacing: 0.08em; text-transform: uppercase; color: #011F5B">Show</h2>
+<button type="button" class="pub-filter" data-filter="all" aria-pressed="true">All</button>
+<button type="button" class="pub-filter" data-filter="journal" aria-pressed="false">Journal articles</button>
+<button type="button" class="pub-filter" data-filter="conf" aria-pressed="false">Conference papers</button>
+<button type="button" class="pub-filter" data-filter="chapter" aria-pressed="false">Book chapters</button>
+<button type="button" class="pub-filter" data-filter="book" aria-pressed="false">Books and edited volumes</button>
+<button type="button" class="pub-filter" data-filter="other" aria-pressed="false">Editorials and white papers</button>
+<button type="button" class="pub-filter" data-filter="award" aria-pressed="false">Award-winning papers</button>
+</div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 6px; font-size: 15px; color: #4A5263">
+<h2 style="margin: 0; font-size: 14px; letter-spacing: 0.08em; text-transform: uppercase; color: #011F5B">Links</h2>
+<span>Each paper links to its PDF, DOI or publisher page where available, and to Google Scholar for everything else.</span>
+</div>
+<a href="https://scholar.google.com/citations?user=Kia-4B0AAAAJ" style="font-weight: 700">Google Scholar profile →</a>
+<a href="{{root}}cv/resume_web.pdf" target="_blank" rel="noopener" style="font-weight: 700; border: 1px solid #990000; padding: 12px 16px; text-align: center">Download full CV (PDF)</a>
+</div>
+
+<div style="flex: 999 1 560px; min-width: 0; display: flex; flex-direction: column; gap: 14px">
+<p id="pub-empty" hidden style="margin: 0; color: #4A5263">No publications match.</p>
+<sc-for list="{{years}}" as="yr">
+<details class="pub-year" {{yr.openAttr}} style="border-top: 2px solid #990000">
+<summary style="list-style: none; cursor: pointer; padding: 12px 0; display: flex; justify-content: space-between; align-items: baseline; gap: 12px">
+<span style="font-family: 'Source Serif 4', Georgia, serif; font-size: 28px; font-weight: 600; color: #011F5B">{{yr.year}}</span>
+<span style="font-size: 14px; font-weight: 600; color: #990000">Show / hide</span>
+</summary>
+<ol style="margin: 0 0 20px; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 16px">
+<sc-for list="{{yr.items}}" as="p">
+<li class="pub" data-kind="{{p.kind}}" data-award="{{p.awardFlag}}">
+<span class="pub-id">{{p.id}}</span>
+<div class="pub-body">
+<span class="pub-cite">{{p.pre}}{{p.me}}{{p.post}}, “<a href="{{p.titleUrl}}">{{p.title}}</a>,” {{p.rest}}.</span>
+<sc-if value="{{p.hasAward}}">
+<span class="pub-award">{{p.award}}</span>
+</sc-if>
+<div class="pub-links">
+<sc-if value="{{p.hasPdf}}"><a href="{{p.pdf}}">PDF</a></sc-if>
+<sc-if value="{{p.hasDoi}}"><a href="{{p.doiUrl}}">DOI</a></sc-if>
+<sc-if value="{{p.hasUrl}}"><a href="{{p.url}}">Publisher page</a></sc-if>
+<a href="{{p.scholar}}" class="pub-scholar">Google Scholar</a>
+</div>
+</div>
+</li>
+</sc-for>
+</ol>
+</details>
+</sc-for>
+</div>
+
+</div>

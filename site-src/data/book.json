@@ -1,0 +1,151 @@
+{
+ "bibtex": "@book{pappas2027linear,\n  author    = {George J. Pappas},\n  title     = {Linear Systems Theory: From Linear Algebra to the Kalman Filter},\n  publisher = {Pella Press},\n  year      = {2027},\n  isbn      = {979-8-9984760-0-6},\n  doi       = {10.5281/zenodo.23087184},\n  url       = {https://doi.org/10.5281/zenodo.23087184}\n}",
+ "parts": [
+  {
+   "num": "I",
+   "name": "Linear Algebra",
+   "chapters": [
+    {
+     "n": "1",
+     "t": "Introduction to Vector Spaces"
+    },
+    {
+     "n": "2",
+     "t": "Introduction to Linear Maps"
+    },
+    {
+     "n": "3",
+     "t": "Least Squares Theory"
+    },
+    {
+     "n": "4",
+     "t": "Matrix Decompositions"
+    }
+   ]
+  },
+  {
+   "num": "II",
+   "name": "Linear Systems",
+   "chapters": [
+    {
+     "n": "5",
+     "t": "Linear System Models"
+    },
+    {
+     "n": "6",
+     "t": "Linear Systems and Functions of a Matrix"
+    },
+    {
+     "n": "7",
+     "t": "The Response of Continuous-Time Linear Systems"
+    },
+    {
+     "n": "8",
+     "t": "The Response of Time-Varying Linear Systems"
+    }
+   ]
+  },
+  {
+   "num": "III",
+   "name": "Stability",
+   "chapters": [
+    {
+     "n": "9",
+     "t": "Lyapunov Stability"
+    },
+    {
+     "n": "10",
+     "t": "Stability of Linear Time-Invariant Systems"
+    },
+    {
+     "n": "11",
+     "t": "Stability of Time-Varying Linear Systems"
+    },
+    {
+     "n": "12",
+     "t": "Input–Output Stability"
+    }
+   ]
+  },
+  {
+   "num": "IV",
+   "name": "Controllability and Observability",
+   "chapters": [
+    {
+     "n": "13",
+     "t": "Controllability"
+    },
+    {
+     "n": "14",
+     "t": "Observability"
+    },
+    {
+     "n": "15",
+     "t": "The Kalman Decomposition"
+    },
+    {
+     "n": "16",
+     "t": "Realization and Model Reduction"
+    }
+   ]
+  },
+  {
+   "num": "V",
+   "name": "Feedback Design",
+   "chapters": [
+    {
+     "n": "17",
+     "t": "Eigenvalue Placement by State Feedback"
+    },
+    {
+     "n": "18",
+     "t": "State Observers and Output Feedback"
+    },
+    {
+     "n": "19",
+     "t": "Output Regulation"
+    }
+   ]
+  },
+  {
+   "num": "VI",
+   "name": "Optimal Control",
+   "chapters": [
+    {
+     "n": "20",
+     "t": "The Finite-Horizon Linear Quadratic Regulator"
+    },
+    {
+     "n": "21",
+     "t": "Infinite-Horizon LQR and the Algebraic Riccati Equation"
+    },
+    {
+     "n": "22",
+     "t": "Continuous-Time LQR"
+    }
+   ]
+  },
+  {
+   "num": "VII",
+   "name": "Stochastic Control and Estimation",
+   "chapters": [
+    {
+     "n": "23",
+     "t": "Linear Quadratic Stochastic Control"
+    },
+    {
+     "n": "24",
+     "t": "Optimal Linear Estimation"
+    },
+    {
+     "n": "25",
+     "t": "The Kalman Filter"
+    },
+    {
+     "n": "26",
+     "t": "Linear Quadratic Gaussian Control"
+    }
+   ]
+  }
+ ]
+}

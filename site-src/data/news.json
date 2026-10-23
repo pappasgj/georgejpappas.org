@@ -1,0 +1,431 @@
+{
+ "stories": [
+  {
+   "outlet": "Penn Today",
+   "date": "April 2026",
+   "title": "What It Will Take to Make AI-Enabled Robots Safer",
+   "note": "Coverage of the Science Robotics article on context-aware safety for robotic foundation models.",
+   "img": "",
+   "url": "https://penntoday.upenn.edu/news/penn-engineering-what-it-will-take-make-ai-enabled-robots-safer"
+  },
+  {
+   "outlet": "IEEE Spectrum",
+   "date": "September 2026",
+   "title": "Rethinking Robot Safety in the Age of AI",
+   "note": "Discusses RoboPAIR jailbreaking of LLM-controlled robots.",
+   "img": "",
+   "url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone"
+  },
+  {
+   "outlet": "MIT Technology Review",
+   "date": "February 2025",
+   "title": "Anthropic Has a New Way to Protect Large Language Models Against Jailbreaks",
+   "note": "Coverage of the SmoothLLM jailbreak defense.",
+   "img": "",
+   "url": "https://www.technologyreview.com/2025/02/03/1110849/anthropic-has-a-new-way-to-protect-large-language-models-against-jailbreaks/"
+  }
+ ],
+ "items": [
+  {
+   "k": 202610,
+   "date": "Oct 1, 2026",
+   "kind": "press",
+   "text": "TechTarget: Humanoid Buildup Overlooks the Robots Already Running Factories",
+   "note": "Commentary on safety and security as prerequisites for personal and humanoid robotics.",
+   "url": "https://www.techtarget.com/ai/news/366651418/Humanoid-buildup-overlooks-the-robots-already-running-factories"
+  },
+  {
+   "k": 202609,
+   "date": "Sep 16, 2026",
+   "kind": "press",
+   "text": "IEEE Spectrum: Rethinking Robot Safety in the Age of AI",
+   "note": "Discusses RoboPAIR jailbreaking of LLM-controlled robots.",
+   "url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone"
+  },
+  {
+   "k": 202605,
+   "date": "May 11, 2026",
+   "kind": "press",
+   "text": "FastForward (Cyprus News Agency): Researchers Study the Safety of AI-Powered Robots",
+   "note": "Interview on PAIR, RoboPAIR, RoboGuard and context-aware safety for robots."
+  },
+  {
+   "k": 202605,
+   "date": "May 10, 2026",
+   "kind": "press",
+   "text": "Athens-Macedonian News Agency: When a Robot Is Persuaded Within Minutes to Carry a Bomb (in Greek)",
+   "note": "Interview on RoboPAIR and RoboGuard, syndicated by ERT, SKAI, Proto Thema and others."
+  },
+  {
+   "k": 202604,
+   "date": "Apr 29, 2026",
+   "kind": "press",
+   "text": "Penn Today: What It Will Take to Make AI-Enabled Robots Safer",
+   "note": "Coverage of the Science Robotics article on context-aware safety for robotic foundation models.",
+   "url": "https://penntoday.upenn.edu/news/penn-engineering-what-it-will-take-make-ai-enabled-robots-safer"
+  },
+  {
+   "k": 202604,
+   "date": "Apr 29, 2026",
+   "kind": "press",
+   "text": "EurekAlert! (AAAS): What It Will Take to Make AI-Enabled Robots Safer",
+   "note": "Press release on the Science Robotics article.",
+   "url": "https://www.eurekalert.org/news-releases/1126201"
+  },
+  {
+   "k": 202604,
+   "date": "Apr 14, 2026",
+   "kind": "press",
+   "text": "The Daily Pennsylvanian: Breaking down the Penn Engineering Futures Fund",
+   "url": "https://www.thedp.com/article/2026/04/penn-engineering-futures-fund-proposal-eligibility-approval-process"
+  },
+  {
+   "k": 202603,
+   "date": "Mar 30, 2026",
+   "kind": "press",
+   "text": "The Daily Pennsylvanian: Five Penn Professors Named AAAS Fellows",
+   "url": "https://www.thedp.com/article/2026/03/penn-2026-fellows-american-association-advancement-science"
+  },
+  {
+   "k": 202600,
+   "date": "2026",
+   "kind": "honor",
+   "text": "IEEE Leon K. Kirchmayer Graduate Teaching Award",
+   "url": "https://corporate-awards.ieee.org/award/ieee-leon-k-kirchmayer-graduate-teaching-award/"
+  },
+  {
+   "k": 202600,
+   "date": "2026",
+   "kind": "honor",
+   "text": "American Association for the Advancement of Science (AAAS) Fellow",
+   "url": "https://www.grasp.upenn.edu/news/five-from-penn-named-aaas-fellows/"
+  },
+  {
+   "k": 202600,
+   "date": "2026",
+   "kind": "honor",
+   "text": "IEEE CSS Control Systems Magazine Outstanding Paper Award",
+   "note": "For “Formal Verification and Control with Conformal Prediction” with L. Lindemann, Y. Zhao, X. Yu and J. V. Deshmukh."
+  },
+  {
+   "k": 202511,
+   "date": "Nov 23, 2025",
+   "kind": "press",
+   "text": "The Wire China: While Politicians Fret, Unitree Is Selling Robots Across America",
+   "note": "Commentary on academic robotics research and Chinese robot manufacturers.",
+   "url": "https://www.thewirechina.com/2025/11/23/while-politicians-fret-unitree-is-selling-robots-across-america-unitree-police-robot/"
+  },
+  {
+   "k": 202511,
+   "date": "Nov 12, 2025",
+   "kind": "press",
+   "text": "WIRED: Anthropic’s Claude Takes Control of a Robot Dog",
+   "note": "Coverage of RoboGuard safety guardrails for LLM-enabled robots."
+  },
+  {
+   "k": 202510,
+   "date": "Oct 29, 2025",
+   "kind": "press",
+   "text": "Communications of the ACM: When Images Fool AI Models",
+   "note": "Features non-zero-sum adversarial training and RoboPAIR robot jailbreaking research.",
+   "url": "https://cacm.acm.org/news/when-images-fool-ai-models/"
+  },
+  {
+   "k": 202510,
+   "date": "Oct 20, 2025",
+   "kind": "press",
+   "text": "National Academies: Making Machine Learning Safer in High-Stakes Settings",
+   "note": "Coverage of the National Academies report on machine learning in safety-critical systems, which he chaired.",
+   "url": "https://www.nationalacademies.org/news/making-machine-learning-safer-in-high-stakes-settings"
+  },
+  {
+   "k": 202506,
+   "date": "Jun 13, 2025",
+   "kind": "press",
+   "text": "Forbes: Boston Dynamics and Unitree Are Innovating Four-Legged Robots Rapidly",
+   "note": "Coverage of RoboPAIR jailbreaking research on AI-powered robots."
+  },
+  {
+   "k": 202503,
+   "date": "Mar 12, 2025",
+   "kind": "press",
+   "text": "WIRED: Google’s Gemini Robotics AI Model Reaches Into the Physical World",
+   "note": "Cites Penn research on jailbreaking LLM-controlled robots."
+  },
+  {
+   "k": 202502,
+   "date": "Feb 3, 2025",
+   "kind": "press",
+   "text": "MIT Technology Review: Anthropic Has a New Way to Protect Large Language Models Against Jailbreaks",
+   "note": "Coverage of the SmoothLLM jailbreak defense.",
+   "url": "https://www.technologyreview.com/2025/02/03/1110849/anthropic-has-a-new-way-to-protect-large-language-models-against-jailbreaks/"
+  },
+  {
+   "k": 202502,
+   "date": "Feb 2, 2025",
+   "kind": "press",
+   "text": "Fortune: Researchers Say They Had a ‘100% Attack Success Rate’ on Jailbreak Attempts Against Chinese AI Startup DeepSeek",
+   "note": "Coverage of the Cisco–Penn study of DeepSeek R1 jailbreak vulnerabilities.",
+   "url": "https://fortune.com/2025/02/02/deepseek-ai-chatbot-security-jailbreak-attempts-openai-cisco/"
+  },
+  {
+   "k": 202501,
+   "date": "Jan 31, 2025",
+   "kind": "press",
+   "text": "WIRED: DeepSeek’s Safety Guardrails Failed Every Test Researchers Threw at Its AI Chatbot",
+   "note": "Coverage of the Cisco–Penn study of DeepSeek R1 jailbreak vulnerabilities."
+  },
+  {
+   "k": 202501,
+   "date": "Jan 31, 2025",
+   "kind": "press",
+   "text": "Cisco Security Blog: Evaluating Security Risk in DeepSeek and Other Frontier Reasoning Models",
+   "note": "Collaboration with Cisco and Robust Intelligence on DeepSeek R1 security vulnerabilities.",
+   "url": "https://blogs.cisco.com/security/evaluating-security-risk-in-deepseek-and-other-frontier-reasoning-models"
+  },
+  {
+   "k": 202500,
+   "date": "2025",
+   "kind": "honor",
+   "text": "ECEDHA ECE Technology Integration Award"
+  },
+  {
+   "k": 202500,
+   "date": "2025",
+   "kind": "honor",
+   "text": "International Conference on Runtime Verification (RV) Test of Time Award",
+   "note": "For “Robustness of Temporal Logic Specifications” with G. Fainekos."
+  },
+  {
+   "k": 202500,
+   "date": "2025",
+   "kind": "lab",
+   "text": "A. Robey receives the Penn ESE Joseph and Rosaline Wolf Best Dissertation Award",
+   "url": "https://www.grasp.upenn.edu/news/2025-grasp-phd-award-round-up/"
+  },
+  {
+   "k": 202500,
+   "date": "2025",
+   "kind": "lab",
+   "text": "M. Tzes receives the Penn ESE Joseph and Rosaline Wolf Best Dissertation Award",
+   "url": "https://www.grasp.upenn.edu/news/2025-grasp-phd-award-round-up/"
+  },
+  {
+   "k": 202412,
+   "date": "Dec 5, 2024",
+   "kind": "press",
+   "text": "Princeton AI: Symposium Fosters Collaboration Between Robotics and AI"
+  },
+  {
+   "k": 202412,
+   "date": "Dec 4, 2024",
+   "kind": "press",
+   "text": "WIRED: Researchers Developed a Way to Get AI to Attack Robots and Cause Real-World Mayhem"
+  },
+  {
+   "k": 202411,
+   "date": "Nov 18, 2024",
+   "kind": "press",
+   "text": "Bank Info Security: It’s ‘Alarmingly Easy’ to Jailbreak LLM-Controlled Robots",
+   "url": "https://www.bankinfosecurity.com/its-alarmingly-easy-to-jailbreak-llm-controlled-robots-a-26837"
+  },
+  {
+   "k": 202411,
+   "date": "Nov 11, 2024",
+   "kind": "press",
+   "text": "IEEE Spectrum: It’s Surprisingly Easy to Jailbreak LLM-Driven Robots",
+   "url": "https://spectrum.ieee.org/jailbreak-llm"
+  },
+  {
+   "k": 202410,
+   "date": "Oct 31, 2024",
+   "kind": "press",
+   "text": "Digital Trends: Researchers Show That AI-Controlled Robots Can Be Jailbroken",
+   "url": "https://tech.yahoo.com/computing/articles/ai-controlled-robots-jailbroken-results-211340535.html"
+  },
+  {
+   "k": 202410,
+   "date": "Oct 17, 2024",
+   "kind": "press",
+   "text": "The Independent: AI-Controlled Robots Can Be Jailbroken, and the Results Could Be Disastrous"
+  },
+  {
+   "k": 202410,
+   "date": "Oct 17, 2024",
+   "kind": "press",
+   "text": "Penn Engineering: Research Discovers Critical Vulnerabilities in AI-Enabled Robots",
+   "url": "https://www.grasp.upenn.edu/news/penn-engineering-research-discovers-critical-vulnerabilities-in-ai-enabled-robots-to-increase-safety-and-security/"
+  },
+  {
+   "k": 202410,
+   "date": "Oct 2024",
+   "kind": "press",
+   "text": "IoT Technology News: Jailbreaking AI Robots — Researchers Sound Alarm Over Security Flaws"
+  },
+  {
+   "k": 202403,
+   "date": "Mar 2024",
+   "kind": "press",
+   "text": "Athens-Macedonian News Agency: Six Greek experts on the EU AI Act (in Greek)",
+   "note": "Comments on Europe’s new AI regulation, also carried by ERT and Proto Thema.",
+   "url": "https://www.amna.gr/home/article/804988/Kanonismos-gia-tin-Techniti-Noimosuni---Exi-Ellines-eidikoi-miloun-sto-APE-MPE-gia-ti-simasia-tis-europaikis-nomothesias"
+  },
+  {
+   "k": 202403,
+   "date": "Mar 5, 2024",
+   "kind": "press",
+   "text": "The Washington Post: AI Researchers Challenge Big Tech, Seek ‘Safe Harbor’ for Testing"
+  },
+  {
+   "k": 202402,
+   "date": "Feb 2024",
+   "kind": "press",
+   "text": "CNBC: University of Pennsylvania will offer a bachelor’s degree in AI",
+   "note": "Coverage of Penn Engineering’s new undergraduate AI degree, also in USA Today, NBC Philadelphia and the Daily Pennsylvanian.",
+   "url": "https://www.cnbc.com/2024/02/16/university-of-pennsylvania-will-soon-offer-bachelors-degree-in-ai.html"
+  },
+  {
+   "k": 202402,
+   "date": "Feb 2024",
+   "kind": "press",
+   "text": "Daily Pennsylvanian: Election to the National Academy of Engineering",
+   "url": "https://www.thedp.com/article/2024/02/penn-engineering-george-pappas-national-academy-engineering"
+  },
+  {
+   "k": 202402,
+   "date": "Feb 2024",
+   "kind": "press",
+   "text": "Penn Today: Penn Engineering Launches First Ivy League Undergraduate Degree in Artificial Intelligence",
+   "url": "https://penntoday.upenn.edu/news/penn-engineering-launches-first-ivy-league-undergraduate-degree-artificial-intelligence"
+  },
+  {
+   "k": 202400,
+   "date": "2024",
+   "kind": "honor",
+   "text": "Elected Member, U.S. National Academy of Engineering",
+   "url": "https://www.nae.edu/312025/NAENewClass2024"
+  },
+  {
+   "k": 202400,
+   "date": "2024",
+   "kind": "honor",
+   "text": "IEEE CSS George S. Axelby Outstanding Paper Award",
+   "url": "https://ieeecss.org/awards/george-s-axelby-outstanding-paper-award",
+   "note": "For the neural network safety verification paper with M. Fazlyab and M. Morari."
+  },
+  {
+   "k": 202400,
+   "date": "2024",
+   "kind": "lab",
+   "text": "C. Stamouli receives the AACC American Control Conference Best Student Paper Award",
+   "url": "https://acc2024.a2c2.org/program/student-best-paper-award-session"
+  },
+  {
+   "k": 202312,
+   "date": "Dec 5, 2023",
+   "kind": "press",
+   "text": "WIRED: Researchers Used AI to Design a Worm That Can Hack Your Email"
+  },
+  {
+   "k": 202311,
+   "date": "Nov 7, 2023",
+   "kind": "press",
+   "text": "VentureBeat: New Method Reveals How One LLM Can Be Used to Jailbreak Another",
+   "url": "https://venturebeat.com/ai/new-method-reveals-how-one-llm-can-be-used-to-jailbreak-another"
+  },
+  {
+   "k": 202308,
+   "date": "Aug 2023",
+   "kind": "press",
+   "text": "Kathimerini: AI and the coming revolution in medicine (in Greek)",
+   "url": "https://www.kathimerini.gr/society/562551433/kosmogonia-stin-iatriki-o-eikonikos-giatros-tha-sas-dechthei-se-ligo/"
+  },
+  {
+   "k": 202307,
+   "date": "Jul 2023",
+   "kind": "press",
+   "text": "Proto Thema: HIAS Symposium — Bridges in Education, Science and Innovation (in Greek)",
+   "url": "https://www.protothema.gr/greece/article/1391060/subosio-hias-gefures-stin-ekpaideusi-tin-epistimi-kai-tin-kainotomia/"
+  },
+  {
+   "k": 202300,
+   "date": "2023",
+   "kind": "honor",
+   "text": "IEEE RAS ICRA Outstanding Multi-Robot Systems Paper"
+  },
+  {
+   "k": 202206,
+   "date": "Jun 24, 2022",
+   "kind": "press",
+   "text": "Kathimerini: Training Greece in Innovation (in Greek)"
+  },
+  {
+   "k": 202200,
+   "date": "2022",
+   "kind": "lab",
+   "text": "A. Rodionova receives the Penn Hallac and Wolf Award for Outstanding Doctoral Research"
+  },
+  {
+   "k": 202200,
+   "date": "2022",
+   "kind": "honor",
+   "text": "ACM Transactions on Embedded Computing Systems Best Paper Award"
+  },
+  {
+   "k": 202106,
+   "date": "Jun 2021",
+   "kind": "press",
+   "text": "Kathimerini: Interview (in Greek)",
+   "url": "https://www.kathimerini.gr/opinion/geyma-me-thn-k/561504334/i-ellada-chreiazetai-enan-elon-mask/"
+  },
+  {
+   "k": 202100,
+   "date": "2021",
+   "kind": "lab",
+   "text": "A. Rodionova receives the IEEE CSS CDC Best Student Paper Award",
+   "url": "https://www.ieeecss.org/awards/cdc-best-student-paper-award"
+  },
+  {
+   "k": 202100,
+   "date": "2021",
+   "kind": "honor",
+   "text": "UC Berkeley EECS EE Distinguished Alumni Award"
+  },
+  {
+   "k": 202100,
+   "date": "2021",
+   "kind": "lab",
+   "text": "A. Alexandru receives the Penn Hallac and Wolf Award for Outstanding Doctoral Research"
+  },
+  {
+   "k": 202000,
+   "date": "2020",
+   "kind": "honor",
+   "text": "International Federation of Automatic Control (IFAC) Fellow"
+  },
+  {
+   "k": 202000,
+   "date": "2020",
+   "kind": "honor",
+   "text": "IEEE SPS ICASSP Best Paper Award"
+  },
+  {
+   "k": 202000,
+   "date": "2020",
+   "kind": "lab",
+   "text": "H. Jeong receives the Penn Hallac and Wolf Award for Outstanding Doctoral Research"
+  },
+  {
+   "k": 201509,
+   "date": "Sep 2015",
+   "kind": "press",
+   "text": "German media: Wenn Google die Temperatur im Wohnzimmer runterdreht (in German)"
+  },
+  {
+   "k": 201304,
+   "date": "Apr 2013",
+   "kind": "press",
+   "text": "MIT News: Can Control Theory Make Software Better?"
+  }
+ ]
+}

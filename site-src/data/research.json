@@ -1,0 +1,345 @@
+{
+ "areas": [
+  {
+   "short": "Safe Physical AI",
+   "title": "Safe Physical AI",
+   "img": "images/physical-ai-safety.jpg",
+   "alt": "A robot at a night crosswalk: with the car headlights off it judges the crossing safe; with headlights on it yields",
+   "caption": "Context-aware safety: the same scene calls for different actions depending on context, here whether a parked car’s headlights are on.",
+   "desc": "Large language and vision models now plan and act for robots. We study how these systems can be manipulated into harmful physical actions — RoboPAIR showed that LLM-controlled robots can be jailbroken — and build guardrails such as RoboGuard that keep robot behavior safe in context.",
+   "papers": [
+    {
+     "title": "Beyond Alignment: Why Robotic Foundation Models Need Context-Aware Safety",
+     "authors": "A. Robey et al.",
+     "venue": "Science Robotics",
+     "year": "2026",
+     "url": "https://doi.org/10.1126/scirobotics.aef2191"
+    },
+    {
+     "title": "Safety Guardrails for LLM-Enabled Robots",
+     "authors": "Z. Ravichandran, A. Robey, V. Kumar, G. J. Pappas and H. Hassani",
+     "venue": "IEEE Robotics and Automation Letters",
+     "year": "2026",
+     "url": "https://doi.org/10.1109/LRA.2026.3667488"
+    },
+    {
+     "title": "Preventing Robotic Jailbreaking via Multimodal Domain Adaptation",
+     "authors": "F. Marchiori et al.",
+     "venue": "Proc. IEEE ICRA",
+     "year": "2026"
+    },
+    {
+     "title": "Jailbreaking LLM-Controlled Robots",
+     "url": "https://arxiv.org/abs/2410.13691",
+     "authors": "A. Robey, Z. Ravichandran, V. Kumar, H. Hassani and G. J. Pappas",
+     "venue": "Proc. IEEE ICRA",
+     "year": "2025"
+    }
+   ],
+   "figureIdea": "",
+   "id": "safe-physical-ai"
+  },
+  {
+   "short": "Trustworthy AI",
+   "title": "Trustworthy AI",
+   "desc": "Jailbreak attacks and defenses for language models — PAIR, SmoothLLM and JailbreakBench — safety verification of neural networks, distribution-free uncertainty quantification with conformal prediction, and principled ways to verify, oversee and control the AI agents built on these models.",
+   "papers": [
+    {
+     "title": "When to Trust the Cheap Check: Weak and Strong Verification for Reasoning",
+     "url": "https://arxiv.org/abs/2602.17633",
+     "authors": "S. Kiyani, S. Noorani, G. J. Pappas and H. Hassani",
+     "venue": "Proc. ICML",
+     "year": "2026",
+     "award": "Spotlight"
+    },
+    {
+     "title": "Decision Theoretic Foundations for Conformal Prediction: Optimal Uncertainty Quantification for Risk-Averse Agents",
+     "authors": "S. Kiyani, G. J. Pappas, A. Roth and H. Hassani",
+     "venue": "Proc. ICML",
+     "year": "2025",
+     "award": "Spotlight"
+    },
+    {
+     "title": "Jailbreaking Black Box Large Language Models in Twenty Queries",
+     "authors": "P. Chao, A. Robey, E. Dobriban, H. Hassani, G. J. Pappas and E. Wong",
+     "venue": "Proc. IEEE SaTML",
+     "year": "2025"
+    },
+    {
+     "title": "SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks",
+     "authors": "A. Robey, E. Wong, H. Hassani and G. J. Pappas",
+     "venue": "Transactions on Machine Learning Research",
+     "year": "2025"
+    },
+    {
+     "title": "JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models",
+     "authors": "P. Chao et al.",
+     "venue": "Advances in Neural Information Processing Systems",
+     "year": "2024"
+    },
+    {
+     "title": "Safety Verification and Robustness Analysis of Neural Networks via Quadratic Constraints and Semidefinite Programming",
+     "url": "https://doi.org/10.1109/TAC.2020.3046193",
+     "authors": "M. Fazlyab, M. Morari and G. J. Pappas",
+     "venue": "IEEE Transactions on Automatic Control",
+     "year": "2022",
+     "award": "IEEE CSS George S. Axelby Outstanding Paper Award, 2024"
+    }
+   ],
+   "img": "",
+   "alt": "",
+   "caption": "",
+   "figureIdea": "Figure: jailbreak attack and defense pipeline",
+   "id": "trustworthy-ai"
+  },
+  {
+   "short": "Learning and Control",
+   "title": "Learning and Control",
+   "desc": "Finite-sample theory for learning dynamical systems and controllers — system identification, learning nonlinear dynamics, policy gradients, domain randomization and risk-aware control.",
+   "papers": [
+    {
+     "title": "Domain Randomization Is Sample Efficient for Linear Quadratic Control",
+     "authors": "T. Fujinami, B. D. Lee, N. Matni and G. J. Pappas",
+     "venue": "Proc. L4DC",
+     "year": "2025"
+    },
+    {
+     "title": "Linear Quadratic Control with Risk Constraints",
+     "authors": "A. Tsiamis, D. Kalogerias, A. Ribeiro and G. J. Pappas",
+     "venue": "Automatica",
+     "year": "2025",
+     "url": "https://doi.org/10.1016/j.automatica.2024.112095"
+    },
+    {
+     "title": "Sharp Rates in Dependent Learning Theory: Avoiding Sample Size Deflation for the Square Loss",
+     "authors": "I. Ziemann, S. Tu, G. J. Pappas and N. Matni",
+     "venue": "Proc. ICML",
+     "year": "2024",
+     "url": "https://proceedings.mlr.press/v235/ziemann24a.html",
+     "award": "Spotlight"
+    },
+    {
+     "title": "Structural Risk Minimization for Learning Nonlinear Dynamics",
+     "authors": "C. Stamouli, E. Chatzipantazis and G. J. Pappas",
+     "venue": "Proc. American Control Conference",
+     "year": "2024",
+     "award": "AACC American Control Conference Best Student Paper Award"
+    },
+    {
+     "title": "Statistical Learning Theory for Control: A Finite-Sample Perspective",
+     "authors": "A. Tsiamis, I. Ziemann, N. Matni and G. J. Pappas",
+     "venue": "IEEE Control Systems Magazine",
+     "year": "2023"
+    }
+   ],
+   "img": "",
+   "alt": "",
+   "caption": "",
+   "figureIdea": "Figure: learning a controller from data",
+   "id": "learning-and-control"
+  },
+  {
+   "short": "Layered Control",
+   "title": "Layered Control",
+   "desc": "The theory of layered control architectures: hierarchical abstractions and bisimulation that let simple models stand in for complex systems with guarantees, and layered multirate control that couples slow planning with fast feedback.",
+   "papers": [
+    {
+     "title": "Layered Multirate Control of Constrained Linear Systems",
+     "authors": "C. Stamouli, A. Tsiamis, M. Morari and G. J. Pappas",
+     "venue": "Proc. IEEE CDC",
+     "year": "2025"
+    },
+    {
+     "title": "Approximate Bisimulation: A Bridge Between Computer Science and Control Theory",
+     "authors": "A. Girard and G. J. Pappas",
+     "venue": "European Journal of Control",
+     "year": "2011"
+    },
+    {
+     "title": "Hierarchical Control System Design Using Approximate Simulation",
+     "authors": "A. Girard and G. J. Pappas",
+     "venue": "Automatica",
+     "year": "2009"
+    },
+    {
+     "title": "Approximation Metrics for Discrete and Continuous Systems",
+     "url": "https://repository.upenn.edu/cis_papers/343",
+     "authors": "A. Girard and G. J. Pappas",
+     "venue": "IEEE Transactions on Automatic Control",
+     "year": "2007",
+     "award": "IEEE CSS George S. Axelby Outstanding Paper Award, 2009"
+    },
+    {
+     "title": "Hierarchically Consistent Control Systems",
+     "url": "https://repository.upenn.edu/ese_papers/87",
+     "authors": "G. J. Pappas, G. Lafferriere and S. Sastry",
+     "venue": "IEEE Transactions on Automatic Control",
+     "year": "2000"
+    }
+   ],
+   "img": "",
+   "alt": "",
+   "caption": "",
+   "figureIdea": "Figure: layered control architecture — planning, abstraction and fast feedback layers",
+   "id": "layered-control"
+  },
+  {
+   "short": "Formal Methods",
+   "title": "Formal Methods for Safe Autonomy",
+   "desc": "Guarantees for autonomous systems: temporal logic specifications and their quantitative robustness, reactive mission and motion planning, verification of systems with neural network controllers, and planning and control with conformal prediction when the environment is uncertain or unknown.",
+   "papers": [
+    {
+     "title": "Safe Planning in Unknown Environments Using Conformalized Semantic Maps",
+     "authors": "D. S. Sundarsingh, Y. Li, T. Tang, G. J. Pappas, N. Atanasov and Y. Kantaros",
+     "venue": "IEEE Robotics and Automation Letters",
+     "year": "2026",
+     "url": "https://doi.org/10.1109/LRA.2026.3668466"
+    },
+    {
+     "title": "Formal Verification and Control with Conformal Prediction: Practical Safety Guarantees for Autonomous Systems",
+     "authors": "L. Lindemann, Y. Zhao, X. Yu, G. J. Pappas and J. V. Deshmukh",
+     "venue": "IEEE Control Systems Magazine",
+     "year": "2025",
+     "url": "https://doi.org/10.1109/MCS.2025.3611545",
+     "award": "IEEE CSS Control Systems Magazine Outstanding Paper Award, 2026"
+    },
+    {
+     "title": "Verifying the Safety of Autonomous Systems with Neural Network Controllers",
+     "authors": "R. Ivanov, T. Carpenter, J. Weimer, R. Alur, G. J. Pappas and I. Lee",
+     "venue": "ACM Transactions on Embedded Computing Systems",
+     "year": "2020",
+     "award": "ACM Transactions on Embedded Computing Systems Best Paper Award, 2022"
+    },
+    {
+     "title": "Temporal Logic Based Reactive Mission and Motion Planning",
+     "authors": "H. Kress-Gazit, G. Fainekos and G. J. Pappas",
+     "venue": "IEEE Transactions on Robotics",
+     "year": "2009"
+    },
+    {
+     "title": "Robustness of Temporal Logic Specifications for Continuous-Time Signals",
+     "authors": "G. Fainekos and G. J. Pappas",
+     "venue": "Theoretical Computer Science",
+     "year": "2009"
+    },
+    {
+     "title": "Robustness of Temporal Logic Specifications",
+     "authors": "G. Fainekos and G. J. Pappas",
+     "venue": "Formal Approaches to Testing and Runtime Verification (FATES/RV)",
+     "year": "2006",
+     "award": "International Conference on Runtime Verification (RV) Test of Time Award, 2025"
+    }
+   ],
+   "img": "",
+   "alt": "",
+   "caption": "",
+   "figureIdea": "Figure: conformal prediction regions around a planned trajectory",
+   "id": "formal-methods"
+  },
+  {
+   "short": "Multi-Robot Systems",
+   "title": "Multi-Robot Systems",
+   "desc": "Perception, planning and coordination for teams of robots — semantic mapping, active information acquisition, connectivity, language-specified missions and air–ground collaboration in unstructured environments.",
+   "papers": [
+    {
+     "title": "Heterogeneous Robot Collaboration in Unstructured Environments with Grounded Generative Intelligence",
+     "url": "https://arxiv.org/abs/2510.26915",
+     "authors": "Z. Ravichandran et al.",
+     "venue": "Proc. IEEE/RSJ IROS",
+     "year": "2026"
+    },
+    {
+     "title": "Air-Ground Collaboration for Language-Specified Missions in Unknown Environments",
+     "authors": "F. Cladera et al.",
+     "venue": "IEEE Transactions on Field Robotics",
+     "year": "2025",
+     "url": "https://doi.org/10.1109/TFR.2025.3584019"
+    },
+    {
+     "title": "Graph Neural Networks for Multi-Robot Active Information Acquisition",
+     "authors": "M. Tzes, N. Bousias, E. Chatzipantazis and G. J. Pappas",
+     "venue": "Proc. IEEE ICRA",
+     "year": "2023",
+     "award": "IEEE RAS ICRA Outstanding Multi-Robot Systems Paper"
+    },
+    {
+     "title": "Resilient Active Information Acquisition with Teams of Robots",
+     "authors": "B. Schlotfeldt, V. Tzoumas and G. J. Pappas",
+     "venue": "IEEE Transactions on Robotics",
+     "year": "2022"
+    },
+    {
+     "title": "Probabilistic Data Association for Semantic SLAM",
+     "url": "https://www.cis.upenn.edu/~kostas/mypub.dir/bowman17icra.pdf",
+     "authors": "S. Bowman, N. Atanasov, K. Daniilidis and G. J. Pappas",
+     "venue": "Proc. IEEE ICRA",
+     "year": "2017",
+     "award": "IEEE RAS ICRA Best Conference Paper Award"
+    },
+    {
+     "title": "Distributed Connectivity Control of Mobile Networks",
+     "authors": "M. Zavlanos and G. J. Pappas",
+     "venue": "IEEE Transactions on Robotics",
+     "year": "2008"
+    }
+   ],
+   "img": "",
+   "alt": "",
+   "caption": "",
+   "figureIdea": "Photo: air–ground robot team in the field",
+   "id": "multi-robot-systems"
+  }
+ ],
+ "funding": [
+  {
+   "sponsor": "Coefficient Giving",
+   "title": "Reasoning Jailbreaks for LLMs and Agents",
+   "role": "PIs: G. J. Pappas, H. Hassani",
+   "dates": "2025–present",
+   "areas": [
+    1,
+    0
+   ]
+  },
+  {
+   "sponsor": "Air Force Office of Scientific Research (via MIT)",
+   "title": "SCHEMA: Scalable Compositional Hierarchies for Evolvable Multi-Agent Architectures",
+   "role": "co-PI",
+   "dates": "2025–2030",
+   "areas": [
+    3,
+    5
+   ]
+  },
+  {
+   "sponsor": "Army Research Laboratory",
+   "title": "DCIST / ARCHES: Autonomous Resilient Cognitive Heterogeneous Swarms",
+   "role": "co-PI and Area Lead",
+   "dates": "2017–2027",
+   "areas": [
+    5,
+    4,
+    0
+   ]
+  },
+  {
+   "sponsor": "Department of Energy, Office of Science",
+   "title": "Resolution-Invariant Deep Learning for Uncertainty Propagation in Multi-Scale Energy Storage Systems",
+   "role": "co-PI",
+   "dates": "2023–2027",
+   "areas": [
+    2
+   ]
+  },
+  {
+   "sponsor": "National Science Foundation",
+   "title": "EnCORE: Institute for Emerging CORE Methods in Data Science",
+   "role": "Penn co-PI",
+   "dates": "2022–2027",
+   "areas": [
+    2,
+    1
+   ]
+  }
+ ]
+}
