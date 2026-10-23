@@ -14,7 +14,8 @@
 <div style="flex: 1 1 250px; border: 1px solid #DDE1E8; padding: 18px; display: flex; gap: 14px; align-items: center">
 <div style="flex: 0 0 64px; height: 64px; border-radius: 50%; background: #E1E6EE; color: #011F5B; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 18px" aria-hidden="true">{{m.initials}}</div>
 <div style="display: flex; flex-direction: column; min-width: 0">
-<span style="font-weight: 700; color: #011F5B">{{m.name}}</span>
+<sc-if value="{{m.url}}"><a href="{{m.url}}" style="font-weight: 700">{{m.name}}</a></sc-if>
+<sc-if value="{{m.noUrl}}"><span style="font-weight: 700; color: #011F5B">{{m.name}}</span></sc-if>
 <span style="font-size: 14px; color: #4A5263">{{m.role}}, {{m.dept}}</span>
 <span style="font-size: 13px; color: #4A5263">Since {{m.since}}</span>
 </div>
