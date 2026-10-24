@@ -1741,5 +1741,65 @@
  "journal|2024|Temporal Difference Learning with Compressed Updates: Error-Feedback Meets Reinforcement Learning": {
   "url": "https://openreview.net/forum?id=dltUedmUVT",
   "pdf": "https://openreview.net/pdf?id=dltUedmUVT"
+ },
+ "chapter|2003|Multi-Modal Control of Constrained Nonlinear Systems": {
+  "doi": "10.1002/047172288x.ch16"
+ },
+ "conf|2024|Conformal Prediction Regions for Time Series Using Linear Complementarity Programming": {
+  "doi": "10.1609/aaai.v38i19.30089"
+ },
+ "conf|2023|Uncertainty Compensation in Learning-Based Model Predictive Control for Aerial Robots": {
+  "doi": "10.1109/iros55552.2023.10341774"
+ },
+ "conf|2023|Learning Switching Port-Hamiltonian Systems with Uncertainty Quantification": {
+  "doi": "10.1016/j.ifacol.2023.10.1621"
+ },
+ "conf|2021|Distributed Active Information Acquisition for Multi-Robot Systems": {
+  "doi": "10.1109/icra48506.2021.9561244"
+ },
+ "conf|2020|Learning to Control over Unknown Wireless Channels": {
+  "doi": "10.1016/j.ifacol.2020.12.308"
+ },
+ "conf|2020|Private Weighted Sum Aggregation for Distributed Control Systems": {
+  "doi": "10.1016/j.ifacol.2020.12.248"
+ },
+ "conf|2020|Non-Cooperative Distributed MPC with Iterative Learning": {
+  "doi": "10.1016/j.ifacol.2020.12.1198"
+ },
+ "conf|2019|Tuning Communication Latency for Distributed Model Predictive Control": {
+  "doi": "10.1016/j.ifacol.2019.12.194"
+ },
+ "conf|2017|State Estimation with Secrecy Against Eavesdroppers": {
+  "doi": "10.1016/j.ifacol.2017.08.1563"
+ },
+ "conf|2015|Decentralized Channel Access for Wireless Control Systems": {
+  "doi": "10.1016/j.ifacol.2015.10.332"
+ },
+ "conf|2015|Sparsest Minimum Multiple-Cost Structural Leader Selection": {
+  "doi": "10.1016/j.ifacol.2015.10.321"
+ },
+ "conf|2006|Approximate Simulation Relations for Hybrid Systems": {
+  "doi": "10.3182/20060607-3-it-3902.00022"
+ },
+ "conf|2003|Bisimulation Relations for Dynamical and Control Systems": {
+  "doi": "10.1016/s1571-0661(04)80562-0"
+ },
+ "conf|2002|Formation Input-To-State Stability": {
+  "doi": "10.3182/20020721-6-es-1901.00874"
+ },
+ "conf|2002|Simulation Relations for Discrete-Time Linear Systems": {
+  "doi": "10.3182/20020721-6-es-1901.00562"
+ },
+ "conf|1999|Reachability Computation for Linear Hybrid Systems": {
+  "doi": "10.1016/s1474-6670(17)56362-4"
+ },
+ "conf|1998|Large Scale System Issues in Automated Highway and Air Traffic Management Systems": {
+  "doi": "10.1016/s1474-6670(17)41878-7"
+ },
+ "conf|1996|Hybrid Control in Air Traffic Management": {
+  "doi": "10.1016/s1474-6670(17)58559-6"
+ },
+ "conf|1993|Dynamic Modeling and Tracking Control of Nonholonomic Vehicles": {
+  "doi": "10.1016/s1474-6670(17)48682-4"
  }
 }
