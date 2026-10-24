@@ -51,6 +51,8 @@ def crossref_bibtex(doi):
 
 def tidy(bib, key):
     """Crossref returns one line; give it our key and one field per line."""
+    import html as _html
+    bib = _html.unescape(_html.unescape(bib))
     bib = re.sub(r"^\s*@(\w+)\{[^,]*,", lambda m: "@%s{%s," % (m.group(1).lower(), key), bib, count=1)
     head, _, body = bib.partition(",")
     body = body.strip().rstrip("}").strip()

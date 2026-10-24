@@ -212,10 +212,37 @@ def _quote(s):
     return quote(s, safe="")
 
 
+def paper_doi_index():
+    """(normalized title, year) -> DOI, from the CV list plus pub-links.json."""
+    rows = load("publications.json")
+    links = load("pub-links.json") if os.path.exists(os.path.join(DATA, "pub-links.json")) else {}
+    idx = {}
+    for r in rows:
+        doi = r[7] or links.get("%s|%s|%s" % (r[1], r[2], r[5]), {}).get("doi", "")
+        if doi:
+            idx[(re.sub(r"[^a-z0-9]", "", r[5].lower()), str(r[2]))] = "https://doi.org/" + doi
+    return idx
+
+
+def add_dois(papers, idx, year_key):
+    """Fill in a link for selected papers that have none, when the CV entry with the same title and year has a DOI."""
+    out = []
+    for p in papers:
+        p = dict(p)
+        if not p.get("url"):
+            yr = str(p.get(year_key, ""))[-4:]
+            p["url"] = idx.get((re.sub(r"[^a-z0-9]", "", p["title"].lower()), yr), "")
+        out.append(p)
+    return out
+
+
 # ---------------------------------------------------------------- page contexts
 
 def ctx_home():
     d = load("home.json")
+    idx = paper_doi_index()
+    d["selected"] = add_dois(d["selected"], idx, "date")
+    d["latest"] = add_dois(d["latest"], idx, "date")
     news = load("news.json")
     feed = flags(sorted([n for n in news["items"] if n["kind"] == "press"], key=lambda n: -n["k"])[:6])
     return {"selected": flags(d["selected"]), "latest": flags(d["latest"]), "feed": feed}
@@ -227,12 +254,13 @@ def ctx_bio():
 
 def ctx_research():
     d = load("research.json")
+    idx = paper_doi_index()
     areas = []
     for i, a in enumerate(d["areas"]):
         projects = [f for f in d["funding"] if i in f["areas"]]
         areas.append(dict(a, index=i, first=i == 0, hidden=i != 0, selected="true" if i == 0 else "false",
                           projects=projects, hasProjects=bool(projects), hasImg=bool(a.get("img")),
-                          noImg=not a.get("img"), papers=flags(a["papers"])))
+                          noImg=not a.get("img"), papers=flags(add_dois(a["papers"], idx, "year"))))
     funding = [dict(f, areaChips=[{"label": d["areas"][i]["short"], "id": d["areas"][i]["id"], "index": i}
                                   for i in f["areas"]]) for f in d["funding"]]
     return {"areas": areas, "funding": funding}
