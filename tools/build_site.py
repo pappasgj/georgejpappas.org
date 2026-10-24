@@ -401,6 +401,13 @@ def nav_items(active, root):
     return items
 
 
+def asset_version(name):
+    """Short content hash so browsers fetch the new stylesheet/script as soon as it changes."""
+    import hashlib
+    with open(os.path.join(ROOT, "assets", name), "rb") as f:
+        return hashlib.sha1(f.read()).hexdigest()[:8]
+
+
 def main():
     with open(os.path.join(SRC, "layout.html"), encoding="utf-8") as f:
         layout = f.read()
@@ -419,6 +426,7 @@ def main():
             "root": root, "title": title, "description": desc, "isHome": key == "home",
             "canonical": SITE_URL + (folder + "/" if folder else ""), "nav": nav_items(key, root),
             "updated": updated, "year": today.year, "scholar": SCHOLAR, "page": key,
+            "cssv": asset_version("site.css"), "jsv": asset_version("site.js"),
         })
         page = page.replace("<!--BODY-->", body)
         assert "{{" not in page and "<sc-" not in page, key
