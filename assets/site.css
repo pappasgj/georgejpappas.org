@@ -16,9 +16,9 @@ summary::-webkit-details-marker { display: none; }
   [style*="max-width: 1200px"], [style*="max-width: 860px"] { padding-left: 16px !important; padding-right: 16px !important; }
   .brand-logo { height: 32px !important; }
   .brand-div { display: none !important; }
-  .brand-name { font-size: 19px !important; }
+  .brand-name { font-size: 20px !important; }
   .hero-name { font-size: 42px !important; }
-  .page-h1 { font-size: 34px !important; }
+  .page-h1 { font-size: 32px !important; }
 }
 
 /* Research: six area tiles act as tabs; each panel is figure + projects on the left, text and papers on the right */
