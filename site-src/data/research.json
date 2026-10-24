@@ -3,9 +3,9 @@
   {
    "short": "Safe Physical AI",
    "title": "Safe Physical AI",
-   "img": "images/physical-ai-safety.jpg",
-   "alt": "A robot at a night crosswalk: with the car headlights off it judges the crossing safe; with headlights on it yields",
-   "caption": "Context-aware safety: the same scene calls for different actions depending on context, here whether a parked car’s headlights are on.",
+   "img": "images/robopair-jailbreak.jpg",
+   "alt": "A wheeled robot’s camera view of an office, with two people detected, next to a chat in which the robot first refuses a request to detonate a bomb, then complies after a role-play prompt",
+   "caption": "Jailbreaking an LLM-controlled robot (RoboPAIR): a role-play prompt turns a refusal into a plan to cause harm.",
    "desc": "Large language and vision models now plan and act for robots. We study how these systems can be manipulated into harmful physical actions — RoboPAIR showed that LLM-controlled robots can be jailbroken — and build guardrails such as RoboGuard that keep robot behavior safe in context.",
    "papers": [
     {
