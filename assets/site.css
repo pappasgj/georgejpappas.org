@@ -95,3 +95,4 @@ li.pub { display: flex; gap: 16px; align-items: baseline; }
 .video-thumb { position: relative; display: block; aspect-ratio: 16 / 9; background: #011F5B; overflow: hidden; }
 .video-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .video-play { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); width: 56px; height: 40px; border-radius: 8px; background: rgba(153,0,0,0.92); color: #FFFFFF; font-size: 18px; display: flex; align-items: center; justify-content: center; }
+.video-inline { width: 100%; height: auto; display: block; background: #011F5B; }

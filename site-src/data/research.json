@@ -42,9 +42,9 @@
    "videos": [
     {
      "id": "C411",
-     "label": "RoboPAIR: jailbreaking LLM-controlled robots",
-     "url": "https://robopair.org/",
-     "thumb": "https://robopair.org/img/writing/jailbreaking-robots/robodog.png"
+     "label": "RoboPAIR jailbreaks a Unitree Go2 robot dog",
+     "src": "videos/robopair-unitree.mp4",
+     "poster": "videos/robopair-unitree.jpg"
     },
     {
      "id": "J163",

@@ -293,13 +293,16 @@ def ctx_research():
         projects = [f for f in d["funding"] if i in f["areas"]]
         videos = []
         for v in a.get("videos", []):
+            if v.get("src"):
+                videos.append({"label": v["label"], "src": v["src"], "poster": v.get("poster", ""), "isFile": True, "isLink": False})
+                continue
             if v.get("url"):
-                videos.append({"label": v["label"], "url": v["url"], "thumb": v.get("thumb", "")})
+                videos.append({"label": v["label"], "url": v["url"], "thumb": v.get("thumb", ""), "isFile": False, "isLink": True})
                 continue
             m = re.search(r"(?:v=|youtu\.be/)([A-Za-z0-9_-]{11})", (pl.get(v["id"]) or {}).get("video", ""))
             if m:
                 videos.append({"label": v["label"], "url": "https://www.youtube.com/watch?v=" + m.group(1),
-                               "thumb": "https://i.ytimg.com/vi/%s/hqdefault.jpg" % m.group(1)})
+                               "thumb": "https://i.ytimg.com/vi/%s/hqdefault.jpg" % m.group(1), "isFile": False, "isLink": True})
         coverage = []
         for x in [x for x in press if a["id"] in x.get("areas", [])][:5]:
             outlet, _, headline = x["text"].partition(": ")

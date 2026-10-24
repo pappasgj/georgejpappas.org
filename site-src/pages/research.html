@@ -55,10 +55,14 @@
 <div class="side-block">
 <h3 class="side-h">Videos</h3>
 <sc-for list="{{area.videos}}" as="v">
-<a href="{{v.url}}" class="video-card">
+<sc-if value="{{v.isLink}}"><a href="{{v.url}}" class="video-card">
 <span class="video-thumb"><img src="{{v.thumb}}" alt="" loading="lazy" onerror="this.remove()"><span class="video-play" aria-hidden="true">▶</span></span>
 <span class="project-link">{{v.label}}</span>
-</a>
+</a></sc-if>
+<sc-if value="{{v.isFile}}"><figure class="video-card" style="margin: 0">
+<video class="video-inline" controls playsinline preload="none" poster="{{root}}{{v.poster}}" aria-label="{{v.label}}"><source src="{{root}}{{v.src}}" type="video/mp4"></video>
+<figcaption class="project-link">{{v.label}}</figcaption>
+</figure></sc-if>
 </sc-for>
 </div>
 </sc-if>
