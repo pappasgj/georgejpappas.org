@@ -40,7 +40,8 @@
    "role": "Ph.D. student",
    "dept": "ESE",
    "since": "September 2022",
-   "url": "https://shayankiyani98.github.io/"
+   "url": "https://shayankiyani98.github.io/",
+   "photo": "images/people/shayan-kiyani.jpg"
   },
   {
    "name": "Sunggun Lee",
@@ -61,7 +62,8 @@
    "role": "Ph.D. student",
    "dept": "ESE",
    "since": "September 2023",
-   "url": "https://zacravichandran.github.io/"
+   "url": "https://zacravichandran.github.io/",
+   "photo": "images/people/zac-ravichandran.jpg"
   },
   {
    "name": "Nicholas Rober",

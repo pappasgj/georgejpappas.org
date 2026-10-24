@@ -232,7 +232,7 @@ def ctx_research():
 
 def ctx_group():
     d = load("group.json")
-    current = [dict(m, initials=initials(m["name"]), noUrl=not m.get("url")) for m in d["current"]]
+    current = [dict(m, initials=initials(m["name"]), noUrl=not m.get("url"), noPhoto=not m.get("photo")) for m in d["current"]]
     return {"current": current, "alumniGroups": d["alumniGroups"], "masters": d["masters"]}
 
 
