@@ -25,7 +25,7 @@ for p in pages:
     ids=collections.Counter(re.findall(r'\sid="([^"]+)"',s))
     for k,v in ids.items():
         if v>1: issues.append((rel,'dup id',k))
-    for a in re.findall(r'(?:href|src)="([^"#:]+?)(#[^"]*)?"',s):
+    for a in re.findall(r'(?:href|src)="([^"#:?]+?)([?#][^"]*)?"',s):
         u=a[0]
         if u.startswith(('http','mailto','//','data')): continue
         t=os.path.normpath(os.path.join(os.path.dirname(p),u))
