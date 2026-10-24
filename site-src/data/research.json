@@ -153,6 +153,14 @@
      "url": "https://doi.org/10.1016/j.automatica.2024.112095"
     },
     {
+     "title": "Learning with Imperfect Models: When Multi-Step Prediction Mitigates Compounding Error",
+     "year": "2025"
+    },
+    {
+     "title": "Flying Quadrotors in Tight Formations Using Learning-Based Model Predictive Control",
+     "year": "2025"
+    },
+    {
      "title": "Sharp Rates in Dependent Learning Theory: Avoiding Sample Size Deflation for the Square Loss",
      "authors": "I. Ziemann, S. Tu, G. J. Pappas and N. Matni",
      "venue": "Proc. ICML",
@@ -168,10 +176,22 @@
      "award": "AACC American Control Conference Best Student Paper Award"
     },
     {
+     "title": "Temporal Difference Learning with Compressed Updates: Error-Feedback Meets Reinforcement Learning",
+     "year": "2024"
+    },
+    {
      "title": "Statistical Learning Theory for Control: A Finite-Sample Perspective",
      "authors": "A. Tsiamis, I. Ziemann, N. Matni and G. J. Pappas",
      "venue": "IEEE Control Systems Magazine",
      "year": "2023"
+    },
+    {
+     "title": "Learning to Control Linear Systems Can Be Hard",
+     "year": "2022"
+    },
+    {
+     "title": "Sample Complexity of Kalman Filtering for Unknown Systems",
+     "year": "2020"
     }
    ],
    "img": "images/learning-and-control.jpg",
