@@ -282,11 +282,31 @@
      "award": "IEEE CSS Control Systems Magazine Outstanding Paper Award, 2026"
     },
     {
+     "title": "Safe Planning in Dynamic Environments Using Conformal Prediction",
+     "year": "2023"
+    },
+    {
+     "title": "Conformal Prediction for STL Runtime Verification",
+     "year": "2023"
+    },
+    {
+     "title": "Reactive and Risk-Aware Control for Signal Temporal Logic",
+     "year": "2022"
+    },
+    {
+     "title": "Time-Robust Control for STL Specifications",
+     "year": "2021"
+    },
+    {
      "title": "Verifying the Safety of Autonomous Systems with Neural Network Controllers",
      "authors": "R. Ivanov, T. Carpenter, J. Weimer, R. Alur, G. J. Pappas and I. Lee",
      "venue": "ACM Transactions on Embedded Computing Systems",
      "year": "2020",
      "award": "ACM Transactions on Embedded Computing Systems Best Paper Award, 2022"
+    },
+    {
+     "title": "Verisig: Verifying Safety Properties of Hybrid Systems with Neural Network Controllers",
+     "year": "2019"
     },
     {
      "title": "Temporal Logic Based Reactive Mission and Motion Planning",
