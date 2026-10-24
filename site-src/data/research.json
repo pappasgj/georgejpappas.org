@@ -140,6 +140,10 @@
    "desc": "Finite-sample theory for learning dynamical systems and controllers — system identification, learning nonlinear dynamics, policy gradients, domain randomization and risk-aware control — and for learning across many agents: federated and multi-agent reinforcement learning, and collaborative learning that stays robust to adversarial agents.",
    "papers": [
     {
+     "title": "Long-Term Mapping of the Douro River Plume with Multi-Agent Reinforcement Learning",
+     "year": "2026"
+    },
+    {
      "title": "Domain Randomization Is Sample Efficient for Linear Quadratic Control",
      "authors": "T. Fujinami, B. D. Lee, N. Matni and G. J. Pappas",
      "venue": "Proc. L4DC",
@@ -220,6 +224,12 @@
     {
      "id": "C412",
      "label": "Quadrotors flying in tight formations with learning-based MPC"
+    },
+    {
+     "id": "C416",
+     "label": "Mapping the Douro River plume with multi-agent reinforcement learning (ICRA 2026)",
+     "url": "https://ndf96.github.io/project.html",
+     "thumb": "https://ndf96.github.io/ICRA_image.001.png"
     }
    ]
   },
