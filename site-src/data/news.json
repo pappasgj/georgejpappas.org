@@ -354,7 +354,8 @@
    "k": 202300,
    "date": "2023",
    "kind": "honor",
-   "text": "IEEE RAS ICRA Outstanding Multi-Robot Systems Paper"
+   "text": "IEEE RAS ICRA Outstanding Multi-Robot Systems Paper",
+   "url": "https://www.icra2023.org/awards-finalists"
   },
   {
    "k": 202206,
@@ -372,7 +373,8 @@
    "k": 202200,
    "date": "2022",
    "kind": "honor",
-   "text": "ACM Transactions on Embedded Computing Systems Best Paper Award"
+   "text": "ACM Transactions on Embedded Computing Systems Best Paper Award",
+   "url": "https://dl.acm.org/tecs/honors-and-awards"
   },
   {
    "k": 202106,
@@ -392,7 +394,8 @@
    "k": 202100,
    "date": "2021",
    "kind": "honor",
-   "text": "UC Berkeley EECS EE Distinguished Alumni Award"
+   "text": "UC Berkeley EECS EE Distinguished Alumni Award",
+   "url": "https://eecs.berkeley.edu/people/alumni/ee-distinguished-alumni/"
   },
   {
    "k": 202100,
@@ -404,13 +407,15 @@
    "k": 202000,
    "date": "2020",
    "kind": "honor",
-   "text": "International Federation of Automatic Control (IFAC) Fellow"
+   "text": "International Federation of Automatic Control (IFAC) Fellow",
+   "url": "https://www.ifac-control.org/awards/ifac-fellows"
   },
   {
    "k": 202000,
    "date": "2020",
    "kind": "honor",
-   "text": "IEEE SPS ICASSP Best Paper Award"
+   "text": "IEEE SPS ICASSP Best Paper Award",
+   "url": "https://2020.ieeeicassp.org/general/icassp-best-paper-awards/"
   },
   {
    "k": 202000,
@@ -419,16 +424,353 @@
    "text": "H. Jeong receives the Penn Hallac and Wolf Award for Outstanding Doctoral Research"
   },
   {
+   "k": 201911,
+   "date": "Nov 2019",
+   "kind": "lab",
+   "text": "A. Alexandru is named a Rising Star in EECS",
+   "url": "https://publish.illinois.edu/rising-stars/"
+  },
+  {
+   "k": 201907,
+   "date": "Jul 2019",
+   "kind": "lab",
+   "text": "A. Tsiamis is a finalist for the AACC American Control Conference Best Student Paper Award",
+   "url": "http://acc2019.a2c2.org/student-programs/"
+  },
+  {
+   "k": 201904,
+   "date": "Apr 2019",
+   "kind": "honor",
+   "text": "ACM/IEEE ICCPS Best Paper Award finalist"
+  },
+  {
+   "k": 201812,
+   "date": "Dec 2018",
+   "kind": "honor",
+   "text": "IEEE CSS Control Systems Magazine Outstanding Paper Award"
+  },
+  {
+   "k": 201712,
+   "date": "Dec 2017",
+   "kind": "lab",
+   "text": "V. Tzoumas is a finalist for the IEEE CSS CDC Best Student Paper Award"
+  },
+  {
+   "k": 201707,
+   "date": "Jul 2017",
+   "kind": "lab",
+   "text": "A. Tsiamis is a finalist for the IFAC World Congress Young Author Prize"
+  },
+  {
+   "k": 201705,
+   "date": "May 2017",
+   "kind": "honor",
+   "text": "IEEE RAS ICRA Best Conference Paper Award",
+   "note": "For “Probabilistic Data Association for Semantic SLAM” with S. Bowman, N. Atanasov and K. Daniilidis.",
+   "url": "https://medium.com/penn-engineering/penn-researchers-win-top-marks-at-international-robotics-conference-bd9e7937fd1f"
+  },
+  {
+   "k": 201705,
+   "date": "May 2017",
+   "kind": "honor",
+   "text": "IEEE RAS ICRA Best Robotic Vision Paper Award finalist"
+  },
+  {
+   "k": 201704,
+   "date": "Apr 2017",
+   "kind": "honor",
+   "text": "University of Pennsylvania Provost’s Award for Distinguished Ph.D. Teaching and Mentoring",
+   "url": "https://archives.upenn.edu/exhibits/penn-people/notables/awards/provost/"
+  },
+  {
+   "k": 201704,
+   "date": "Apr 2017",
+   "kind": "honor",
+   "text": "IEEE/ACM IoTDI Best Poster Award"
+  },
+  {
+   "k": 201607,
+   "date": "Jul 2016",
+   "kind": "honor",
+   "text": "AACC O. Hugo Schuck Best Paper Award (theory)",
+   "url": "http://a2c2.org/awards/o-hugo-schuck-best-paper-award"
+  },
+  {
    "k": 201509,
    "date": "Sep 2015",
    "kind": "press",
    "text": "German media: Wenn Google die Temperatur im Wohnzimmer runterdreht (in German)"
   },
   {
+   "k": 201504,
+   "date": "Apr 2015",
+   "kind": "honor",
+   "text": "ACM/IEEE ICCPS Best Paper Award finalist"
+  },
+  {
+   "k": 201503,
+   "date": "Mar 2015",
+   "kind": "honor",
+   "text": "Penn Engineering George H. Heilmeier Faculty Award for Excellence in Research"
+  },
+  {
+   "k": 201406,
+   "date": "Jun 2014",
+   "kind": "honor",
+   "text": "AACC O. Hugo Schuck Best Paper Award (theory)",
+   "url": "http://a2c2.org/awards/o-hugo-schuck-best-paper-award"
+  },
+  {
+   "k": 201404,
+   "date": "Apr 2014",
+   "kind": "honor",
+   "text": "ACM/IEEE ICCPS Best Paper Award",
+   "url": "http://precise.seas.upenn.edu/best-paper-award-at-iccps-2014/"
+  },
+  {
+   "k": 201307,
+   "date": "Jul 2013",
+   "kind": "lab",
+   "text": "K. Gatsis receives the AACC American Control Conference Best Student Paper Award"
+  },
+  {
    "k": 201304,
    "date": "Apr 2013",
    "kind": "press",
    "text": "MIT News: Can Control Theory Make Software Better?"
+  },
+  {
+   "k": 201303,
+   "date": "Mar 2013",
+   "kind": "press",
+   "text": "Penn Engineering: Future Vision — George Pappas Ushers in a New Era for ESE"
+  },
+  {
+   "k": 201301,
+   "date": "Jan 2013",
+   "kind": "lab",
+   "text": "Penn research team joins a new multi-university ‘swarm’ computing center"
+  },
+  {
+   "k": 201204,
+   "date": "Apr 2012",
+   "kind": "honor",
+   "text": "ACM/IEEE IPSN Best Presentation Award"
+  },
+  {
+   "k": 201106,
+   "date": "Jun 2011",
+   "kind": "lab",
+   "text": "Wireless control networks win Honeywell’s OneWireless competition"
+  },
+  {
+   "k": 201105,
+   "date": "May 2011",
+   "kind": "honor",
+   "text": "IEEE RAS ICRA Best Manipulation Paper Award finalist"
+  },
+  {
+   "k": 201012,
+   "date": "Dec 2010",
+   "kind": "honor",
+   "text": "IEEE CSS Antonio Ruberti Young Researcher Prize",
+   "url": "https://ieeecss.org/awards/antonio-ruberti-young-researcher-prize"
+  },
+  {
+   "k": 200912,
+   "date": "Dec 2009",
+   "kind": "honor",
+   "text": "IEEE CSS George S. Axelby Outstanding Paper Award",
+   "note": "For “Approximation Metrics for Discrete and Continuous Systems” with A. Girard.",
+   "url": "https://ieeecss.org/awards/george-s-axelby-outstanding-paper-award"
+  },
+  {
+   "k": 200811,
+   "date": "Nov 2008",
+   "kind": "honor",
+   "text": "IEEE Fellow"
+  },
+  {
+   "k": 200810,
+   "date": "Oct 2008",
+   "kind": "lab",
+   "text": "G. Fainekos receives the ACM SIGBED/SIGSOFT Frank Anger Memorial Student Award"
+  },
+  {
+   "k": 200807,
+   "date": "Jul 2008",
+   "kind": "press",
+   "text": "Kathimerini: ISER 2008 article on the front page (in Greek)"
+  },
+  {
+   "k": 200806,
+   "date": "Jun 2008",
+   "kind": "press",
+   "text": "The Philadelphia Inquirer: getting robots to act more naturally"
+  },
+  {
+   "k": 200805,
+   "date": "May 2008",
+   "kind": "lab",
+   "text": "H. Kress-Gazit receives the Penn Hallac and Wolf Award for Outstanding Doctoral Research"
+  },
+  {
+   "k": 200805,
+   "date": "May 2008",
+   "kind": "press",
+   "text": "Robotics Trends: the MAST project"
+  },
+  {
+   "k": 200804,
+   "date": "Apr 2008",
+   "kind": "press",
+   "text": "CNET: bio-inspired cooperation of multiple robots"
+  },
+  {
+   "k": 200804,
+   "date": "Apr 2008",
+   "kind": "press",
+   "text": "The Daily Pennsylvanian: two major research grants for Penn Engineering"
+  },
+  {
+   "k": 200803,
+   "date": "Mar 2008",
+   "kind": "lab",
+   "text": "ONR MURI award on heterogeneous unmanned networked teams"
+  },
+  {
+   "k": 200802,
+   "date": "Feb 2008",
+   "kind": "lab",
+   "text": "GRASP leads the MAST center on autonomous micro-systems"
+  },
+  {
+   "k": 200710,
+   "date": "Oct 2007",
+   "kind": "honor",
+   "text": "IEEE/RSJ IROS Best Paper Award finalist",
+   "note": "For the valet parking paper."
+  },
+  {
+   "k": 200704,
+   "date": "Apr 2007",
+   "kind": "lab",
+   "text": "H. Kress-Gazit and G. Fainekos are finalists for the IEEE RAS ICRA Best Student Paper Award"
+  },
+  {
+   "k": 200702,
+   "date": "Feb 2007",
+   "kind": "press",
+   "text": "The Daily Pennsylvanian: a new M.S.E. in Robotics"
+  },
+  {
+   "k": 200612,
+   "date": "Dec 2006",
+   "kind": "lab",
+   "text": "M. Zavlanos is a finalist for the IEEE CSS CDC Best Student Paper Award"
+  },
+  {
+   "k": 200608,
+   "date": "Aug 2006",
+   "kind": "lab",
+   "text": "Penn launches the M.S.E. in Robotics"
+  },
+  {
+   "k": 200608,
+   "date": "Aug 2006",
+   "kind": "press",
+   "text": "The Philadelphia Inquirer: fighting fire with robots"
+  },
+  {
+   "k": 200503,
+   "date": "Mar 2005",
+   "kind": "lab",
+   "text": "Penn leads a MURI with MIT, Berkeley, UC Santa Barbara and Yale"
+  },
+  {
+   "k": 200503,
+   "date": "Mar 2005",
+   "kind": "press",
+   "text": "The Daily Pennsylvanian: multi-university swarming project"
+  },
+  {
+   "k": 200412,
+   "date": "Dec 2004",
+   "kind": "lab",
+   "text": "S. Prajna is a finalist for the IEEE CSS CDC Best Student Paper Award"
+  },
+  {
+   "k": 200411,
+   "date": "Nov 2004",
+   "kind": "press",
+   "text": "Penn Engineering News: “Talent Takes Wing”"
+  },
+  {
+   "k": 200406,
+   "date": "Jun 2004",
+   "kind": "lab",
+   "text": "H. Yazarel is a finalist for the AACC American Control Conference Best Student Paper Award"
+  },
+  {
+   "k": 200405,
+   "date": "May 2004",
+   "kind": "honor",
+   "text": "NSF Presidential Early Career Award for Scientists and Engineers (PECASE)",
+   "url": "http://www.nsf.gov/news/news_summ.jsp?cntn_id=100378"
+  },
+  {
+   "k": 200405,
+   "date": "May 2004",
+   "kind": "press",
+   "text": "The Daily Pennsylvanian: engineering professors recognized with the PECASE"
+  },
+  {
+   "k": 200404,
+   "date": "Apr 2004",
+   "kind": "press",
+   "text": "Wired News: NSF ITR project with Caltech and Minnesota"
+  },
+  {
+   "k": 200202,
+   "date": "Feb 2002",
+   "kind": "honor",
+   "text": "National Science Foundation CAREER Award"
+  },
+  {
+   "k": 200112,
+   "date": "Dec 2001",
+   "kind": "lab",
+   "text": "P. Tabuada is a finalist for the IEEE CSS CDC Best Student Paper Award"
+  },
+  {
+   "k": 200108,
+   "date": "Aug 2001",
+   "kind": "press",
+   "text": "University of Pennsylvania press release: NSF ITR project"
+  },
+  {
+   "k": 200106,
+   "date": "Jun 2001",
+   "kind": "lab",
+   "text": "P. Tabuada is a finalist for the AACC American Control Conference Best Student Paper Award"
+  },
+  {
+   "k": 200008,
+   "date": "Aug 2000",
+   "kind": "press",
+   "text": "University of Pennsylvania press release: DARPA MoBIES project"
+  },
+  {
+   "k": 199905,
+   "date": "May 1999",
+   "kind": "honor",
+   "text": "UC Berkeley EECS Eli Jury Award for Excellence in Systems Research"
+  },
+  {
+   "k": 199812,
+   "date": "Dec 1998",
+   "kind": "honor",
+   "text": "IEEE CSS CDC Best Student Paper Award finalist"
   }
  ]
 }
