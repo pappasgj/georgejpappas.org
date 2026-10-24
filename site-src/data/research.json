@@ -41,6 +41,12 @@
    "tagline": "Jailbreaking, red-teaming and guardrails for LLM-enabled robots — RoboPAIR, RoboGuard and context-aware safety.",
    "videos": [
     {
+     "id": "C411",
+     "label": "RoboPAIR: jailbreaking LLM-controlled robots",
+     "url": "https://robopair.org/",
+     "thumb": "https://robopair.org/img/writing/jailbreaking-robots/robodog.png"
+    },
+    {
      "id": "J163",
      "label": "RoboGuard: safety guardrails for LLM-enabled robots"
     }

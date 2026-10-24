@@ -292,6 +292,9 @@ def ctx_research():
         projects = [f for f in d["funding"] if i in f["areas"]]
         videos = []
         for v in a.get("videos", []):
+            if v.get("url"):
+                videos.append({"label": v["label"], "url": v["url"], "thumb": v.get("thumb", "")})
+                continue
             m = re.search(r"(?:v=|youtu\.be/)([A-Za-z0-9_-]{11})", (pl.get(v["id"]) or {}).get("video", ""))
             if m:
                 videos.append({"label": v["label"], "url": "https://www.youtube.com/watch?v=" + m.group(1),
