@@ -46,7 +46,7 @@
         document.querySelector('[role="tablist"]').scrollIntoView({ behavior: 'smooth', block: 'start' });
       });
     });
-    var aliases = { 'formal-methods': 'formal-methods-and-control', 'layered-control': 'formal-methods-and-control' };
+    var aliases = { 'formal-methods-and-control': 'formal-methods', 'layered-control': 'formal-methods' };
     var fromHash = function () { var h = decodeURIComponent(location.hash.slice(1)); select(aliases[h] || h); };
     window.addEventListener('hashchange', fromHash);
     fromHash();

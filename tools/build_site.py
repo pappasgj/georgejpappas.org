@@ -25,11 +25,11 @@ SCHOLAR = "https://scholar.google.com/citations?user=Kia-4B0AAAAJ"
 # (key, menu label, output folder, title, search description)
 PAGES = [
     ("home", "Home", "", "George J. Pappas — Home",
-     "George J. Pappas, UPS Foundation Professor of Electrical and Systems Engineering at the University of Pennsylvania. Research on safe physical AI, trustworthy AI, learning and control, formal methods and control, and multi-robot systems."),
+     "George J. Pappas, UPS Foundation Professor of Electrical and Systems Engineering at the University of Pennsylvania. Research on safe physical AI, trustworthy AI, learning and control, formal methods, and multi-robot systems."),
     ("bio", "Bio", "bio", "George J. Pappas — Bio",
      "Biography, appointments, education and honors of George J. Pappas, University of Pennsylvania."),
     ("research", "Research", "research", "George J. Pappas — Research",
-     "Research of George J. Pappas: safe physical AI, trustworthy AI, learning and control, formal methods and control, and multi-robot systems."),
+     "Research of George J. Pappas: safe physical AI, trustworthy AI, learning and control, formal methods, and multi-robot systems."),
     ("group", "Group", "group", "George J. Pappas — Group",
      "Current members and alumni of George J. Pappas’s research group at the University of Pennsylvania."),
     ("publications", "Publications", "publications", "George J. Pappas — Publications",

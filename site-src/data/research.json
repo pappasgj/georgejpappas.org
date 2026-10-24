@@ -234,9 +234,9 @@
    ]
   },
   {
-   "short": "Formal Methods and Control",
-   "title": "Formal Methods and Control",
-   "desc": "Guarantees for autonomous systems, from specification to architecture: temporal logic specifications and their quantitative robustness, verification of systems with neural network controllers, and planning and control with conformal prediction when the environment is uncertain or unknown — together with the abstraction hierarchies, from approximate bisimulation to layered control architectures, that let simple models stand in for complex systems with guarantees.",
+   "short": "Formal Methods",
+   "title": "Formal Methods",
+   "desc": "We bring formal methods together with control theory to make robot autonomy provably safe. That means temporal logic specifications and their quantitative robustness, verification of systems with neural network controllers, and planning and control with conformal prediction when the environment is uncertain or unknown — together with the abstraction hierarchies, from approximate bisimulation to layered control architectures, that let simple models stand in for complex robots with guarantees.",
    "papers": [
     {
      "title": "Safe Planning in Unknown Environments Using Conformalized Semantic Maps",
@@ -298,8 +298,8 @@
    "img": "images/physical-ai-safety.jpg",
    "alt": "A delivery robot at a night crosswalk: with a parked car’s headlights off it judges the crossing safe; with the headlights on it yields",
    "caption": "Context-aware safety: the same scene calls for different actions depending on context, here whether a parked car’s headlights are on.",
-   "id": "formal-methods-and-control",
-   "tagline": "Temporal logic, verification, conformal planning and layered control architectures.",
+   "id": "formal-methods",
+   "tagline": "Formal methods with control for safe robot autonomy: temporal logic, verification and layered control.",
    "videos": [
     {
      "id": "J164",
