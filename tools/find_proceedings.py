@@ -34,7 +34,7 @@ _cache = {}
 def get(url):
     if url not in _cache:
         req = urllib.request.Request(url, headers=UA)
-        with urllib.request.urlopen(req, timeout=120) as r:
+        with urllib.request.urlopen(req, timeout=60) as r:
             _cache[url] = r.read().decode("utf-8", "ignore")
     return _cache[url]
 
@@ -66,18 +66,18 @@ def pmlr_papers(vol):
         t = re.search(r'<p class="title">(.*?)</p>', block, re.S)
         a = re.search(r'<span class="authors">(.*?)</span>', block, re.S)
         abs_ = re.search(r'href="(https://proceedings\.mlr\.press/%s/[^"]+\.html)"' % vol, block)
-        pdf = re.search(r'href="(https://proceedings\.mlr\.press/%s/[^"]+\.pdf)"' % vol, block)
+        pdf = re.search(r'href="(https?://proceedings\.mlr\.press/%s/[^"]+\.pdf)"' % vol, block)
         if t and abs_:
             out.append({"title": norm(re.sub(r"<[^>]+>", "", t.group(1))),
                         "authors": norm(re.sub(r"<[^>]+>", " ", a.group(1) if a else "")),
-                        "url": abs_.group(1), "pdf": pdf.group(1) if pdf else ""})
+                        "url": abs_.group(1), "pdf": pdf.group(1).replace("http://", "https://") if pdf else ""})
     return out
 
 
 def neurips_papers(year):
     s = get("https://proceedings.neurips.cc/paper_files/paper/%d" % year)
     out = []
-    for href, title, authors in re.findall(r'<a title="paper title" href="([^"]+)">(.*?)</a>.*?<i>(.*?)</i>', s, re.S):
+    for href, title, authors in re.findall(r'<a title="paper title" href="([^"]+)">([^<]*)</a>\s*<span class="paper-authors">([^<]*)</span>', s):
         url = "https://proceedings.neurips.cc" + href
         out.append({"title": norm(title), "authors": norm(authors), "url": url,
                     "pdf": url.replace("/hash/", "/file/").replace("-Abstract", "-Paper").replace(".html", ".pdf")})

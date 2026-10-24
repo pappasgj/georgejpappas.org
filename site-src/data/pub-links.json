@@ -1582,5 +1582,132 @@
  },
  "conf|2006|Time-Triggered Implementations of Dynamic Controllers": {
   "doi": "10.1145/1176887.1176890"
+ },
+ "conf|2026|Conformal Risk Minimization with Variance Reduction": {
+  "url": "https://proceedings.mlr.press/v337/noorani26a.html"
+ },
+ "conf|2026|When to Trust the Cheap Check: Weak and Strong Verification for Reasoning": {
+  "url": "https://proceedings.mlr.press/v306/kiyani26a.html"
+ },
+ "conf|2026|Multi-Round Human–AI Collaboration with User-Specified Requirements": {
+  "url": "https://proceedings.mlr.press/v306/noorani26a.html"
+ },
+ "conf|2026|Human-AI Collaborative Uncertainty Quantification": {
+  "url": "https://proceedings.mlr.press/v306/noorani26b.html"
+ },
+ "conf|2026|Conformal Risk-Averse Decision Making with Action Conditional Guarantee": {
+  "url": "https://proceedings.mlr.press/v306/zhu26z.html"
+ },
+ "conf|2025|Distilling on-Device Language Models for Robot Planning with Minimal Human Intervention": {
+  "url": "https://proceedings.mlr.press/v305/ravichandran25a.html"
+ },
+ "conf|2025|State Space Models, Emergence, and Ergodicity: How Many Parameters Are Needed for Stable Predictions?": {
+  "url": "https://proceedings.mlr.press/v283/ziemann25a.html"
+ },
+ "conf|2025|Domain Randomization Is Sample Efficient for Linear Quadratic Control": {
+  "url": "https://proceedings.mlr.press/v283/fujinami25a.html"
+ },
+ "conf|2025|Symmetries-Enhanced Multi-Agent Reinforcement Learning": {
+  "url": "https://proceedings.mlr.press/v283/bousias25a.html"
+ },
+ "conf|2025|STLGame: Signal Temporal Logic Games in Adversarial Multi-Agent Systems": {
+  "url": "https://proceedings.mlr.press/v283/yang25a.html"
+ },
+ "conf|2025|Decision Theoretic Foundations for Conformal Prediction: Optimal Uncertainty Quantification for Risk-Averse Agents": {
+  "url": "https://proceedings.mlr.press/v267/kiyani25a.html"
+ },
+ "conf|2025|Adversarial Reasoning at Jailbreaking Time": {
+  "url": "https://proceedings.mlr.press/v267/sabbaghi25a.html"
+ },
+ "conf|2024|Sharp Rates in Dependent Learning Theory: Avoiding Sample Size Deflation for the Square Loss": {
+  "url": "https://proceedings.mlr.press/v235/ziemann24a.html"
+ },
+ "conf|2024|Conformal Prediction with Learned Features": {
+  "url": "https://proceedings.mlr.press/v235/kiyani24a.html"
+ },
+ "conf|2024|Guarantees for Nonlinear Representation Learning: Non-Identical Covariates, Dependent Data, Fewer Samples": {
+  "url": "https://proceedings.mlr.press/v235/zhang24ab.html"
+ },
+ "conf|2024|Uncertainty Quantification and Robustification of Model-Based Controllers Using Conformal Prediction": {
+  "url": "https://proceedings.mlr.press/v242/chee24a.html",
+  "pdf": "https://proceedings.mlr.press/v242/chee24a/chee24a.pdf"
+ },
+ "conf|2024|Recursively Feasible Shrinking-Horizon MPC in Dynamic Environments with Conformal Prediction Guarantees": {
+  "url": "https://proceedings.mlr.press/v242/stamouli24a.html",
+  "pdf": "https://proceedings.mlr.press/v242/stamouli24a/stamouli24a.pdf"
+ },
+ "conf|2024|Multi-Modal Conformal Prediction Regions by Optimizing Convex Shape Templates": {
+  "url": "https://proceedings.mlr.press/v242/tumu24a.html",
+  "pdf": "https://proceedings.mlr.press/v242/tumu24a/tumu24a.pdf"
+ },
+ "conf|2024|Stochastic Approximation with Delayed Updates: Finite-Time Rates under Markovian Sampling": {
+  "url": "https://proceedings.mlr.press/v238/adibi24a.html",
+  "pdf": "https://proceedings.mlr.press/v238/adibi24a/adibi24a.pdf"
+ },
+ "conf|2023|Variational Autoencoding Neural Operators": {
+  "url": "https://proceedings.mlr.press/v202/seidman23a.html",
+  "pdf": "https://proceedings.mlr.press/v202/seidman23a/seidman23a.pdf"
+ },
+ "conf|2023|Linear Stochastic Bandits over a Bit-Constrained Channel": {
+  "url": "https://proceedings.mlr.press/v211/mitra23a.html",
+  "pdf": "https://proceedings.mlr.press/v211/mitra23a/mitra23a.pdf"
+ },
+ "conf|2023|Physics-Enhanced Gaussian Process Variational Autoencoder": {
+  "url": "https://proceedings.mlr.press/v211/beckers23a.html",
+  "pdf": "https://proceedings.mlr.press/v211/beckers23a/beckers23a.pdf"
+ },
+ "conf|2023|Certified Invertibility in Neural Networks via Mixed-Integer Programming": {
+  "url": "https://proceedings.mlr.press/v211/cui23b.html",
+  "pdf": "https://proceedings.mlr.press/v211/cui23b/cui23b.pdf"
+ },
+ "conf|2023|Adaptive Conformal Prediction for Motion Planning Among Dynamic Agents": {
+  "url": "https://proceedings.mlr.press/v211/dixit23a.html",
+  "pdf": "https://proceedings.mlr.press/v211/dixit23a/dixit23a.pdf"
+ },
+ "conf|2022|Probabilistically Robust Learning: Balancing Average- and Worst-Case Performance": {
+  "url": "https://proceedings.mlr.press/v162/robey22a.html",
+  "pdf": "https://proceedings.mlr.press/v162/robey22a/robey22a.pdf"
+ },
+ "conf|2022|Learning to Control Linear Systems Can Be Hard": {
+  "url": "https://proceedings.mlr.press/v178/tsiamis22a.html",
+  "pdf": "https://proceedings.mlr.press/v178/tsiamis22a/tsiamis22a.pdf"
+ },
+ "conf|2022|Adaptive Stochastic MPC under Unknown Noise Distribution": {
+  "url": "https://proceedings.mlr.press/v168/stamouli22a.html",
+  "pdf": "https://proceedings.mlr.press/v168/stamouli22a/stamouli22a.pdf"
+ },
+ "conf|2021|Adversarial Robustness with Semi-Infinite Constrained Learning": {
+  "url": "https://proceedings.neurips.cc/paper_files/paper/2021/hash/312ecfdfa8b239e076b114498ce21905-Abstract.html",
+  "pdf": "https://proceedings.neurips.cc/paper_files/paper/2021/file/312ecfdfa8b239e076b114498ce21905-Paper.pdf"
+ },
+ "conf|2021|Model-Based Domain Generalization": {
+  "url": "https://proceedings.neurips.cc/paper_files/paper/2021/hash/a8f12d9486cbcc2fe0cfc5352011ad35-Abstract.html",
+  "pdf": "https://proceedings.neurips.cc/paper_files/paper/2021/file/a8f12d9486cbcc2fe0cfc5352011ad35-Paper.pdf"
+ },
+ "conf|2021|Safe Pontryagin Differentiable Programming": {
+  "url": "https://proceedings.neurips.cc/paper_files/paper/2021/hash/85ea6fd7a2ca3960d0cf5201933ac998-Abstract.html",
+  "pdf": "https://proceedings.neurips.cc/paper_files/paper/2021/file/85ea6fd7a2ca3960d0cf5201933ac998-Paper.pdf"
+ },
+ "conf|2021|Linear Convergence in Federated Learning: Tackling Client Heterogeneity and Sparse Gradients": {
+  "url": "https://proceedings.neurips.cc/paper_files/paper/2021/hash/7a6bda9ad6ffdac035c752743b7e9d0e-Abstract.html",
+  "pdf": "https://proceedings.neurips.cc/paper_files/paper/2021/file/7a6bda9ad6ffdac035c752743b7e9d0e-Paper.pdf"
+ },
+ "conf|2021|Optimal Algorithms for Submodular Maximization with Distributed Constraints": {
+  "url": "https://proceedings.mlr.press/v144/robey21a.html"
+ },
+ "conf|2019|Efficient and Accurate Estimation of Lipschitz Constants for Deep Neural Networks": {
+  "url": "https://proceedings.neurips.cc/paper_files/paper/2019/hash/95e1533eb1b20a97777749fb94fdb944-Abstract.html",
+  "pdf": "https://proceedings.neurips.cc/paper_files/paper/2019/file/95e1533eb1b20a97777749fb94fdb944-Paper.pdf"
+ },
+ "conf|2019|Learning Decentralized Controllers for Robot Swarms with Graph Neural Networks": {
+  "url": "https://proceedings.mlr.press/v100/tolstaya20a.html"
+ },
+ "conf|2020|Sample Complexity of Kalman Filtering for Unknown Systems": {
+  "url": "https://proceedings.mlr.press/v120/tsiamis20a.html",
+  "pdf": "https://proceedings.mlr.press/v120/tsiamis20a/tsiamis20a.pdf"
+ },
+ "conf|2020|Robust Deep Learning as Optimal Control: Insights and Convergence Guarantees": {
+  "url": "https://proceedings.mlr.press/v120/seidman20a.html",
+  "pdf": "https://proceedings.mlr.press/v120/seidman20a/seidman20a.pdf"
  }
 }
