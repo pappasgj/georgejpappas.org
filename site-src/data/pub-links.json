@@ -1,5 +1,1586 @@
 {
- "Mentor the Researcher, Not the Research: An Essay on PhD Mentoring": {
+ "white|2017|Mentor the Researcher, Not the Research: An Essay on PhD Mentoring": {
   "url": "https://almanac.upenn.edu/articles/mentor-the-researcher-not-the-research-an-essay-on-phd-mentoring"
+ },
+ "book|2009|Experimental Robotics: The Eleventh International Symposium": {
+  "doi": "10.1007/978-3-642-00196-3"
+ },
+ "journal|2024|Macroscopic Resting-State Brain Dynamics Are Best Described by Linear Models": {
+  "doi": "10.1038/s41551-023-01117-y"
+ },
+ "journal|2023|Statistical Learning Theory for Control: A Finite-Sample Perspective": {
+  "doi": "10.1109/mcs.2023.3310345"
+ },
+ "journal|2023|Safe Planning in Dynamic Environments Using Conformal Prediction": {
+  "doi": "10.1109/lra.2023.3292071"
+ },
+ "journal|2023|Energy-Aware, Collision-Free Information Gathering for Heterogeneous Robot Teams": {
+  "doi": "10.1109/tro.2023.3257512"
+ },
+ "journal|2023|Federated TD Learning over Finite-Rate Erasure Channels: Linear Speedup under Markovian Sampling": {
+  "doi": "10.1109/lcsys.2023.3287499"
+ },
+ "journal|2023|Online Learning of the Kalman Filter with Logarithmic Regret": {
+  "doi": "10.1109/tac.2022.3207670"
+ },
+ "journal|2023|Risk of Stochastic Systems for Temporal Logic Specifications": {
+  "doi": "10.1145/3580490"
+ },
+ "journal|2023|Mobility-Driven Integration of Heterogeneous Urban Cyber-Physical Systems under Disruptive Events": {
+  "doi": "10.1109/tmc.2021.3091324"
+ },
+ "journal|2023|Temporal Robustness of Temporal Logic Specifications: Analysis and Control Design": {
+  "doi": "10.1145/3550072"
+ },
+ "journal|2023|Combined Left and Right Temporal Robustness for Control under STL Specifications": {
+  "doi": "10.1109/lcsys.2022.3209928"
+ },
+ "journal|2022|Risk Verification of Stochastic Systems with Neural Network Controllers": {
+  "doi": "10.1016/j.artint.2022.103782"
+ },
+ "journal|2022|Robust Object-Level Semantic Visual SLAM Using Semantic Keypoints": {
+  "doi": "10.55417/fr.2022018"
+ },
+ "journal|2022|Reactive and Risk-Aware Control for Signal Temporal Logic": {
+  "doi": "10.1109/tac.2021.3120681"
+ },
+ "journal|2022|Perception-Based Temporal Logic Planning in Uncertain Semantic Maps, In": {
+  "doi": "10.1109/tro.2022.3144073"
+ },
+ "journal|2022|Private Weighted Sum Aggregation": {
+  "doi": "10.1109/tcns.2021.3094788"
+ },
+ "journal|2022|Resilient Active Information Acquisition with Teams of Robots": {
+  "doi": "10.1109/tro.2021.3082212"
+ },
+ "journal|2022|Online Learning-Based Trajectory Tracking for Underactuated Vehicles with Uncertain Dynamics": {
+  "doi": "10.1109/lcsys.2021.3138546"
+ },
+ "journal|2022|Robust and Adaptive Sequential Submodular Optimization": {
+  "doi": "10.1109/tac.2020.3046222"
+ },
+ "journal|2022|Safety Verification and Robustness Analysis of Neural Networks via Quadratic Constraints and Semidefinite Programming": {
+  "doi": "10.1109/tac.2020.3046193"
+ },
+ "journal|2021|On the Structural Target Controllability of Undirected Networks": {
+  "doi": "10.1109/tac.2020.3041420"
+ },
+ "journal|2021|Sampling-Based Planning for Non-Myopic Multi-Robot Information Gathering": {
+  "doi": "10.1007/s10514-021-09995-4"
+ },
+ "journal|2021|Stochastic Motion Planning under Partial Observability for Mobile Robots with Continuous Range Measurements": {
+  "doi": "10.1109/tro.2020.3042129"
+ },
+ "journal|2021|Encrypted Control for Networked Systems - An Illustrative Introduction and Current Challenges": {
+  "doi": "10.1109/mcs.2021.3062956"
+ },
+ "journal|2021|Cloud-Based Quadratic Optimization with Partially Homomorphic Encryption": {
+  "doi": "10.1109/tac.2020.3005920"
+ },
+ "journal|2021|Teaching Recurrent Neural Networks to Infer Global Temporal Structure from Local Examples": {
+  "doi": "10.1038/s42256-021-00321-2"
+ },
+ "journal|2021|Fair Robust Assignment Using Redundancy": {
+  "doi": "10.1109/lra.2021.3067283"
+ },
+ "journal|2021|LQG Control and Sensing Co-Design": {
+  "doi": "10.1109/tac.2020.2997661"
+ },
+ "journal|2021|Latency-Reliability Tradeoffs for State Estimation": {
+  "doi": "10.1109/tac.2020.2992563"
+ },
+ "journal|2021|Statistical Learning for Analysis of Networked Control Systems over Unknown Channels": {
+  "doi": "10.1016/j.automatica.2020.109386"
+ },
+ "journal|2021|Data-Driven Distributionally Robust Optimization for Vehicle Balancing of Mobility-On-Demand Systems": {
+  "doi": "10.1145/3418287"
+ },
+ "journal|2021|Approximate Supermodularity of Kalman Filter Sensor Selection": {
+  "doi": "10.1109/tac.2020.2973774"
+ },
+ "journal|2020|Verifying the Safety of Autonomous Systems with Neural Network Controllers": {
+  "doi": "10.1145/3419742"
+ },
+ "journal|2020|Models of Communication and Control for Brain Networks: Distinctions, Convergence, and Future Outlook": {
+  "doi": "10.1162/netn_a_00158"
+ },
+ "journal|2020|Model-Free Learning of Optimal Ergodic Policies in Wireless Systems": {
+  "doi": "10.1109/tsp.2020.3030073"
+ },
+ "journal|2020|Network Design for Controllability Metrics": {
+  "doi": "10.1109/tcns.2020.2978118"
+ },
+ "journal|2020|Reactive Semantic Planning in Unexplored Semantic Environments Using Deep Perceptual Feedback": {
+  "doi": "10.1109/lra.2020.3001496"
+ },
+ "journal|2020|Consensus of Multi-Agent Systems via Asynchronous Cloud Communication": {
+  "doi": "10.1109/tcns.2019.2935626"
+ },
+ "journal|2020|State-Secrecy Codes for Networked Linear Systems": {
+  "doi": "10.1109/tac.2019.2927459"
+ },
+ "journal|2020|Finite-Dimensional Control of Linear Discrete-Time Fractional Order Systems": {
+  "doi": "10.1016/j.automatica.2019.108512"
+ },
+ "journal|2020|Model-Based Design for Seizure Control by Stimulation": {
+  "doi": "10.1088/1741-2552/ab7a4e"
+ },
+ "journal|2020|Robust Economic Model Predictive Control of Continuous-Time Epidemic Processes": {
+  "doi": "10.1109/tac.2019.2919136"
+ },
+ "journal|2020|A Control-Theoretic Approach to Analysis and Parameter Selection of Douglas-Rachford Splitting": {
+  "doi": "10.1109/lcsys.2019.2922669"
+ },
+ "journal|2019|Analysis and Design of Actuation-Sensing-Communication Interconnection Structures Towards Secured/Resilient LTI Closed-Loop Systems": {
+  "doi": "10.1109/tcns.2018.2867415"
+ },
+ "journal|2019|Control of Generalized Discrete-Time SIS Epidemics via Submodular Function Minimization": {
+  "doi": "10.1109/lcsys.2018.2871127"
+ },
+ "journal|2019|Minimal Edge Addition for Network Controllability": {
+  "doi": "10.1109/tcns.2018.2814841"
+ },
+ "journal|2019|Learning in Wireless Control Systems over Non-Stationary Channels": {
+  "doi": "10.1109/tsp.2018.2890056"
+ },
+ "journal|2019|Minimal Reachability Is Hard to Approximate": {
+  "doi": "10.1109/tac.2018.2836021"
+ },
+ "journal|2019|Continuous Estimation Using Context-Dependent Discrete Measurements": {
+  "doi": "10.1109/tac.2018.2797839"
+ },
+ "journal|2019|Resilient Active Target Tracking with Multiple Robots": {
+  "doi": "10.1109/lra.2018.2881296"
+ },
+ "journal|2019|Data-Driven Robust Taxi Dispatch under Demand Uncertainties": {
+  "doi": "10.1109/tcst.2017.2766042"
+ },
+ "journal|2018|SMC: Satisfiability Modulo Convex Programming": {
+  "doi": "10.1109/jproc.2018.2849003"
+ },
+ "journal|2018|Diffusing Private Data over Networks": {
+  "doi": "10.1109/tcns.2017.2673414"
+ },
+ "journal|2018|A Hybrid Stochastic Game for Secure Control of Cyber-Physical Systems": {
+  "doi": "10.1016/j.automatica.2018.03.012"
+ },
+ "journal|2018|Selecting Sensors in Biological Fractional-Order Systems": {
+  "doi": "10.1109/tcns.2018.2809959"
+ },
+ "journal|2018|Privacy in Control and Dynamical Systems": {
+  "doi": "10.1146/annurev-control-060117-105018"
+ },
+ "journal|2018|Random Access Design for Wireless Control Systems": {
+  "doi": "10.1016/j.automatica.2018.01.021"
+ },
+ "journal|2018|Anytime Planning for Decentralized Multi-Robot Active Information Gathering": {
+  "doi": "10.1109/lra.2018.2794608"
+ },
+ "journal|2018|Optimal Resource Allocation for Competitive Spreading Processes on Bilayer Networks": {
+  "doi": "10.1109/tcns.2016.2607838"
+ },
+ "journal|2018|Spectral Mapping of Brain Functional Connectivity from Diffusion Imaging": {
+  "doi": "10.1038/s41598-017-18769-x"
+ },
+ "journal|2017|Optimal Resource Allocation for Control of Networked Epidemic Models": {
+  "doi": "10.1109/tcns.2015.2482221"
+ },
+ "journal|2017|Attack-Resilient State Estimation for Noisy Dynamical Systems": {
+  "doi": "10.1109/tcns.2016.2607420"
+ },
+ "journal|2017|Coding Schemes for Securing Cyber-Physical Systems Against Stealthy Data Injection Attacks": {
+  "doi": "10.1109/tcns.2016.2573039"
+ },
+ "journal|2017|Design and Implementation of Attack-Resilient Cyberphysical Systems: With a Focus on Attack-Resilient State Estimators": {
+  "doi": "10.1109/mcs.2016.2643239"
+ },
+ "journal|2017|Resilient Flocking for Mobile Robot Teams": {
+  "doi": "10.1109/lra.2017.2655142"
+ },
+ "journal|2017|Structural Minimum Controllability Problem for Switched Linear Continuous-Time Systems": {
+  "doi": "10.1016/j.automatica.2016.12.039"
+ },
+ "journal|2017|Gradual Release of Sensitive Data under Differential Privacy": {
+  "doi": "10.29012/jpc.v7i2.649"
+ },
+ "journal|2017|Trade-Offs Between Driving Nodes and Time-To-Control in Complex Networks": {
+  "doi": "10.1038/srep39978"
+ },
+ "journal|2017|Differentially-Private Distributed Constrained Optimization": {
+  "doi": "10.1109/tac.2016.2541298"
+ },
+ "journal|2016|Taxi Dispatch with Real-Time Sensing Data in Metropolitan Areas: A Receding Horizon Control Approach": {
+  "doi": "10.1109/tase.2016.2529580"
+ },
+ "journal|2016|Minimal Actuator Placement with Bounds on Control Effort": {
+  "doi": "10.1109/tcns.2015.2444031"
+ },
+ "journal|2016|ATPC: Adaptive Transmission Power Control for Wireless Sensor Networks": {
+  "doi": "10.1145/2746342"
+ },
+ "journal|2016|Analysis and Control of Epidemics: A Survey of Spreading Processes on Complex Networks": {
+  "doi": "10.1109/mcs.2015.2495000"
+ },
+ "journal|2016|Localization from Semantic Observations via the Matrix Permanent": {
+  "doi": "10.1177/0278364915596589"
+ },
+ "journal|2015|Data-Driven Network Resource Allocation for Controlling Spreading Processes": {
+  "doi": "10.1109/tnse.2015.2500158"
+ },
+ "journal|2015|Opportunistic Control over Shared Wireless Channels": {
+  "doi": "10.1109/tac.2015.2416922"
+ },
+ "journal|2015|Distributed Algorithms for Stochastic Source Seeking with Mobile Robot Networks": {
+  "doi": "10.1115/1.4027892"
+ },
+ "journal|2014|Nonmyopic View Planning for Active Object Classification and Pose Estimation": {
+  "doi": "10.1109/tro.2014.2320795"
+ },
+ "journal|2014|The Swarm at the Edge of the Cloud": {
+  "doi": "10.1109/mdat.2014.2314600"
+ },
+ "journal|2014|Optimal Power Management in Wireless Control Systems": {
+  "doi": "10.1109/tac.2014.2305951"
+ },
+ "journal|2014|Optimal Resource Allocation for Network Protection Against Spreading Processes": {
+  "doi": "10.1109/tcns.2014.2310911"
+ },
+ "journal|2014|Differentially Private Filtering": {
+  "doi": "10.1109/tac.2013.2283096"
+ },
+ "journal|2014|Discrete Abstraction of Stochastic Nonlinear Systems": {
+  "doi": "10.1587/transfun.e97.a.452"
+ },
+ "journal|2013|Topological Conditions for in-Network Stabilization of Dynamical Systems": {
+  "doi": "10.1109/jsac.2013.130415"
+ },
+ "journal|2013|Adaptive Deployment of Mobile Robotic Networks": {
+  "doi": "10.1109/tac.2012.2215512"
+ },
+ "journal|2013|Network Integrity in Mobile Robotic Networks": {
+  "doi": "10.1109/tac.2012.2203215"
+ },
+ "journal|2012|A Control-Theoretic Approach to Disseminating Values and Overcoming Malicious Links in Wireless Networks": {
+  "doi": "10.1016/j.automatica.2012.06.072"
+ },
+ "journal|2012|Stochastic Source Seeking by Mobile Robots": {
+  "doi": "10.1109/tac.2012.2186927"
+ },
+ "journal|2012|Time-Triggered Implementations of Dynamic Controllers": {
+  "doi": "10.1145/2331147.2331168"
+ },
+ "journal|2012|Adaptive Communication-Constrained Deployment of Unmanned Vehicle Systems": {
+  "doi": "10.1109/jsac.2012.120608"
+ },
+ "journal|2011|Approximate Bisimulation: A Bridge Between Computer Science and Control Theory": {
+  "doi": "10.3166/ejc.17.568-578"
+ },
+ "journal|2011|The Wireless Control Network: A New Approach for Control over Networks": {
+  "doi": "10.1109/tac.2011.2163864"
+ },
+ "journal|2011|Compositional Modeling and Analysis of Multi-Hop Control Networks": {
+  "doi": "10.1109/tac.2011.2163873"
+ },
+ "journal|2011|Joint Metering and Conflict Resolution in Air Traffic Control": {
+  "doi": "10.2514/1.53253"
+ },
+ "journal|2011|Graph Theoretic Connectivity Control of Mobile Robot Networks": {
+  "doi": "10.1109/jproc.2011.2157884"
+ },
+ "journal|2011|Inferring Stable Genetic Networks from Steady-State Data": {
+  "doi": "10.1016/j.automatica.2011.02.006"
+ },
+ "journal|2011|Modeling, Control and Experimental Characterization of Microbiorobots": {
+  "doi": "10.1177/0278364910394227"
+ },
+ "journal|2011|Electrokinetic and Optical Control of Bacterial Microrobots": {
+  "doi": "10.1088/0960-1317/21/3/035001"
+ },
+ "journal|2010|Single Cell Manipulation Using Ferromagnetic Composite Microtransporters": {
+  "doi": "10.1063/1.3293457"
+ },
+ "journal|2009|Temporal Logic Based Reactive Mission and Motion Planning": {
+  "doi": "10.1109/tro.2009.2030225"
+ },
+ "journal|2009|Vision-Based Localization for Leader-Follower Formation Control": {
+  "doi": "10.1109/tro.2009.2032975"
+ },
+ "journal|2009|Hybrid Control for Connectivity Preserving Flocking": {
+  "doi": "10.1109/tac.2009.2033750"
+ },
+ "journal|2009|Robustness of Temporal Logic Specifications for Continuous-Time Signals": {
+  "doi": "10.1016/j.tcs.2009.06.021"
+ },
+ "journal|2009|Approximations of Stochastic Hybrid Systems": {
+  "doi": "10.1109/tac.2009.2019791"
+ },
+ "journal|2009|Genetic Network Identification Using Convex Programming": {
+  "doi": "10.1049/iet-syb.2008.0130"
+ },
+ "journal|2009|Hierarchical Control System Design Using Approximate Simulation": {
+  "doi": "10.1016/j.automatica.2008.09.016"
+ },
+ "journal|2009|Temporal Logic Motion Planning for Dynamic Robots": {
+  "doi": "10.1016/j.automatica.2008.08.008"
+ },
+ "journal|2009|Approximate Equivalence and Synchronization of Metric Transition Systems": {
+  "doi": "10.1016/j.sysconle.2008.09.001"
+ },
+ "journal|2008|Distributed Connectivity Control of Mobile Networks": {
+  "doi": "10.1109/tro.2008.2006233"
+ },
+ "journal|2008|Translating Structured English to Robot Controllers": {
+  "doi": "10.1163/156855308x344864"
+ },
+ "journal|2008|A Dynamical Systems Approach to Weighted Graph Matching": {
+  "doi": "10.1016/j.automatica.2008.04.009"
+ },
+ "journal|2008|Approximate Reduction of Dynamic Systems": {
+  "doi": "10.1016/j.sysconle.2007.12.005"
+ },
+ "journal|2008|Approximate Simulation Relations for Hybrid Systems": {
+  "doi": "10.1007/s10626-007-0029-9"
+ },
+ "journal|2008|Dynamic Assignment in Distributed Motion Planning with Local Coordination": {
+  "doi": "10.1109/tro.2007.913992"
+ },
+ "journal|2008|Stochastic Modeling and Control of Biological Systems: The Lactose Regulation System of Escherichia coli": {
+  "doi": "10.1109/tac.2007.911346"
+ },
+ "journal|2007|A Framework for Worst-Case and Stochastic Safety Verification Using Barrier Certificates": {
+  "doi": "10.1109/tac.2007.902736"
+ },
+ "journal|2007|Potential Fields for Maintaining Connectivity of Mobile Networks": {
+  "doi": "10.1109/tro.2007.900642"
+ },
+ "journal|2007|Approximate Bisimulation Relations for Constrained Linear Systems": {
+  "doi": "10.1016/j.automatica.2007.01.019"
+ },
+ "journal|2007|Approximation Metrics for Discrete and Continuous Systems": {
+  "doi": "10.1109/tac.2007.895849"
+ },
+ "journal|2007|Flocking in Fixed and Switching Networks": {
+  "doi": "10.1109/tac.2007.895948"
+ },
+ "journal|2007|Symbolic Planning and Control of Robot Motion: Grand Challenges of Robotics": {
+  "doi": "10.1109/mra.2007.339624"
+ },
+ "journal|2006|Linear Time Logic Control of Discrete-Time Linear Systems": {
+  "doi": "10.1109/tac.2006.886494"
+ },
+ "journal|2006|Cooperative Air and Ground Surveillance": {
+  "doi": "10.1109/mra.2006.1678135"
+ },
+ "journal|2006|High-Confidence Medical Device Software and Systems": {
+  "doi": "10.1109/mc.2006.127"
+ },
+ "journal|2005|Discrete Abstractions for Robot Motion Planning and Control in Polygonal Environments": {
+  "doi": "10.1109/tro.2005.851359"
+ },
+ "journal|2005|Bisimulation Relations for Dynamical, Control, and Hybrid Systems": {
+  "doi": "10.1016/j.tcs.2005.03.045"
+ },
+ "journal|2005|Motion Feasibility of Multi-Agent Formations": {
+  "doi": "10.1109/tro.2004.839224"
+ },
+ "journal|2005|Quotients of Fully Nonlinear Control Systems": {
+  "doi": "10.1137/s0363012901399027"
+ },
+ "journal|2005|Hierarchical Trajectory Refinement for a Class of Nonlinear Systems": {
+  "doi": "10.1016/j.automatica.2004.11.008"
+ },
+ "journal|2004|Leader-To-Formation Stability": {
+  "doi": "10.1109/tra.2004.825275"
+ },
+ "journal|2004|Optimal Paths in Weighted Timed Automata": {
+  "doi": "10.1016/j.tcs.2003.10.038"
+ },
+ "journal|2004|Bisimilar Control Affine Systems": {
+  "doi": "10.1016/j.sysconle.2003.09.013"
+ },
+ "journal|2004|Compositional Abstractions of Hybrid Control Systems": {
+  "doi": "10.1023/b:disc.0000018571.14789.24"
+ },
+ "journal|2003|Bisimilar Linear Systems": {
+  "doi": "10.1016/j.automatica.2003.07.003"
+ },
+ "journal|2003|Abstractions of Hamiltonian Control Systems": {
+  "doi": "10.1016/s0005-1098(03)00235-8"
+ },
+ "journal|2003|From Nonlinear to Hamiltonian via Feedback": {
+  "doi": "10.1109/tac.2003.815040"
+ },
+ "journal|2003|Hierarchical Modeling and Analysis of Embedded Systems": {
+  "doi": "10.1109/jproc.2002.805817"
+ },
+ "journal|2002|Consistent Abstractions of Affine Control Systems": {
+  "doi": "10.1109/tac.2002.1000269"
+ },
+ "journal|2002|Modeling and Analyzing Biomolecular Networks": {
+  "doi": "10.1109/5992.976434"
+ },
+ "journal|2001|Symbolic Reachability Computation for Families of Linear Vector Fields": {
+  "doi": "10.1006/jsco.2001.0472"
+ },
+ "journal|2000|Discrete Abstractions of Hybrid Systems": {
+  "doi": "10.1109/5.871304"
+ },
+ "journal|2000|Hierarchically Consistent Control Systems": {
+  "doi": "10.1109/9.863598"
+ },
+ "journal|2000|O-Minimal Hybrid Systems": {
+  "doi": "10.1007/pl00009858"
+ },
+ "journal|1998|Straightening Out Rectangular Differential Inclusions": {
+  "doi": "10.1016/s0167-6911(98)00037-1"
+ },
+ "journal|1998|Conflict Resolution for Air Traffic Management: A Study in Multi-Agent Hybrid Systems": {
+  "doi": "10.1109/9.664154"
+ },
+ "journal|1995|Stabilization of Nonholonomic Vehicles under Kinematic Constraints": {
+  "doi": "10.1080/00207179508921939"
+ },
+ "chapter|2019|Secure Multi-Party Computation for Cloud-Based Control": {
+  "doi": "10.1007/978-981-15-0493-8_9"
+ },
+ "chapter|2018|Verification of Hybrid Systems": {
+  "doi": "10.1007/978-3-319-10575-8_30"
+ },
+ "chapter|2013|Resilient Parameter-Invariant Control with Application to Vehicle Cruise Control": {
+  "doi": "10.1007/978-3-319-01159-2_11"
+ },
+ "chapter|2012|Stochastic Models and Control of Bacterial Bioactuators and Biomicrorobots": {
+  "doi": "10.1016/b978-1-4557-7891-1.00005-0"
+ },
+ "chapter|2012|Bacteria-Powered Microrobots": {
+  "doi": "10.1016/b978-1-4557-7891-1.00010-4"
+ },
+ "chapter|2009|Trajectory Based Verification Using Local Finite-Time Invariance": {
+  "doi": "10.1007/978-3-642-00602-9_16"
+ },
+ "chapter|2009|Maintaining Connectivity in Mobile Robot Networks": {
+  "doi": "10.1007/978-3-642-00196-3_14"
+ },
+ "chapter|2007|Robust Sampling for MITL Specifications": {
+  "doi": "10.1007/978-3-540-75454-1_12"
+ },
+ "chapter|2007|Distributed Hybrid Control for Multiple-Pursuer Multiple-Evader Games": {
+  "doi": "10.1007/978-3-540-71493-4_85"
+ },
+ "chapter|2007|Robust Test Generation and Coverage for Hybrid Systems": {
+  "doi": "10.1007/978-3-540-71493-4_27"
+ },
+ "chapter|2007|Hierarchical Synthesis of Hybrid Controllers from Temporal Logic Specifications": {
+  "doi": "10.1007/978-3-540-71493-4_18"
+ },
+ "chapter|2006|Temporal Logic Verification Using Simulation": {
+  "doi": "10.1007/11867340_13"
+ },
+ "chapter|2006|Verification Using Simulation": {
+  "doi": "10.1007/11730637_22"
+ },
+ "chapter|2006|R-Charon, a Modeling Language for Reconfigurable Hybrid Systems": {
+  "doi": "10.1007/11730637_30"
+ },
+ "chapter|2005|Observability of Switched Linear Systems in Continuous Time": {
+  "doi": "10.1007/978-3-540-31954-2_7"
+ },
+ "chapter|2004|Flocking in Teams of Nonholonomic Agents": {
+  "doi": "10.1007/978-3-540-31595-7_13"
+ },
+ "chapter|2003|Model Checking LTL over Controllable Linear Systems Is Decidable": {
+  "doi": "10.1007/3-540-36580-x_36"
+ },
+ "chapter|2002|Composing Abstractions of Hybrid Systems": {
+  "doi": "10.1007/3-540-45873-5_34"
+ },
+ "chapter|2001|Hierarchical Hybrid Modeling of Embedded Systems": {
+  "doi": "10.1007/3-540-45449-7_2"
+ },
+ "chapter|2001|A Framework and Architecture for Multirobot Coordination": {
+  "doi": "10.1007/3-540-45118-8_31"
+ },
+ "chapter|2001|Hybrid Abstractions That Preserve Timed Languages": {
+  "doi": "10.1007/3-540-45351-2_40"
+ },
+ "chapter|2001|Mode Switching Synthesis for Reachability Specifications": {
+  "doi": "10.1007/3-540-45351-2_28"
+ },
+ "chapter|2001|Hybrid Modeling and Simulation of Biomolecular Networks": {
+  "doi": "10.1007/3-540-45351-2_6"
+ },
+ "chapter|2001|Semi-Decidable Synthesis for Triangular Hybrid Systems": {
+  "doi": "10.1007/3-540-45351-2_39"
+ },
+ "chapter|2001|Accurate Event Detection for Simulating Hybrid Systems": {
+  "doi": "10.1007/3-540-45351-2_19"
+ },
+ "chapter|2000|Decidable Controller Synthesis for Classes of Linear Systems": {
+  "doi": "10.1007/3-540-46430-1_34"
+ },
+ "chapter|1999|A New Class of Decidable Hybrid Systems": {
+  "doi": "10.1007/3-540-48983-5_15"
+ },
+ "chapter|1999|Hybrid Systems with Finite Bisimulations": {
+  "doi": "10.1007/3-540-49163-5_10"
+ },
+ "chapter|1998|Exterior Differential Systems in Control and Robotics": {
+  "doi": "10.1007/978-1-4612-1710-7_10"
+ },
+ "chapter|1998|Subanalytic Stratifications and Bisimulations": {
+  "doi": "10.1007/3-540-64358-3_41"
+ },
+ "chapter|1998|An Approach to the Verification of the Center-TRACON Automation System": {
+  "doi": "10.1007/3-540-64358-3_46"
+ },
+ "chapter|1997|Towards Continuous Abstractions of Dynamical and Control Systems": {
+  "doi": "10.1007/bfb0031567"
+ },
+ "chapter|1997|Hybrid Control Models of Next Generation Air Traffic Management": {
+  "doi": "10.1007/bfb0031570"
+ },
+ "chapter|1997|Advanced Air Traffic Automation: A Case Study in Distributed Decentralized Control": {
+  "doi": "10.1007/bfb0015088"
+ },
+ "conf|2026|Preventing Robotic Jailbreaking via Multimodal Domain Adaptation": {
+  "doi": "10.1109/icra57385.2026.11696815"
+ },
+ "conf|2026|Long-Term Mapping of the Douro River Plume with Multi-Agent Reinforcement Learning": {
+  "doi": "10.1109/icra57385.2026.11696002"
+ },
+ "conf|2025|Defending Large Language Models Against Jailbreak Attacks via Semantic Smoothing": {
+  "doi": "10.18653/v1/2025.ijcnlp-short.2"
+ },
+ "conf|2025|Flying Quadrotors in Tight Formations Using Learning-Based Model Predictive Control": {
+  "doi": "10.1109/icra55743.2025.11127756"
+ },
+ "conf|2025|Jailbreaking LLM-Controlled Robots": {
+  "doi": "10.1109/icra55743.2025.11128119"
+ },
+ "conf|2025|SPINE: Online Semantic Planning for Missions with Incomplete Natural Language Specifications in Unstructured Environments": {
+  "doi": "10.1109/icra55743.2025.11128238"
+ },
+ "conf|2025|Learning with Imperfect Models: When Multi-Step Prediction Mitigates Compounding Error": {
+  "doi": "10.1109/cdc57313.2025.11312354"
+ },
+ "conf|2025|Layered Multirate Control of Constrained Linear Systems": {
+  "doi": "10.1109/cdc57313.2025.11312250"
+ },
+ "conf|2025|Policy Gradient for LQR with Domain Randomization": {
+  "doi": "10.1109/cdc57313.2025.11312642"
+ },
+ "conf|2025|Conformal Inference under High-Dimensional Covariate Shifts via Likelihood-Ratio Regularization": {
+  "doi": "10.52202/085713-0543"
+ },
+ "conf|2025|Conformal Prediction Beyond the Seen: A Missing Mass Perspective for Uncertainty Quantification in Generative Models": {
+  "doi": "10.52202/085713-1084"
+ },
+ "conf|2025|Uncertainty-Calibrated Prediction of Randomly-Timed Biomarker Trajectories with Conformal Bands": {
+  "doi": "10.52202/085713-3859"
+ },
+ "conf|2025|Jailbreaking Black Box Large Language Models in Twenty Queries": {
+  "doi": "10.1109/satml64287.2025.00010"
+ },
+ "conf|2024|JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models": {
+  "doi": "10.52202/079017-1745"
+ },
+ "conf|2024|Length Optimization in Conformal Prediction": {
+  "doi": "10.52202/079017-3158"
+ },
+ "conf|2024|Rate-Optimal Non-Asymptotics for the Quadratic Prediction Error Method": {
+  "doi": "10.1109/cdc56724.2024.10886130"
+ },
+ "conf|2024|Reactive Planning for Teams of Heterogeneous Robots with Dynamic Collaborative Temporal Logic Missions": {
+  "doi": "10.1109/cdc56724.2024.10886558"
+ },
+ "conf|2024|Active Learning for Control-Oriented Identification of Nonlinear Systems": {
+  "doi": "10.1109/cdc56724.2024.10885804"
+ },
+ "conf|2024|DASA: Delay-Adaptive Multi-Agent Stochastic Approximation": {
+  "doi": "10.1109/cdc56724.2024.10886380"
+ },
+ "conf|2024|From Convexity to Strong Convexity and Beyond: Bridging the Gap in Convergence Rates": {
+  "doi": "10.1109/cdc56724.2024.10885947"
+ },
+ "conf|2024|Finite-Time Analysis of Asynchronous Multi-Agent TD Learning": {
+  "doi": "10.23919/acc60939.2024.10644447"
+ },
+ "conf|2024|Structural Risk Minimization for Learning Nonlinear Dynamics": {
+  "doi": "10.23919/acc60939.2024.10644471"
+ },
+ "conf|2024|Optimal Scene Graph Planning with Large Language Model Guidance": {
+  "doi": "10.1109/icra57147.2024.10610599"
+ },
+ "conf|2023|A Tutorial on the Non-Asymptotic Theory of System Identification": {
+  "doi": "10.1109/cdc49753.2023.10383489"
+ },
+ "conf|2023|Navigation with Shadow Prices to Optimize Multi Commodity Flow Rates": {
+  "doi": "10.1109/cdc49753.2023.10383300"
+ },
+ "conf|2023|Safety Filter Design for Neural Network Systems via Convex Optimization": {
+  "doi": "10.1109/cdc49753.2023.10383577"
+ },
+ "conf|2023|Uncertainty Quantification for Learning-Based MPC Using Weighted Conformal Prediction": {
+  "doi": "10.1109/cdc49753.2023.10383587"
+ },
+ "conf|2023|Safe Perception-Based Control under Stochastic Sensor Uncertainty Using Conformal Prediction": {
+  "doi": "10.1109/cdc49753.2023.10384075"
+ },
+ "conf|2023|Resilient Temporal Logic Planning in the Presence of Robot Failures": {
+  "doi": "10.1109/cdc49753.2023.10383968"
+ },
+ "conf|2023|The Noise Level in Linear Regression with Dependent Data": {
+  "doi": "10.52202/075280-3273"
+ },
+ "conf|2023|Robust Localization of Aerial Vehicles via Active Control of Identical Ground Vehicles": {
+  "doi": "10.1109/iros55552.2023.10341900"
+ },
+ "conf|2023|Active Collaborative Localization in Heterogeneous Robot Teams": {
+  "doi": "10.15607/rss.2023.xix.112"
+ },
+ "conf|2023|Path Defense in Dynamic Defender-Attacker Blotto Games (dDAB) with Limited Information": {
+  "doi": "10.23919/acc55779.2023.10156261"
+ },
+ "conf|2023|Conformal Prediction for STL Runtime Verification": {
+  "doi": "10.1145/3576841.3585927"
+ },
+ "conf|2023|Graph Neural Networks for Multi-Robot Active Information Acquisition": {
+  "doi": "10.1109/icra48891.2023.10160723"
+ },
+ "conf|2023|Multi-Robot Mission Planning in Dynamic Semantic Environments": {
+  "doi": "10.1109/icra48891.2023.10160344"
+ },
+ "conf|2023|Socially Fair Coverage Control": {
+  "doi": "10.1109/icra48891.2023.10160988"
+ },
+ "conf|2023|Toward Certified Robustness Against Real-World Distribution Shifts": {
+  "doi": "10.1109/satml54575.2023.00042"
+ },
+ "conf|2022|Learning-Based Balancing of Model-Based and Feedback Control for Second-Order Mechanical Systems": {
+  "doi": "10.1109/cdc51059.2022.9992751"
+ },
+ "conf|2022|Learning Rigidity-Based Flocking Control Using Gaussian Processes with Probabilistic Stability Guarantees": {
+  "doi": "10.1109/cdc51059.2022.9992465"
+ },
+ "conf|2022|Chordal Sparsity for Lipschitz Constant Estimation of Deep Neural Networks": {
+  "doi": "10.1109/cdc51059.2022.9993136"
+ },
+ "conf|2022|Gaussian Process Port-Hamiltonian Systems: Bayesian Learning with Physics Prior": {
+  "doi": "10.1109/cdc51059.2022.9992733"
+ },
+ "conf|2022|Secure State Estimation over Markov Wireless Communication Channels": {
+  "doi": "10.1109/cdc51059.2022.9992668"
+ },
+ "conf|2022|Distributed Statistical Min-Max Learning in the Presence of Byzantine Agents": {
+  "doi": "10.1109/cdc51059.2022.9993078"
+ },
+ "conf|2022|ODE Discretization Schemes as Optimization Algorithms": {
+  "doi": "10.1109/cdc51059.2022.9992691"
+ },
+ "conf|2022|NOMAD: Nonlinear Manifold Decoders for Operator Learning": {
+  "doi": "10.52202/068431-0405"
+ },
+ "conf|2022|Collaborative Linear Bandits with Adversarial Agents: Near-Optimal Regret Bounds": {
+  "doi": "10.52202/068431-1642"
+ },
+ "conf|2022|Probable Domain Generalization via Quantile Risk Minimization": {
+  "doi": "10.52202/068431-1261"
+ },
+ "conf|2022|Adaptive Sampling of Latent Phenomena Using Heterogeneous Robot Teams": {
+  "doi": "10.1109/iros47612.2022.9982270"
+ },
+ "conf|2022|Reactive Informative Planning for Mobile Manipulation Tasks under Sensing and Environmental Uncertainty": {
+  "doi": "10.1109/icra46639.2022.9811642"
+ },
+ "conf|2022|Temporal Robustness of Stochastic Signals": {
+  "doi": "10.1145/3501710.3519504"
+ },
+ "conf|2021|Linear Systems Can Be Hard to Learn": {
+  "doi": "10.1109/cdc45484.2021.9682778"
+ },
+ "conf|2021|Online Federated Learning": {
+  "doi": "10.1109/cdc45484.2021.9683589"
+ },
+ "conf|2021|Time-Robust Control for STL Specifications": {
+  "doi": "10.1109/cdc45484.2021.9683477"
+ },
+ "conf|2021|STL Robustness Risk over Discrete-Time Stochastic Processes": {
+  "doi": "10.1109/cdc45484.2021.9683305"
+ },
+ "conf|2021|Encrypted Distributed Lasso for Sparse Data Predictive Control": {
+  "doi": "10.1109/cdc45484.2021.9683401"
+ },
+ "conf|2021|Robust Motion Planning in the Presence of Estimation Uncertainty": {
+  "doi": "10.1109/cdc45484.2021.9683651"
+ },
+ "conf|2021|Federated Learning with Incrementally Aggregated Gradients": {
+  "doi": "10.1109/cdc45484.2021.9683443"
+ },
+ "conf|2021|Learning Region of Attraction for Nonlinear Systems": {
+  "doi": "10.1109/cdc45484.2021.9682880"
+ },
+ "conf|2021|An Introduction to Neural Network Analysis via Semidefinite Programming": {
+  "doi": "10.1109/cdc45484.2021.9683096"
+ },
+ "conf|2021|Scalable Reinforcement Learning Policies for Multi-Agent Control": {
+  "doi": "10.1109/iros51168.2021.9636344"
+ },
+ "conf|2021|Distributed Sampling-Based Planning forNon-Myopic Active Information Gathering": {
+  "doi": "10.1109/iros51168.2021.9636101"
+ },
+ "conf|2021|Actor-Only Deterministic Policy Gradient via Zeroth-Order Gradient Oracles in Action Space": {
+  "doi": "10.1109/isit45174.2021.9518023"
+ },
+ "conf|2021|A Temporal Logic-Based Hierarchical Network Connectivity Controller": {
+  "doi": "10.1137/1.9781611976847.3"
+ },
+ "conf|2021|Verisig 2.0: Verification of Neural Network Controllers Using Taylor Model Preconditioning": {
+  "doi": "10.1007/978-3-030-81685-8_11"
+ },
+ "conf|2021|Deep Reinforcement Learning for Active Target Tracking": {
+  "doi": "10.1109/icra48506.2021.9561258"
+ },
+ "conf|2021|Reactive Planning for Mobile Manipulation Tasks in Unexplored Semantic Environments": {
+  "doi": "10.1109/icra48506.2021.9561958"
+ },
+ "conf|2021|Non-Monotone Energy-Aware Information Gathering for Heterogeneous Robot Teams": {
+  "doi": "10.1109/icra48506.2021.9561354"
+ },
+ "conf|2021|Optimal Multi-Robot Perimeter Defense Using Flow Networks": {
+  "doi": "10.1007/978-3-030-92790-5_22"
+ },
+ "conf|2021|Source Seeking in Unknown Environments with Convex Obstacles": {
+  "doi": "10.23919/acc50511.2021.9483164"
+ },
+ "conf|2021|Learning Lyapunov Functions for Hybrid Systems": {
+  "doi": "10.1109/ciss50987.2021.9400289"
+ },
+ "conf|2021|Almost-Zero Duality Gaps in Model-Free Resource Allocation for Wireless Systems": {
+  "doi": "10.23919/eusipco47968.2020.9287660"
+ },
+ "conf|2020|Towards Private Data-Driven Control": {
+  "doi": "10.1109/cdc42340.2020.9304149"
+ },
+ "conf|2020|Reach-SDP: Reachability Analysis of Closed-Loop Systems with Neural Network Controllers via Semidefinite Programming": {
+  "doi": "10.1109/cdc42340.2020.9304296"
+ },
+ "conf|2020|Control Barrier Functions for Nonholonomic Systems under Risk Signal Temporal Logic Specifications": {
+  "doi": "10.1109/cdc42340.2020.9304056"
+ },
+ "conf|2020|Risk-Constrained Linear Quadratic Regulators": {
+  "doi": "10.1109/cdc42340.2020.9303967"
+ },
+ "conf|2020|Control Barrier Functions for Unknown Nonlinear Systems Using Gaussian Processes": {
+  "doi": "10.1109/cdc42340.2020.9303847"
+ },
+ "conf|2020|Adaptive Partitioning for Coordinated Multi-Agent Perimeter Defense": {
+  "doi": "10.1109/iros45743.2020.9341417"
+ },
+ "conf|2020|Reactive Temporal Logic Planning for Multiple Robots in Unknown Environments": {
+  "doi": "10.1109/icra40945.2020.9197570"
+ },
+ "conf|2020|Information Theoretic Active Exploration in Signed Distance Fields": {
+  "doi": "10.1109/icra40945.2020.9196882"
+ },
+ "conf|2020|Distributed Attack-Robust Submodular Maximization for Multi-Robot Planning": {
+  "doi": "10.1109/icra40945.2020.9197243"
+ },
+ "conf|2020|Better Safe than Sorry: Risk-Aware Nonlinear Bayesian Estimation": {
+  "doi": "10.1109/icassp40776.2020.9053001"
+ },
+ "conf|2020|A Zeroth-Order Learning Algorithm for Ergodic Optimization of Wireless Systems with No Models and No Gradients": {
+  "doi": "10.1109/icassp40776.2020.9053942"
+ },
+ "conf|2020|Case Study: Verifying the Safety of an Autonomous Racing Car with a Neural Network Controller": {
+  "doi": "10.1145/3365365.3382216"
+ },
+ "conf|2019|Finite Sample Analysis of Stochastic System Identification": {
+  "doi": "10.1109/cdc40024.2019.9029499"
+ },
+ "conf|2019|Encrypted Cooperative Control Revisited": {
+  "doi": "10.1109/cdc40024.2019.9030124"
+ },
+ "conf|2019|Reinforcement Learning for Temporal Logic Control Synthesis with Probabilistic Satisfaction Guarantees": {
+  "doi": "10.1109/cdc40024.2019.9028919"
+ },
+ "conf|2019|Probabilistic Verification and Reachability Analysis of Neural Networks via Semidefinite Programming": {
+  "doi": "10.1109/cdc40024.2019.9029310"
+ },
+ "conf|2019|Optimal Temporal Logic Planning for Multi-Robot Systems in Uncertain Semantic Maps": {
+  "doi": "10.1109/iros40897.2019.8968547"
+ },
+ "conf|2019|Maximum Information Bounds for Planning Active Sensing Trajectories": {
+  "doi": "10.1109/iros40897.2019.8968147"
+ },
+ "conf|2019|Learning Q-Network for Active Information Acquisition": {
+  "doi": "10.1109/iros40897.2019.8968173"
+ },
+ "conf|2019|Assumed Density Filtering Q-Learning": {
+  "doi": "10.24963/ijcai.2019/362"
+ },
+ "conf|2019|Motion Planning with Secrecy": {
+  "doi": "10.23919/acc.2019.8814478"
+ },
+ "conf|2019|N-Dimensional Distributed Network Localization with Noisy Range Measurements and Arbitrary Anchor Placement": {
+  "doi": "10.23919/acc.2019.8814820"
+ },
+ "conf|2019|Optimal Reset Strategies for Mitigating Malware Epidemics": {
+  "doi": "10.23919/acc.2019.8815135"
+ },
+ "conf|2019|Resilient Structural Stabilizability of Undirected Networks": {
+  "doi": "10.23919/acc.2019.8815201"
+ },
+ "conf|2019|Asymptotically Optimal Planning for Non-Myopic Multi-Robot Information Gathering": {
+  "doi": "10.15607/rss.2019.xv.062"
+ },
+ "conf|2019|Encrypted LQG Using Labeled Homomorphic Encryption": {
+  "doi": "10.1145/3302509.3311049"
+ },
+ "conf|2019|Verisig: Verifying Safety Properties of Hybrid Systems with Neural Network Controllers": {
+  "doi": "10.1145/3302504.3311806"
+ },
+ "conf|2018|Sample Complexity of Networked Control Systems over Unknown Channels": {
+  "doi": "10.1109/cdc.2018.8619585"
+ },
+ "conf|2018|Cloud-Based MPC with Encrypted Data": {
+  "doi": "10.1109/cdc.2018.8619835"
+ },
+ "conf|2018|Resilient Monotone Sequential Maximization": {
+  "doi": "10.1109/cdc.2018.8618873"
+ },
+ "conf|2018|A Chebyshev-Accelerated Primal-Dual Method for Distributed Optimization": {
+  "doi": "10.1109/cdc.2018.8618899"
+ },
+ "conf|2018|An Information Matrix Approach for State Secrecy": {
+  "doi": "10.1109/cdc.2018.8619445"
+ },
+ "conf|2018|A Robust Moment Closure for General Continuous-Time Epidemic Processes": {
+  "doi": "10.1109/cdc.2018.8618664"
+ },
+ "conf|2018|Structural Target Controllability of Undirected Networks": {
+  "doi": "10.1109/cdc.2018.8619399"
+ },
+ "conf|2018|Resilient Active Information Gathering with Mobile Robots": {
+  "doi": "10.1109/iros.2018.8593630"
+ },
+ "conf|2018|A Unifying View of Geometry, Semantics, and Data Association in SLAM": {
+  "doi": "10.24963/ijcai.2018/722"
+ },
+ "conf|2018|State-Secrecy Codes for Stable Systems": {
+  "doi": "10.23919/acc.2018.8431642"
+ },
+ "conf|2018|Sensing-Constrained LQG Control": {
+  "doi": "10.23919/acc.2018.8431439"
+ },
+ "conf|2018|Scenario-Based Model Predictive Control for Energy Harvesting Actuators": {
+  "doi": "10.23919/acc.2018.8431037"
+ },
+ "conf|2018|Dense 3-D Mapping with Spatial Correlation via Gaussian Filtering": {
+  "doi": "10.23919/acc.2018.8431777"
+ },
+ "conf|2018|Learning in Non-Stationary Wireless Control Systems via Newton’s Method": {
+  "doi": "10.23919/acc.2018.8431638"
+ },
+ "conf|2018|Approximating Explicit Model Predictive Control Using Constrained Neural Networks": {
+  "doi": "10.23919/acc.2018.8431275"
+ },
+ "conf|2018|Optimization of Switched Linear Systems over NonStationary Wireless Channels": {
+  "doi": "10.1109/spawc.2018.8445988"
+ },
+ "conf|2018|Dynamic Integration of Heterogeneous Transportation Modes under Disruptive Events": {
+  "doi": "10.1109/iccps.2018.00015"
+ },
+ "conf|2018|Learning Statistically Accurate Resource Allocations in Non-Stationary Wireless Systems": {
+  "doi": "10.1109/icassp.2018.8461444"
+ },
+ "conf|2017|Resilient Monotone Submodular Function Maximization": {
+  "doi": "10.1109/cdc.2017.8263844"
+ },
+ "conf|2017|State Estimation Codes for Perfect Secrecy": {
+  "doi": "10.1109/cdc.2017.8263662"
+ },
+ "conf|2017|The Mean Square Error in Kalman Filtering Sensor Selection Is Approximately Supermodular": {
+  "doi": "10.1109/cdc.2017.8263688"
+ },
+ "conf|2017|On the Limited Communication Analysis and Design for Decentralized Estimation": {
+  "doi": "10.1109/cdc.2017.8263897"
+ },
+ "conf|2017|Differential Privacy for Dynamical Sensitive Data": {
+  "doi": "10.1109/cdc.2017.8263806"
+ },
+ "conf|2017|Battery Management for Control Systems with Energy Harvesting Sensors": {
+  "doi": "10.1109/cdc.2017.8264329"
+ },
+ "conf|2017|Linear Temporal Logic Motion Planning for Teams of Underactuated Robots Using Satisfiability Modulo Convex Programming": {
+  "doi": "10.1109/cdc.2017.8263808"
+ },
+ "conf|2017|Privacy Preserving Cloud-Based Quadratic Optimization": {
+  "doi": "10.1109/allerton.2017.8262869"
+ },
+ "conf|2017|Distributed Leader Selection in Switching Networks of High-Order Integrators": {
+  "doi": "10.1109/allerton.2017.8262767"
+ },
+ "conf|2017|Probabilistic Data Association for Semantic SLAM": {
+  "doi": "10.1109/icra.2017.7989203"
+ },
+ "conf|2017|Quantification on the Efficiency Gain of Automated Ridesharing Services": {
+  "doi": "10.23919/acc.2017.7963498"
+ },
+ "conf|2017|Scheduling Nonlinear Sensors for Stochastic Process Estimation": {
+  "doi": "10.23919/acc.2017.7963015"
+ },
+ "conf|2017|Inference, Prediction and Control of Networked Epidemics": {
+  "doi": "10.23919/acc.2017.7963828"
+ },
+ "conf|2017|Discrete-Time Fractional-Order Multiple Scenario-Based Sensor Selection": {
+  "doi": "10.23919/acc.2017.7963808"
+ },
+ "conf|2017|Spectral Control of Cortical Activity": {
+  "doi": "10.23919/acc.2017.7963373"
+ },
+ "conf|2017|Calibration-Free Network Localization Using Non-Line-Of-Sight Ultra-Wideband Measurements": {
+  "doi": "10.1145/3055031.3055091"
+ },
+ "conf|2017|SMC: Satisfiability Modulo Convex Optimization": {
+  "doi": "10.1145/3049797.3049819"
+ },
+ "conf|2017|Data-Driven Distributionally Robust Vehicle Balancing Using Dynamic Region Partitions": {
+  "doi": "10.1145/3055004.3055024"
+ },
+ "conf|2017|Poster Abstract: Wireless Control for the IoT: Power, Spectrum, and Security Challenges": {
+  "doi": "10.1145/3054977.3057313"
+ },
+ "conf|2016|Differential Privacy in Control and Network Systems": {
+  "doi": "10.1109/cdc.2016.7798915"
+ },
+ "conf|2016|Privacy-Aware Quadratic Optimization Using Partially Homomorphic Encryption": {
+  "doi": "10.1109/cdc.2016.7799042"
+ },
+ "conf|2016|Scalable Lazy SMT-Based Motion Planning": {
+  "doi": "10.1109/cdc.2016.7799298"
+ },
+ "conf|2016|Near-Optimal Sensor Scheduling for Batch State Estimation: Complexity, Algorithms, and Limits": {
+  "doi": "10.1109/cdc.2016.7798669"
+ },
+ "conf|2016|State-Based Communication Design for Wireless Control Systems": {
+  "doi": "10.1109/cdc.2016.7798258"
+ },
+ "conf|2016|Location-Dependent Privacy": {
+  "doi": "10.1109/cdc.2016.7799441"
+ },
+ "conf|2016|Multi-Owner Multi-User Privacy": {
+  "doi": "10.1109/cdc.2016.7798524"
+ },
+ "conf|2016|Decentralized Observability with Limited Communication Between Sensors": {
+  "doi": "10.1109/cdc.2016.7798379"
+ },
+ "conf|2016|Coordination of Multi-Agent Systems via Asynchronous Cloud Communication": {
+  "doi": "10.1109/cdc.2016.7798592"
+ },
+ "conf|2016|Self-Triggered Time-Varying Convex Optimization": {
+  "doi": "10.1109/cdc.2016.7798732"
+ },
+ "conf|2016|A Column Generation Approach for Optimized Routing and Coordination of a UAV Fleet": {
+  "doi": "10.1109/ssrr.2016.7784326"
+ },
+ "conf|2016|Approximation of Network Linear Operators Using Similarity Shift Filters": {
+  "doi": "10.1109/globalsip.2016.7905876"
+ },
+ "conf|2016|Online Planning for Energy-Efficient and Disturbance-Aware UAV Operations": {
+  "doi": "10.1109/iros.2016.7759738"
+ },
+ "conf|2016|Minimum Number of Sensors to Ensure Observability of Physiological Systems: A Case Study": {
+  "doi": "10.1109/allerton.2016.7852369"
+ },
+ "conf|2016|Event-Based Information-Theoretic Privacy: A Case Study of Smart Meters": {
+  "doi": "10.1109/acc.2016.7525224"
+ },
+ "conf|2016|Multi-Agent Coordination with Asynchronous Cloud Access": {
+  "doi": "10.1109/acc.2016.7526085"
+ },
+ "conf|2016|Structural Analysis and Design of Dynamic-Flow Networks: Implications in the Brain Dynamics": {
+  "doi": "10.1109/acc.2016.7526572"
+ },
+ "conf|2016|Sensor Placement for Optimal Kalman Filtering: Fundamental Limits, Submodularity, and Algorithms": {
+  "doi": "10.1109/acc.2016.7524914"
+ },
+ "conf|2016|Optimal Temporal Logic Planning in Probabilistic Semantic Maps": {
+  "doi": "10.1109/icra.2016.7487554"
+ },
+ "conf|2016|Control-Aware Random Access Communication": {
+  "doi": "10.1109/iccps.2016.7479071"
+ },
+ "conf|2016|Estimation of Blood Oxygen Content Using Context-Aware Filtering": {
+  "doi": "10.1109/iccps.2016.7479102"
+ },
+ "conf|2016|Implan: Scalable Incremental Motion Planning for Multi-Robot Systems": {
+  "doi": "10.1109/iccps.2016.7479105"
+ },
+ "conf|2015|Distributed Leader Selection": {
+  "doi": "10.1109/cdc.2015.7401997"
+ },
+ "conf|2015|Minimal Reachability Problems": {
+  "doi": "10.1109/cdc.2015.7402877"
+ },
+ "conf|2015|Periodic Event-Triggered Average Consensus over Directed Graphs": {
+  "doi": "10.1109/cdc.2015.7402866"
+ },
+ "conf|2015|Robust Taxi Dispatch under Model Uncertainties": {
+  "doi": "10.1109/cdc.2015.7402643"
+ },
+ "conf|2015|Control with Random Access Wireless Sensors": {
+  "doi": "10.1109/cdc.2015.7402220"
+ },
+ "conf|2015|A General Class of Spreading Processes with Non-Markovian Dynamics": {
+  "doi": "10.1109/cdc.2015.7403013"
+ },
+ "conf|2015|Minimum Number of Probes for Brain Dynamics Observability": {
+  "doi": "10.1109/cdc.2015.7402218"
+ },
+ "conf|2015|Static Output Feedback: On Essential Feasible Information Patterns": {
+  "doi": "10.1109/cdc.2015.7402839"
+ },
+ "conf|2015|A Sublinear Algorithm for Barrier-Certificate-Based Data-Driven Model Validation of Dynamical Systems": {
+  "doi": "10.1109/cdc.2015.7402508"
+ },
+ "conf|2015|Attack-Resilient State Estimation in the Presence of Noise": {
+  "doi": "10.1109/cdc.2015.7403135"
+ },
+ "conf|2015|Self-Triggered Pursuit of a Single Evader": {
+  "doi": "10.1109/cdc.2015.7402412"
+ },
+ "conf|2015|Optimal Resource Allocation for Containing Epidemics on Time-Varying Networks": {
+  "doi": "10.1109/acssc.2015.7421359"
+ },
+ "conf|2015|Robust Estimation Using Context-Aware Filtering": {
+  "doi": "10.1109/allerton.2015.7447058"
+ },
+ "conf|2015|Automatic Verification of Linear Controller Software": {
+  "doi": "10.1109/emsoft.2015.7318277"
+ },
+ "conf|2015|Minimal Actuator Placement with Optimal Control Constraints": {
+  "doi": "10.1109/acc.2015.7171040"
+ },
+ "conf|2015|Team-Triggered Coordination of Robotic Networks for Optimal Deployment": {
+  "doi": "10.1109/acc.2015.7172239"
+ },
+ "conf|2015|An Approximately Truthful Mechanism for Electric Vehicle Charging via Joint Differential Privacy": {
+  "doi": "10.1109/acc.2015.7171102"
+ },
+ "conf|2015|Value of Forecasts in Planning under Uncertainty": {
+  "doi": "10.1109/acc.2015.7172124"
+ },
+ "conf|2015|Minimum Cost Constrained Input-Output and Control Configuration Co-Design Problem: A Structural Systems Approach": {
+  "doi": "10.1109/acc.2015.7171972"
+ },
+ "conf|2015|Optimal Resource Allocation for Competing Epidemics over Arbitrary Networks": {
+  "doi": "10.1109/acc.2015.7170926"
+ },
+ "conf|2015|Distributed Resource Allocation for Control of Spreading Processes": {
+  "doi": "10.1109/ecc.2015.7330868"
+ },
+ "conf|2015|Decentralized Active Information Acquisition: Theory and Application to Multi-Robot SLAM": {
+  "doi": "10.1109/icra.2015.7139863"
+ },
+ "conf|2015|Smart Building: A Private Cyber-Physical System Approach": {
+  "doi": "10.1145/2756755.2756756"
+ },
+ "conf|2014|Stability Analysis of Generalized Epidemic Models over Directed Networks": {
+  "doi": "10.1109/cdc.2014.7040360"
+ },
+ "conf|2014|Coding Sensor Outputs for Injection Attacks Detection": {
+  "doi": "10.1109/cdc.2014.7040293"
+ },
+ "conf|2014|Opportunistic Sensor Scheduling in Wireless Control Systems": {
+  "doi": "10.1109/cdc.2014.7039977"
+ },
+ "conf|2014|Joint Estimation and Localization in Sensor Networks": {
+  "doi": "10.1109/cdc.2014.7040469"
+ },
+ "conf|2014|Differentially Private Convex Optimization with Piecewise Affine Objectives": {
+  "doi": "10.1109/cdc.2014.7039718"
+ },
+ "conf|2014|Controllability and Fraction of Leaders in Infinite Networks": {
+  "doi": "10.1109/cdc.2014.7039571"
+ },
+ "conf|2014|Computation of Privacy-Preserving Prices in Smart Grids": {
+  "doi": "10.1109/cdc.2014.7039715"
+ },
+ "conf|2014|Differentially Private Distributed Protocol for Electric Vehicle Charging": {
+  "doi": "10.1109/allerton.2014.7028462"
+ },
+ "conf|2014|Automated Composition of Motion Primitives for Multi-Robot Systems from Safe LTL Specifications": {
+  "doi": "10.1109/iros.2014.6942758"
+ },
+ "conf|2014|Attack Resilient State Estimation for Autonomous Robotic Systems": {
+  "doi": "10.1109/iros.2014.6943080"
+ },
+ "conf|2014|Active Deformable Part Models Inference": {
+  "doi": "10.1007/978-3-319-10584-0_19"
+ },
+ "conf|2014|Semantic Localization via the Matrix Permanent": {
+  "doi": "10.15607/rss.2014.x.043"
+ },
+ "conf|2014|Information Acquisition with Sensing Robots: Algorithms and Error Bounds": {
+  "doi": "10.1109/icra.2014.6907811"
+ },
+ "conf|2014|Real-Time Privacy-Preserving Model-Based Estimation of Traffic Flows": {
+  "doi": "10.1109/iccps.2014.6843714"
+ },
+ "conf|2014|Opportunistic Scheduling of Control Tasks over Shared Wireless Channels": {
+  "doi": "10.1109/iccps.2014.6843710"
+ },
+ "conf|2014|Robustness of Attack-Resilient State Estimators": {
+  "doi": "10.1109/iccps.2014.6843720"
+ },
+ "conf|2013|Stabilizability over Deterministic Relay Networks": {
+  "doi": "10.1109/cdc.2013.6760504"
+ },
+ "conf|2013|Stochastic Game Approach for Replay Attack Detection": {
+  "doi": "10.1109/cdc.2013.6760152"
+ },
+ "conf|2013|Optimal Vaccine Allocation to Control Epidemic Outbreaks in Arbitrary Networks": {
+  "doi": "10.1109/cdc.2013.6761078"
+ },
+ "conf|2013|Power-Aware Communication for Wireless Sensor-Actuator Systems": {
+  "doi": "10.1109/cdc.2013.6760502"
+ },
+ "conf|2013|Event-Based Green Scheduling of Radiant Systems in Buildings": {
+  "doi": "10.1109/acc.2013.6579879"
+ },
+ "conf|2013|Networked Realization of Discrete-Time Controllers": {
+  "doi": "10.1109/acc.2013.6580290"
+ },
+ "conf|2013|Hypothesis Testing Framework for Active Object Detection": {
+  "doi": "10.1109/icra.2013.6631173"
+ },
+ "conf|2013|Towards Synthesis of Platform-Aware Attack-Resilient Control Systems": {
+  "doi": "10.1145/2461446.2461457"
+ },
+ "conf|2013|Privacy-Preserving Release of Aggregate Dynamic Models": {
+  "doi": "10.1145/2461446.2461454"
+ },
+ "conf|2013|Bio-Inspired Strategy for Control of Viral Spreading in Networks": {
+  "doi": "10.1145/2461446.2461452"
+ },
+ "conf|2013|Demo Abstract: Synthesis of Platform-Aware Attack-Resilient Vehicular Systems": {
+  "doi": "10.1145/2502524.2502570"
+ },
+ "conf|2012|Green Scheduling for Radiant Systems in Buildings": {
+  "doi": "10.1109/cdc.2012.6426318"
+ },
+ "conf|2012|On the Existence of Compositional Barrier Certificates": {
+  "doi": "10.1109/cdc.2012.6426178"
+ },
+ "conf|2012|Differentially Private Kalman Filtering": {
+  "doi": "10.1109/allerton.2012.6483414"
+ },
+ "conf|2012|Adaptive Communication-Constrained Deployment of Mobile Robotic Networks": {
+  "doi": "10.1109/acc.2012.6314804"
+ },
+ "conf|2012|Scalable Scheduling of Building Control Systems for Peak Demand Reduction": {
+  "doi": "10.1109/acc.2012.6315252"
+ },
+ "conf|2012|Stochastic Source Seeking in Complex Environments": {
+  "doi": "10.1109/icra.2012.6225289"
+ },
+ "conf|2012|Sequential Composition of Robust Controller Specifications": {
+  "doi": "10.1109/icra.2012.6224797"
+ },
+ "conf|2012|Closing the Loop: A Simple Distributed Method for Control over Wireless Networks": {
+  "doi": "10.1145/2185677.2185681"
+ },
+ "conf|2012|HMM-Based Characterization of Channel Behavior for Networked Control Systems": {
+  "doi": "10.1145/2185505.2185508"
+ },
+ "conf|2012|Compositional Safety Analysis Using Barrier Certificates": {
+  "doi": "10.1145/2185632.2185639"
+ },
+ "conf|2011|Robot Deployment with End-To-End Communication Constraints": {
+  "doi": "10.1109/cdc.2011.6160837"
+ },
+ "conf|2011|Green Scheduling of Control Systems for Peak Demand Reduction": {
+  "doi": "10.1109/cdc.2011.6161164"
+ },
+ "conf|2011|Topological Conditions for Wireless Control Networks": {
+  "doi": "10.1109/cdc.2011.6161347"
+ },
+ "conf|2011|On the Feasibility of Linear Discrete-Time Systems of the Green Scheduling Problem": {
+  "doi": "10.1109/rtss.2011.34"
+ },
+ "conf|2011|Network Synthesis for Dynamical System Stabilization": {
+  "doi": "10.1109/acssc.2011.6190122"
+ },
+ "conf|2011|A Framework for Integrating Mobility and Routing in Mobile Communication Networks": {
+  "doi": "10.1109/acssc.2011.6190260"
+ },
+ "conf|2011|Receding-Horizon Supervisory Control of Green Buildings": {
+  "doi": "10.1109/acc.2011.5990995"
+ },
+ "conf|2011|Green Scheduling: Scheduling of Control Systems for Peak Power Reduction": {
+  "doi": "10.1109/igcc.2011.6008555"
+ },
+ "conf|2011|Distributed Control of Mobility & Routing in Networks of Robots": {
+  "doi": "10.1109/spawc.2011.5990403"
+ },
+ "conf|2011|Wireless Manipulation of Single Cells Using Magnetic Microtransporters": {
+  "doi": "10.1109/icra.2011.5980100"
+ },
+ "conf|2011|Reputation-Based Networked Control with Data-Corrupting Channels": {
+  "doi": "10.1145/1967701.1967743"
+ },
+ "conf|2011|Resource-Constrained LQR Control under Fast Sampling": {
+  "doi": "10.1145/1967701.1967740"
+ },
+ "conf|2010|Mobility and Routing Control in Networks of Robots": {
+  "doi": "10.1109/cdc.2010.5717013"
+ },
+ "conf|2010|The Wireless Control Network: Monitoring for Malicious Behavior": {
+  "doi": "10.1109/cdc.2010.5717166"
+ },
+ "conf|2010|The Wireless Control Network: Synthesis and Robustness": {
+  "doi": "10.1109/cdc.2010.5717159"
+ },
+ "conf|2010|Nonholonomic Source Seeking in Switching Random Fields": {
+  "doi": "10.1109/cdc.2010.5717650"
+ },
+ "conf|2010|Sensor Based Robot Deployment Algorithms": {
+  "doi": "10.1109/cdc.2010.5716979"
+ },
+ "conf|2010|Hybrid Control and Transport Using Bacteria-Driven Microbiorobots": {
+  "doi": "10.1115/imece2009-11327"
+ },
+ "conf|2010|Geometric Programming and Mechanism Design for Air Traffic Conflict Resolution": {
+  "doi": "10.1109/acc.2010.5530432"
+ },
+ "conf|2010|Discrete Abstraction of Stochastic Nonlinear Systems: A Bisimulation Function Approach": {
+  "doi": "10.1109/acc.2010.5530747"
+ },
+ "conf|2010|Distributed Control of the Laplacian Spectral Moments of a Network": {
+  "doi": "10.1109/acc.2010.5530984"
+ },
+ "conf|2010|Path Planning for Multiple Robots: An Alternative Duality Approach": {
+  "doi": "10.1109/acc.2010.5531605"
+ },
+ "conf|2010|Biosensing and Actuation for Microbiorobots": {
+  "doi": "10.1109/robot.2010.5509528"
+ },
+ "conf|2010|Automatic Synthesis of Robot Controllers for Tasks with Locative Prepositions": {
+  "doi": "10.1109/robot.2010.5509402"
+ },
+ "conf|2010|A Duality Approach to Path Planning for Multiple Robots": {
+  "doi": "10.1109/robot.2010.5509836"
+ },
+ "conf|2010|Robustness Analysis for the Certification of Digital Controller Implementations": {
+  "doi": "10.1145/1795194.1795209"
+ },
+ "conf|2010|Monte-Carlo Techniques for Falsification of Temporal Properties of Non-Linear Hybrid Systems": {
+  "doi": "10.1145/1755952.1755983"
+ },
+ "conf|2009|Robust Stability of Multi-Hop Control Networks": {
+  "doi": "10.1109/cdc.2009.5400552"
+ },
+ "conf|2009|On Trajectory Optimization for Active Sensing in Gaussian Process Models": {
+  "doi": "10.1109/cdc.2009.5399526"
+ },
+ "conf|2009|Resource Allocation for Signal Detection with Active Sensors": {
+  "doi": "10.1109/cdc.2009.5399491"
+ },
+ "conf|2009|Galvanotactic Control of Self-Powered Microstructures": {
+  "doi": "10.1115/imece2008-66647"
+ },
+ "conf|2009|Scalable Scheduling Algorithms for Wireless Networked Control Systems": {
+  "doi": "10.1109/coase.2009.5234106"
+ },
+ "conf|2009|MTL Robust Testing and Verification for LPV Systems": {
+  "doi": "10.1109/acc.2009.5159969"
+ },
+ "conf|2009|A Distributed Dynamical Scheme for Fastest Mixing Markov Chains": {
+  "doi": "10.1109/acc.2009.5160197"
+ },
+ "conf|2009|Harnessing Bacterial Power in Microscale Actuation": {
+  "doi": "10.1109/robot.2009.5152631"
+ },
+ "conf|2009|Multi-Vehicle Path Planning in Dynamically Changing Environments": {
+  "doi": "10.1109/robot.2009.5152520"
+ },
+ "conf|2009|Modeling and Analysis of Multi-Hop Control Networks": {
+  "doi": "10.1109/rtas.2009.40"
+ },
+ "conf|2008|Metabolic Network Analysis Using Convex Optimization": {
+  "doi": "10.1109/cdc.2008.4739111"
+ },
+ "conf|2008|Probabilistic Testing for Stochastic Hybrid Systems": {
+  "doi": "10.1109/cdc.2008.4739166"
+ },
+ "conf|2008|A Distributed Auction Algorithm for the Assignment Problem": {
+  "doi": "10.1109/cdc.2008.4739098"
+ },
+ "conf|2008|Automatically Synthesizing a Planning and Control Subsystem for the DARPA Urban Challenge": {
+  "doi": "10.1109/coase.2008.4626549"
+ },
+ "conf|2008|Recycling Controllers": {
+  "doi": "10.1109/coase.2008.4626521"
+ },
+ "conf|2008|Identification of Stable Genetic Networks Using Convex Programming": {
+  "doi": "10.1109/acc.2008.4586910"
+ },
+ "conf|2008|Distributed Topology Control of Dynamic Networks": {
+  "doi": "10.1109/acc.2008.4586894"
+ },
+ "conf|2008|Elastic Multi-Particle Systems for Bounded-Curvature Path Planning": {
+  "doi": "10.1109/acc.2008.4587292"
+ },
+ "conf|2008|Distributed Multi-Robot Task Assignment and Formation Control": {
+  "doi": "10.1109/robot.2008.4543197"
+ },
+ "conf|2008|From Discrete to Continuous and Back: Abstractions and Mesoscopic Phenomena in Cells": {
+  "doi": "10.1109/wodes.2008.4605958"
+ },
+ "conf|2007|Distributed Formation Control with Permutation Symmetries": {
+  "doi": "10.1109/cdc.2007.4434527"
+ },
+ "conf|2007|Flocking While Preserving Network Connectivity": {
+  "doi": "10.1109/cdc.2007.4434530"
+ },
+ "conf|2007|Hybrid Model Predictive Control of Induction of Escherichia coli": {
+  "doi": "10.1109/cdc.2007.4434840"
+ },
+ "conf|2007|Approximate Hierarchies of Linear Control Systems": {
+  "doi": "10.1109/cdc.2007.4434071"
+ },
+ "conf|2007|Stable Multi-Particle Systems and Application in Multi-Vehicle Path Planning and Coverage": {
+  "doi": "10.1109/cdc.2007.4435031"
+ },
+ "conf|2007|Verification of Temporal Properties on Hybrid Automata by Simulation Relations": {
+  "doi": "10.1109/cdc.2007.4434716"
+ },
+ "conf|2007|Approximate Timed Abstractions of Hybrid Automata": {
+  "doi": "10.1109/cdc.2007.4434720"
+ },
+ "conf|2007|Valet Parking Without a Valet": {
+  "doi": "10.1109/iros.2007.4399374"
+ },
+ "conf|2007|From Structured English to Robot Motion": {
+  "doi": "10.1109/iros.2007.4398998"
+ },
+ "conf|2007|Controlling Biological Systems: The Lactose Regulation System of Escherichia coli": {
+  "doi": "10.1109/acc.2007.4282770"
+ },
+ "conf|2007|Dynamic Assignment in Distributed Motion Planning with Limited Information": {
+  "doi": "10.1109/acc.2007.4282723"
+ },
+ "conf|2007|Cooperative Coverage Using Receding Horizon Control": {
+  "doi": "10.23919/ecc.2007.7068965"
+ },
+ "conf|2007|Sensor-Based Dynamic Assignment in Distributed Motion Planning": {
+  "doi": "10.1109/robot.2007.363987"
+ },
+ "conf|2007|Where’s Waldo ? Sensor-Based Temporal Logic Motion Planning": {
+  "doi": "10.1109/robot.2007.363946"
+ },
+ "conf|2007|Decidability of Motion Planning with Differential Constraints": {
+  "doi": "10.1109/robot.2007.363587"
+ },
+ "conf|2007|Leader-Follower Formations: Uncalibrated Vision-Based Localization and Control": {
+  "doi": "10.1109/robot.2007.363679"
+ },
+ "conf|2006|Approximate Equivalence and Approximate Synchronization of Metric Transition Systems": {
+  "doi": "10.1109/cdc.2006.377763"
+ },
+ "conf|2006|Translating Temporal Logic to Controller Specifications": {
+  "doi": "10.1109/cdc.2006.377825"
+ },
+ "conf|2006|Finite state abstraction of a stochastic model of the lactose regulation system of Escherichia coli": {
+  "doi": "10.1109/cdc.2006.376739"
+ },
+ "conf|2006|Hierarchical Control Using Approximate Simulation Relations": {
+  "doi": "10.1109/cdc.2006.377051"
+ },
+ "conf|2006|Multi-UAV Cooperative Surveillance with Spatio-Temporal Specifications": {
+  "doi": "10.1109/cdc.2006.377157"
+ },
+ "conf|2006|Approximate Reduction of Dynamical Systems": {
+  "doi": "10.1109/cdc.2006.377156"
+ },
+ "conf|2006|Unit & Dynamic Typing in Hybrid Systems Modeling with CHARON": {
+  "doi": "10.1109/cacsd.2006.285444"
+ },
+ "conf|2006|Approximate Bisimulation for a Class of Stochastic Hybrid Systems": {
+  "doi": "10.1109/acc.2006.1657467"
+ },
+ "conf|2005|Quantifying the Gap Between Embedded Control Models and Time-Triggered Implementations": {
+  "doi": "10.1109/rtss.2005.35"
+ },
+ "conf|2005|Controlling Connectivity of Dynamic Graphs": {
+  "doi": "10.1109/cdc.2005.1583186"
+ },
+ "conf|2005|Approximate Bisimulations for Nonlinear Dynamical Systems": {
+  "doi": "10.1109/cdc.2005.1582235"
+ },
+ "conf|2005|Approximate Bisimulations for Constrained Linear Systems": {
+  "doi": "10.1109/cdc.2005.1582904"
+ },
+ "conf|2005|Bounded Model Checking of Hybrid Dynamical Systems": {
+  "doi": "10.1109/cdc.2005.1582233"
+ },
+ "conf|2005|Hybrid Controllers for Path Planning: A Temporal Logic Approach": {
+  "doi": "10.1109/cdc.2005.1582935"
+ },
+ "conf|2005|Vision-Based Localization of Leader-Follower Formations": {
+  "doi": "10.1109/cdc.2005.1582227"
+ },
+ "conf|2005|Temporal Logic Motion Planning for Mobile Robots": {
+  "doi": "10.1109/robot.2005.1570410"
+ },
+ "conf|2005|Information Driven Coordinated Air-Ground Proactive Sensing": {
+  "doi": "10.1109/robot.2005.1570441"
+ },
+ "conf|2004|Stochastic Safety Verification Using Barrier Certificates": {
+  "doi": "10.1109/cdc.2004.1428804"
+ },
+ "conf|2004|S.O.S. for Safety": {
+  "doi": "10.1109/cdc.2004.1428673"
+ },
+ "conf|2004|Experimental Cooperative Control of Fixed-Wing Unmanned Aerial Vehicles": {
+  "doi": "10.1109/cdc.2004.1429426"
+ },
+ "conf|2004|Hybrid Control for Visibility-Based Pursuit Evasion Games": {
+  "doi": "10.1109/iros.2004.1389597"
+ },
+ "conf|2004|UAV and UGV Collaboration for Active Ground Feature Search and Localization": {
+  "doi": "10.2514/6.2004-6565"
+ },
+ "conf|2004|Coordinated Perception by Teams of Aerial and Ground Robots": {
+  "doi": "10.1117/12.571769"
+ },
+ "conf|2004|Geometric Programming Relaxations for Linear System Reachability": {
+  "doi": "10.23919/acc.2004.1383661"
+ },
+ "conf|2003|Finite Bisimulations of Controllable Linear Systems": {
+  "doi": "10.1109/cdc.2003.1272635"
+ },
+ "conf|2003|From Discrete Specifications to Hybrid Control": {
+  "doi": "10.1109/cdc.2003.1271664"
+ },
+ "conf|2003|Hierarchical Trajectory Generation for a Class of Nonlinear Systems": {
+  "doi": "10.1109/cdc.2003.1272236"
+ },
+ "conf|2003|Abstractions of Constrained Linear Systems": {
+  "doi": "10.1109/acc.2003.1244054"
+ },
+ "conf|2002|Discrete Synchronization of Hybrid Systems": {
+  "doi": "10.1109/cdc.2002.1184461"
+ },
+ "conf|2002|Input-To-State Stability on Formation Graphs": {
+  "doi": "10.1109/cdc.2002.1184201"
+ },
+ "conf|2002|Flying Hot Potatoes": {
+  "doi": "10.1109/acc.2002.1024904"
+ },
+ "conf|2002|The Effect of Feedback and Feedforward on Formation ISS": {
+  "doi": "10.1109/robot.2002.1014244"
+ },
+ "conf|2001|Hierarchies of Stabilizability Preserving Linear Systems": {
+  "doi": "10.1109/.2001.980558"
+ },
+ "conf|2001|Stability and Reachability Analysis of a Hybrid Model of Luminescence in the Marine Bacterium Vibrio fischeri": {
+  "doi": "10.1109/cdc.2001.980216"
+ },
+ "conf|2001|Multi-Modal Control of Systems with Constraints": {
+  "doi": "10.1109/cdc.2001.980557"
+ },
+ "conf|2001|Multi-Agent Hybrid System Simulation": {
+  "doi": "10.1109/.2001.980201"
+ },
+ "conf|2001|Hybrid Abstractions: A Search and Rescue Case Study": {
+  "doi": "10.23919/ecc.2001.7076537"
+ },
+ "conf|2001|Greedy Control for Hybrid Pursuit Games": {
+  "doi": "10.23919/ecc.2001.7076324"
+ },
+ "conf|2001|Cyclic Directed Formations of Multi-Agent Systems": {
+  "doi": "10.23919/ecc.2001.7075963"
+ },
+ "conf|2001|Feasible Formations of Multi-Agent Systems": {
+  "doi": "10.1109/acc.2001.945513"
+ },
+ "conf|2000|Consistent Hierarchies of Nonlinear Abstractions": {
+  "doi": "10.1109/cdc.2001.914594"
+ },
+ "conf|2000|Semidecidable Controller Synthesis for Classes of Linear Hybrid Systems": {
+  "doi": "10.1109/cdc.2000.912129"
+ },
+ "conf|1998|Reachability Analysis of Hybrid Systems Using Bisimulations": {
+  "doi": "10.1109/cdc.1998.758525"
+ },
+ "conf|1998|Hierarchically Consistent Control Systems": {
+  "doi": "10.1109/cdc.1998.761989"
+ },
+ "conf|1998|2-1/2 D Conflict Resolution Maneuvers for ATMS": {
+  "doi": "10.1109/cdc.1998.757853"
+ },
+ "conf|1997|A Next Generation Architecture for Air Traffic Management Systems": {
+  "doi": "10.1109/cdc.1997.657516"
+ },
+ "conf|1997|Generation of Conflict Resolution Maneuvers for Air Traffic Management": {
+  "doi": "10.1109/iros.1997.656571"
+ },
+ "conf|1996|Conflict Resolution for Multi-Agent Hybrid Systems": {
+  "doi": "10.1109/cdc.1996.572644"
+ },
+ "conf|1996|Avoiding Saturation by Trajectory Reparameterization": {
+  "doi": "10.1109/cdc.1996.574257"
+ },
+ "conf|1995|Stabilization and Tracking of Feedback Linearizable Systems under Input Constraints": {
+  "doi": "10.1109/cdc.1995.478960"
+ },
+ "conf|1995|Hybrid Control in Air Traffic Management Systems": {
+  "doi": "10.1109/cdc.1995.480311"
+ },
+ "editorial|2014|Guest Editorial: Special Issue on Control of Cyber-Physical Systems": {
+  "doi": "10.1109/tac.2014.2363896"
+ },
+ "editorial|2010|Editorial: Special Issue on the Eleventh International Symposium on Experimental Robotics": {
+  "doi": "10.1177/0278364910363633"
+ },
+ "editorial|2006|Special Section on Symbolic Methods for Complex Control Systems": {
+  "doi": "10.1109/tac.2006.876964"
+ },
+ "journal|2022|Distributed Attack-Robust Submodular Maximization for Multi-Robot Planning": {
+  "doi": "10.1109/tro.2022.3161765"
+ },
+ "journal|2021|Robotics in the AI Era: A Vision for a Hellenic Robotics Initiative": {
+  "doi": "10.1561/2300000069"
+ },
+ "journal|2002|A Framework and Architecture for Multirobot Coordination": {
+  "doi": "10.1177/0278364902021010981"
+ },
+ "chapter|2006|Robustness of Temporal Logic Specifications": {
+  "doi": "10.1007/11940197_12"
+ },
+ "chapter|2001|Optimal Paths in Weighted Timed Automata": {
+  "doi": "10.1007/3-540-45351-2_8"
+ },
+ "conf|2017|Network Design for Controllability Metrics": {
+  "doi": "10.1109/cdc.2017.8264276"
+ },
+ "conf|2016|Diffusing Private Data over Networks": {
+  "doi": "10.1109/acc.2016.7525223"
+ },
+ "conf|2013|Optimal Power Management in Wireless Control Systems": {
+  "doi": "10.1109/acc.2013.6580058"
+ },
+ "conf|2012|Differentially Private Filtering": {
+  "doi": "10.1109/cdc.2012.6426355"
+ },
+ "conf|2007|Distributed Connectivity Control of Mobile Networks": {
+  "doi": "10.1109/cdc.2007.4434525"
+ },
+ "conf|2006|A Dynamical Systems Approach to Weighted Graph Matching": {
+  "doi": "10.1109/cdc.2006.377633"
+ },
+ "conf|2006|Time-Triggered Implementations of Dynamic Controllers": {
+  "doi": "10.1145/1176887.1176890"
  }
 }

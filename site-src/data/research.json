@@ -227,7 +227,8 @@
      "authors": "G. Fainekos and G. J. Pappas",
      "venue": "Formal Approaches to Testing and Runtime Verification (FATES/RV)",
      "year": "2006",
-     "award": "International Conference on Runtime Verification (RV) Test of Time Award, 2025"
+     "award": "International Conference on Runtime Verification (RV) Test of Time Award, 2025",
+     "url": "https://doi.org/10.1007/11940197_12"
     }
    ],
    "img": "images/physical-ai-safety.jpg",

@@ -175,8 +175,10 @@ PUB_KIND = {"journal": "journal", "conf": "conf", "chapter": "chapter", "book": 
 def publications():
     rows = load("publications.json")
     links = load("pub-links.json") if os.path.exists(os.path.join(DATA, "pub-links.json")) else {}
-    for r in rows:  # PDFs and publisher pages kept by title in pub-links.json
-        extra = links.get(r[5], {})
+    for r in rows:  # DOIs, PDFs and publisher pages the CV lacks, keyed "kind|year|title" in pub-links.json
+        extra = links.get("%s|%s|%s" % (r[1], r[2], r[5]), {})
+        if not r[7] and extra.get("doi"):
+            r[7] = extra["doi"]
         r[9:] = [extra.get("pdf", r[9] if len(r) > 9 else ""), extra.get("url", r[10] if len(r) > 10 else "")]
     order = {r[0]: i for i, r in enumerate(rows)}
     rows = sorted(rows, key=lambda r: (-r[2], -month_of(r[6]), order[r[0]]))
