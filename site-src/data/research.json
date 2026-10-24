@@ -132,9 +132,9 @@
      "year": "2023"
     }
    ],
-   "img": "",
-   "alt": "",
-   "caption": "",
+   "img": "images/learning-and-control.jpg",
+   "alt": "Illustration of a drone in a robotics lab flying a learned trajectory, with an uncertainty tube around its path and translucent green cylinders marking the safe set",
+   "caption": "Illustration: a drone learns its dynamics from data while its controller keeps it inside the safe set.",
    "figureIdea": "Figure: learning a controller from data",
    "id": "learning-and-control"
   },
