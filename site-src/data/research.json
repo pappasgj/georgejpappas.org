@@ -37,7 +37,8 @@
     }
    ],
    "figureIdea": "",
-   "id": "safe-physical-ai"
+   "id": "safe-physical-ai",
+   "tagline": "Jailbreaking, red-teaming and guardrails for LLM-enabled robots — RoboPAIR, RoboGuard and context-aware safety."
   },
   {
    "short": "Trustworthy AI",
@@ -102,7 +103,8 @@
    "alt": "Illustration of an autonomous ground robot on a wet forest road in rain and fog, with an overlay showing low-confidence detections, a missed fallen branch, sparse lidar points and a widening uncertainty band around its path",
    "caption": "Illustration: in rain and fog, learned perception becomes fragile — low-confidence detections, a misread sign, a missed obstacle — and calibrated uncertainty shows the robot how far it can trust what it sees.",
    "figureIdea": "Figure: jailbreak attack and defense pipeline",
-   "id": "trustworthy-ai"
+   "id": "trustworthy-ai",
+   "tagline": "Jailbreak attacks and defenses, neural network verification, conformal prediction, and oversight of AI agents."
   },
   {
    "short": "Learning and Control",
@@ -148,7 +150,8 @@
    "alt": "Illustration of a drone in a robotics lab flying a learned trajectory, with an uncertainty tube around its path and translucent green cylinders marking the safe set",
    "caption": "Illustration: a drone learns its dynamics from data while its controller keeps it inside the safe set.",
    "figureIdea": "Figure: learning a controller from data",
-   "id": "learning-and-control"
+   "id": "learning-and-control",
+   "tagline": "Finite-sample learning theory for identification and control, domain randomization and risk-aware control."
   },
   {
    "short": "Layered Control",
@@ -193,7 +196,8 @@
    "alt": "Illustration of air traffic over an airport at dusk with three labeled control layers: a planning map of arrival and departure corridors, trajectory ribbons spacing the arriving jets, and feedback rings correcting each aircraft for wind",
    "caption": "Illustration: layered control in air traffic — planning over minutes, trajectories over seconds, feedback over milliseconds.",
    "figureIdea": "Figure: layered control architecture — planning, abstraction and fast feedback layers",
-   "id": "layered-control"
+   "id": "layered-control",
+   "tagline": "Layered control architectures, from hierarchical abstractions and bisimulation to multirate control."
   },
   {
    "short": "Formal Methods",
@@ -247,7 +251,8 @@
    "alt": "A delivery robot at a night crosswalk: with a parked car’s headlights off it judges the crossing safe; with the headlights on it yields",
    "caption": "Context-aware safety: the same scene calls for different actions depending on context, here whether a parked car’s headlights are on.",
    "figureIdea": "Figure: conformal prediction regions around a planned trajectory",
-   "id": "formal-methods"
+   "id": "formal-methods",
+   "tagline": "Temporal logic robustness, and verification and planning with conformal prediction."
   },
   {
    "short": "Multi-Robot Systems",
@@ -300,7 +305,8 @@
    "alt": "Illustration of a ground robot and two drones at dusk building a shared semantic map of a campus, with labeled buildings, cars and people and dashed communication links",
    "caption": "Illustration: an air–ground robot team builds a shared semantic map, labeling buildings, cars and people as it explores.",
    "figureIdea": "Photo: air–ground robot team in the field",
-   "id": "multi-robot-systems"
+   "id": "multi-robot-systems",
+   "tagline": "Semantic mapping, language-specified missions and air–ground robot teams."
   }
  ],
  "funding": [

@@ -276,16 +276,33 @@ def ctx_bio():
 def ctx_research():
     d = load("research.json")
     d["funding"] = [dict(f, hasUrl=bool(f.get("url")), noUrl=not f.get("url")) for f in d["funding"]]
-    idx = paper_doi_index()
+    norm = lambda t: re.sub(r"[^a-z0-9]", "", t.lower())
+    by_title = {}
+    for y in publications():
+        for item in y["items"]:
+            by_title.setdefault(norm(item["title"]), []).append((str(y["year"]), item))
     areas = []
     for i, a in enumerate(d["areas"]):
         projects = [f for f in d["funding"] if i in f["areas"]]
+        papers = []
+        for k in a["papers"]:
+            cands = by_title.get(norm(k["title"]), [])
+            hit = next((it for yr, it in cands if yr == str(k["year"])), None) or (cands[0][1] if cands else None)
+            if not hit:
+                raise SystemExit("research key paper not in the CV: " + k["title"])
+            item = dict(hit)
+            extra = k.get("url", "")
+            if extra and not item["hasPdf"] and "doi.org" not in extra:
+                m = re.match(r"https?://arxiv\.org/abs/(.+)", extra)
+                item["pdf"] = "https://arxiv.org/pdf/" + m.group(1) if m else extra
+                item["hasPdf"] = True
+                if not item["titleLink"]:
+                    item.update(titleUrl=item["pdf"], titleLink=True, showScholar=False)
+            papers.append(item)
         areas.append(dict(a, index=i, first=i == 0, hidden=i != 0, selected="true" if i == 0 else "false",
                           projects=projects, hasProjects=bool(projects), hasImg=bool(a.get("img")),
-                          noImg=not a.get("img"), papers=flags(add_dois(a["papers"], idx, "year"))))
-    funding = [dict(f, areaChips=[{"label": d["areas"][i]["short"], "id": d["areas"][i]["id"], "index": i}
-                                  for i in f["areas"]]) for f in d["funding"]]
-    return {"areas": areas, "funding": funding}
+                          noImg=not a.get("img"), papers=papers))
+    return {"areas": areas}
 
 
 def ctx_group():
