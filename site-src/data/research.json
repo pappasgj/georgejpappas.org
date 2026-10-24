@@ -137,7 +137,7 @@
   {
    "short": "Learning and Control",
    "title": "Learning and Control",
-   "desc": "Finite-sample theory for learning dynamical systems and controllers — system identification, learning nonlinear dynamics, policy gradients, domain randomization and risk-aware control.",
+   "desc": "Finite-sample theory for learning dynamical systems and controllers — system identification, learning nonlinear dynamics, policy gradients, domain randomization and risk-aware control — and for learning across many agents: federated and multi-agent reinforcement learning, and collaborative learning that stays robust to adversarial agents.",
    "papers": [
     {
      "title": "Domain Randomization Is Sample Efficient for Linear Quadratic Control",
@@ -161,6 +161,10 @@
      "year": "2025"
     },
     {
+     "title": "Finite-Time Analysis of over-The-Air Federated TD Learning",
+     "year": "2025"
+    },
+    {
      "title": "Sharp Rates in Dependent Learning Theory: Avoiding Sample Size Deflation for the Square Loss",
      "authors": "I. Ziemann, S. Tu, G. J. Pappas and N. Matni",
      "venue": "Proc. ICML",
@@ -180,6 +184,10 @@
      "year": "2024"
     },
     {
+     "title": "DASA: Delay-Adaptive Multi-Agent Stochastic Approximation",
+     "year": "2024"
+    },
+    {
      "title": "Statistical Learning Theory for Control: A Finite-Sample Perspective",
      "authors": "A. Tsiamis, I. Ziemann, N. Matni and G. J. Pappas",
      "venue": "IEEE Control Systems Magazine",
@@ -188,6 +196,14 @@
     {
      "title": "Learning to Control Linear Systems Can Be Hard",
      "year": "2022"
+    },
+    {
+     "title": "Collaborative Linear Bandits with Adversarial Agents: Near-Optimal Regret Bounds",
+     "year": "2022"
+    },
+    {
+     "title": "Linear Convergence in Federated Learning: Tackling Client Heterogeneity and Sparse Gradients",
+     "year": "2021"
     },
     {
      "title": "Sample Complexity of Kalman Filtering for Unknown Systems",
@@ -199,7 +215,7 @@
    "caption": "Illustration: a drone learns its dynamics from data while its controller keeps it inside the safe set.",
    "figureIdea": "Figure: learning a controller from data",
    "id": "learning-and-control",
-   "tagline": "Finite-sample learning theory for identification and control, domain randomization and risk-aware control.",
+   "tagline": "Finite-sample learning theory for identification and control, risk-aware control, and federated and multi-agent learning.",
    "videos": [
     {
      "id": "C412",
