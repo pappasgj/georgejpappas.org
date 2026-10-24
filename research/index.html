@@ -4,11 +4,11 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>George J. Pappas — Research</title>
-<meta name="description" content="Research of George J. Pappas: safe physical AI, trustworthy AI, learning and control, layered control, formal methods for safe autonomy and multi-robot systems.">
+<meta name="description" content="Research of George J. Pappas: safe physical AI, trustworthy AI, learning and control, formal methods and control, and multi-robot systems.">
 <link rel="canonical" href="https://www.georgejpappas.org/research/">
 <meta property="og:type" content="website">
 <meta property="og:title" content="George J. Pappas — Research">
-<meta property="og:description" content="Research of George J. Pappas: safe physical AI, trustworthy AI, learning and control, layered control, formal methods for safe autonomy and multi-robot systems.">
+<meta property="og:description" content="Research of George J. Pappas: safe physical AI, trustworthy AI, learning and control, formal methods and control, and multi-robot systems.">
 <meta property="og:url" content="https://www.georgejpappas.org/research/">
 <meta name="twitter:card" content="summary">
 <link rel="icon" href="../assets/favicon.ico" sizes="any">
@@ -82,9 +82,7 @@
 
 <button type="button" role="tab" class="area-tab" id="tab-learning-and-control" aria-controls="learning-and-control" aria-selected="false" data-area="learning-and-control"><span class="area-tab-name">Learning and Control</span><span class="area-tab-line">Finite-sample learning theory for identification and control, risk-aware control, and federated and multi-agent learning.</span></button>
 
-<button type="button" role="tab" class="area-tab" id="tab-layered-control" aria-controls="layered-control" aria-selected="false" data-area="layered-control"><span class="area-tab-name">Layered Control</span><span class="area-tab-line">Layered control architectures, from hierarchical abstractions and bisimulation to multirate control.</span></button>
-
-<button type="button" role="tab" class="area-tab" id="tab-formal-methods" aria-controls="formal-methods" aria-selected="false" data-area="formal-methods"><span class="area-tab-name">Formal Methods</span><span class="area-tab-line">Temporal logic robustness, and verification and planning with conformal prediction.</span></button>
+<button type="button" role="tab" class="area-tab" id="tab-formal-methods-and-control" aria-controls="formal-methods-and-control" aria-selected="false" data-area="formal-methods-and-control"><span class="area-tab-name">Formal Methods and Control</span><span class="area-tab-line">Temporal logic robustness, verification, planning with conformal prediction, and layered control, from approximate bisimulation to multirate architectures.</span></button>
 
 <button type="button" role="tab" class="area-tab" id="tab-multi-robot-systems" aria-controls="multi-robot-systems" aria-selected="false" data-area="multi-robot-systems"><span class="area-tab-name">Multi-Robot Systems</span><span class="area-tab-line">Semantic mapping, language-specified missions and air–ground robot teams.</span></button>
 
@@ -538,91 +536,7 @@
 
 </section>
 
-<section role="tabpanel" id="layered-control" aria-labelledby="tab-layered-control" class="area-panel">
-<div class="area-fig">
-
-<figure style="margin: 0; display: flex; flex-direction: column; gap: 8px">
-<img src="../images/layered-control.jpg" alt="Illustration of air traffic over an airport at dusk with three labeled control layers: a planning map of arrival and departure corridors, trajectory ribbons spacing the arriving jets, and feedback rings correcting each aircraft for wind" style="width: 100%; height: auto; max-height: 380px; object-fit: cover; display: block; border-bottom: 6px solid #990000">
-<figcaption style="font-size: 14px; color: #4A5263">Illustration: layered control in air traffic — planning over minutes, trajectories over seconds, feedback over milliseconds.</figcaption>
-</figure>
-
-
-</div>
-
-<div class="area-text">
-<h2 style="margin: 0; font-family: 'Source Serif 4', Georgia, serif; font-size: 34px; line-height: 1.15; color: #011F5B">Layered Control</h2>
-<p style="margin: 0; font-size: 18px">The theory of layered control architectures: hierarchical abstractions and bisimulation that let simple models stand in for complex systems with guarantees, and layered multirate control that couples slow planning with fast feedback.</p>
-<h3 style="margin: 10px 0 0; font-size: 14px; letter-spacing: 0.08em; text-transform: uppercase; color: #011F5B">Key papers</h3>
-<ol class="pub-list" data-bib="../publications/bibtex.json" style="margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 16px">
-
-<li class="pub" data-id="C403" data-kind="conf" data-award="" data-code="">
-<span class="pub-id">C403</span>
-<div class="pub-body">
-<span class="pub-cite"><span class="pub-text">C. Stamouli, A. Tsiamis, M. Morari and G. J. Pappas, “<a href="https://doi.org/10.1109/cdc57313.2025.11312250">Layered Multirate Control of Constrained Linear Systems</a>,” in Proc. 64th IEEE Conference on Decision and Control (CDC), pp. 3027–3034, Rio de Janeiro, Brazil, December 2025.</span> <span class="pub-links">[<a href="https://doi.org/10.1109/cdc57313.2025.11312250">DOI</a>]       <button type="button" class="bib-btn js-only" hidden aria-expanded="false">[BibTeX]</button></span></span>
-</div>
-</li>
-
-<li class="pub" data-id="C383" data-kind="conf" data-award="" data-code="">
-<span class="pub-id">C383</span>
-<div class="pub-body">
-<span class="pub-cite"><span class="pub-text">C. J. Stamouli, L. Lindemann and G. J. Pappas, “<a href="https://proceedings.mlr.press/v242/stamouli24a/stamouli24a.pdf">Recursively Feasible Shrinking-Horizon MPC in Dynamic Environments with Conformal Prediction Guarantees</a>,” in Proc. Conference on Learning for Dynamics and Control (L4DC), pp. 1330–1342, 2024.</span> <span class="pub-links"> [<a href="https://proceedings.mlr.press/v242/stamouli24a/stamouli24a.pdf">PDF</a>] [<a href="https://proceedings.mlr.press/v242/stamouli24a.html">Proceedings</a>]     <button type="button" class="bib-btn js-only" hidden aria-expanded="false">[BibTeX]</button></span></span>
-</div>
-</li>
-
-<li class="pub" data-id="C340" data-kind="conf" data-award="" data-code="">
-<span class="pub-id">C340</span>
-<div class="pub-body">
-<span class="pub-cite"><span class="pub-text">C. Stamouli, A. Tsiamis, M. Morari and G. J. Pappas, “<a href="https://proceedings.mlr.press/v168/stamouli22a/stamouli22a.pdf">Adaptive Stochastic MPC under Unknown Noise Distribution</a>,” in Proc. Conference on Learning for Dynamics and Control (L4DC), pp. 596–607, Stanford, CA, June 2022.</span> <span class="pub-links"> [<a href="https://proceedings.mlr.press/v168/stamouli22a/stamouli22a.pdf">PDF</a>] [<a href="https://proceedings.mlr.press/v168/stamouli22a.html">Proceedings</a>]     <button type="button" class="bib-btn js-only" hidden aria-expanded="false">[BibTeX]</button></span></span>
-</div>
-</li>
-
-<li class="pub" data-id="J58" data-kind="journal" data-award="" data-code="">
-<span class="pub-id">J58</span>
-<div class="pub-body">
-<span class="pub-cite"><span class="pub-text">A. Girard and G. J. Pappas, “<a href="https://doi.org/10.3166/ejc.17.568-578">Approximate Bisimulation: A Bridge Between Computer Science and Control Theory</a>,” European Journal of Control, vol. 17, no. 5-6, pp. 568–578, 2011.</span> <span class="pub-links">[<a href="https://doi.org/10.3166/ejc.17.568-578">DOI</a>]       <button type="button" class="bib-btn js-only" hidden aria-expanded="false">[BibTeX]</button></span></span>
-</div>
-</li>
-
-<li class="pub" data-id="J43" data-kind="journal" data-award="" data-code="">
-<span class="pub-id">J43</span>
-<div class="pub-body">
-<span class="pub-cite"><span class="pub-text">A. Girard and G. J. Pappas, “<a href="https://doi.org/10.1016/j.automatica.2008.09.016">Hierarchical Control System Design Using Approximate Simulation</a>,” Automatica, vol. 45, no. 2, pp. 566–571, February 2009.</span> <span class="pub-links">[<a href="https://doi.org/10.1016/j.automatica.2008.09.016">DOI</a>]       <button type="button" class="bib-btn js-only" hidden aria-expanded="false">[BibTeX]</button></span></span>
-</div>
-</li>
-
-<li class="pub" data-id="J29" data-kind="journal" data-award="1" data-code="">
-<span class="pub-id">J29</span>
-<div class="pub-body">
-<span class="pub-cite"><span class="pub-text">A. Girard and G. J. Pappas, “<a href="https://doi.org/10.1109/tac.2007.895849">Approximation Metrics for Discrete and Continuous Systems</a>,” IEEE Transactions on Automatic Control, vol. 52, no. 5, pp. 782–798, May 2007.</span> <span class="pub-award">IEEE CSS George S. Axelby Outstanding Paper Award, 2009</span> <span class="pub-links">[<a href="https://doi.org/10.1109/tac.2007.895849">DOI</a>] [<a href="https://repository.upenn.edu/cis_papers/343">PDF</a>]      <button type="button" class="bib-btn js-only" hidden aria-expanded="false">[BibTeX]</button></span></span>
-</div>
-</li>
-
-<li class="pub" data-id="J5" data-kind="journal" data-award="" data-code="">
-<span class="pub-id">J5</span>
-<div class="pub-body">
-<span class="pub-cite"><span class="pub-text">G. J. Pappas, G. Lafferriere and S. Sastry, “<a href="https://doi.org/10.1109/9.863598">Hierarchically Consistent Control Systems</a>,” IEEE Transactions on Automatic Control, vol. 45, no. 6, pp. 1144–1160, June 2000.</span> <span class="pub-links">[<a href="https://doi.org/10.1109/9.863598">DOI</a>] [<a href="https://repository.upenn.edu/ese_papers/87">PDF</a>]      <button type="button" class="bib-btn js-only" hidden aria-expanded="false">[BibTeX]</button></span></span>
-</div>
-</li>
-
-</ol>
-<a href="../publications/" style="font-weight: 600; margin-top: 4px">All publications →</a>
-
-<div class="side-block" style="margin-top: 16px">
-<h3 style="margin: 0; font-size: 14px; letter-spacing: 0.08em; text-transform: uppercase; color: #011F5B">Current projects</h3>
-
-<div class="side-item">
-<a href="https://schema-coe.mit.edu/" class="project-link">SCHEMA: Scalable Compositional Hierarchies for Evolvable Multi-Agent Architectures <span aria-hidden="true">↗</span></a>
-<span class="side-meta">Air Force Office of Scientific Research (via MIT) · 2025–2030</span>
-</div>
-
-</div>
-
-</div>
-
-
-</section>
-
-<section role="tabpanel" id="formal-methods" aria-labelledby="tab-formal-methods" class="area-panel">
+<section role="tabpanel" id="formal-methods-and-control" aria-labelledby="tab-formal-methods-and-control" class="area-panel">
 <div class="area-fig">
 
 <figure style="margin: 0; display: flex; flex-direction: column; gap: 8px">
@@ -634,8 +548,8 @@
 </div>
 
 <div class="area-text">
-<h2 style="margin: 0; font-family: 'Source Serif 4', Georgia, serif; font-size: 34px; line-height: 1.15; color: #011F5B">Formal Methods for Safe Autonomy</h2>
-<p style="margin: 0; font-size: 18px">Guarantees for autonomous systems: temporal logic specifications and their quantitative robustness, reactive mission and motion planning, verification of systems with neural network controllers, and planning and control with conformal prediction when the environment is uncertain or unknown.</p>
+<h2 style="margin: 0; font-family: 'Source Serif 4', Georgia, serif; font-size: 34px; line-height: 1.15; color: #011F5B">Formal Methods and Control</h2>
+<p style="margin: 0; font-size: 18px">Guarantees for autonomous systems, from specification to architecture: temporal logic specifications and their quantitative robustness, verification of systems with neural network controllers, and planning and control with conformal prediction when the environment is uncertain or unknown — together with the abstraction hierarchies, from approximate bisimulation to layered control architectures, that let simple models stand in for complex systems with guarantees.</p>
 <h3 style="margin: 10px 0 0; font-size: 14px; letter-spacing: 0.08em; text-transform: uppercase; color: #011F5B">Key papers</h3>
 <ol class="pub-list" data-bib="../publications/bibtex.json" style="margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 16px">
 
@@ -646,6 +560,13 @@
 </div>
 </li>
 
+<li class="pub" data-id="C403" data-kind="conf" data-award="" data-code="">
+<span class="pub-id">C403</span>
+<div class="pub-body">
+<span class="pub-cite"><span class="pub-text">C. Stamouli, A. Tsiamis, M. Morari and G. J. Pappas, “<a href="https://doi.org/10.1109/cdc57313.2025.11312250">Layered Multirate Control of Constrained Linear Systems</a>,” in Proc. 64th IEEE Conference on Decision and Control (CDC), pp. 3027–3034, Rio de Janeiro, Brazil, December 2025.</span> <span class="pub-links">[<a href="https://doi.org/10.1109/cdc57313.2025.11312250">DOI</a>]       <button type="button" class="bib-btn js-only" hidden aria-expanded="false">[BibTeX]</button></span></span>
+</div>
+</li>
+
 <li class="pub" data-id="J162" data-kind="journal" data-award="1" data-code="">
 <span class="pub-id">J162</span>
 <div class="pub-body">
@@ -653,17 +574,10 @@
 </div>
 </li>
 
-<li class="pub" data-id="J148" data-kind="journal" data-award="" data-code="">
-<span class="pub-id">J148</span>
+<li class="pub" data-id="C383" data-kind="conf" data-award="" data-code="">
+<span class="pub-id">C383</span>
 <div class="pub-body">
-<span class="pub-cite"><span class="pub-text">L. Lindemann, M. Cleaveland, G. Shim and G. J. Pappas, “<a href="https://doi.org/10.1109/lra.2023.3292071">Safe Planning in Dynamic Environments Using Conformal Prediction</a>,” IEEE Robotics and Automation Letters, vol. 8, no. 8, pp. 5116–5123, August 2023.</span> <span class="pub-links">[<a href="https://doi.org/10.1109/lra.2023.3292071">DOI</a>]       <button type="button" class="bib-btn js-only" hidden aria-expanded="false">[BibTeX]</button></span></span>
-</div>
-</li>
-
-<li class="pub" data-id="C358" data-kind="conf" data-award="" data-code="">
-<span class="pub-id">C358</span>
-<div class="pub-body">
-<span class="pub-cite"><span class="pub-text">L. Lindemann, X. Qin, J. Deshmukh and G. J. Pappas, “<a href="https://doi.org/10.1145/3576841.3585927">Conformal Prediction for STL Runtime Verification</a>,” in Proc. ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS), May 2023.</span> <span class="pub-links">[<a href="https://doi.org/10.1145/3576841.3585927">DOI</a>]       <button type="button" class="bib-btn js-only" hidden aria-expanded="false">[BibTeX]</button></span></span>
+<span class="pub-cite"><span class="pub-text">C. J. Stamouli, L. Lindemann and G. J. Pappas, “<a href="https://proceedings.mlr.press/v242/stamouli24a/stamouli24a.pdf">Recursively Feasible Shrinking-Horizon MPC in Dynamic Environments with Conformal Prediction Guarantees</a>,” in Proc. Conference on Learning for Dynamics and Control (L4DC), pp. 1330–1342, 2024.</span> <span class="pub-links"> [<a href="https://proceedings.mlr.press/v242/stamouli24a/stamouli24a.pdf">PDF</a>] [<a href="https://proceedings.mlr.press/v242/stamouli24a.html">Proceedings</a>]     <button type="button" class="bib-btn js-only" hidden aria-expanded="false">[BibTeX]</button></span></span>
 </div>
 </li>
 
@@ -671,13 +585,6 @@
 <span class="pub-id">C356</span>
 <div class="pub-body">
 <span class="pub-cite"><span class="pub-text">S. Kalluraya, G. J. Pappas and Y. Kantaros, “<a href="https://doi.org/10.1109/icra48891.2023.10160344">Multi-Robot Mission Planning in Dynamic Semantic Environments</a>,” in Proc. IEEE International Conference on Robotics and Automation (ICRA), May 2023.</span> <span class="pub-links">[<a href="https://doi.org/10.1109/icra48891.2023.10160344">DOI</a>]    [<a href="https://vimeo.com/749441727">Video</a>]   <button type="button" class="bib-btn js-only" hidden aria-expanded="false">[BibTeX]</button></span></span>
-</div>
-</li>
-
-<li class="pub" data-id="J138" data-kind="journal" data-award="" data-code="">
-<span class="pub-id">J138</span>
-<div class="pub-body">
-<span class="pub-cite"><span class="pub-text">L. Lindemann, G. J. Pappas and D. Dimarogonas, “<a href="https://doi.org/10.1109/tac.2021.3120681">Reactive and Risk-Aware Control for Signal Temporal Logic</a>,” IEEE Transactions on Automatic Control, vol. 67, no. 10, pp. 5262–5277, October 2022.</span> <span class="pub-links">[<a href="https://doi.org/10.1109/tac.2021.3120681">DOI</a>]       <button type="button" class="bib-btn js-only" hidden aria-expanded="false">[BibTeX]</button></span></span>
 </div>
 </li>
 
@@ -716,10 +623,31 @@
 </div>
 </li>
 
+<li class="pub" data-id="J43" data-kind="journal" data-award="" data-code="">
+<span class="pub-id">J43</span>
+<div class="pub-body">
+<span class="pub-cite"><span class="pub-text">A. Girard and G. J. Pappas, “<a href="https://doi.org/10.1016/j.automatica.2008.09.016">Hierarchical Control System Design Using Approximate Simulation</a>,” Automatica, vol. 45, no. 2, pp. 566–571, February 2009.</span> <span class="pub-links">[<a href="https://doi.org/10.1016/j.automatica.2008.09.016">DOI</a>]       <button type="button" class="bib-btn js-only" hidden aria-expanded="false">[BibTeX]</button></span></span>
+</div>
+</li>
+
+<li class="pub" data-id="J29" data-kind="journal" data-award="1" data-code="">
+<span class="pub-id">J29</span>
+<div class="pub-body">
+<span class="pub-cite"><span class="pub-text">A. Girard and G. J. Pappas, “<a href="https://doi.org/10.1109/tac.2007.895849">Approximation Metrics for Discrete and Continuous Systems</a>,” IEEE Transactions on Automatic Control, vol. 52, no. 5, pp. 782–798, May 2007.</span> <span class="pub-award">IEEE CSS George S. Axelby Outstanding Paper Award, 2009</span> <span class="pub-links">[<a href="https://doi.org/10.1109/tac.2007.895849">DOI</a>]       <button type="button" class="bib-btn js-only" hidden aria-expanded="false">[BibTeX]</button></span></span>
+</div>
+</li>
+
 <li class="pub" data-id="Ch26" data-kind="chapter" data-award="1" data-code="">
 <span class="pub-id">Ch26</span>
 <div class="pub-body">
 <span class="pub-cite"><span class="pub-text">G. Fainekos and G. J. Pappas, “<a href="https://doi.org/10.1007/11940197_12">Robustness of Temporal Logic Specifications</a>,” in Formal Approaches to Testing and Runtime Verification (FATES/RV), vol. 4262 of Lecture Notes in Computer Science, pp. 178–192, Springer-Verlag, Seattle, WA, August 2006.</span> <span class="pub-award">International Conference on Runtime Verification (RV) Test of Time Award, 2025</span> <span class="pub-links">[<a href="https://doi.org/10.1007/11940197_12">DOI</a>]       <button type="button" class="bib-btn js-only" hidden aria-expanded="false">[BibTeX]</button></span></span>
+</div>
+</li>
+
+<li class="pub" data-id="J5" data-kind="journal" data-award="" data-code="">
+<span class="pub-id">J5</span>
+<div class="pub-body">
+<span class="pub-cite"><span class="pub-text">G. J. Pappas, G. Lafferriere and S. Sastry, “<a href="https://doi.org/10.1109/9.863598">Hierarchically Consistent Control Systems</a>,” IEEE Transactions on Automatic Control, vol. 45, no. 6, pp. 1144–1160, June 2000.</span> <span class="pub-links">[<a href="https://doi.org/10.1109/9.863598">DOI</a>]       <button type="button" class="bib-btn js-only" hidden aria-expanded="false">[BibTeX]</button></span></span>
 </div>
 </li>
 
@@ -728,6 +656,11 @@
 
 <div class="side-block" style="margin-top: 16px">
 <h3 style="margin: 0; font-size: 14px; letter-spacing: 0.08em; text-transform: uppercase; color: #011F5B">Current projects</h3>
+
+<div class="side-item">
+<a href="https://schema-coe.mit.edu/" class="project-link">SCHEMA: Scalable Compositional Hierarchies for Evolvable Multi-Agent Architectures <span aria-hidden="true">↗</span></a>
+<span class="side-meta">Air Force Office of Scientific Research (via MIT) · 2025–2030</span>
+</div>
 
 <div class="side-item">
 <a href="https://www.dcist-cra.org/" class="project-link">DCIST / ARCHES: Autonomous Resilient Cognitive Heterogeneous Swarms <span aria-hidden="true">↗</span></a>
@@ -739,7 +672,7 @@
 </div>
 
 
-<aside class="area-side" aria-label="Videos and press for Formal Methods for Safe Autonomy">
+<aside class="area-side" aria-label="Videos and press for Formal Methods and Control">
 
 <div class="side-block">
 <h3 class="side-h">Videos</h3>

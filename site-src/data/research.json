@@ -234,14 +234,20 @@
    ]
   },
   {
-   "short": "Layered Control",
-   "title": "Layered Control",
-   "desc": "The theory of layered control architectures: hierarchical abstractions and bisimulation that let simple models stand in for complex systems with guarantees, and layered multirate control that couples slow planning with fast feedback.",
+   "short": "Formal Methods and Control",
+   "title": "Formal Methods and Control",
+   "desc": "Guarantees for autonomous systems, from specification to architecture: temporal logic specifications and their quantitative robustness, verification of systems with neural network controllers, and planning and control with conformal prediction when the environment is uncertain or unknown — together with the abstraction hierarchies, from approximate bisimulation to layered control architectures, that let simple models stand in for complex systems with guarantees.",
    "papers": [
     {
+     "title": "Safe Planning in Unknown Environments Using Conformalized Semantic Maps",
+     "year": "2026"
+    },
+    {
      "title": "Layered Multirate Control of Constrained Linear Systems",
-     "authors": "C. Stamouli, A. Tsiamis, M. Morari and G. J. Pappas",
-     "venue": "Proc. IEEE CDC",
+     "year": "2025"
+    },
+    {
+     "title": "Formal Verification and Control with Conformal Prediction: Practical Safety Guarantees for Autonomous Systems",
      "year": "2025"
     },
     {
@@ -249,79 +255,8 @@
      "year": "2024"
     },
     {
-     "title": "Adaptive Stochastic MPC under Unknown Noise Distribution",
-     "year": "2022"
-    },
-    {
-     "title": "Approximate Bisimulation: A Bridge Between Computer Science and Control Theory",
-     "authors": "A. Girard and G. J. Pappas",
-     "venue": "European Journal of Control",
-     "year": "2011"
-    },
-    {
-     "title": "Hierarchical Control System Design Using Approximate Simulation",
-     "authors": "A. Girard and G. J. Pappas",
-     "venue": "Automatica",
-     "year": "2009"
-    },
-    {
-     "title": "Approximation Metrics for Discrete and Continuous Systems",
-     "url": "https://repository.upenn.edu/cis_papers/343",
-     "authors": "A. Girard and G. J. Pappas",
-     "venue": "IEEE Transactions on Automatic Control",
-     "year": "2007",
-     "award": "IEEE CSS George S. Axelby Outstanding Paper Award, 2009"
-    },
-    {
-     "title": "Hierarchically Consistent Control Systems",
-     "url": "https://repository.upenn.edu/ese_papers/87",
-     "authors": "G. J. Pappas, G. Lafferriere and S. Sastry",
-     "venue": "IEEE Transactions on Automatic Control",
-     "year": "2000"
-    }
-   ],
-   "img": "images/layered-control.jpg",
-   "alt": "Illustration of air traffic over an airport at dusk with three labeled control layers: a planning map of arrival and departure corridors, trajectory ribbons spacing the arriving jets, and feedback rings correcting each aircraft for wind",
-   "caption": "Illustration: layered control in air traffic — planning over minutes, trajectories over seconds, feedback over milliseconds.",
-   "figureIdea": "Figure: layered control architecture — planning, abstraction and fast feedback layers",
-   "id": "layered-control",
-   "tagline": "Layered control architectures, from hierarchical abstractions and bisimulation to multirate control."
-  },
-  {
-   "short": "Formal Methods",
-   "title": "Formal Methods for Safe Autonomy",
-   "desc": "Guarantees for autonomous systems: temporal logic specifications and their quantitative robustness, reactive mission and motion planning, verification of systems with neural network controllers, and planning and control with conformal prediction when the environment is uncertain or unknown.",
-   "papers": [
-    {
-     "title": "Safe Planning in Unknown Environments Using Conformalized Semantic Maps",
-     "authors": "D. S. Sundarsingh, Y. Li, T. Tang, G. J. Pappas, N. Atanasov and Y. Kantaros",
-     "venue": "IEEE Robotics and Automation Letters",
-     "year": "2026",
-     "url": "https://doi.org/10.1109/LRA.2026.3668466"
-    },
-    {
-     "title": "Formal Verification and Control with Conformal Prediction: Practical Safety Guarantees for Autonomous Systems",
-     "authors": "L. Lindemann, Y. Zhao, X. Yu, G. J. Pappas and J. V. Deshmukh",
-     "venue": "IEEE Control Systems Magazine",
-     "year": "2025",
-     "url": "https://doi.org/10.1109/MCS.2025.3611545",
-     "award": "IEEE CSS Control Systems Magazine Outstanding Paper Award, 2026"
-    },
-    {
-     "title": "Safe Planning in Dynamic Environments Using Conformal Prediction",
-     "year": "2023"
-    },
-    {
-     "title": "Conformal Prediction for STL Runtime Verification",
-     "year": "2023"
-    },
-    {
      "title": "Multi-Robot Mission Planning in Dynamic Semantic Environments",
      "year": "2023"
-    },
-    {
-     "title": "Reactive and Risk-Aware Control for Signal Temporal Logic",
-     "year": "2022"
     },
     {
      "title": "Time-Robust Control for STL Specifications",
@@ -329,10 +264,7 @@
     },
     {
      "title": "Verifying the Safety of Autonomous Systems with Neural Network Controllers",
-     "authors": "R. Ivanov, T. Carpenter, J. Weimer, R. Alur, G. J. Pappas and I. Lee",
-     "venue": "ACM Transactions on Embedded Computing Systems",
-     "year": "2020",
-     "award": "ACM Transactions on Embedded Computing Systems Best Paper Award, 2022"
+     "year": "2020"
     },
     {
      "title": "Verisig: Verifying Safety Properties of Hybrid Systems with Neural Network Controllers",
@@ -340,31 +272,34 @@
     },
     {
      "title": "Temporal Logic Based Reactive Mission and Motion Planning",
-     "authors": "H. Kress-Gazit, G. Fainekos and G. J. Pappas",
-     "venue": "IEEE Transactions on Robotics",
      "year": "2009"
     },
     {
      "title": "Robustness of Temporal Logic Specifications for Continuous-Time Signals",
-     "authors": "G. Fainekos and G. J. Pappas",
-     "venue": "Theoretical Computer Science",
      "year": "2009"
     },
     {
+     "title": "Hierarchical Control System Design Using Approximate Simulation",
+     "year": "2009"
+    },
+    {
+     "title": "Approximation Metrics for Discrete and Continuous Systems",
+     "year": "2007"
+    },
+    {
      "title": "Robustness of Temporal Logic Specifications",
-     "authors": "G. Fainekos and G. J. Pappas",
-     "venue": "Formal Approaches to Testing and Runtime Verification (FATES/RV)",
-     "year": "2006",
-     "award": "International Conference on Runtime Verification (RV) Test of Time Award, 2025",
-     "url": "https://doi.org/10.1007/11940197_12"
+     "year": "2006"
+    },
+    {
+     "title": "Hierarchically Consistent Control Systems",
+     "year": "2000"
     }
    ],
    "img": "images/physical-ai-safety.jpg",
    "alt": "A delivery robot at a night crosswalk: with a parked car’s headlights off it judges the crossing safe; with the headlights on it yields",
    "caption": "Context-aware safety: the same scene calls for different actions depending on context, here whether a parked car’s headlights are on.",
-   "figureIdea": "Figure: conformal prediction regions around a planned trajectory",
-   "id": "formal-methods",
-   "tagline": "Temporal logic robustness, and verification and planning with conformal prediction.",
+   "id": "formal-methods-and-control",
+   "tagline": "Temporal logic robustness, verification, planning with conformal prediction, and layered control, from approximate bisimulation to multirate architectures.",
    "videos": [
     {
      "id": "J164",
@@ -465,7 +400,7 @@
    "dates": "2025–2030",
    "areas": [
     3,
-    5
+    4
    ],
    "url": "https://schema-coe.mit.edu/"
   },
@@ -475,8 +410,8 @@
    "role": "co-PI and Area Lead",
    "dates": "2017–2027",
    "areas": [
-    5,
     4,
+    3,
     0
    ],
    "url": "https://www.dcist-cra.org/"
