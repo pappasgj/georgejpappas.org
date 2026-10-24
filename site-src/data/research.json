@@ -50,7 +50,7 @@
    ],
    "figureIdea": "",
    "id": "safe-physical-ai",
-   "tagline": "Jailbreaking, red-teaming and guardrails for LLM-enabled robots.",
+   "tagline": "Jailbreaking, red-teaming and context-aware guardrails for LLM robots.",
    "videos": [
     {
      "id": "C411",
@@ -132,7 +132,7 @@
    "caption": "Illustration: in rain and fog, learned perception becomes fragile — low-confidence detections, a misread sign, a missed obstacle — and calibrated uncertainty shows the robot how far it can trust what it sees.",
    "figureIdea": "Figure: jailbreak attack and defense pipeline",
    "id": "trustworthy-ai",
-   "tagline": "Jailbreak defenses, neural network verification, conformal prediction and AI oversight."
+   "tagline": "Jailbreak defenses, neural network verification and conformal prediction."
   },
   {
    "short": "Learning and Control",
@@ -219,7 +219,7 @@
    "caption": "Illustration: a drone learns its dynamics from data while its controller keeps it inside the safe set.",
    "figureIdea": "Figure: learning a controller from data",
    "id": "learning-and-control",
-   "tagline": "Learning theory for identification and control, and federated and multi-agent learning.",
+   "tagline": "Learning theory for identification and control, and multi-agent learning.",
    "videos": [
     {
      "id": "C412",
@@ -299,7 +299,7 @@
    "alt": "A delivery robot at a night crosswalk: with a parked car’s headlights off it judges the crossing safe; with the headlights on it yields",
    "caption": "Context-aware safety: the same scene calls for different actions depending on context, here whether a parked car’s headlights are on.",
    "id": "formal-methods",
-   "tagline": "Formal methods with control for safe robot autonomy: temporal logic, verification and layered control.",
+   "tagline": "Formal methods and control for provably safe robot autonomy.",
    "videos": [
     {
      "id": "J164",
@@ -365,7 +365,7 @@
    "caption": "Illustration: an air–ground robot team builds a shared semantic map, labeling buildings, cars and people as it explores.",
    "figureIdea": "Photo: air–ground robot team in the field",
    "id": "multi-robot-systems",
-   "tagline": "Semantic mapping, language-specified missions and air–ground robot teams.",
+   "tagline": "Semantic mapping, language-specified missions and air–ground teams.",
    "videos": [
     {
      "id": "C424",
