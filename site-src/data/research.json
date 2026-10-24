@@ -38,7 +38,13 @@
    ],
    "figureIdea": "",
    "id": "safe-physical-ai",
-   "tagline": "Jailbreaking, red-teaming and guardrails for LLM-enabled robots — RoboPAIR, RoboGuard and context-aware safety."
+   "tagline": "Jailbreaking, red-teaming and guardrails for LLM-enabled robots — RoboPAIR, RoboGuard and context-aware safety.",
+   "videos": [
+    {
+     "id": "J163",
+     "label": "RoboGuard: safety guardrails for LLM-enabled robots"
+    }
+   ]
   },
   {
    "short": "Trustworthy AI",
@@ -306,7 +312,17 @@
    "caption": "Illustration: an air–ground robot team builds a shared semantic map, labeling buildings, cars and people as it explores.",
    "figureIdea": "Photo: air–ground robot team in the field",
    "id": "multi-robot-systems",
-   "tagline": "Semantic mapping, language-specified missions and air–ground robot teams."
+   "tagline": "Semantic mapping, language-specified missions and air–ground robot teams.",
+   "videos": [
+    {
+     "id": "C424",
+     "label": "SPINE-HT: heterogeneous robot teams with grounded generative intelligence"
+    },
+    {
+     "id": "C410",
+     "label": "SPINE: semantic planning for missions with incomplete language specifications"
+    }
+   ]
   }
  ],
  "funding": [

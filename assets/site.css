@@ -89,3 +89,9 @@ li.pub { display: flex; gap: 16px; align-items: baseline; }
 @media (min-width: 920px) { .bio-aside { margin-top: 65px; } }
 .nav-full > * { flex-shrink: 0; }
 .pub-title { font-weight: 600; color: #1B1F2A; }
+.video-card { display: flex; flex-direction: column; gap: 6px; padding-top: 12px; border-top: 1px solid #DDE1E8; text-decoration: none; }
+.video-card:hover { text-decoration: none; }
+.video-card:hover .project-link { text-decoration: underline; }
+.video-thumb { position: relative; display: block; aspect-ratio: 16 / 9; background: #011F5B; overflow: hidden; }
+.video-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.video-play { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); width: 56px; height: 40px; border-radius: 8px; background: rgba(153,0,0,0.92); color: #FFFFFF; font-size: 18px; display: flex; align-items: center; justify-content: center; }

@@ -51,6 +51,17 @@
 </sc-for>
 </div>
 </sc-if>
+<sc-if value="{{area.hasVideos}}">
+<div class="side-block">
+<h3 class="side-h">Videos</h3>
+<sc-for list="{{area.videos}}" as="v">
+<a href="{{v.url}}" class="video-card">
+<span class="video-thumb"><img src="{{v.thumb}}" alt="" loading="lazy" onerror="this.remove()"><span class="video-play" aria-hidden="true">▶</span></span>
+<span class="project-link">{{v.label}}</span>
+</a>
+</sc-for>
+</div>
+</sc-if>
 <sc-if value="{{area.hasPress}}">
 <div class="side-block">
 <h3 class="side-h">In the press</h3>

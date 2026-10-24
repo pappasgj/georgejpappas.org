@@ -199,6 +199,7 @@ def publications():
     order = {r[0]: i for i, r in enumerate(rows)}
     rows = sorted(rows, key=lambda r: (-r[2], -month_of(r[6]), order[r[0]]))
     code_links = load("code-links.json") if os.path.exists(os.path.join(DATA, "code-links.json")) else {}
+    project_links = load("project-links.json") if os.path.exists(os.path.join(DATA, "project-links.json")) else {}
     years = []
     for r in rows:
         pid, kind, year, pre, post, title, rest, doi, award = r[:9]
@@ -211,6 +212,8 @@ def publications():
             "id": pid, "pre": pre, "me": "G. J. Pappas", "post": post, "title": title, "rest": rest,
             "award": award, "hasAward": bool(award), "pdf": pdf, "hasPdf": bool(pdf),
             "doiUrl": doi_url, "hasDoi": bool(doi), "url": url, "hasUrl": bool(url), "urlLabel": "Google Patents" if kind == "patent" else "OpenReview" if "openreview.net" in url else "Proceedings" if re.search(r"mlr\.press|neurips\.cc", url) else "Publisher",
+            "project": (project_links.get(pid) or {}).get("project", ""), "hasProject": bool((project_links.get(pid) or {}).get("project")),
+            "video": (project_links.get(pid) or {}).get("video", ""), "hasVideo": bool((project_links.get(pid) or {}).get("video")),
             "code": (code_links.get(pid) or {}).get("code", ""), "hasCode": bool((code_links.get(pid) or {}).get("code")),
             "scholar": scholar, "titleUrl": pdf or doi_url or url, "titleLink": bool(pdf or doi_url or url), "showScholar": not (pdf or doi or url),
             "kind": PUB_KIND.get(kind, "other"), "awardFlag": "1" if award else "", "codeFlag": "1" if (code_links.get(pid) or {}).get("code") else "",
@@ -283,9 +286,16 @@ def ctx_research():
             by_title.setdefault(norm(item["title"]), []).append((str(y["year"]), item))
     press = sorted([x for x in load("news.json")["items"] if x.get("kind") == "press" and x.get("url")],
                    key=lambda x: -x["k"])
+    pl = load("project-links.json") if os.path.exists(os.path.join(DATA, "project-links.json")) else {}
     areas = []
     for i, a in enumerate(d["areas"]):
         projects = [f for f in d["funding"] if i in f["areas"]]
+        videos = []
+        for v in a.get("videos", []):
+            m = re.search(r"(?:v=|youtu\.be/)([A-Za-z0-9_-]{11})", (pl.get(v["id"]) or {}).get("video", ""))
+            if m:
+                videos.append({"label": v["label"], "url": "https://www.youtube.com/watch?v=" + m.group(1),
+                               "thumb": "https://i.ytimg.com/vi/%s/hqdefault.jpg" % m.group(1)})
         coverage = []
         for x in [x for x in press if a["id"] in x.get("areas", [])][:5]:
             outlet, _, headline = x["text"].partition(": ")
@@ -307,7 +317,7 @@ def ctx_research():
             papers.append(item)
         areas.append(dict(a, index=i, first=i == 0, hidden=i != 0, selected="true" if i == 0 else "false",
                           projects=projects, hasProjects=bool(projects), press=coverage, hasPress=bool(coverage),
-                          hasSide=bool(projects or coverage), hasImg=bool(a.get("img")),
+                          videos=videos, hasVideos=bool(videos), hasSide=bool(projects or coverage or videos), hasImg=bool(a.get("img")),
                           noImg=not a.get("img"), papers=papers))
     return {"areas": areas}
 
