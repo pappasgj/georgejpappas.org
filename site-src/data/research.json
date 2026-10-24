@@ -29,11 +29,23 @@
      "year": "2026"
     },
     {
+     "title": "Beyond Binary Success: Sample-Efficient and Statistically Rigorous Robot Policy Comparison",
+     "year": "2026"
+    },
+    {
      "title": "Jailbreaking LLM-Controlled Robots",
      "url": "https://arxiv.org/abs/2410.13691",
      "authors": "A. Robey, Z. Ravichandran, V. Kumar, H. Hassani and G. J. Pappas",
      "venue": "Proc. IEEE ICRA",
      "year": "2025"
+    },
+    {
+     "title": "Distilling on-Device Language Models for Robot Planning with Minimal Human Intervention",
+     "year": "2025"
+    },
+    {
+     "title": "Optimal Scene Graph Planning with Large Language Model Guidance",
+     "year": "2024"
     }
    ],
    "figureIdea": "",
@@ -49,6 +61,10 @@
     {
      "id": "J163",
      "label": "RoboGuard: safety guardrails for LLM-enabled robots"
+    },
+    {
+     "id": "C413",
+     "label": "PRISM: on-device language models for robot planning"
     }
    ]
   },
