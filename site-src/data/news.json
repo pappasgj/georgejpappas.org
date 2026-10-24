@@ -761,11 +761,12 @@
    "k": 200503,
    "date": "Mar 2005",
    "kind": "press",
-   "text": "The Daily Pennsylvanian: multi-university swarming project",
+   "text": "The Daily Pennsylvanian: Profs Study Robotic Soldiers of the Future",
    "url": "https://www.thedp.com/article/2005/03/profs_study_robotic_soldiers_of_the_future",
    "areas": [
     "multi-robot-systems"
-   ]
+   ],
+   "note": "Coverage of the multi-university swarming project."
   },
   {
    "k": 200412,
