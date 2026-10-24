@@ -169,7 +169,7 @@ def month_of(rest):
     return 6.5
 
 
-PUB_KIND = {"journal": "journal", "conf": "conf", "chapter": "chapter", "book": "book", "editorial": "other", "white": "other"}
+PUB_KIND = {"journal": "journal", "conf": "conf", "chapter": "chapter", "book": "book", "editorial": "other", "white": "other", "patent": "patent"}
 
 
 def publications():
@@ -180,8 +180,12 @@ def publications():
         if not r[7] and extra.get("doi"):
             r[7] = extra["doi"]
         r[9:] = [extra.get("pdf", r[9] if len(r) > 9 else ""), extra.get("url", r[10] if len(r) > 10 else "")]
+    if os.path.exists(os.path.join(DATA, "patents.json")):  # issued patents and published applications
+        for p in load("patents.json")["patents"]:
+            rows.append([p["id"], "patent", p["year"], p["pre"], p["post"], p["title"], p["rest"], "", "", "", p["url"]])
     order = {r[0]: i for i, r in enumerate(rows)}
     rows = sorted(rows, key=lambda r: (-r[2], -month_of(r[6]), order[r[0]]))
+    code_links = load("code-links.json") if os.path.exists(os.path.join(DATA, "code-links.json")) else {}
     years = []
     for r in rows:
         pid, kind, year, pre, post, title, rest, doi, award = r[:9]
@@ -192,7 +196,8 @@ def publications():
         item = {
             "id": pid, "pre": pre, "me": "G. J. Pappas", "post": post, "title": title, "rest": rest,
             "award": award, "hasAward": bool(award), "pdf": pdf, "hasPdf": bool(pdf),
-            "doiUrl": doi_url, "hasDoi": bool(doi), "url": url, "hasUrl": bool(url),
+            "doiUrl": doi_url, "hasDoi": bool(doi), "url": url, "hasUrl": bool(url), "urlLabel": "Google Patents" if kind == "patent" else "Publisher",
+            "code": (code_links.get(pid) or {}).get("code", ""), "hasCode": bool((code_links.get(pid) or {}).get("code")),
             "scholar": scholar, "titleUrl": pdf or doi_url or url, "titleLink": bool(pdf or doi_url or url), "showScholar": not (pdf or doi or url),
             "kind": PUB_KIND.get(kind, "other"), "awardFlag": "1" if award else "",
             "search": " ".join([pid, pre, "G. J. Pappas", post, title, rest]).lower(),
@@ -346,7 +351,15 @@ def main():
     bib_src = os.path.join(DATA, "bibtex-by-id.json")
     if os.path.exists(bib_src):  # loaded by the Publications page when someone opens a [BibTeX]
         with open(bib_src, encoding="utf-8") as f, open(os.path.join(ROOT, "publications", "bibtex.json"), "w", encoding="utf-8") as g:
-            json.dump(json.load(f), g, ensure_ascii=False, separators=(",", ":"))
+            bib = json.load(f)
+            if os.path.exists(os.path.join(DATA, "patents.json")):
+                for p in load("patents.json")["patents"]:
+                    names = [n.strip() for n in re.split(r",\s*| and ", (p["pre"] + "G. J. Pappas" + p["post"]).strip(", ")) if n.strip()]
+                    num = re.search(r"(Patent(?: Application)? [\d,/]+)", p["rest"]).group(1).rstrip(",")
+                    bib[p["id"]] = "@misc{%s%d%s,\n  author = {%s},\n  title = {%s},\n  howpublished = {U.S. %s},\n  year = {%d},\n  url = {%s}\n}" % (
+                        re.sub(r"[^A-Za-z]", "", names[0].split()[-1]), p["year"], re.sub(r"[^A-Za-z]", "", p["title"].split()[0]),
+                        " and ".join(names), p["title"], num, p["year"], p["url"])
+            json.dump(bib, g, ensure_ascii=False, separators=(",", ":"))
     write_redirect("news", "press")
     write_sitemap(today)
 

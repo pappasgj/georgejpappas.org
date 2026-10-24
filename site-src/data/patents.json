@@ -1,0 +1,41 @@
+{
+ "_note": "Issued patents and published applications, as listed in the web CV. Pending invention disclosures stay off the site.",
+ "patents": [
+  {
+   "id": "PT2",
+   "year": 2024,
+   "pre": "",
+   "post": ", H. Hassani and A. Robey",
+   "title": "Model-Based Robust Deep Learning",
+   "rest": "U.S. Patent 11,961,283, issued April 16, 2024",
+   "url": "https://patents.google.com/patent/US11961283B2"
+  },
+  {
+   "id": "PT1",
+   "year": 2021,
+   "pre": "K. Daniilidis, S. L. Bowman, N. A. Atanasov and ",
+   "post": "",
+   "title": "Probabilistic Data Association for Simultaneous Localization and Mapping",
+   "rest": "U.S. Patent 11,187,536, issued November 30, 2021",
+   "url": "https://patents.google.com/patent/US11187536B2"
+  },
+  {
+   "id": "PA2",
+   "year": 2026,
+   "pre": "A. Robey, H. Hassani, E. Wong and ",
+   "post": "",
+   "title": "Defending Large Language Models Against Jailbreaking Attacks",
+   "rest": "U.S. Patent Application 2026/0099593, published April 9, 2026",
+   "url": "https://patents.google.com/patent/US20260099593A1"
+  },
+  {
+   "id": "PA1",
+   "year": 2023,
+   "pre": "P. Perdikaris, J. H. Seidman, G. Kissas and ",
+   "post": "",
+   "title": "Computer Systems and Methods for Learning Operators",
+   "rest": "U.S. Patent Application 2023/0214661, published July 6, 2023",
+   "url": "https://patents.google.com/patent/US20230214661A1"
+  }
+ ]
+}
