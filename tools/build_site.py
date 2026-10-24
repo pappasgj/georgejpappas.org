@@ -185,6 +185,19 @@ def award_text(award, rest):
     return "; ".join(parts)
 
 
+def orcid_additions(rows=None):
+    """Monthly ORCID additions, minus any the CV now lists (same DOI or title)."""
+    path = os.path.join(DATA, "orcid-additions.json")
+    if not os.path.exists(path):
+        return []
+    rows = rows if rows is not None else load("publications.json")
+    links = load("pub-links.json")
+    nt = lambda t: re.sub(r"[^a-z0-9]", "", t.lower())
+    dois = {(r[7] or "").lower() for r in rows} | {(v.get("doi") or "").lower() for v in links.values()}
+    titles = {nt(r[5]) for r in rows}
+    return [a for a in load("orcid-additions.json") if a["row"][7].lower() not in dois and nt(a["row"][5]) not in titles]
+
+
 def publications():
     rows = load("publications.json")
     links = load("pub-links.json") if os.path.exists(os.path.join(DATA, "pub-links.json")) else {}
@@ -193,6 +206,8 @@ def publications():
         if not r[7] and extra.get("doi"):
             r[7] = extra["doi"]
         r[9:] = [extra.get("pdf", r[9] if len(r) > 9 else ""), extra.get("url", r[10] if len(r) > 10 else "")]
+    for a in orcid_additions(rows):  # newly published papers from ORCID that the CV does not list yet
+        rows.append(list(a["row"]) + ["", ""])
     if os.path.exists(os.path.join(DATA, "patents.json")):  # issued patents and published applications
         for p in load("patents.json")["patents"]:
             rows.append([p["id"], "patent", p["year"], p["pre"], p["post"], p["title"], p["rest"], "", "", "", p["url"]])
@@ -423,6 +438,9 @@ def main():
                     bib[p["id"]] = "@misc{%s%d%s,\n  author = {%s},\n  title = {%s},\n  howpublished = {U.S. %s},\n  year = {%d},\n  url = {%s}\n}" % (
                         re.sub(r"[^A-Za-z]", "", names[0].split()[-1]), p["year"], re.sub(r"[^A-Za-z]", "", p["title"].split()[0]),
                         " and ".join(names), p["title"], num, p["year"], p["url"])
+            for a in orcid_additions():
+                if a.get("bib"):
+                    bib[a["row"][0]] = a["bib"]
             json.dump(bib, g, ensure_ascii=False, separators=(",", ":"))
     write_redirect("news", "press")
     write_sitemap(today)
