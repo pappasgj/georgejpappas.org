@@ -27,7 +27,7 @@ PAGES = [
     ("home", "Home", "", "George J. Pappas — Home",
      "George J. Pappas, UPS Foundation Professor of Electrical and Systems Engineering at the University of Pennsylvania. Research on safe physical AI, trustworthy AI, learning and control, layered control, formal methods and multi-robot systems."),
     ("bio", "Bio", "bio", "George J. Pappas — Bio",
-     "Biography, appointments, education, honors, service and lectures of George J. Pappas, University of Pennsylvania."),
+     "Biography, appointments, education and honors of George J. Pappas, University of Pennsylvania."),
     ("research", "Research", "research", "George J. Pappas — Research",
      "Research of George J. Pappas: safe physical AI, trustworthy AI, learning and control, layered control, formal methods for safe autonomy and multi-robot systems."),
     ("group", "Group", "group", "George J. Pappas — Group",
