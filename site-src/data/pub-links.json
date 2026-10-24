@@ -1709,5 +1709,37 @@
  "conf|2020|Robust Deep Learning as Optimal Control: Insights and Convergence Guarantees": {
   "url": "https://proceedings.mlr.press/v120/seidman20a.html",
   "pdf": "https://proceedings.mlr.press/v120/seidman20a/seidman20a.pdf"
+ },
+ "conf|2026|Robust Decision-Making with Partially Calibrated Forecasters": {
+  "url": "https://openreview.net/forum?id=mHRuCmc9lo",
+  "pdf": "https://openreview.net/pdf?id=mHRuCmc9lo"
+ },
+ "conf|2025|CViT: Continuous Vision Transformer for Operator Learning": {
+  "url": "https://openreview.net/forum?id=cRnCcuLvyr",
+  "pdf": "https://openreview.net/pdf?id=cRnCcuLvyr"
+ },
+ "conf|2024|Adversarial Training Should Be Cast as a Non-Zero-Sum Game": {
+  "url": "https://openreview.net/forum?id=XJ9vjEAqbx",
+  "pdf": "https://openreview.net/pdf?id=XJ9vjEAqbx"
+ },
+ "conf|2022|Do Deep Networks Transfer Invariances Across Classes?": {
+  "url": "https://openreview.net/forum?id=Fn7i_r5rR0q",
+  "pdf": "https://openreview.net/pdf?id=Fn7i_r5rR0q"
+ },
+ "journal|2025|SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks": {
+  "url": "https://openreview.net/forum?id=laPAh2hRFC",
+  "pdf": "https://openreview.net/pdf?id=laPAh2hRFC"
+ },
+ "journal|2025|Automated Black-Box Prompt Engineering for Personalized Text-To-Image Generation": {
+  "url": "https://openreview.net/forum?id=IVYVDN6pJ6",
+  "pdf": "https://openreview.net/pdf?id=IVYVDN6pJ6"
+ },
+ "journal|2024|Federated TD Learning with Linear Function Approximation under Environmental Heterogeneity": {
+  "url": "https://openreview.net/forum?id=hdQspgyFrk",
+  "pdf": "https://openreview.net/pdf?id=hdQspgyFrk"
+ },
+ "journal|2024|Temporal Difference Learning with Compressed Updates: Error-Feedback Meets Reinforcement Learning": {
+  "url": "https://openreview.net/forum?id=dltUedmUVT",
+  "pdf": "https://openreview.net/pdf?id=dltUedmUVT"
  }
 }

@@ -210,7 +210,7 @@ def publications():
         item = {
             "id": pid, "pre": pre, "me": "G. J. Pappas", "post": post, "title": title, "rest": rest,
             "award": award, "hasAward": bool(award), "pdf": pdf, "hasPdf": bool(pdf),
-            "doiUrl": doi_url, "hasDoi": bool(doi), "url": url, "hasUrl": bool(url), "urlLabel": "Google Patents" if kind == "patent" else "Proceedings" if re.search(r"mlr\.press|neurips\.cc|openreview\.net", url) else "Publisher",
+            "doiUrl": doi_url, "hasDoi": bool(doi), "url": url, "hasUrl": bool(url), "urlLabel": "Google Patents" if kind == "patent" else "OpenReview" if "openreview.net" in url else "Proceedings" if re.search(r"mlr\.press|neurips\.cc", url) else "Publisher",
             "code": (code_links.get(pid) or {}).get("code", ""), "hasCode": bool((code_links.get(pid) or {}).get("code")),
             "scholar": scholar, "titleUrl": pdf or doi_url or url, "titleLink": bool(pdf or doi_url or url), "showScholar": not (pdf or doi or url),
             "kind": PUB_KIND.get(kind, "other"), "awardFlag": "1" if award else "",
