@@ -199,7 +199,13 @@
    "caption": "Illustration: a drone learns its dynamics from data while its controller keeps it inside the safe set.",
    "figureIdea": "Figure: learning a controller from data",
    "id": "learning-and-control",
-   "tagline": "Finite-sample learning theory for identification and control, domain randomization and risk-aware control."
+   "tagline": "Finite-sample learning theory for identification and control, domain randomization and risk-aware control.",
+   "videos": [
+    {
+     "id": "C412",
+     "label": "Quadrotors flying in tight formations with learning-based MPC"
+    }
+   ]
   },
   {
    "short": "Layered Control",
