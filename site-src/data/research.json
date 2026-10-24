@@ -189,9 +189,9 @@
      "year": "2000"
     }
    ],
-   "img": "",
-   "alt": "",
-   "caption": "",
+   "img": "images/layered-control.jpg",
+   "alt": "Illustration of air traffic over an airport at dusk with three labeled control layers: a planning map of arrival and departure corridors, trajectory ribbons spacing the arriving jets, and feedback rings correcting each aircraft for wind",
+   "caption": "Illustration: layered control in air traffic — planning over minutes, trajectories over seconds, feedback over milliseconds.",
    "figureIdea": "Figure: layered control architecture — planning, abstraction and fast feedback layers",
    "id": "layered-control"
   },
