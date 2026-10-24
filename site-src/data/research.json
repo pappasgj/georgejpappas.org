@@ -42,7 +42,7 @@
   {
    "short": "Trustworthy AI",
    "title": "Trustworthy AI",
-   "desc": "Jailbreak attacks and defenses for language models — PAIR, SmoothLLM and JailbreakBench — safety verification of neural networks, distribution-free uncertainty quantification with conformal prediction, and principled ways to verify, oversee and control the AI agents built on these models.",
+   "desc": "Jailbreak attacks and defenses for language models — PAIR, SmoothLLM and JailbreakBench — safety verification of neural networks, model-based robustness of deep learning to natural, real-world distribution shifts, distribution-free uncertainty quantification with conformal prediction, and principled ways to verify, oversee and control the AI agents built on these models.",
    "papers": [
     {
      "title": "When to Trust the Cheap Check: Weak and Strong Verification for Reasoning",
@@ -78,17 +78,29 @@
      "year": "2024"
     },
     {
+     "title": "Toward Certified Robustness Against Real-World Distribution Shifts",
+     "authors": "H. Wu et al.",
+     "venue": "Proc. IEEE SaTML",
+     "year": "2023"
+    },
+    {
      "title": "Safety Verification and Robustness Analysis of Neural Networks via Quadratic Constraints and Semidefinite Programming",
      "url": "https://doi.org/10.1109/TAC.2020.3046193",
      "authors": "M. Fazlyab, M. Morari and G. J. Pappas",
      "venue": "IEEE Transactions on Automatic Control",
      "year": "2022",
      "award": "IEEE CSS George S. Axelby Outstanding Paper Award, 2024"
+    },
+    {
+     "title": "Model-Based Domain Generalization",
+     "authors": "A. Robey, H. Hassani and G. J. Pappas",
+     "venue": "Advances in Neural Information Processing Systems",
+     "year": "2021"
     }
    ],
-   "img": "",
-   "alt": "",
-   "caption": "",
+   "img": "images/trustworthy-ai.jpg",
+   "alt": "Illustration of an autonomous ground robot on a wet forest road in rain and fog, with an overlay showing low-confidence detections, a missed fallen branch, sparse lidar points and a widening uncertainty band around its path",
+   "caption": "Illustration: in rain and fog, learned perception becomes fragile — low-confidence detections, a misread sign, a missed obstacle — and calibrated uncertainty shows the robot how far it can trust what it sees.",
    "figureIdea": "Figure: jailbreak attack and defense pipeline",
    "id": "trustworthy-ai"
   },
