@@ -35,7 +35,7 @@ PAGES = [
     ("publications", "Publications", "publications", "George J. Pappas — Publications",
      "All publications of George J. Pappas, newest first, with links to PDFs, DOIs and Google Scholar."),
     ("book", "Book", "book", "George J. Pappas — Book",
-     "Linear Systems Theory: From Linear Algebra to the Kalman Filter by George J. Pappas. Pella Press, January 2027. Paperback and free PDF."),
+     "Linear Systems Theory: From Linear Algebra to the Kalman Filter by George J. Pappas. Pella Press, January 2027. Paperback and free e-book."),
     ("teaching", "Teaching", "teaching", "George J. Pappas — Teaching",
      "Courses taught by George J. Pappas at the University of Pennsylvania, including ESE 5000 Linear Systems Theory."),
     ("news", "Press", "press", "George J. Pappas — Press",
