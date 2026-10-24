@@ -245,7 +245,8 @@ def ctx_home():
     d["latest"] = add_dois(d["latest"], idx, "date")
     news = load("news.json")
     feed = flags(sorted([n for n in news["items"] if n["kind"] == "press"], key=lambda n: -n["k"])[:6])
-    latest_pubs = [p for y in publications() for p in y["items"]][:8]  # same entries and format as the Publications page
+    # same entries and format as the Publications page; papers only (no white papers or editorials)
+    latest_pubs = [p for y in publications() for p in y["items"] if p["kind"] in ("journal", "conf", "chapter")][:8]
     return {"selected": flags(d["selected"]), "latest": flags(d["latest"]), "feed": feed, "latestPubs": latest_pubs}
 
 
