@@ -76,15 +76,15 @@
 <div style="max-width: 1200px; margin: 0 auto; padding: 40px 32px 64px; display: flex; flex-direction: column; gap: 36px">
 <div role="tablist" aria-label="Research areas" class="area-tiles js-only" hidden>
 
-<button type="button" role="tab" class="area-tab" id="tab-safe-physical-ai" aria-controls="safe-physical-ai" aria-selected="true" data-area="safe-physical-ai"><span class="area-tab-name">Safe Physical AI</span><span class="area-tab-line">Jailbreaking, red-teaming and context-aware guardrails for LLM robots.</span></button>
+<button type="button" role="tab" class="area-tab" id="tab-safe-physical-ai" aria-controls="safe-physical-ai" aria-selected="true" data-area="safe-physical-ai"><span class="area-tab-name">Safe Physical AI</span><span class="area-tab-line">Safety of LLM, VLM and VLA-driven robots: jailbreaks, red-teaming and guardrails.</span></button>
 
-<button type="button" role="tab" class="area-tab" id="tab-trustworthy-ai" aria-controls="trustworthy-ai" aria-selected="false" data-area="trustworthy-ai"><span class="area-tab-name">Trustworthy AI</span><span class="area-tab-line">Jailbreak defenses, neural network verification and conformal prediction.</span></button>
+<button type="button" role="tab" class="area-tab" id="tab-trustworthy-ai" aria-controls="trustworthy-ai" aria-selected="false" data-area="trustworthy-ai"><span class="area-tab-name">Trustworthy AI</span><span class="area-tab-line">Jailbreaks and defenses for LLMs, and verification and uncertainty for AI agents.</span></button>
 
 <button type="button" role="tab" class="area-tab" id="tab-learning-and-control" aria-controls="learning-and-control" aria-selected="false" data-area="learning-and-control"><span class="area-tab-name">Learning and Control</span><span class="area-tab-line">Learning theory for identification and control, and multi-agent learning.</span></button>
 
 <button type="button" role="tab" class="area-tab" id="tab-formal-methods" aria-controls="formal-methods" aria-selected="false" data-area="formal-methods"><span class="area-tab-name">Formal Methods</span><span class="area-tab-line">Formal methods and control for provably safe robot autonomy.</span></button>
 
-<button type="button" role="tab" class="area-tab" id="tab-multi-robot-systems" aria-controls="multi-robot-systems" aria-selected="false" data-area="multi-robot-systems"><span class="area-tab-name">Multi-Robot Systems</span><span class="area-tab-line">Semantic mapping, language-specified missions and air–ground teams.</span></button>
+<button type="button" role="tab" class="area-tab" id="tab-multi-robot-systems" aria-controls="multi-robot-systems" aria-selected="false" data-area="multi-robot-systems"><span class="area-tab-name">Multi-Robot Systems</span><span class="area-tab-line">Semantic mapping and LLM-grounded missions for air–ground robot teams.</span></button>
 
 </div>
 
@@ -102,7 +102,7 @@
 
 <div class="area-text">
 <h2 style="margin: 0; font-family: 'Source Serif 4', Georgia, serif; font-size: 34px; line-height: 1.15; color: #011F5B">Safe Physical AI</h2>
-<p style="margin: 0; font-size: 18px">Large language and vision models now plan and act for robots. We study how these systems can be manipulated into harmful physical actions — RoboPAIR showed that LLM-controlled robots can be jailbroken — and build guardrails such as RoboGuard that keep robot behavior safe in context.</p>
+<p style="margin: 0; font-size: 18px">Foundation models — large language models (LLMs), vision-language models (VLMs) and vision-language-action models (VLAs) — now plan and act for robots. We study how these robotic foundation models can be manipulated into harmful physical actions — RoboPAIR showed that LLM-controlled robots can be jailbroken — and build defenses that keep them safe in context: guardrails such as RoboGuard, multimodal defenses against robotic jailbreaking, and context-aware safety that goes beyond alignment. We also make foundation models practical on robots, distilling compact on-device planners such as PRISM.</p>
 <h3 style="margin: 10px 0 0; font-size: 14px; letter-spacing: 0.08em; text-transform: uppercase; color: #011F5B">Key papers</h3>
 <ol class="pub-list" data-bib="../publications/bibtex.json" style="margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 16px">
 
@@ -250,7 +250,7 @@
 
 <div class="area-text">
 <h2 style="margin: 0; font-family: 'Source Serif 4', Georgia, serif; font-size: 34px; line-height: 1.15; color: #011F5B">Trustworthy AI</h2>
-<p style="margin: 0; font-size: 18px">Jailbreak attacks and defenses for language models — PAIR, SmoothLLM and JailbreakBench — safety verification of neural networks, model-based robustness of deep learning to natural, real-world distribution shifts, distribution-free uncertainty quantification with conformal prediction, and principled ways to verify, oversee and control the AI agents built on these models.</p>
+<p style="margin: 0; font-size: 18px">Making foundation models and the AI agents built on them trustworthy: jailbreak attacks and defenses for large language models — PAIR, SmoothLLM and JailbreakBench — weak and strong verification of LLM reasoning, uncertainty quantification with conformal prediction for generative models and human–AI collaboration, safety verification and robustness of neural networks, and principled ways to verify, oversee and control AI agents.</p>
 <h3 style="margin: 10px 0 0; font-size: 14px; letter-spacing: 0.08em; text-transform: uppercase; color: #011F5B">Key papers</h3>
 <ol class="pub-list" data-bib="../publications/bibtex.json" style="margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 16px">
 
@@ -709,7 +709,7 @@
 
 <div class="area-text">
 <h2 style="margin: 0; font-family: 'Source Serif 4', Georgia, serif; font-size: 34px; line-height: 1.15; color: #011F5B">Multi-Robot Systems</h2>
-<p style="margin: 0; font-size: 18px">Perception, planning and coordination for teams of robots — semantic mapping, active information acquisition, connectivity, language-specified missions and air–ground collaboration in unstructured environments.</p>
+<p style="margin: 0; font-size: 18px">Perception, planning and coordination for teams of robots — semantic mapping, active information acquisition and connectivity — and, increasingly, robot teams that take their missions in natural language: planning grounded by LLMs and VLMs (SPINE, SPINE-HT) for air–ground teams in unstructured environments.</p>
 <h3 style="margin: 10px 0 0; font-size: 14px; letter-spacing: 0.08em; text-transform: uppercase; color: #011F5B">Key papers</h3>
 <ol class="pub-list" data-bib="../publications/bibtex.json" style="margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 16px">
 

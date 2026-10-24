@@ -6,7 +6,7 @@
    "img": "images/robopair-jailbreak.jpg",
    "alt": "A wheeled robot’s camera view of an office, with two people detected, next to a chat in which the robot first refuses a request to detonate a bomb, then complies after a role-play prompt",
    "caption": "Jailbreaking an LLM-controlled robot (RoboPAIR): a role-play prompt turns a refusal into a plan to cause harm.",
-   "desc": "Large language and vision models now plan and act for robots. We study how these systems can be manipulated into harmful physical actions — RoboPAIR showed that LLM-controlled robots can be jailbroken — and build guardrails such as RoboGuard that keep robot behavior safe in context.",
+   "desc": "Foundation models — large language models (LLMs), vision-language models (VLMs) and vision-language-action models (VLAs) — now plan and act for robots. We study how these robotic foundation models can be manipulated into harmful physical actions — RoboPAIR showed that LLM-controlled robots can be jailbroken — and build defenses that keep them safe in context: guardrails such as RoboGuard, multimodal defenses against robotic jailbreaking, and context-aware safety that goes beyond alignment. We also make foundation models practical on robots, distilling compact on-device planners such as PRISM.",
    "papers": [
     {
      "title": "Beyond Alignment: Why Robotic Foundation Models Need Context-Aware Safety",
@@ -50,7 +50,7 @@
    ],
    "figureIdea": "",
    "id": "safe-physical-ai",
-   "tagline": "Jailbreaking, red-teaming and context-aware guardrails for LLM robots.",
+   "tagline": "Safety of LLM, VLM and VLA-driven robots: jailbreaks, red-teaming and guardrails.",
    "videos": [
     {
      "id": "C411",
@@ -71,7 +71,7 @@
   {
    "short": "Trustworthy AI",
    "title": "Trustworthy AI",
-   "desc": "Jailbreak attacks and defenses for language models — PAIR, SmoothLLM and JailbreakBench — safety verification of neural networks, model-based robustness of deep learning to natural, real-world distribution shifts, distribution-free uncertainty quantification with conformal prediction, and principled ways to verify, oversee and control the AI agents built on these models.",
+   "desc": "Making foundation models and the AI agents built on them trustworthy: jailbreak attacks and defenses for large language models — PAIR, SmoothLLM and JailbreakBench — weak and strong verification of LLM reasoning, uncertainty quantification with conformal prediction for generative models and human–AI collaboration, safety verification and robustness of neural networks, and principled ways to verify, oversee and control AI agents.",
    "papers": [
     {
      "title": "When to Trust the Cheap Check: Weak and Strong Verification for Reasoning",
@@ -132,7 +132,7 @@
    "caption": "Illustration: in rain and fog, learned perception becomes fragile — low-confidence detections, a misread sign, a missed obstacle — and calibrated uncertainty shows the robot how far it can trust what it sees.",
    "figureIdea": "Figure: jailbreak attack and defense pipeline",
    "id": "trustworthy-ai",
-   "tagline": "Jailbreak defenses, neural network verification and conformal prediction."
+   "tagline": "Jailbreaks and defenses for LLMs, and verification and uncertainty for AI agents."
   },
   {
    "short": "Learning and Control",
@@ -316,7 +316,7 @@
   {
    "short": "Multi-Robot Systems",
    "title": "Multi-Robot Systems",
-   "desc": "Perception, planning and coordination for teams of robots — semantic mapping, active information acquisition, connectivity, language-specified missions and air–ground collaboration in unstructured environments.",
+   "desc": "Perception, planning and coordination for teams of robots — semantic mapping, active information acquisition and connectivity — and, increasingly, robot teams that take their missions in natural language: planning grounded by LLMs and VLMs (SPINE, SPINE-HT) for air–ground teams in unstructured environments.",
    "papers": [
     {
      "title": "Heterogeneous Robot Collaboration in Unstructured Environments with Grounded Generative Intelligence",
@@ -365,7 +365,7 @@
    "caption": "Illustration: an air–ground robot team builds a shared semantic map, labeling buildings, cars and people as it explores.",
    "figureIdea": "Photo: air–ground robot team in the field",
    "id": "multi-robot-systems",
-   "tagline": "Semantic mapping, language-specified missions and air–ground teams.",
+   "tagline": "Semantic mapping and LLM-grounded missions for air–ground robot teams.",
    "videos": [
     {
      "id": "C424",
