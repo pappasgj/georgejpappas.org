@@ -369,6 +369,10 @@
     {
      "id": "C410",
      "label": "SPINE: semantic planning for missions with incomplete language specifications"
+    },
+    {
+     "id": "C357",
+     "label": "Graph neural networks for multi-robot active information acquisition (ICRA 2023)"
     }
    ]
   }
