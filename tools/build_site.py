@@ -193,7 +193,7 @@ def publications():
             "id": pid, "pre": pre, "me": "G. J. Pappas", "post": post, "title": title, "rest": rest,
             "award": award, "hasAward": bool(award), "pdf": pdf, "hasPdf": bool(pdf),
             "doiUrl": doi_url, "hasDoi": bool(doi), "url": url, "hasUrl": bool(url),
-            "scholar": scholar, "titleUrl": pdf or doi_url or url or scholar,
+            "scholar": scholar, "titleUrl": pdf or doi_url or url or scholar, "showScholar": not (pdf or doi or url),
             "kind": PUB_KIND.get(kind, "other"), "awardFlag": "1" if award else "",
             "search": " ".join([pid, pre, "G. J. Pappas", post, title, rest]).lower(),
         }
@@ -311,6 +311,10 @@ def main():
         with open(os.path.join(out_dir, "index.html"), "w", encoding="utf-8") as f:
             f.write(page)
         print("built", (folder or ".") + "/index.html")
+    bib_src = os.path.join(DATA, "bibtex-by-id.json")
+    if os.path.exists(bib_src):  # loaded by the Publications page when someone opens a [BibTeX]
+        with open(bib_src, encoding="utf-8") as f, open(os.path.join(ROOT, "publications", "bibtex.json"), "w", encoding="utf-8") as g:
+            json.dump(json.load(f), g, ensure_ascii=False, separators=(",", ":"))
     write_redirect("news", "press")
     write_sitemap(today)
 

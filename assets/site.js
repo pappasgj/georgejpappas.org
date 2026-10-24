@@ -80,7 +80,7 @@
         var n = 0;
         $$('li.pub', y).forEach(function (li) {
           var ok = (kind === 'all' || (kind === 'award' ? li.getAttribute('data-award') === '1' : li.getAttribute('data-kind') === kind)) &&
-                   (!q || (li.querySelector('.pub-id').textContent + ' ' + li.querySelector('.pub-cite').textContent).toLowerCase().indexOf(q) >= 0);
+                   (!q || (li.querySelector('.pub-id').textContent + ' ' + li.querySelector('.pub-text').textContent).toLowerCase().indexOf(q) >= 0);
           li.hidden = !ok;
           if (ok) n++;
         });
@@ -97,6 +97,34 @@
         kind = b.getAttribute('data-filter');
         pubButtons.forEach(function (x) { x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
         apply();
+      });
+    });
+  }
+
+  /* Publications: [BibTeX] opens the entry under the paper, with a copy button */
+  var bibBtns = $$('.bib-btn');
+  if (bibBtns.length) {
+    var bibData = null;
+    var loadBib = function () {
+      if (!bibData) bibData = fetch('bibtex.json').then(function (r) { return r.json(); });
+      return bibData;
+    };
+    bibBtns.forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        var li = btn.closest('li.pub');
+        var open = li.querySelector('.bib-box');
+        if (open) { open.remove(); btn.setAttribute('aria-expanded', 'false'); return; }
+        loadBib().then(function (all) {
+          var box = document.createElement('div'); box.className = 'bib-box';
+          var pre = document.createElement('pre'); pre.textContent = all[li.getAttribute('data-id')] || 'BibTeX not available.';
+          var copy = document.createElement('button'); copy.type = 'button'; copy.className = 'bib-copy'; copy.textContent = 'Copy';
+          copy.addEventListener('click', function () {
+            if (navigator.clipboard) navigator.clipboard.writeText(pre.textContent).then(function () { copy.textContent = 'Copied'; });
+          });
+          box.appendChild(pre); box.appendChild(copy);
+          li.querySelector('.pub-body').appendChild(box);
+          btn.setAttribute('aria-expanded', 'true');
+        });
       });
     });
   }

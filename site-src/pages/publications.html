@@ -25,7 +25,7 @@
 </div>
 <div style="display: flex; flex-direction: column; gap: 6px; font-size: 15px; color: #4A5263">
 <h2 style="margin: 0; font-size: 14px; letter-spacing: 0.08em; text-transform: uppercase; color: #011F5B">Links</h2>
-<span>Each paper links to its PDF, DOI or publisher page where available, and to Google Scholar for everything else.</span>
+<span>Each paper links to its DOI or PDF where available, and to Google Scholar otherwise. [BibTeX] gives a citation entry to copy.</span>
 </div>
 <a href="https://scholar.google.com/citations?user=Kia-4B0AAAAJ" style="font-weight: 700">Google Scholar profile →</a>
 <a href="https://orcid.org/0000-0001-9081-0637" style="font-weight: 700">ORCID profile →</a>
@@ -42,19 +42,13 @@
 </summary>
 <ol style="margin: 0 0 20px; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 16px">
 <sc-for list="{{yr.items}}" as="p">
-<li class="pub" data-kind="{{p.kind}}" data-award="{{p.awardFlag}}">
+<li class="pub" data-id="{{p.id}}" data-kind="{{p.kind}}" data-award="{{p.awardFlag}}">
 <span class="pub-id">{{p.id}}</span>
 <div class="pub-body">
-<span class="pub-cite">{{p.pre}}{{p.me}}{{p.post}}, “<a href="{{p.titleUrl}}">{{p.title}}</a>,” {{p.rest}}.</span>
+<span class="pub-cite"><span class="pub-text">{{p.pre}}{{p.me}}{{p.post}}, “<a href="{{p.titleUrl}}">{{p.title}}</a>,” {{p.rest}}.</span> <span class="pub-links"><sc-if value="{{p.hasDoi}}">[<a href="{{p.doiUrl}}">DOI</a>]</sc-if> <sc-if value="{{p.hasPdf}}">[<a href="{{p.pdf}}">PDF</a>]</sc-if> <sc-if value="{{p.hasUrl}}">[<a href="{{p.url}}">Publisher</a>]</sc-if> <sc-if value="{{p.showScholar}}">[<a href="{{p.scholar}}">Scholar</a>]</sc-if> <button type="button" class="bib-btn js-only" hidden aria-expanded="false">[BibTeX]</button></span></span>
 <sc-if value="{{p.hasAward}}">
 <span class="pub-award">{{p.award}}</span>
 </sc-if>
-<div class="pub-links">
-<sc-if value="{{p.hasPdf}}"><a href="{{p.pdf}}">PDF</a></sc-if>
-<sc-if value="{{p.hasDoi}}"><a href="{{p.doiUrl}}">DOI</a></sc-if>
-<sc-if value="{{p.hasUrl}}"><a href="{{p.url}}">Publisher page</a></sc-if>
-<a href="{{p.scholar}}" class="pub-scholar">Google Scholar</a>
-</div>
 </div>
 </li>
 </sc-for>
