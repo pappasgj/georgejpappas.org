@@ -2,7 +2,7 @@
 <div style="flex: 1 1 560px; min-width: 0; display: flex; flex-direction: column; gap: 18px">
 <p style="margin: 0; font-size: 15px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #990000">University of Pennsylvania</p>
 <h1 class="hero-name" style="margin: 0; font-family: 'Source Serif 4', Georgia, serif; font-size: 64px; line-height: 1.05; font-weight: 600; color: #011F5B">George J. Pappas</h1>
-<div style="display: flex; flex-direction: column; gap: 2px; font-size: 18px">
+<div class="in-text" style="display: flex; flex-direction: column; gap: 2px; font-size: 18px">
 <span>UPS Foundation Professor of <a href="https://www.ese.upenn.edu/">Electrical and Systems Engineering</a></span>
 <span>Associate Dean for Research and Innovation, <a href="https://www.seas.upenn.edu/">Penn Engineering</a></span>
 <span>Director, <a href="https://ai.engineering.upenn.edu">Raj and Neera Singh B.S.E. Program in Artificial Intelligence</a></span>
@@ -116,12 +116,11 @@
 <sc-for list="{{feed}}" as="n">
 <div style="display: flex; flex-wrap: wrap; gap: 8px 20px; padding: 14px 0; border-top: 1px solid #DDE1E8; align-items: baseline">
 <span style="flex: 0 0 110px; font-size: 14px; font-weight: 700; color: #4A5263">{{n.date}}</span>
-<sc-if value="{{n.hasUrl}}">
-<a href="{{n.url}}" style="flex: 1 1 420px; min-width: 0; font-size: 16px">{{n.text}}</a>
-</sc-if>
-<sc-if value="{{n.noUrl}}">
-<span style="flex: 1 1 420px; min-width: 0; font-size: 16px">{{n.text}}</span>
-</sc-if>
+<div style="flex: 1 1 420px; min-width: 0; display: flex; flex-direction: column; gap: 2px">
+<sc-if value="{{n.hasOutlet}}"><span class="press-outlet">{{n.outlet}}</span></sc-if>
+<sc-if value="{{n.hasUrl}}"><a href="{{n.url}}" class="press-headline" style="font-size: 16px">{{n.headline}}</a></sc-if>
+<sc-if value="{{n.noUrl}}"><span class="press-headline" style="font-size: 16px">{{n.headline}}</span></sc-if>
+</div>
 </div>
 </sc-for>
 </div>

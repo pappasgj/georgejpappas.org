@@ -29,11 +29,12 @@
 <div class="news-item" data-kind="{{n.kind}}" style="display: flex; flex-wrap: wrap; gap: 6px 20px; padding: 16px 0; border-top: 1px solid #DDE1E8; align-items: baseline">
 <span style="flex: 0 0 110px; font-size: 14px; font-weight: 700; color: #4A5263">{{n.date}}</span>
 <div style="flex: 1 1 520px; min-width: 0; display: flex; flex-direction: column; gap: 2px">
+<sc-if value="{{n.hasOutlet}}"><span class="press-outlet">{{n.outlet}}</span></sc-if>
 <sc-if value="{{n.hasUrl}}">
-<a href="{{n.url}}" style="font-size: 17px; font-weight: 600">{{n.text}}</a>
+<a href="{{n.url}}" class="press-headline">{{n.headline}}</a>
 </sc-if>
 <sc-if value="{{n.noUrl}}">
-<span style="font-size: 17px; font-weight: 600">{{n.text}}</span>
+<span class="press-headline">{{n.headline}}</span>
 </sc-if>
 <sc-if value="{{n.hasNote}}">
 <span style="font-size: 15px; color: #4A5263">{{n.note}}</span>

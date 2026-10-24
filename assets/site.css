@@ -96,3 +96,26 @@ li.pub { display: flex; gap: 16px; align-items: baseline; }
 .video-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .video-play { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); width: 56px; height: 40px; border-radius: 8px; background: rgba(153,0,0,0.92); color: #FFFFFF; font-size: 18px; display: flex; align-items: center; justify-content: center; }
 .video-inline { width: 100%; height: auto; display: block; background: #011F5B; }
+
+/* Calmer citations: navy titles, quiet links, one accent colour for awards */
+.pub-list { gap: 22px !important; }
+.pub-cite { line-height: 1.55; color: #1B1F2A; }
+.pub-cite .pub-text a { color: #011F5B; font-weight: 600; }
+.pub-cite .pub-text a:hover { color: #990000; }
+.pub-id { font-size: 13px; font-weight: 600; color: #8A93A6; }
+.pub-award { font-size: 14px; font-weight: 600; }
+.pub-links { font-size: 13px; font-weight: 400; color: #8A93A6; letter-spacing: 0.01em; }
+.pub-links a, .pub-links .bib-btn { color: #4A5263; font-weight: 500; }
+.pub-links a:hover, .pub-links .bib-btn:hover { color: #990000; }
+.area-side .project-link { font-size: 16px; line-height: 1.4; }
+.area-side .side-item { gap: 2px; }
+.pub-filter { font-size: 15px; padding: 8px 12px; min-height: 40px; }
+
+/* Press lists: outlet as a quiet label, headline in navy */
+.press-outlet { font-size: 12px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #4A5263; }
+.press-headline { font-size: 17px; font-weight: 600; color: #011F5B; line-height: 1.35; }
+a.press-headline:hover { color: #990000; }
+
+/* Links inside running text: navy with a light underline instead of red */
+main p a, p a, .in-text a { color: #011F5B; text-decoration: underline; text-decoration-color: rgba(1, 31, 91, 0.28); text-underline-offset: 3px; text-decoration-thickness: 1px; }
+main p a:hover, p a:hover, .in-text a:hover { color: #990000; text-decoration-color: #990000; }

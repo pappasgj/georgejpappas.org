@@ -267,7 +267,7 @@ def ctx_home():
     d["selected"] = add_dois(d["selected"], idx, "date")
     d["latest"] = add_dois(d["latest"], idx, "date")
     news = load("news.json")
-    feed = flags(sorted([n for n in news["items"] if n["kind"] == "press"], key=lambda n: -n["k"])[:6])
+    feed = [split_press(n) for n in flags(sorted([n for n in news["items"] if n["kind"] == "press"], key=lambda n: -n["k"])[:6])]
     # same entries and format as the Publications page; papers only (no white papers or editorials)
     latest_pubs = [p for y in publications() for p in y["items"] if p["kind"] in ("journal", "conf", "chapter")][:8]
     return {"selected": flags(d["selected"]), "latest": flags(d["latest"]), "feed": feed, "latestPubs": latest_pubs}
@@ -349,11 +349,19 @@ def ctx_teaching():
     return load("teaching.json")
 
 
+def split_press(n):
+    outlet, _, headline = n["text"].partition(": ")
+    if not headline:
+        outlet, headline = "", outlet
+    headline = headline[:1].upper() + headline[1:]
+    return dict(n, outlet=outlet, headline=headline, hasOutlet=bool(outlet))
+
+
 def ctx_news():
     d = load("news.json")
     labels = {"press": "Press", "honor": "Award", "lab": "Lab"}
     # Only press appears on the site; awards and lab news stay in news.json (awards are on the Bio page)
-    items = flags(sorted([n for n in d["items"] if n["kind"] == "press"], key=lambda n: -n["k"]))
+    items = [split_press(n) for n in flags(sorted([n for n in d["items"] if n["kind"] == "press"], key=lambda n: -n["k"]))]
     for n in items:
         n["kindLabel"] = labels[n["kind"]]
     stories = [dict(s, hasImg=bool(s.get("img"))) for s in sorted(d["stories"], key=lambda s: -s.get("k", 0))]
