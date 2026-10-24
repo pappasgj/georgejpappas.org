@@ -233,7 +233,9 @@ def ctx_research():
 def ctx_group():
     d = load("group.json")
     current = [dict(m, initials=initials(m["name"]), noUrl=not m.get("url"), noPhoto=not m.get("photo")) for m in d["current"]]
-    return {"current": current, "alumniGroups": d["alumniGroups"], "masters": d["masters"]}
+    mark = lambda rows: [dict(a, noUrl=not a.get("url")) for a in rows]
+    groups = [dict(g, items=mark(g["items"])) for g in d["alumniGroups"]]
+    return {"current": current, "alumniGroups": groups, "masters": mark(d["masters"])}
 
 
 def ctx_publications():
