@@ -125,7 +125,7 @@
  ],
  "alumniGroups": [
   {
-   "label": "Faculty and postdocs",
+   "label": "Faculty",
    "items": [
     {
      "name": "Nikolay Atanasov",
@@ -308,12 +308,6 @@
      "url": "https://www.grasp.upenn.edu/people/igor-spasojevic/"
     },
     {
-     "name": "Charis Stamouli",
-     "role": "Ph.D. graduate student, ESE, September 2020–July 2026",
-     "now": "Postdoctoral Researcher, ETH Zurich, Switzerland",
-     "url": "https://charis-stamouli.github.io/"
-    },
-    {
      "name": "Shreyas Sundaram",
      "role": "Postdoctoral Researcher, ESE, September 2009–April 2010",
      "now": "Marie Gordon Professor, ECE, Purdue University, West Lafayette, IN",
@@ -372,6 +366,12 @@
      "role": "Postdoctoral Researcher, EE, August 2000–January 2001",
      "now": "at LSCM R&D Centre, Hong Kong, China",
      "url": "https://www.linkedin.com/in/t-john-koo-a8aa9a7/"
+    },
+    {
+     "name": "Charis Stamouli",
+     "role": "Ph.D. graduate student, ESE, September 2020–July 2026",
+     "now": "Postdoctoral Researcher, ETH Zurich, Switzerland",
+     "url": "https://charis-stamouli.github.io/"
     },
     {
      "name": "Pedro Paulo Ventura Tecchio",
