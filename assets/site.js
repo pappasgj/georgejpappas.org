@@ -79,7 +79,7 @@
       years.forEach(function (y, i) {
         var n = 0;
         $$('li.pub', y).forEach(function (li) {
-          var ok = (kind === 'all' || (kind === 'award' ? li.getAttribute('data-award') === '1' : li.getAttribute('data-kind') === kind)) &&
+          var ok = (kind === 'all' || (kind === 'award' ? li.getAttribute('data-award') === '1' : kind === 'code' ? li.getAttribute('data-code') === '1' : li.getAttribute('data-kind') === kind)) &&
                    (!q || (li.querySelector('.pub-id').textContent + ' ' + li.querySelector('.pub-text').textContent).toLowerCase().indexOf(q) >= 0);
           li.hidden = !ok;
           if (ok) n++;
