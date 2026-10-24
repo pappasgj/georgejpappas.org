@@ -230,9 +230,9 @@
      "award": "International Conference on Runtime Verification (RV) Test of Time Award, 2025"
     }
    ],
-   "img": "",
-   "alt": "",
-   "caption": "",
+   "img": "images/physical-ai-safety.jpg",
+   "alt": "A delivery robot at a night crosswalk: with a parked car’s headlights off it judges the crossing safe; with the headlights on it yields",
+   "caption": "Context-aware safety: the same scene calls for different actions depending on context, here whether a parked car’s headlights are on.",
    "figureIdea": "Figure: conformal prediction regions around a planned trajectory",
    "id": "formal-methods"
   },
