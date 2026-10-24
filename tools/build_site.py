@@ -275,6 +275,7 @@ def ctx_bio():
 
 def ctx_research():
     d = load("research.json")
+    d["funding"] = [dict(f, hasUrl=bool(f.get("url")), noUrl=not f.get("url")) for f in d["funding"]]
     idx = paper_doi_index()
     areas = []
     for i, a in enumerate(d["areas"]):

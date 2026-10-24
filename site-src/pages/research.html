@@ -46,7 +46,7 @@
 <h3 style="margin: 14px 0 0; font-size: 14px; letter-spacing: 0.08em; text-transform: uppercase; color: #011F5B">Current projects</h3>
 <sc-for list="{{area.projects}}" as="q">
 <div style="padding: 10px 0; border-top: 1px solid #DDE1E8; display: flex; flex-direction: column; gap: 2px">
-<span style="font-weight: 600; color: #011F5B">{{q.title}}</span>
+<sc-if value="{{q.hasUrl}}"><a href="{{q.url}}" style="font-weight: 600">{{q.title}}</a></sc-if><sc-if value="{{q.noUrl}}"><span style="font-weight: 600; color: #011F5B">{{q.title}}</span></sc-if>
 <span style="font-size: 14px; color: #4A5263">{{q.sponsor}} · {{q.dates}}</span>
 </div>
 </sc-for>
@@ -63,7 +63,7 @@
 <sc-for list="{{funding}}" as="f">
 <div style="flex: 1 1 340px; background: #FFFFFF; padding: 20px; border-top: 3px solid #011F5B; display: flex; flex-direction: column; gap: 6px">
 <span style="font-size: 13px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: #990000">{{f.sponsor}}</span>
-<span style="font-family: 'Source Serif 4', Georgia, serif; font-size: 18px; font-weight: 600; line-height: 1.3; color: #011F5B">{{f.title}}</span>
+<sc-if value="{{f.hasUrl}}"><a href="{{f.url}}" style="font-family: 'Source Serif 4', Georgia, serif; font-size: 18px; font-weight: 600; line-height: 1.3">{{f.title}} ↗</a></sc-if><sc-if value="{{f.noUrl}}"><span style="font-family: 'Source Serif 4', Georgia, serif; font-size: 18px; font-weight: 600; line-height: 1.3; color: #011F5B">{{f.title}}</span></sc-if>
 <span style="font-size: 15px; color: #4A5263">{{f.role}} · {{f.dates}}</span>
 <div style="display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px">
 <sc-for list="{{f.areaChips}}" as="c">
