@@ -250,7 +250,8 @@
    "k": 202410,
    "date": "Oct 17, 2024",
    "kind": "press",
-   "text": "The Independent: AI-Controlled Robots Can Be Jailbroken, and the Results Could Be Disastrous"
+   "text": "The Independent: AI-controlled robots can be jailbroken",
+   "url": "https://www.independent.co.uk/tech/ai-artificial-intelligence-safe-vulnerability-robot-b2631080.html"
   },
   {
    "k": 202410,
@@ -278,7 +279,9 @@
    "k": 202403,
    "date": "Mar 5, 2024",
    "kind": "press",
-   "text": "The Washington Post: AI Researchers Challenge Big Tech, Seek ‘Safe Harbor’ for Testing"
+   "text": "The Washington Post: Top AI researchers ask OpenAI, Meta and more to allow independent research",
+   "url": "https://www.washingtonpost.com/technology/2024/03/05/ai-research-letter-openai-meta-midjourney/",
+   "note": "Coverage of the open letter seeking a safe harbor for independent AI evaluation."
   },
   {
    "k": 202402,
@@ -363,7 +366,8 @@
    "k": 202206,
    "date": "Jun 24, 2022",
    "kind": "press",
-   "text": "Kathimerini: Training Greece in Innovation (in Greek)"
+   "text": "Kathimerini: Training Greece in Innovation (in Greek)",
+   "url": "https://www.kathimerini.gr/society/561915637/ekpaideyontas-tin-ellada-stin-kainotomia/"
   },
   {
    "k": 202200,
@@ -498,10 +502,11 @@
    "url": "http://a2c2.org/awards/o-hugo-schuck-best-paper-award"
   },
   {
-   "k": 201509,
-   "date": "Sep 2015",
+   "k": 201508,
+   "date": "Aug 27, 2015",
    "kind": "press",
-   "text": "German media: Wenn Google die Temperatur im Wohnzimmer runterdreht (in German)"
+   "text": "futurezone: Wenn Google die Temperatur im Wohnzimmer runterdreht (in German)",
+   "url": "https://futurezone.at/science/wenn-google-die-temperatur-im-wohnzimmer-runterdreht/149.398.830"
   },
   {
    "k": 201504,
@@ -543,10 +548,11 @@
    "url": "https://news.mit.edu/2013/can-control-theory-make-software-better-0319"
   },
   {
-   "k": 201303,
-   "date": "Mar 2013",
+   "k": 201304,
+   "date": "Apr 17, 2013",
    "kind": "press",
-   "text": "Penn Engineering: Future Vision — George Pappas Ushers in a New Era for ESE"
+   "text": "Penn Engineering: Future Vision — George Pappas Ushers in a New Era for ESE",
+   "url": "https://www.grasp.upenn.edu/news/penn-news-future-vision-george-pappas-ushers-new-era-ese/"
   },
   {
    "k": 201301,
@@ -633,7 +639,8 @@
    "k": 200804,
    "date": "Apr 2008",
    "kind": "press",
-   "text": "The Daily Pennsylvanian: two major research grants for Penn Engineering"
+   "text": "The Daily Pennsylvanian: two major research grants for Penn Engineering",
+   "url": "https://www.thedp.com/article/2008/04/seas_awarded_2_major_grants"
   },
   {
    "k": 200803,
@@ -664,7 +671,8 @@
    "k": 200702,
    "date": "Feb 2007",
    "kind": "press",
-   "text": "The Daily Pennsylvanian: a new M.S.E. in Robotics"
+   "text": "The Daily Pennsylvanian: a new M.S.E. in Robotics",
+   "url": "https://www.thedp.com/article/2007/02/for_r2d2_or_t800_lovers_a_new_degree_awaits"
   },
   {
    "k": 200612,
@@ -694,7 +702,8 @@
    "k": 200503,
    "date": "Mar 2005",
    "kind": "press",
-   "text": "The Daily Pennsylvanian: multi-university swarming project"
+   "text": "The Daily Pennsylvanian: multi-university swarming project",
+   "url": "https://www.thedp.com/article/2005/03/profs_study_robotic_soldiers_of_the_future"
   },
   {
    "k": 200412,
@@ -725,7 +734,8 @@
    "k": 200405,
    "date": "May 2004",
    "kind": "press",
-   "text": "The Daily Pennsylvanian: engineering professors recognized with the PECASE"
+   "text": "The Daily Pennsylvanian: engineering professors recognized with the PECASE",
+   "url": "https://www.thedp.com/article/2004/05/engineering_profs_research_recognized_by_president_bush"
   },
   {
    "k": 200404,
