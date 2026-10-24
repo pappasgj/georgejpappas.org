@@ -174,6 +174,10 @@ PUB_KIND = {"journal": "journal", "conf": "conf", "chapter": "chapter", "book": 
 
 def publications():
     rows = load("publications.json")
+    links = load("pub-links.json") if os.path.exists(os.path.join(DATA, "pub-links.json")) else {}
+    for r in rows:  # PDFs and publisher pages kept by title in pub-links.json
+        extra = links.get(r[5], {})
+        r[9:] = [extra.get("pdf", r[9] if len(r) > 9 else ""), extra.get("url", r[10] if len(r) > 10 else "")]
     order = {r[0]: i for i, r in enumerate(rows)}
     rows = sorted(rows, key=lambda r: (-r[2], -month_of(r[6]), order[r[0]]))
     years = []
