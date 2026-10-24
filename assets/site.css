@@ -11,7 +11,7 @@ a:focus-visible, button:focus-visible, summary:focus-visible, input:focus-visibl
 
 .nav-mobile { display: none; }
 summary::-webkit-details-marker { display: none; }
-@media (max-width: 1260px) { .nav-full { display: none !important; } .nav-mobile { display: block !important; } }
+@media (max-width: 1160px) { .nav-full { display: none !important; } .nav-mobile { display: block !important; } }
 @media (max-width: 600px) {
   [style*="max-width: 1200px"], [style*="max-width: 860px"] { padding-left: 16px !important; padding-right: 16px !important; }
   .brand-logo { height: 32px !important; }

@@ -1,7 +1,7 @@
 <div style="background: #011F5B; color: #FFFFFF">
 <div style="max-width: 1200px; margin: 0 auto; padding: 48px 32px 52px; display: flex; flex-direction: column; gap: 12px">
-<h1 class="page-h1" style="margin: 0; font-family: 'Source Serif 4', Georgia, serif; font-size: 48px; font-weight: 600">News &amp; Press</h1>
-<p style="margin: 0; font-size: 19px; color: #E8ECF4">Awards, press coverage and news from the group.</p>
+<h1 class="page-h1" style="margin: 0; font-family: 'Source Serif 4', Georgia, serif; font-size: 48px; font-weight: 600">Press</h1>
+<p style="margin: 0; font-size: 19px; color: #E8ECF4">Coverage of our work in the press, in the U.S. and abroad.</p>
 </div>
 </div>
 
@@ -23,20 +23,11 @@
 </div>
 
 <div style="max-width: 1200px; margin: 0 auto; padding: 40px 32px 64px; display: flex; flex-direction: column; gap: 20px">
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 16px">
-<h2 style="margin: 0; font-family: 'Source Serif 4', Georgia, serif; font-size: 30px; color: #011F5B">All News</h2>
-<div role="group" aria-label="Filter news" class="js-only" hidden style="display: flex; flex-wrap: wrap; gap: 8px">
-<button type="button" class="filter-btn news-filter" data-filter="all" aria-pressed="true">All</button>
-<button type="button" class="filter-btn news-filter" data-filter="honor" aria-pressed="false">Awards</button>
-<button type="button" class="filter-btn news-filter" data-filter="press" aria-pressed="false">Press</button>
-<button type="button" class="filter-btn news-filter" data-filter="lab" aria-pressed="false">Lab news</button>
-</div>
-</div>
+<h2 style="margin: 0; font-family: 'Source Serif 4', Georgia, serif; font-size: 30px; color: #011F5B">All Coverage</h2>
 <div style="display: flex; flex-direction: column">
 <sc-for list="{{items}}" as="n">
 <div class="news-item" data-kind="{{n.kind}}" style="display: flex; flex-wrap: wrap; gap: 6px 20px; padding: 16px 0; border-top: 1px solid #DDE1E8; align-items: baseline">
 <span style="flex: 0 0 110px; font-size: 14px; font-weight: 700; color: #4A5263">{{n.date}}</span>
-<span style="flex: 0 0 90px; font-size: 12px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: #011F5B">{{n.kindLabel}}</span>
 <div style="flex: 1 1 520px; min-width: 0; display: flex; flex-direction: column; gap: 2px">
 <sc-if value="{{n.hasUrl}}">
 <a href="{{n.url}}" style="font-size: 17px; font-weight: 600">{{n.text}}</a>

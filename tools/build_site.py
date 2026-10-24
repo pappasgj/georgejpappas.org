@@ -38,8 +38,8 @@ PAGES = [
      "Linear Systems Theory: From Linear Algebra to the Kalman Filter by George J. Pappas. Pella Press, January 2027. Paperback and free PDF."),
     ("teaching", "Teaching", "teaching", "George J. Pappas — Teaching",
      "Courses taught by George J. Pappas at the University of Pennsylvania, including ESE 5000 Linear Systems Theory."),
-    ("news", "News & Press", "news", "George J. Pappas — News & Press",
-     "Awards, press coverage and news about George J. Pappas and his research group."),
+    ("news", "Press", "press", "George J. Pappas — Press",
+     "Press coverage of George J. Pappas and his research group at the University of Pennsylvania: AI safety, robot jailbreaking, and Penn's undergraduate degree in AI."),
 ]
 
 # ---------------------------------------------------------------- template engine
@@ -214,7 +214,9 @@ def _quote(s):
 
 def ctx_home():
     d = load("home.json")
-    return {"selected": flags(d["selected"]), "latest": flags(d["latest"]), "feed": flags(d["feed"])}
+    news = load("news.json")
+    feed = flags(sorted([n for n in news["items"] if n["kind"] == "press"], key=lambda n: -n["k"])[:6])
+    return {"selected": flags(d["selected"]), "latest": flags(d["latest"]), "feed": feed}
 
 
 def ctx_bio():
@@ -257,7 +259,8 @@ def ctx_teaching():
 def ctx_news():
     d = load("news.json")
     labels = {"press": "Press", "honor": "Award", "lab": "Lab"}
-    items = flags(sorted(d["items"], key=lambda n: -n["k"]))  # newest first; stable within a month
+    # Only press appears on the site; awards and lab news stay in news.json (awards are on the Bio page)
+    items = flags(sorted([n for n in d["items"] if n["kind"] == "press"], key=lambda n: -n["k"]))
     for n in items:
         n["kindLabel"] = labels[n["kind"]]
     stories = [dict(s, hasImg=bool(s.get("img"))) for s in sorted(d["stories"], key=lambda s: -s.get("k", 0))]
@@ -306,7 +309,20 @@ def main():
         with open(os.path.join(out_dir, "index.html"), "w", encoding="utf-8") as f:
             f.write(page)
         print("built", (folder or ".") + "/index.html")
+    write_redirect("news", "press")
     write_sitemap(today)
+
+
+def write_redirect(old, new):
+    """A tiny page at /old/ that sends visitors and search engines to /new/."""
+    os.makedirs(os.path.join(ROOT, old), exist_ok=True)
+    with open(os.path.join(ROOT, old, "index.html"), "w", encoding="utf-8") as f:
+        f.write('<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Moved</title>'
+                '<link rel="canonical" href="%s%s/"><meta name="robots" content="noindex">'
+                '<meta http-equiv="refresh" content="0; url=../%s/"></head>'
+                '<body><p>This page has moved to <a href="../%s/">%s</a>.</p></body></html>\n'
+                % (SITE_URL, new, new, new, new))
+    print("built", old + "/index.html (redirect to /%s/)" % new)
 
 
 def write_sitemap(today):
