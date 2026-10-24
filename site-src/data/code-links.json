@@ -1,0 +1,140 @@
+{
+ "C275": {
+  "code": "https://github.com/Verisig/verisig"
+ },
+ "C282": {
+  "code": "https://github.com/coco66/ADFQ"
+ },
+ "C284": {
+  "code": "https://github.com/katetolstaya/multiagent_gnn_policies"
+ },
+ "C285": {
+  "code": "https://github.com/coco66/ttenv"
+ },
+ "C288": {
+  "code": "https://github.com/mahyarfazlyab/DeepSDP"
+ },
+ "C292": {
+  "code": "https://github.com/arobey1/LipSDP"
+ },
+ "C293": {
+  "code": "https://github.com/rivapp/autonomous_car_verification"
+ },
+ "C318": {
+  "code": "https://github.com/rivapp/CAV21_repeatability_package"
+ },
+ "C323": {
+  "code": "https://github.com/christopher-hsu/scalableMARL"
+ },
+ "C334": {
+  "code": "https://github.com/wanxinjin/Safe-PDP"
+ },
+ "C335": {
+  "code": "https://github.com/arobey1/mbdg"
+ },
+ "C336": {
+  "code": "https://github.com/arobey1/advbench"
+ },
+ "C338": {
+  "code": "https://github.com/AllanYangZhou/generative-invariance-transfer"
+ },
+ "C342": {
+  "code": "https://github.com/arobey1/advbench"
+ },
+ "C344": {
+  "code": "https://github.com/cianeastwood/qrm"
+ },
+ "C346": {
+  "code": "https://github.com/PredictiveIntelligenceLab/NOMAD"
+ },
+ "C351": {
+  "code": "https://github.com/AntonXue/chordal-lipsdp"
+ },
+ "C365": {
+  "code": "https://github.com/PredictiveIntelligenceLab/VANO"
+ },
+ "C373": {
+  "code": "https://github.com/ShaoruChen/NN-System-PSF"
+ },
+ "C376": {
+  "code": "https://github.com/earnedkibbles58/timeParamCPScores"
+ },
+ "C382": {
+  "code": "https://github.com/nandantumu/conformal_region_designer"
+ },
+ "C393": {
+  "code": "https://github.com/shayankiyani98/CP"
+ },
+ "C394": {
+  "code": "https://github.com/JailbreakBench/jailbreakbench"
+ },
+ "C395": {
+  "code": "https://github.com/patrickrchao/JailbreakingLLMs"
+ },
+ "C396": {
+  "code": "https://github.com/Helloworld10011/Adversarial-Reasoning"
+ },
+ "C397": {
+  "code": "https://github.com/shayankiyani98/Risk-Averse-Calibration"
+ },
+ "C399": {
+  "code": "https://github.com/vatass/ConformalBiomarkerTrajectories"
+ },
+ "C400": {
+  "code": "https://github.com/nooranisima/CPQ-missing-mass"
+ },
+ "C405": {
+  "code": "https://github.com/shuoyang2000/STLgame"
+ },
+ "C409": {
+  "code": "https://github.com/PredictiveIntelligenceLab/cvit"
+ },
+ "C410": {
+  "code": "https://github.com/KumarRobotics/SPINE"
+ },
+ "C411": {
+  "code": "https://github.com/arobey1/robopair"
+ },
+ "C413": {
+  "code": "https://github.com/KumarRobotics/PRISM"
+ },
+ "C414": {
+  "code": "https://github.com/UCSB-NLP-Chang/SemanticSmooth"
+ },
+ "C419": {
+  "code": "https://github.com/Telvc/AC-RAC"
+ },
+ "C420": {
+  "code": "https://github.com/nooranisima/Human-AI-Collaborative-UQ"
+ },
+ "C422": {
+  "code": "https://github.com/nooranisima/weak-and-strong-verification"
+ },
+ "C424": {
+  "code": "https://github.com/KumarRobotics/SPINE-HT"
+ },
+ "J112": {
+  "code": "https://github.com/vvasilo/semnav"
+ },
+ "J130": {
+  "code": "https://github.com/mahyarfazlyab/DeepSDP"
+ },
+ "J135": {
+  "code": "https://github.com/PredictiveIntelligenceLab/LOCA"
+ },
+ "J150": {
+  "code": "https://github.com/enozari/rest-system-id"
+ },
+ "J155": {
+  "code": "https://github.com/arobey1/smooth-llm"
+ },
+ "J161": {
+  "code": "https://github.com/hwcao17/pkf"
+ },
+ "J163": {
+  "code": "https://github.com/KumarRobotics/RoboGuard"
+ },
+ "J166": {
+  "code": "https://github.com/asu-iris/Safe-MPC-Alignment"
+ }
+}
