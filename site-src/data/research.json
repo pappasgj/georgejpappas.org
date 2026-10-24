@@ -284,9 +284,9 @@
      "year": "2008"
     }
    ],
-   "img": "",
-   "alt": "",
-   "caption": "",
+   "img": "images/multi-robot-systems.jpg",
+   "alt": "Illustration of a ground robot and two drones at dusk building a shared semantic map of a campus, with labeled buildings, cars and people and dashed communication links",
+   "caption": "Illustration: an air–ground robot team builds a shared semantic map, labeling buildings, cars and people as it explores.",
    "figureIdea": "Photo: air–ground robot team in the field",
    "id": "multi-robot-systems"
   }
