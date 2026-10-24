@@ -105,8 +105,8 @@
   var bibBtns = $$('.bib-btn');
   if (bibBtns.length) {
     var bibData = null;
-    var loadBib = function () {
-      if (!bibData) bibData = fetch('bibtex.json').then(function (r) { return r.json(); });
+    var loadBib = function (url) {
+      if (!bibData) bibData = fetch(url).then(function (r) { return r.json(); });
       return bibData;
     };
     bibBtns.forEach(function (btn) {
@@ -114,7 +114,7 @@
         var li = btn.closest('li.pub');
         var open = li.querySelector('.bib-box');
         if (open) { open.remove(); btn.setAttribute('aria-expanded', 'false'); return; }
-        loadBib().then(function (all) {
+        loadBib(btn.closest('[data-bib]').getAttribute('data-bib')).then(function (all) {
           var box = document.createElement('div'); box.className = 'bib-box';
           var pre = document.createElement('pre'); pre.textContent = all[li.getAttribute('data-id')] || 'BibTeX not available.';
           var copy = document.createElement('button'); copy.type = 'button'; copy.className = 'bib-copy'; copy.textContent = 'Copy';

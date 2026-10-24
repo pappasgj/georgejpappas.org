@@ -245,7 +245,8 @@ def ctx_home():
     d["latest"] = add_dois(d["latest"], idx, "date")
     news = load("news.json")
     feed = flags(sorted([n for n in news["items"] if n["kind"] == "press"], key=lambda n: -n["k"])[:6])
-    return {"selected": flags(d["selected"]), "latest": flags(d["latest"]), "feed": feed}
+    latest_pubs = [p for y in publications() for p in y["items"]][:8]  # same entries and format as the Publications page
+    return {"selected": flags(d["selected"]), "latest": flags(d["latest"]), "feed": feed, "latestPubs": latest_pubs}
 
 
 def ctx_bio():
@@ -324,6 +325,8 @@ def main():
         root = "../" if folder else "./"
         with open(os.path.join(SRC, "pages", key + ".html"), encoding="utf-8") as f:
             body_src = f.read()
+        with open(os.path.join(SRC, "pub-item.html"), encoding="utf-8") as f:
+            body_src = body_src.replace("<!--PUB-ITEM-->", f.read().strip())
         ctx = globals()["ctx_" + key]()
         ctx["root"] = root
         body = render(body_src, ctx)
