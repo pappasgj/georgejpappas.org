@@ -56,7 +56,7 @@
 <h3 class="side-h">Videos</h3>
 <sc-for list="{{area.videos}}" as="v">
 <sc-if value="{{v.isLink}}"><a href="{{v.url}}" class="video-card">
-<span class="video-thumb"><img src="{{v.thumb}}" alt="" loading="lazy" onerror="this.remove()"><span class="video-play" aria-hidden="true">▶</span></span>
+<span class="video-thumb"><sc-if value="{{v.hasThumb}}"><img src="{{v.thumb}}" alt="" loading="lazy" onerror="this.remove()"></sc-if><span class="video-play" aria-hidden="true">▶</span></span>
 <span class="project-link">{{v.label}}</span>
 </a></sc-if>
 <sc-if value="{{v.isFile}}"><figure class="video-card" style="margin: 0">

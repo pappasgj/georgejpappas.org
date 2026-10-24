@@ -314,7 +314,14 @@
    "caption": "Context-aware safety: the same scene calls for different actions depending on context, here whether a parked car’s headlights are on.",
    "figureIdea": "Figure: conformal prediction regions around a planned trajectory",
    "id": "formal-methods",
-   "tagline": "Temporal logic robustness, and verification and planning with conformal prediction."
+   "tagline": "Temporal logic robustness, and verification and planning with conformal prediction.",
+   "videos": [
+    {
+     "id": "J164",
+     "label": "Safe planning with conformalized semantic maps: simulation and Jackal robot experiments",
+     "url": "https://vimeo.com/1161521936"
+    }
+   ]
   },
   {
    "short": "Multi-Robot Systems",
