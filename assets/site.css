@@ -48,6 +48,7 @@ li.pub { display: flex; gap: 16px; align-items: baseline; }
 .pub-cite { font-size: 16px; }
 .pub-cite a { font-weight: 600; }
 .pub-award { font-size: 15px; color: #990000; font-weight: 700; }
+.pub-award::after { content: "."; }
 .pub-links { font-size: 14px; font-weight: 600; white-space: normal; }
 .bib-btn { font: inherit; font-weight: 600; color: #990000; background: none; border: 0; padding: 0; cursor: pointer; }
 .bib-btn:hover { color: #011F5B; text-decoration: underline; }
