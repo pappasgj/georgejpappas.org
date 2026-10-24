@@ -1801,5 +1801,82 @@
  },
  "conf|1993|Dynamic Modeling and Tracking Control of Nonholonomic Vehicles": {
   "doi": "10.1016/s1474-6670(17)48682-4"
+ },
+ "book|2016|A 21st Century Cyber-Physical Systems Education": {
+  "doi": "10.17226/23686"
+ },
+ "book|2004|Hybrid Systems: Computation and Control (HSCC 2004)": {
+  "doi": "10.1007/b96398"
+ },
+ "conf|2015|Taxi Dispatch with Real-Time Sensing Data in Metropolitan Areas- a Receding Horizon Control Approach": {
+  "doi": "10.1145/2735960.2735961"
+ },
+ "editorial|2006|Corrigendum to ‘Hierarchical Trajectory Refinement for a Class of Nonlinear Systems’": {
+  "doi": "10.1016/j.automatica.2006.06.001"
+ },
+ "chapter|2006|An Optimization-Based Approach to Time Critical Cooperative Surveillance and Coverage with Unmanned Aerial Vehicles": {
+  "doi": "10.1007/978-3-540-77457-0_46"
+ },
+ "conf|2004|Synergies in Feature Localisation by Air-Ground Robot Teams": {
+  "doi": "10.1007/11552246_34"
+ },
+ "conf|2003|Stable Flocking of Mobile Agents, Part I: Fixed Topology": {
+  "doi": "10.1109/cdc.2003.1272910"
+ },
+ "conf|2003|Stable Flocking of Mobile Agents, Part II: Dynamic Topology": {
+  "doi": "10.1109/cdc.2003.1272911"
+ },
+ "conf|2002|Bisimilar Control Affine Systems": {
+  "doi": "10.1109/cdc.2002.1184190"
+ },
+ "conf|2001|Abstractions of Hamiltonian Control Systems": {
+  "doi": "10.1109/cdc.2001.980380"
+ },
+ "conf|1997|Noncooperative Conflict Resolution": {
+  "doi": "10.1109/cdc.1997.657827"
+ },
+ "conf|1992|Modeling and Feedback Control of Nonholonomic Vehicles": {
+  "doi": "10.1109/cdc.1992.371331"
+ },
+ "conf|2017|Hierarchical Data-Driven Vehicle Dispatch and Ride-Sharing": {
+  "doi": "10.1109/cdc.2017.8264317"
+ },
+ "journal|2008|Courteous Cars: Decentralized Multi-Agent Traffic Coordination": {
+  "doi": "10.1109/m-ra.2007.914921"
+ },
+ "conf|1997|SmartATMS: A Simulator for Air Traffic Management Systems": {
+  "doi": "10.1145/268437.268760"
+ },
+ "conf|2002|From Nonlinear to Hamiltonian via Feedback": {
+  "doi": "10.1109/cdc.2002.1184734"
+ },
+ "conf|2001|Compositional Abstractions of Hybrid Control Systems": {
+  "doi": "10.1109/cdc.2001.980125"
+ },
+ "editorial|2008|Introduction to the Special Issue on Hybrid Systems: Computation and Control": {
+  "doi": "10.1007/s10703-007-0047-0"
+ },
+ "book|2021|Proceedings of the 3rd Conference on Learning for Dynamics and Control (L4DC)": {
+  "url": "https://proceedings.mlr.press/v144/"
+ },
+ "journal|2022|Learning Operators with Coupled Attention": {
+  "url": "https://jmlr.org/papers/v23/21-1521.html",
+  "pdf": "https://jmlr.org/papers/volume23/21-1521/21-1521.pdf"
+ },
+ "white|2017|Mobility21: Strategic Investments for Transportation Infrastructure & Technology": {
+  "url": "https://arxiv.org/abs/1705.01923",
+  "pdf": "https://arxiv.org/pdf/1705.01923"
+ },
+ "white|2017|Privacy in Information-Rich Intelligent Infrastructure": {
+  "url": "https://arxiv.org/abs/1706.01985",
+  "pdf": "https://arxiv.org/pdf/1706.01985"
+ },
+ "white|2017|A National Research Agenda for Intelligent Infrastructure": {
+  "url": "https://arxiv.org/abs/1705.01920",
+  "pdf": "https://arxiv.org/pdf/1705.01920"
+ },
+ "book|2023|Control for Societal-Scale Challenges: Roadmap 2030": {
+  "url": "https://ieeecss.org/sites/ieeecss/files/2023-02/Control_Societal-scale_challenges_roadmap.pdf",
+  "pdf": "https://ieeecss.org/sites/ieeecss/files/2023-02/Control_Societal-scale_challenges_roadmap.pdf"
  }
 }
