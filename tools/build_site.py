@@ -172,6 +172,19 @@ def month_of(rest):
 PUB_KIND = {"journal": "journal", "conf": "conf", "chapter": "chapter", "book": "book", "editorial": "other", "white": "other", "patent": "patent"}
 
 
+def award_text(award, rest):
+    """Name the giving body first: "Finalist, X" becomes "X Finalist"; a bare "Spotlight" gets its venue."""
+    parts = []
+    for a in [x.strip() for x in award.split(";") if x.strip()]:
+        if a.startswith("Finalist, "):
+            a = a[len("Finalist, "):] + " Finalist"
+        if a in ("Spotlight", "Oral Spotlight"):
+            m = re.search(r"\((ICML|L4DC|NeurIPS|ICLR|CoRL)\)", rest)
+            a = (m.group(1) + " " + a) if m else a
+        parts.append(a)
+    return "; ".join(parts)
+
+
 def publications():
     rows = load("publications.json")
     links = load("pub-links.json") if os.path.exists(os.path.join(DATA, "pub-links.json")) else {}
@@ -189,6 +202,7 @@ def publications():
     years = []
     for r in rows:
         pid, kind, year, pre, post, title, rest, doi, award = r[:9]
+        award = award_text(award, rest)
         pdf = r[9] if len(r) > 9 else ""
         url = r[10] if len(r) > 10 else ""
         doi_url = "https://doi.org/" + doi if doi else ""
@@ -196,7 +210,7 @@ def publications():
         item = {
             "id": pid, "pre": pre, "me": "G. J. Pappas", "post": post, "title": title, "rest": rest,
             "award": award, "hasAward": bool(award), "pdf": pdf, "hasPdf": bool(pdf),
-            "doiUrl": doi_url, "hasDoi": bool(doi), "url": url, "hasUrl": bool(url), "urlLabel": "Google Patents" if kind == "patent" else "Publisher",
+            "doiUrl": doi_url, "hasDoi": bool(doi), "url": url, "hasUrl": bool(url), "urlLabel": "Google Patents" if kind == "patent" else "Proceedings" if re.search(r"mlr\.press|neurips\.cc|openreview\.net", url) else "Publisher",
             "code": (code_links.get(pid) or {}).get("code", ""), "hasCode": bool((code_links.get(pid) or {}).get("code")),
             "scholar": scholar, "titleUrl": pdf or doi_url or url, "titleLink": bool(pdf or doi_url or url), "showScholar": not (pdf or doi or url),
             "kind": PUB_KIND.get(kind, "other"), "awardFlag": "1" if award else "",
