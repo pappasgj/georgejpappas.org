@@ -33,7 +33,11 @@ summary::-webkit-details-marker { display: none; }
 .area-panel { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); grid-template-areas: "fig text" "side text"; column-gap: 48px; row-gap: 28px; align-items: start; grid-template-rows: auto 1fr; scroll-margin-top: 16px; }
 .area-fig { grid-area: fig; min-width: 0; }
 .area-text { grid-area: text; min-width: 0; display: flex; flex-direction: column; gap: 16px; }
-.area-side { grid-area: side; min-width: 0; background: #F3F5F9; padding: 20px; display: flex; flex-direction: column; gap: 12px; }
+.area-side { grid-area: side; min-width: 0; background: #F3F5F9; padding: 20px; display: flex; flex-direction: column; gap: 28px; }
+.side-block { display: flex; flex-direction: column; gap: 12px; }
+.side-h { margin: 0; font-size: 14px; letter-spacing: 0.08em; text-transform: uppercase; color: #011F5B; }
+.side-item { padding: 12px 0 0; border-top: 1px solid #DDE1E8; display: flex; flex-direction: column; gap: 3px; }
+.side-meta { font-size: 14px; color: #4A5263; }
 .project-link, .project-name { font-weight: 600; color: #011F5B; }
 .project-link span { color: #990000; }
 @media (max-width: 900px) {

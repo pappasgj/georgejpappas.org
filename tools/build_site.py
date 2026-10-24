@@ -281,9 +281,15 @@ def ctx_research():
     for y in publications():
         for item in y["items"]:
             by_title.setdefault(norm(item["title"]), []).append((str(y["year"]), item))
+    press = sorted([x for x in load("news.json")["items"] if x.get("kind") == "press" and x.get("url")],
+                   key=lambda x: -x["k"])
     areas = []
     for i, a in enumerate(d["areas"]):
         projects = [f for f in d["funding"] if i in f["areas"]]
+        coverage = []
+        for x in [x for x in press if a["id"] in x.get("areas", [])][:5]:
+            outlet, _, headline = x["text"].partition(": ")
+            coverage.append({"outlet": outlet if headline else "", "headline": headline or outlet, "url": x["url"], "date": x["date"]})
         papers = []
         for k in a["papers"]:
             cands = by_title.get(norm(k["title"]), [])
@@ -300,7 +306,8 @@ def ctx_research():
                     item.update(titleUrl=item["pdf"], titleLink=True, showScholar=False)
             papers.append(item)
         areas.append(dict(a, index=i, first=i == 0, hidden=i != 0, selected="true" if i == 0 else "false",
-                          projects=projects, hasProjects=bool(projects), hasImg=bool(a.get("img")),
+                          projects=projects, hasProjects=bool(projects), press=coverage, hasPress=bool(coverage),
+                          hasSide=bool(projects or coverage), hasImg=bool(a.get("img")),
                           noImg=not a.get("img"), papers=papers))
     return {"areas": areas}
 

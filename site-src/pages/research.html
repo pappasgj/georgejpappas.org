@@ -38,15 +38,31 @@
 <a href="{{root}}publications/" style="font-weight: 600; margin-top: 4px">All publications →</a>
 </div>
 
+<sc-if value="{{area.hasSide}}">
+<aside class="area-side" aria-label="Projects and press for {{area.title}}">
 <sc-if value="{{area.hasProjects}}">
-<aside class="area-side" aria-label="Current projects in {{area.title}}">
-<h3 style="margin: 0; font-size: 14px; letter-spacing: 0.08em; text-transform: uppercase; color: #011F5B">Current projects</h3>
+<div class="side-block">
+<h3 class="side-h">Current projects</h3>
 <sc-for list="{{area.projects}}" as="q">
-<div style="padding: 12px 0 0; border-top: 1px solid #DDE1E8; display: flex; flex-direction: column; gap: 3px">
+<div class="side-item">
 <sc-if value="{{q.hasUrl}}"><a href="{{q.url}}" class="project-link">{{q.title}} <span aria-hidden="true">↗</span></a></sc-if><sc-if value="{{q.noUrl}}"><span class="project-name">{{q.title}}</span></sc-if>
-<span style="font-size: 14px; color: #4A5263">{{q.sponsor}} · {{q.dates}}</span>
+<span class="side-meta">{{q.sponsor}} · {{q.dates}}</span>
 </div>
 </sc-for>
+</div>
+</sc-if>
+<sc-if value="{{area.hasPress}}">
+<div class="side-block">
+<h3 class="side-h">In the press</h3>
+<sc-for list="{{area.press}}" as="n">
+<div class="side-item">
+<a href="{{n.url}}" class="project-link">{{n.headline}}</a>
+<span class="side-meta">{{n.outlet}} · {{n.date}}</span>
+</div>
+</sc-for>
+<a href="{{root}}press/" style="font-weight: 600; font-size: 15px">All press coverage →</a>
+</div>
+</sc-if>
 </aside>
 </sc-if>
 </section>
