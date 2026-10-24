@@ -257,10 +257,10 @@ def ctx_teaching():
 def ctx_news():
     d = load("news.json")
     labels = {"press": "Press", "honor": "Award", "lab": "Lab"}
-    items = flags(d["items"])
+    items = flags(sorted(d["items"], key=lambda n: -n["k"]))  # newest first; stable within a month
     for n in items:
         n["kindLabel"] = labels[n["kind"]]
-    stories = [dict(s, hasImg=bool(s.get("img"))) for s in d["stories"]]
+    stories = [dict(s, hasImg=bool(s.get("img"))) for s in sorted(d["stories"], key=lambda s: -s.get("k", 0))]
     return {"items": items, "stories": stories}
 
 

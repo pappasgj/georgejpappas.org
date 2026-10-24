@@ -1,20 +1,22 @@
 {
  "stories": [
   {
-   "outlet": "Penn Today",
-   "date": "April 2026",
-   "title": "What It Will Take to Make AI-Enabled Robots Safer",
-   "note": "Coverage of the Science Robotics article on context-aware safety for robotic foundation models.",
-   "img": "",
-   "url": "https://penntoday.upenn.edu/news/penn-engineering-what-it-will-take-make-ai-enabled-robots-safer"
-  },
-  {
    "outlet": "IEEE Spectrum",
    "date": "September 2026",
    "title": "Rethinking Robot Safety in the Age of AI",
    "note": "Discusses RoboPAIR jailbreaking of LLM-controlled robots.",
    "img": "",
-   "url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone"
+   "url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
+   "k": 202609
+  },
+  {
+   "outlet": "Penn Today",
+   "date": "April 2026",
+   "title": "What It Will Take to Make AI-Enabled Robots Safer",
+   "note": "Coverage of the Science Robotics article on context-aware safety for robotic foundation models.",
+   "img": "",
+   "url": "https://penntoday.upenn.edu/news/penn-engineering-what-it-will-take-make-ai-enabled-robots-safer",
+   "k": 202604
   },
   {
    "outlet": "MIT Technology Review",
@@ -22,7 +24,8 @@
    "title": "Anthropic Has a New Way to Protect Large Language Models Against Jailbreaks",
    "note": "Coverage of the SmoothLLM jailbreak defense.",
    "img": "",
-   "url": "https://www.technologyreview.com/2025/02/03/1110849/anthropic-has-a-new-way-to-protect-large-language-models-against-jailbreaks/"
+   "url": "https://www.technologyreview.com/2025/02/03/1110849/anthropic-has-a-new-way-to-protect-large-language-models-against-jailbreaks/",
+   "k": 202502
   }
  ],
  "items": [
