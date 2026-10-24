@@ -193,7 +193,7 @@ def publications():
             "id": pid, "pre": pre, "me": "G. J. Pappas", "post": post, "title": title, "rest": rest,
             "award": award, "hasAward": bool(award), "pdf": pdf, "hasPdf": bool(pdf),
             "doiUrl": doi_url, "hasDoi": bool(doi), "url": url, "hasUrl": bool(url),
-            "scholar": scholar, "titleUrl": pdf or doi_url or url or scholar, "showScholar": not (pdf or doi or url),
+            "scholar": scholar, "titleUrl": pdf or doi_url or url, "titleLink": bool(pdf or doi_url or url), "showScholar": not (pdf or doi or url),
             "kind": PUB_KIND.get(kind, "other"), "awardFlag": "1" if award else "",
             "search": " ".join([pid, pre, "G. J. Pappas", post, title, rest]).lower(),
         }

@@ -45,7 +45,7 @@
 <li class="pub" data-id="{{p.id}}" data-kind="{{p.kind}}" data-award="{{p.awardFlag}}">
 <span class="pub-id">{{p.id}}</span>
 <div class="pub-body">
-<span class="pub-cite"><span class="pub-text">{{p.pre}}{{p.me}}{{p.post}}, “<a href="{{p.titleUrl}}">{{p.title}}</a>,” {{p.rest}}.</span> <sc-if value="{{p.hasAward}}"><span class="pub-award">{{p.award}}</span> </sc-if><span class="pub-links"><sc-if value="{{p.hasDoi}}">[<a href="{{p.doiUrl}}">DOI</a>]</sc-if> <sc-if value="{{p.hasPdf}}">[<a href="{{p.pdf}}">PDF</a>]</sc-if> <sc-if value="{{p.hasUrl}}">[<a href="{{p.url}}">Publisher</a>]</sc-if> <sc-if value="{{p.showScholar}}">[<a href="{{p.scholar}}">Scholar</a>]</sc-if> <button type="button" class="bib-btn js-only" hidden aria-expanded="false">[BibTeX]</button></span></span>
+<span class="pub-cite"><span class="pub-text">{{p.pre}}{{p.me}}{{p.post}}, “<sc-if value="{{p.titleLink}}"><a href="{{p.titleUrl}}">{{p.title}}</a></sc-if><sc-if value="{{p.showScholar}}"><span class="pub-title">{{p.title}}</span></sc-if>,” {{p.rest}}.</span> <sc-if value="{{p.hasAward}}"><span class="pub-award">{{p.award}}</span> </sc-if><span class="pub-links"><sc-if value="{{p.hasDoi}}">[<a href="{{p.doiUrl}}">DOI</a>]</sc-if> <sc-if value="{{p.hasPdf}}">[<a href="{{p.pdf}}">PDF</a>]</sc-if> <sc-if value="{{p.hasUrl}}">[<a href="{{p.url}}">Publisher</a>]</sc-if> <sc-if value="{{p.showScholar}}">[<a href="{{p.scholar}}">Scholar</a>]</sc-if> <button type="button" class="bib-btn js-only" hidden aria-expanded="false">[BibTeX]</button></span></span>
 </div>
 </li>
 </sc-for>

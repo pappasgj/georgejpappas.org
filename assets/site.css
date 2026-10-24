@@ -64,3 +64,4 @@ li.pub { display: flex; gap: 16px; align-items: baseline; }
 /* Bio: line the photo up with the first paragraph, not the heading, when side by side */
 @media (min-width: 920px) { .bio-aside { margin-top: 65px; } }
 .nav-full > * { flex-shrink: 0; }
+.pub-title { font-weight: 600; color: #1B1F2A; }
