@@ -36,13 +36,9 @@
 </sc-for>
 </ol>
 <a href="{{root}}publications/" style="font-weight: 600; margin-top: 4px">All publications →</a>
-</div>
-
-<sc-if value="{{area.hasSide}}">
-<aside class="area-side" aria-label="Projects and press for {{area.title}}">
 <sc-if value="{{area.hasProjects}}">
-<div class="side-block">
-<h3 class="side-h">Current projects</h3>
+<div class="side-block" style="margin-top: 16px">
+<h3 style="margin: 0; font-size: 14px; letter-spacing: 0.08em; text-transform: uppercase; color: #011F5B">Current projects</h3>
 <sc-for list="{{area.projects}}" as="q">
 <div class="side-item">
 <sc-if value="{{q.hasUrl}}"><a href="{{q.url}}" class="project-link">{{q.title}} <span aria-hidden="true">↗</span></a></sc-if><sc-if value="{{q.noUrl}}"><span class="project-name">{{q.title}}</span></sc-if>
@@ -51,6 +47,10 @@
 </sc-for>
 </div>
 </sc-if>
+</div>
+
+<sc-if value="{{area.hasSide}}">
+<aside class="area-side" aria-label="Videos and press for {{area.title}}">
 <sc-if value="{{area.hasVideos}}">
 <div class="side-block">
 <h3 class="side-h">Videos</h3>

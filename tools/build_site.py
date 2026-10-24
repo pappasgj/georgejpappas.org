@@ -317,7 +317,7 @@ def ctx_research():
             papers.append(item)
         areas.append(dict(a, index=i, first=i == 0, hidden=i != 0, selected="true" if i == 0 else "false",
                           projects=projects, hasProjects=bool(projects), press=coverage, hasPress=bool(coverage),
-                          videos=videos, hasVideos=bool(videos), hasSide=bool(projects or coverage or videos), hasImg=bool(a.get("img")),
+                          videos=videos, hasVideos=bool(videos), hasSide=bool(coverage or videos), hasImg=bool(a.get("img")),
                           noImg=not a.get("img"), papers=papers))
     return {"areas": areas}
 
