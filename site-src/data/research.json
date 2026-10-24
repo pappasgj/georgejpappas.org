@@ -316,6 +316,10 @@
      "year": "2023"
     },
     {
+     "title": "Multi-Robot Mission Planning in Dynamic Semantic Environments",
+     "year": "2023"
+    },
+    {
      "title": "Reactive and Risk-Aware Control for Signal Temporal Logic",
      "year": "2022"
     },
@@ -366,6 +370,11 @@
      "id": "J164",
      "label": "Safe planning with conformalized semantic maps: simulation and Jackal robot experiments",
      "url": "https://vimeo.com/1161521936"
+    },
+    {
+     "id": "C356",
+     "label": "Temporal logic mission planning for robot teams in dynamic semantic environments (ICRA 2023)",
+     "url": "https://vimeo.com/749441727"
     }
    ]
   },
