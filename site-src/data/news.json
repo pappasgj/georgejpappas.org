@@ -180,7 +180,8 @@
    "date": "Jan 31, 2025",
    "kind": "press",
    "text": "WIRED: DeepSeek’s Safety Guardrails Failed Every Test Researchers Threw at Its AI Chatbot",
-   "note": "Coverage of the Cisco–Penn study of DeepSeek R1 jailbreak vulnerabilities."
+   "note": "Coverage of the Cisco–Penn study of DeepSeek R1 jailbreak vulnerabilities.",
+   "url": "https://www.wired.com/story/deepseeks-ai-jailbreak-prompt-injection-attacks/"
   },
   {
    "k": 202501,
