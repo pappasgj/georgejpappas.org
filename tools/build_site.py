@@ -426,7 +426,7 @@ def main():
             "root": root, "title": title, "description": desc, "isHome": key == "home",
             "canonical": SITE_URL + (folder + "/" if folder else ""), "nav": nav_items(key, root),
             "updated": updated, "year": today.year, "scholar": SCHOLAR, "page": key,
-            "cssv": asset_version("site.css"), "jsv": asset_version("site.js"),
+            "cssv": asset_version("site.css"), "jsv": asset_version("site.js"), "icov": asset_version("favicon-32.png"),
         })
         page = page.replace("<!--BODY-->", body)
         assert "{{" not in page and "<sc-" not in page, key
@@ -522,7 +522,7 @@ def write_404(layout, today, updated):
         "description": "This page was not found on George J. Pappas's website. Browse his biography, research, group, publications, book, teaching and press.",
         "isHome": False, "canonical": SITE_URL, "nav": nav_items("none", "/"),
         "updated": updated, "year": today.year, "scholar": SCHOLAR, "page": "404",
-        "cssv": asset_version("site.css"), "jsv": asset_version("site.js"),
+        "cssv": asset_version("site.css"), "jsv": asset_version("site.js"), "icov": asset_version("favicon-32.png"),
     })
     page = page.replace("<!--BODY-->", body).replace('<link rel="canonical" href="%s">' % SITE_URL, '<meta name="robots" content="noindex">')
     with open(os.path.join(ROOT, "404.html"), "w", encoding="utf-8") as f:
