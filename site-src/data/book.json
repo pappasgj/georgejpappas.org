@@ -147,5 +147,8 @@
     }
    ]
   }
- ]
+ ],
+ "bibtex_prerelease": "@book{pappas2027linear,\n  author    = {George J. Pappas},\n  title     = {Linear Systems Theory: From Linear Algebra to the Kalman Filter},\n  publisher = {Pella Press},\n  year      = {2027},\n  isbn      = {979-8-9984760-0-6}\n}",
+ "released": false,
+ "prerelease": true
 }

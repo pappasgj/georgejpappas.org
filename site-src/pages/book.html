@@ -41,12 +41,13 @@
 <h2 style="margin: 16px 0 0; font-family: 'Source Serif 4', Georgia, serif; font-size: 28px; color: #011F5B">For Instructors</h2>
 <p style="margin: 0">Course slides for every chapter will be posted here as free PDFs on January 1, 2027. Instructors at accredited institutions also receive the instructor’s edition of the book, with solutions to all exercises, and the LaTeX source of the slides. Email <a href="mailto:pellapressbooks@gmail.com">pellapressbooks@gmail.com</a> and say which course you plan to use the book for.</p>
 <h2 style="margin: 16px 0 0; font-family: 'Source Serif 4', Georgia, serif; font-size: 28px; color: #011F5B">How to Cite</h2>
-<p style="margin: 0; background: #F3F5F9; padding: 16px 20px; font-size: 16px; border-left: 0; border-top: 3px solid #011F5B">George J. Pappas, <em>Linear Systems Theory: From Linear Algebra to the Kalman Filter</em>. Pella Press, 2027. ISBN 979-8-9984760-0-6. doi: <a href="https://doi.org/10.5281/zenodo.23087184">10.5281/zenodo.23087184</a>.</p>
+<p style="margin: 0; background: #F3F5F9; padding: 16px 20px; font-size: 16px; border-left: 0; border-top: 3px solid #011F5B">George J. Pappas, <em>Linear Systems Theory: From Linear Algebra to the Kalman Filter</em>. Pella Press, 2027. ISBN 979-8-9984760-0-6.<sc-if value="{{released}}"> doi: <a href="https://doi.org/10.5281/zenodo.23087184">10.5281/zenodo.23087184</a>.</sc-if></p>
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-top: 6px">
 <h3 style="margin: 0; font-size: 14px; letter-spacing: 0.08em; text-transform: uppercase; color: #011F5B">BibTeX</h3>
 <button type="button" id="copy-bibtex" class="js-only" hidden style="font: inherit; font-size: 15px; font-weight: 700; cursor: pointer; background: #FFFFFF; color: #011F5B; border: 1px solid #011F5B; padding: 8px 14px; min-height: 44px">Copy BibTeX</button>
 </div>
-<pre id="bibtex" style="margin: 0; background: #011F5B; color: #E8ECF4; padding: 18px 20px; font-family: ui-monospace, 'SF Mono', Menlo, Consolas, monospace; font-size: 14px; line-height: 1.6; overflow-x: auto; white-space: pre">{{bibtex}}</pre>
+<sc-if value="{{released}}"><pre id="bibtex" style="margin: 0; background: #011F5B; color: #E8ECF4; padding: 18px 20px; font-family: ui-monospace, 'SF Mono', Menlo, Consolas, monospace; font-size: 14px; line-height: 1.6; overflow-x: auto; white-space: pre">{{bibtex}}</pre></sc-if>
+<sc-if value="{{prerelease}}"><pre id="bibtex" style="margin: 0; background: #011F5B; color: #E8ECF4; padding: 18px 20px; font-family: ui-monospace, 'SF Mono', Menlo, Consolas, monospace; font-size: 14px; line-height: 1.6; overflow-x: auto; white-space: pre">{{bibtex_prerelease}}</pre></sc-if>
 </div>
 <div style="flex: 1 1 280px; display: flex; flex-direction: column; gap: 16px">
 <div style="border: 1px solid #DDE1E8; padding: 20px; display: flex; flex-direction: column; gap: 8px; font-size: 15px">
@@ -56,7 +57,8 @@
 <span><strong>ISBN</strong> · 979-8-9984760-0-6</span>
 <span><strong>Format</strong> · 703 pages, 7.44 × 9.69 in</span>
 <span><strong>Paperback</strong> · $39.99 on Amazon</span>
-<span><strong>Free e-book (PDF)</strong> · <a href="https://doi.org/10.5281/zenodo.23087184">doi.org/10.5281/zenodo.23087184</a></span>
+<sc-if value="{{released}}"><span><strong>Free e-book (PDF)</strong> · <a href="https://doi.org/10.5281/zenodo.23087184">doi.org/10.5281/zenodo.23087184</a></span></sc-if>
+<sc-if value="{{prerelease}}"><span><strong>Free e-book (PDF)</strong> · posted on this page January 1, 2027</span></sc-if>
 <span><strong>Free course slides (PDF)</strong> · posted on this page January 1, 2027</span>
 </div>
 <div style="border: 1px solid #DDE1E8; padding: 20px; display: flex; flex-direction: column; gap: 8px; font-size: 15px">
