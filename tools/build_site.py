@@ -450,20 +450,84 @@ def main():
                 if a.get("bib"):
                     bib[a["row"][0]] = a["bib"]
             json.dump(bib, g, ensure_ascii=False, separators=(",", ":"))
-    write_redirect("news", "press")
+    for old, new in OLD_PAGES.items():
+        write_redirect(old, new)
+    write_404(layout, today, updated)
     write_sitemap(today)
 
 
 def write_redirect(old, new):
-    """A tiny page at /old/ that sends visitors and search engines to /new/."""
+    """A tiny page at /old/ that sends visitors and search engines to /new/ ("" is the home page)."""
+    depth = "../" * (old.count("/") + 1)
+    target = depth + (new + "/" if new else "")
+    label = new or "the home page"
     os.makedirs(os.path.join(ROOT, old), exist_ok=True)
     with open(os.path.join(ROOT, old, "index.html"), "w", encoding="utf-8") as f:
         f.write('<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Moved</title>'
-                '<link rel="canonical" href="%s%s/"><meta name="robots" content="noindex">'
-                '<meta http-equiv="refresh" content="0; url=../%s/"></head>'
-                '<body><p>This page has moved to <a href="../%s/">%s</a>.</p></body></html>\n'
-                % (SITE_URL, new, new, new, new))
-    print("built", old + "/index.html (redirect to /%s/)" % new)
+                '<link rel="canonical" href="%s%s"><meta name="robots" content="noindex">'
+                '<meta http-equiv="refresh" content="0; url=%s"></head>'
+                '<body><p>This page has moved to <a href="%s">%s</a>.</p></body></html>\n'
+                % (SITE_URL, new + "/" if new else "", target, target, label))
+    print("built", old + "/index.html (redirect to /%s)" % (new + "/" if new else ""))
+
+
+# Addresses from the old WordPress site (menu pages) and where they now live.
+OLD_PAGES = {
+    "news": "press",
+    "home-page": "",
+    "news-and-press": "press",
+    "awards-and-news": "bio",
+    "lectures": "",
+    "contact": "",
+}
+
+# Old WordPress addresses with many variants (one per person, news item or uploaded file):
+# the 404 page sends them to the closest new page.
+OLD_PREFIXES = [
+    ("/lab-member/", "/group/"),
+    ("/lab-members/", "/group/"),
+    ("/people/", "/group/"),
+    ("/news-item/", "/press/"),
+    ("/news/", "/press/"),
+    ("/category/", "/press/"),
+    ("/tag/", "/press/"),
+    ("/wp-content/uploads/", "/publications/"),
+    ("/publication", "/publications/"),
+    ("/project", "/research/"),
+    ("/research-", "/research/"),
+    ("/teaching-", "/teaching/"),
+    ("/feed", "/"),
+]
+
+
+def write_404(layout, today, updated):
+    """GitHub Pages serves /404.html for any missing address. Links are absolute (it can be served at any depth)."""
+    rules = json.dumps(OLD_PREFIXES)
+    body = (
+        '<div style="background: #011F5B; color: #FFFFFF"><div style="max-width: 1200px; margin: 0 auto; padding: 30px 32px 32px; '
+        'display: flex; flex-direction: column; gap: 8px"><h1 class="page-h1" style="margin: 0; font-family: \'Source Serif 4\', Georgia, serif; '
+        'font-size: 40px; font-weight: 600">Page not found</h1><p style="margin: 0; font-size: 18px; color: #E8ECF4">'
+        'This address is not on the site, or it moved when the site was redesigned</p></div></div>'
+        '<div style="max-width: 1200px; margin: 0 auto; padding: 48px 32px 64px; display: flex; flex-direction: column; gap: 16px">'
+        '<p id="moved" style="margin: 0; font-size: 18px" hidden>Taking you to the new page…</p>'
+        '<p style="margin: 0; font-size: 18px">Try one of these pages:</p>'
+        '<ul style="margin: 0; padding-left: 20px; display: flex; flex-direction: column; gap: 8px; font-size: 18px">'
+        + "".join('<li><a href="/%s">%s</a></li>' % (folder + "/" if folder else "", label) for _k, label, folder, _t, _d in PAGES)
+        + '</ul></div>'
+        '<script>(function(){var p=location.pathname.toLowerCase(),r=%s;for(var i=0;i<r.length;i++){'
+        'if(p.indexOf(r[i][0])===0){document.getElementById("moved").hidden=false;location.replace(r[i][1]);return}}})();</script>'
+        % rules)
+    page = render(layout, {
+        "root": "/", "title": "George J. Pappas — Page not found",
+        "description": "This page was not found on George J. Pappas's website. Browse his biography, research, group, publications, book, teaching and press.",
+        "isHome": False, "canonical": SITE_URL, "nav": nav_items("none", "/"),
+        "updated": updated, "year": today.year, "scholar": SCHOLAR, "page": "404",
+        "cssv": asset_version("site.css"), "jsv": asset_version("site.js"),
+    })
+    page = page.replace("<!--BODY-->", body).replace('<link rel="canonical" href="%s">' % SITE_URL, '<meta name="robots" content="noindex">')
+    with open(os.path.join(ROOT, "404.html"), "w", encoding="utf-8") as f:
+        f.write(page)
+    print("built 404.html")
 
 
 def write_sitemap(today):
