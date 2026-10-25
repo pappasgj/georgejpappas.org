@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /site-src/
 Disallow: /tools/
-Sitemap: https://www.georgejpappas.org/sitemap.xml
+Sitemap: https://georgejpappas.org/sitemap.xml

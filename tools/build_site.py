@@ -19,7 +19,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC = os.path.join(ROOT, "site-src")
 DATA = os.path.join(SRC, "data")
 
-SITE_URL = "https://www.georgejpappas.org/"
+SITE_URL = "https://georgejpappas.org/"
 SCHOLAR = "https://scholar.google.com/citations?user=Kia-4B0AAAAJ"
 
 # (key, menu label, output folder, title, search description)
