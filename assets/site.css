@@ -149,3 +149,6 @@ main p a:hover, p a:hover, .in-text a:hover { color: #990000; text-decoration-co
   .home-areas { grid-template-columns: minmax(0, 1fr); }
   .home-areas .area-card:last-child { grid-column: auto; }
 }
+
+/* Home hero: when the photo wraps below the text (tablets, phones), show it first and centered */
+@media (max-width: 960px) { .hero-photo { order: -1; margin: 0 auto; width: 220px !important; } }
