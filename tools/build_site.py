@@ -425,6 +425,8 @@ def main():
         ctx = globals()["ctx_" + key]()
         ctx["root"] = root
         body = render(body_src, ctx)
+        if root == "./":  # hosted paper PDFs are written as ../papers/ (for pages one folder down)
+            body = body.replace('href="../papers/', 'href="papers/')
         page = render(layout, {
             "root": root, "title": title, "description": desc, "isHome": key == "home",
             "canonical": SITE_URL + (folder + "/" if folder else ""), "nav": nav_items(key, root),

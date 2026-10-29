@@ -2837,5 +2837,30 @@
   "file": "papers/J152.pdf",
   "from": "Control_for_Societal-Scale_Challenges_Road_Map_2030.pdf (sent October 29, 2026)",
   "old": []
+ },
+ "J163": {
+  "file": "papers/J163.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/cebcf731-Safety_Guardrails_for_LLM-Enabled_Robots.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J164": {
+  "file": "papers/J164.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/ed1a7399-Safe_Planning_in_Unknown_Environments_Using_Conformalized_Semantic_Maps.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C416": {
+  "file": "papers/C416.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/f6c09920-Long-Term_Mapping_of_the_Douro_River_Plume_with_Multi-Agent_Reinforcement_Learning.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C417": {
+  "file": "papers/C417.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/450b638a-Preventing_Robotic_Jailbreaking_via_Multimodal_Domain_Adaptation.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J166": {
+  "file": "papers/J166.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/13a864ad-Safe_MPC_Alignment_With_Human_Directional_Feedback.pdf (sent October 29, 2026)",
+  "old": []
  }
 }
