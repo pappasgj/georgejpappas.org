@@ -3312,5 +3312,75 @@
   "file": "papers/J125.pdf",
   "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/ec451744-Encrypted_Control_for_Networked_Systems_An_Illustrative_Introduction_and_Current_Challenges.pdf (sent October 29, 2026)",
   "old": []
+ },
+ "C296": {
+  "file": "papers/C296.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/d8d2e12a-Distributed_Attack-Robust_Submodular_Maximization_for_Multi-Robot_Planning.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C298": {
+  "file": "papers/C298.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/fbe5f23d-Reactive_Temporal_Logic_Planning_for_Multiple_Robots_in_Unknown_Environments.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J111": {
+  "file": "papers/J111.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/4803f66d-Consensus_of_Multiagent_Systems_Via_Asynchronous_Cloud_Communication.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C301": {
+  "file": "papers/C301.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/11992fbd-1-s2.0-S2405896320315937-main.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C302": {
+  "file": "papers/C302.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/264db351-1-s2.0-S2405896320305255-main.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C303": {
+  "file": "papers/C303.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/7fbf2027-1-s2.0-S2405896320305899-main.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J112": {
+  "file": "papers/J112.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/90428bed-Reactive_Semantic_Planning_in_Unexplored_Semantic_Environments_Using_Deep_Perceptual_Feedback.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J113": {
+  "file": "papers/J113.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/73ce7613-Network_Design_for_Controllability_Metrics.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J114": {
+  "file": "papers/J114.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/830aaf3e-Model-Free_Learning_of_Optimal_Ergodic_Policies_in_Wireless_Systems.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J115": {
+  "file": "papers/J115.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/5c9c86cd-netn_a_00158.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C305": {
+  "file": "papers/C305.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/b12e70c7-Control_Barrier_Functions_for_Unknown_Nonlinear_Systems_using_Gaussian_Processes.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C306": {
+  "file": "papers/C306.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/bedb8899-Risk-Constrained_Linear-Quadratic_Regulators.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C308": {
+  "file": "papers/C308.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/aeb682b5-Reach-SDP_Reachability_Analysis_of_Closed-Loop_Systems_with_Neural_Network_Controllers_via_Semidefinite_Programming.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J118": {
+  "file": "papers/J118.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/85a7f501-3418287.pdf (sent October 29, 2026)",
+  "old": []
  }
 }
