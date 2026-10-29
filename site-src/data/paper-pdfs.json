@@ -2840,27 +2840,27 @@
  },
  "J163": {
   "file": "papers/J163.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/cebcf731-Safety_Guardrails_for_LLM-Enabled_Robots.pdf (sent October 29, 2026)",
+  "from": "Safety_Guardrails_for_LLM-Enabled_Robots.pdf (sent October 29, 2026)",
   "old": []
  },
  "J164": {
   "file": "papers/J164.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/ed1a7399-Safe_Planning_in_Unknown_Environments_Using_Conformalized_Semantic_Maps.pdf (sent October 29, 2026)",
+  "from": "Safe_Planning_in_Unknown_Environments_Using_Conformalized_Semantic_Maps.pdf (sent October 29, 2026)",
   "old": []
  },
  "C416": {
   "file": "papers/C416.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/f6c09920-Long-Term_Mapping_of_the_Douro_River_Plume_with_Multi-Agent_Reinforcement_Learning.pdf (sent October 29, 2026)",
+  "from": "Long-Term_Mapping_of_the_Douro_River_Plume_with_Multi-Agent_Reinforcement_Learning.pdf (sent October 29, 2026)",
   "old": []
  },
  "C417": {
   "file": "papers/C417.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/450b638a-Preventing_Robotic_Jailbreaking_via_Multimodal_Domain_Adaptation.pdf (sent October 29, 2026)",
+  "from": "Preventing_Robotic_Jailbreaking_via_Multimodal_Domain_Adaptation.pdf (sent October 29, 2026)",
   "old": []
  },
  "J166": {
   "file": "papers/J166.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/13a864ad-Safe_MPC_Alignment_With_Human_Directional_Feedback.pdf (sent October 29, 2026)",
+  "from": "Safe_MPC_Alignment_With_Human_Directional_Feedback.pdf (sent October 29, 2026)",
   "old": []
  },
  "J162": {
@@ -2870,77 +2870,77 @@
  },
  "C402": {
   "file": "papers/C402.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/b426b2cc-Policy_Gradient_for_LQR_with_Domain_Randomization.pdf (sent October 29, 2026)",
+  "from": "Policy_Gradient_for_LQR_with_Domain_Randomization.pdf (sent October 29, 2026)",
   "old": []
  },
  "C403": {
   "file": "papers/C403.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/4366736a-Layered_Multirate_Control_of_Constrained_Linear_Systems.pdf (sent October 29, 2026)",
+  "from": "Layered_Multirate_Control_of_Constrained_Linear_Systems.pdf (sent October 29, 2026)",
   "old": []
  },
  "C404": {
   "file": "papers/C404.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/dc93e29e-Learning_with_Imperfect_Models_When_Multi-step_Prediction_Mitigates_Compounding_Error.pdf (sent October 29, 2026)",
+  "from": "Learning_with_Imperfect_Models_When_Multi-step_Prediction_Mitigates_Compounding_Error.pdf (sent October 29, 2026)",
   "old": []
  },
  "J158": {
   "file": "papers/J158.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/9ba78692-Finite-Time_Analysis_of_Over-the-Air_Federated_TD_Learning.pdf (sent October 29, 2026)",
+  "from": "Finite-Time_Analysis_of_Over-the-Air_Federated_TD_Learning.pdf (sent October 29, 2026)",
   "old": []
  },
  "J159": {
   "file": "papers/J159.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/b036728c-Air-Ground_Collaboration_for_Language-Specified_Missions_in_Unknown_Environments.pdf (sent October 29, 2026)",
+  "from": "Air-Ground_Collaboration_for_Language-Specified_Missions_in_Unknown_Environments.pdf (sent October 29, 2026)",
   "old": []
  },
  "J160": {
   "file": "papers/J160.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/a2446ff5-Risk-Aware_Robotics_Tail_Risk_Measures_in_Planning_Control_and_Verification_Focus_on_Education.pdf (sent October 29, 2026)",
+  "from": "Risk-Aware_Robotics_Tail_Risk_Measures_in_Planning_Control_and_Verification_Focus_on_Education.pdf (sent October 29, 2026)",
   "old": []
  },
  "C398": {
   "file": "papers/C398.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/5eda8b02-Deep_Equivariant_Multi-Agent_Control_Barrier_Functions.pdf (sent October 29, 2026)",
+  "from": "Deep_Equivariant_Multi-Agent_Control_Barrier_Functions.pdf (sent October 29, 2026)",
   "old": []
  },
  "J161": {
   "file": "papers/J161.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/3326740d-PKF_Probabilistic_Data_Association_Kalman_Filter_for_Multi-Object_Tracking.pdf (sent October 29, 2026)",
+  "from": "PKF_Probabilistic_Data_Association_Kalman_Filter_for_Multi-Object_Tracking.pdf (sent October 29, 2026)",
   "old": []
  },
  "C388": {
   "file": "papers/C388.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/230084a3-Reactive_Planning_for_Teams_of_Heterogeneous_Robots_with_Dynamic_Collaborative_Temporal_Logic_Missions.pdf (sent October 29, 2026)",
+  "from": "Reactive_Planning_for_Teams_of_Heterogeneous_Robots_with_Dynamic_Collaborative_Temporal_Logic_Missions.pdf (sent October 29, 2026)",
   "old": []
  },
  "C389": {
   "file": "papers/C389.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/fea9404f-Rate-Optimal_Non-Asymptotics_for_the_Quadratic_Prediction_Error_Method.pdf (sent October 29, 2026)",
+  "from": "Rate-Optimal_Non-Asymptotics_for_the_Quadratic_Prediction_Error_Method.pdf (sent October 29, 2026)",
   "old": []
  },
  "C395": {
   "file": "papers/C395.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/a416ae38-Jailbreaking_Black_Box_Large_Language_Models_in_Twenty_Queries.pdf (sent October 29, 2026)",
+  "from": "Jailbreaking_Black_Box_Large_Language_Models_in_Twenty_Queries.pdf (sent October 29, 2026)",
   "old": []
  },
  "C410": {
   "file": "papers/C410.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/edb9eaa4-SPINE_Online_Semantic_Planning_for_Missions_with_Incomplete_Natural_Language_Specifications_in_Unstructured_Environments.pdf (sent October 29, 2026)",
+  "from": "SPINE_Online_Semantic_Planning_for_Missions_with_Incomplete_Natural_Language_Specifications_in_Unstructured_Environments.pdf (sent October 29, 2026)",
   "old": []
  },
  "C411": {
   "file": "papers/C411.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/272d4ac8-Jailbreaking_LLM-Controlled_Robots.pdf (sent October 29, 2026)",
+  "from": "Jailbreaking_LLM-Controlled_Robots.pdf (sent October 29, 2026)",
   "old": []
  },
  "C412": {
   "file": "papers/C412.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/38306f25-Flying_Quadrotors_in_Tight_Formations_Using_Learning-Based_Model_Predictive_Control.pdf (sent October 29, 2026)",
+  "from": "Flying_Quadrotors_in_Tight_Formations_Using_Learning-Based_Model_Predictive_Control.pdf (sent October 29, 2026)",
   "old": []
  },
  "J157": {
   "file": "papers/J157.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/bef4951f-Policy_Gradient_Bounds_in_Multitask_LQR.pdf (sent October 29, 2026)",
+  "from": "Policy_Gradient_Bounds_in_Multitask_LQR.pdf (sent October 29, 2026)",
   "old": []
  },
  "J165": {
@@ -2950,592 +2950,592 @@
  },
  "C371": {
   "file": "papers/C371.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/f37909c0-Safe_Perception-Based_Control_Under_Stochastic_Sensor_Uncertainty_Using_Conformal_Prediction.pdf (sent October 29, 2026)",
+  "from": "Safe_Perception-Based_Control_Under_Stochastic_Sensor_Uncertainty_Using_Conformal_Prediction.pdf (sent October 29, 2026)",
   "old": []
  },
  "C372": {
   "file": "papers/C372.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/ba702d4b-Uncertainty_Quantification_for_Learning-based_MPC_using_Weighted_Conformal_Prediction.pdf (sent October 29, 2026)",
+  "from": "Uncertainty_Quantification_for_Learning-based_MPC_using_Weighted_Conformal_Prediction.pdf (sent October 29, 2026)",
   "old": []
  },
  "C373": {
   "file": "papers/C373.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/866ec3a7-Safety_Filter_Design_for_Neural_Network_Systems_via_Convex_Optimization.pdf (sent October 29, 2026)",
+  "from": "Safety_Filter_Design_for_Neural_Network_Systems_via_Convex_Optimization.pdf (sent October 29, 2026)",
   "old": []
  },
  "C374": {
   "file": "papers/C374.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/c8de6432-Navigation_with_Shadow_Prices_to_Optimize_Multi-Commodity_Flow_Rates.pdf (sent October 29, 2026)",
+  "from": "Navigation_with_Shadow_Prices_to_Optimize_Multi-Commodity_Flow_Rates.pdf (sent October 29, 2026)",
   "old": []
  },
  "C378": {
   "file": "papers/C378.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/c0ffcc6f-Optimal_Scene_Graph_Planning_with_Large_Language_Model_Guidance.pdf (sent October 29, 2026)",
+  "from": "Optimal_Scene_Graph_Planning_with_Large_Language_Model_Guidance.pdf (sent October 29, 2026)",
   "old": []
  },
  "C380": {
   "file": "papers/C380.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/cf5cf0aa-Structural_Risk_Minimization_for_Learning_Nonlinear_Dynamics.pdf (sent October 29, 2026)",
+  "from": "Structural_Risk_Minimization_for_Learning_Nonlinear_Dynamics.pdf (sent October 29, 2026)",
   "old": []
  },
  "C381": {
   "file": "papers/C381.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/3c2225bd-Finite-_Time_Analysis_of_Asynchronous_Multi-Agent_TD_Learning.pdf (sent October 29, 2026)",
+  "from": "Finite-_Time_Analysis_of_Asynchronous_Multi-Agent_TD_Learning.pdf (sent October 29, 2026)",
   "old": []
  },
  "C386": {
   "file": "papers/C386.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/d5fde10d-DASA_Delay-Adaptive_Multi-Agent_Stochastic_Approximation.pdf (sent October 29, 2026)",
+  "from": "DASA_Delay-Adaptive_Multi-Agent_Stochastic_Approximation.pdf (sent October 29, 2026)",
   "old": []
  },
  "C387": {
   "file": "papers/C387.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/09ff225e-Active_Learning_for_Control-Oriented_Identification_of_Nonlinear_Systems.pdf (sent October 29, 2026)",
+  "from": "Active_Learning_for_Control-Oriented_Identification_of_Nonlinear_Systems.pdf (sent October 29, 2026)",
   "old": []
  },
  "J145": {
   "file": "papers/J145.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/be7317a0-Online_Learning_of_the_Kalman_Filter_With_Logarithmic_Regret.pdf (sent October 29, 2026)",
+  "from": "Online_Learning_of_the_Kalman_Filter_With_Logarithmic_Regret.pdf (sent October 29, 2026)",
   "old": []
  },
  "C364": {
   "file": "papers/C364.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/5b04d35c-1-s2.0-S2405896323020293-main.pdf (sent October 29, 2026)",
+  "from": "1-s2.0-S2405896323020293-main.pdf (sent October 29, 2026)",
   "old": []
  },
  "J147": {
   "file": "papers/J147.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/5ac0f9e4-Energy-Aware_Collision-Free_Information_Gathering_for_Heterogeneous_Robot_Teams.pdf (sent October 29, 2026)",
+  "from": "Energy-Aware_Collision-Free_Information_Gathering_for_Heterogeneous_Robot_Teams.pdf (sent October 29, 2026)",
   "old": []
  },
  "C367": {
   "file": "papers/C367.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/4fadf4e4-Robust_Localization_of_Aerial_Vehicles_via_Active_Control_of_Identical_Ground_Vehicles.pdf (sent October 29, 2026)",
+  "from": "Enhancing_Sample_Efficiency_and_Uncertainty_Compensation_in_Learning-Based_Model_Predictive_Control_for_Aerial_Robots.pdf (sent October 29, 2026)",
   "old": []
  },
  "C368": {
   "file": "papers/C368.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/b40718bd-Enhancing_Sample_Efficiency_and_Uncertainty_Compensation_in_Learning-Based_Model_Predictive_Control_for_Aerial_Robots.pdf (sent October 29, 2026)",
+  "from": "Robust_Localization_of_Aerial_Vehicles_via_Active_Control_of_Identical_Ground_Vehicles.pdf (sent October 29, 2026)",
   "old": []
  },
  "C370": {
   "file": "papers/C370.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/15e69a53-Resilient_Temporal_Logic_Planning_in_the_Presence_of_Robot_Failures.pdf (sent October 29, 2026)",
+  "from": "Resilient_Temporal_Logic_Planning_in_the_Presence_of_Robot_Failures.pdf (sent October 29, 2026)",
   "old": []
  },
  "J140": {
   "file": "papers/J140.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/7ab4dc89-1-s2.0-S0004370222001229-main.pdf (sent October 29, 2026)",
+  "from": "1-s2.0-S0004370222001229-main.pdf (sent October 29, 2026)",
   "old": []
  },
  "J142": {
   "file": "papers/J142.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/9636b241-3550072.pdf (sent October 29, 2026)",
+  "from": "3550072.pdf (sent October 29, 2026)",
   "old": []
  },
  "C354": {
   "file": "papers/C354.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/9f4a3d08-Toward_Certified_Robustness_Against_Real-World_Distribution_Shifts.pdf (sent October 29, 2026)",
+  "from": "Toward_Certified_Robustness_Against_Real-World_Distribution_Shifts.pdf (sent October 29, 2026)",
   "old": []
  },
  "J143": {
   "file": "papers/J143.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/cc1052aa-_Mobility-Driven_Integration_of_Heterogeneous_Urban_Cyber-Physical_Systems_Under_Disruptive_Events.pdf (sent October 29, 2026)",
+  "from": "_Mobility-Driven_Integration_of_Heterogeneous_Urban_Cyber-Physical_Systems_Under_Disruptive_Events.pdf (sent October 29, 2026)",
   "old": []
  },
  "C356": {
   "file": "papers/C356.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/485028d5-Multi-Robot_Mission_Planning_in_Dynamic_Semantic_Environments.pdf (sent October 29, 2026)",
+  "from": "Multi-Robot_Mission_Planning_in_Dynamic_Semantic_Environments.pdf (sent October 29, 2026)",
   "old": []
  },
  "C357": {
   "file": "papers/C357.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/a2fbe070-Graph_Neural_Networks_for_Multi-Robot_Active_Information_Acquisition.pdf (sent October 29, 2026)",
+  "from": "Graph_Neural_Networks_for_Multi-Robot_Active_Information_Acquisition.pdf (sent October 29, 2026)",
   "old": []
  },
  "C358": {
   "file": "papers/C358.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/39eb9343-3576841.3585927.pdf (sent October 29, 2026)",
+  "from": "3576841.3585927.pdf (sent October 29, 2026)",
   "old": []
  },
  "C359": {
   "file": "papers/C359.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/044e9b27-Path_Defense_in_Dynamic_Defender-Attacker_Blotto_Games_dDAB_with_Limited_Information.pdf (sent October 29, 2026)",
+  "from": "Path_Defense_in_Dynamic_Defender-Attacker_Blotto_Games_dDAB_with_Limited_Information.pdf (sent October 29, 2026)",
   "old": []
  },
  "J144": {
   "file": "papers/J144.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/57af5d51-3580490.pdf (sent October 29, 2026)",
+  "from": "3580490.pdf (sent October 29, 2026)",
   "old": []
  },
  "C385": {
   "file": "papers/C385.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/12cd1a8a-From_Convexity_to_Strong_Convexity_and_Beyond_Bridging_The_Gap_In_Convergence_Rates.pdf (sent October 29, 2026)",
+  "from": "From_Convexity_to_Strong_Convexity_and_Beyond_Bridging_The_Gap_In_Convergence_Rates.pdf (sent October 29, 2026)",
   "old": []
  },
  "C352": {
   "file": "papers/C352.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/3607468d-Learning_Rigidity-based_Flocking_Control_using_Gaussian_Processes_with_Probabilistic_Stability_Guarantees.pdf (sent October 29, 2026)",
+  "from": "Learning_Rigidity-based_Flocking_Control_using_Gaussian_Processes_with_Probabilistic_Stability_Guarantees.pdf (sent October 29, 2026)",
   "old": []
  },
  "C353": {
   "file": "papers/C353.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/c6ccb5a9-Learning-based_Balancing_of_Model-based_and_Feedback_Control_for_Second-order_Mechanical_Systems.pdf (sent October 29, 2026)",
+  "from": "Learning-based_Balancing_of_Model-based_and_Feedback_Control_for_Second-order_Mechanical_Systems.pdf (sent October 29, 2026)",
   "old": []
  },
  "C355": {
   "file": "papers/C355.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/66899034-Socially_Fair_Coverage_Control.pdf (sent October 29, 2026)",
+  "from": "Socially_Fair_Coverage_Control.pdf (sent October 29, 2026)",
   "old": []
  },
  "J141": {
   "file": "papers/J141.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/3374f114-Combined_Left_and_Right_Temporal_Robustness_for_Control_Under_STL_Specifications.pdf (sent October 29, 2026)",
+  "from": "Combined_Left_and_Right_Temporal_Robustness_for_Control_Under_STL_Specifications.pdf (sent October 29, 2026)",
   "old": []
  },
  "J136": {
   "file": "papers/J136.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/a5ad648a-Perception-Based_Temporal_Logic_Planning_in_Uncertain_Semantic_Maps.pdf (sent October 29, 2026)",
+  "from": "Perception-Based_Temporal_Logic_Planning_in_Uncertain_Semantic_Maps.pdf (sent October 29, 2026)",
   "old": []
  },
  "J138": {
   "file": "papers/J138.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/4c6bdb33-Reactive_and_Risk-Aware_Control_for_Signal_Temporal_Logic.pdf (sent October 29, 2026)",
+  "from": "Reactive_and_Risk-Aware_Control_for_Signal_Temporal_Logic.pdf (sent October 29, 2026)",
   "old": []
  },
  "C343": {
   "file": "papers/C343.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/416bbba1-Adaptive_Sampling_of_Latent_Phenomena_using_Heterogeneous_Robot_Teams_ASLaP-HR.pdf (sent October 29, 2026)",
+  "from": "Adaptive_Sampling_of_Latent_Phenomena_using_Heterogeneous_Robot_Teams_ASLaP-HR.pdf (sent October 29, 2026)",
   "old": []
  },
  "C347": {
   "file": "papers/C347.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/cf88d6ca-ODE_Discretization_Schemes_as_Optimization_Algorithms.pdf (sent October 29, 2026)",
+  "from": "ODE_Discretization_Schemes_as_Optimization_Algorithms.pdf (sent October 29, 2026)",
   "old": []
  },
  "C349": {
   "file": "papers/C349.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/3028c6df-Secure_state_estimation_over_Markov_wireless_communication_channels.pdf (sent October 29, 2026)",
+  "from": "Secure_state_estimation_over_Markov_wireless_communication_channels.pdf (sent October 29, 2026)",
   "old": []
  },
  "C350": {
   "file": "papers/C350.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/f7607bf7-Gaussian_Process_Port-Hamiltonian_Systems_Bayesian_Learning_with_Physics_Prior.pdf (sent October 29, 2026)",
+  "from": "Gaussian_Process_Port-Hamiltonian_Systems_Bayesian_Learning_with_Physics_Prior.pdf (sent October 29, 2026)",
   "old": []
  },
  "C351": {
   "file": "papers/C351.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/6d2a1471-Chordal_Sparsity_for_Lipschitz_Constant_Estimation_of_Deep_Neural_Networks.pdf (sent October 29, 2026)",
+  "from": "Chordal_Sparsity_for_Lipschitz_Constant_Estimation_of_Deep_Neural_Networks.pdf (sent October 29, 2026)",
   "old": []
  },
  "C327": {
   "file": "papers/C327.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/c2ae99b2-Robust_Motion_Planning_in_the_Presence_of_Estimation_Uncertainty.pdf (sent October 29, 2026)",
+  "from": "Robust_Motion_Planning_in_the_Presence_of_Estimation_Uncertainty.pdf (sent October 29, 2026)",
   "old": []
  },
  "C328": {
   "file": "papers/C328.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/1e6d44f8-Encrypted_Distributed_Lasso_for_Sparse_Data_Predictive_Control.pdf (sent October 29, 2026)",
+  "from": "Encrypted_Distributed_Lasso_for_Sparse_Data_Predictive_Control.pdf (sent October 29, 2026)",
   "old": []
  },
  "C329": {
   "file": "papers/C329.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/4afe22c4-STL_Robustness_Risk_over_Discrete-Time_Stochastic_Processes.pdf (sent October 29, 2026)",
+  "from": "STL_Robustness_Risk_over_Discrete-Time_Stochastic_Processes.pdf (sent October 29, 2026)",
   "old": []
  },
  "C331": {
   "file": "papers/C331.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/e3008c41-Online_Federated_Learning.pdf (sent October 29, 2026)",
+  "from": "Online_Federated_Learning.pdf (sent October 29, 2026)",
   "old": []
  },
  "C332": {
   "file": "papers/C332.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/69b6694c-Linear_Systems_can_be_Hard_to_Learn.pdf (sent October 29, 2026)",
+  "from": "Linear_Systems_can_be_Hard_to_Learn.pdf (sent October 29, 2026)",
   "old": []
  },
  "J131": {
   "file": "papers/J131.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/92795cab-Robust_and_Adaptive_Sequential_Submodular_Optimization.pdf (sent October 29, 2026)",
+  "from": "Robust_and_Adaptive_Sequential_Submodular_Optimization.pdf (sent October 29, 2026)",
   "old": []
  },
  "J134": {
   "file": "papers/J134.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/0cf88c72-Private_Weighted_Sum_Aggregation.pdf (sent October 29, 2026)",
+  "from": "Private_Weighted_Sum_Aggregation.pdf (sent October 29, 2026)",
   "old": []
  },
  "C337": {
   "file": "papers/C337.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/5c874664-3501710.3519504.pdf (sent October 29, 2026)",
+  "from": "3501710.3519504.pdf (sent October 29, 2026)",
   "old": []
  },
  "C339": {
   "file": "papers/C339.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/c7fe9ff7-Reactive_Informative_Planning_for_Mobile_Manipulation_Tasks_under_Sensing_and_Environmental_Uncertainty.pdf (sent October 29, 2026)",
+  "from": "Reactive_Informative_Planning_for_Mobile_Manipulation_Tasks_under_Sensing_and_Environmental_Uncertainty.pdf (sent October 29, 2026)",
   "old": []
  },
  "J132": {
   "file": "papers/J132.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/635e07c5-Online_Learning-Based_Trajectory_Tracking_for_Underactuated_Vehicles_With_Uncertain_Dynamics.pdf (sent October 29, 2026)",
+  "from": "Online_Learning-Based_Trajectory_Tracking_for_Underactuated_Vehicles_With_Uncertain_Dynamics.pdf (sent October 29, 2026)",
   "old": []
  },
  "J137": {
   "file": "papers/J137.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/4d8a155f-Distributed_Attack-Robust_Submodular_Maximization_for_Multirobot_Planning.pdf (sent October 29, 2026)",
+  "from": "Distributed_Attack-Robust_Submodular_Maximization_for_Multirobot_Planning.pdf (sent October 29, 2026)",
   "old": []
  },
  "C348": {
   "file": "papers/C348.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/f490ccbf-Distributed_Statistical_Min-Max_Learning_in_the_Presence_of_Byzantine_Agents.pdf (sent October 29, 2026)",
+  "from": "Distributed_Statistical_Min-Max_Learning_in_the_Presence_of_Byzantine_Agents.pdf (sent October 29, 2026)",
   "old": []
  },
  "C314": {
   "file": "papers/C314.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/9eb580f3-Non-Monotone_Energy-Aware_Information_Gathering_for_Heterogeneous_Robot_Teams.pdf (sent October 29, 2026)",
+  "from": "Non-Monotone_Energy-Aware_Information_Gathering_for_Heterogeneous_Robot_Teams.pdf (sent October 29, 2026)",
   "old": []
  },
  "C315": {
   "file": "papers/C315.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/a445fd25-Reactive_Planning_for_Mobile_Manipulation_Tasks_in_Unexplored_Semantic_Environments.pdf (sent October 29, 2026)",
+  "from": "Reactive_Planning_for_Mobile_Manipulation_Tasks_in_Unexplored_Semantic_Environments.pdf (sent October 29, 2026)",
   "old": []
  },
  "C316": {
   "file": "papers/C316.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/8ca841fb-Deep_Reinforcement_Learning_for_Active_Target_Tracking.pdf (sent October 29, 2026)",
+  "from": "Deep_Reinforcement_Learning_for_Active_Target_Tracking.pdf (sent October 29, 2026)",
   "old": []
  },
  "C317": {
   "file": "papers/C317.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/1029042d-Scalable_Active_Information_Acquisition_for_Multi-Robot_Systems.pdf (sent October 29, 2026)",
+  "from": "Scalable_Active_Information_Acquisition_for_Multi-Robot_Systems.pdf (sent October 29, 2026)",
   "old": []
  },
  "J126": {
   "file": "papers/J126.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/be63fd8d-Stochastic_Motion_Planning_Under_Partial_Observability_for_Mobile_Robots_With_Continuous_Range_Measurements.pdf (sent October 29, 2026)",
+  "from": "Stochastic_Motion_Planning_Under_Partial_Observability_for_Mobile_Robots_With_Continuous_Range_Measurements.pdf (sent October 29, 2026)",
   "old": []
  },
  "J127": {
   "file": "papers/J127.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/59800871-s10514-021-09995-4.pdf (sent October 29, 2026)",
+  "from": "s10514-021-09995-4.pdf (sent October 29, 2026)",
   "old": []
  },
  "C321": {
   "file": "papers/C321.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/0fc632a2-Actor-only_Deterministic_Policy_Gradient_via_Zeroth-order_Gradient_Oracles_in_Action_Space.pdf (sent October 29, 2026)",
+  "from": "Actor-only_Deterministic_Policy_Gradient_via_Zeroth-order_Gradient_Oracles_in_Action_Space.pdf (sent October 29, 2026)",
   "old": []
  },
  "J128": {
   "file": "papers/J128.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/c766f4a9-On_the_Structural_Target_Controllability_of_Undirected_Networks.pdf (sent October 29, 2026)",
+  "from": "On_the_Structural_Target_Controllability_of_Undirected_Networks.pdf (sent October 29, 2026)",
   "old": []
  },
  "C322": {
   "file": "papers/C322.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/d7f7818c-Distributed_Sampling-based_Planning_for_Non-Myopic_Active_Information_Gathering.pdf (sent October 29, 2026)",
+  "from": "Distributed_Sampling-based_Planning_for_Non-Myopic_Active_Information_Gathering.pdf (sent October 29, 2026)",
   "old": []
  },
  "C323": {
   "file": "papers/C323.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/40c17368-Scalable_Reinforcement_Learning_Policies_for_Multi-Agent_Control.pdf (sent October 29, 2026)",
+  "from": "Scalable_Reinforcement_Learning_Policies_for_Multi-Agent_Control.pdf (sent October 29, 2026)",
   "old": []
  },
  "C324": {
   "file": "papers/C324.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/fd875db3-An_Introduction_to_Neural_Network_Analysis_via_Semidefinite_Programming.pdf (sent October 29, 2026)",
+  "from": "An_Introduction_to_Neural_Network_Analysis_via_Semidefinite_Programming.pdf (sent October 29, 2026)",
   "old": []
  },
  "C325": {
   "file": "papers/C325.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/3ba41cb4-Learning_Region_of_Attraction_for_Nonlinear_Systems.pdf (sent October 29, 2026)",
+  "from": "Learning_Region_of_Attraction_for_Nonlinear_Systems.pdf (sent October 29, 2026)",
   "old": []
  },
  "C326": {
   "file": "papers/C326.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/d07a8b7b-Federated_Learning_with_Incrementally_Aggregated_Gradients.pdf (sent October 29, 2026)",
+  "from": "Federated_Learning_with_Incrementally_Aggregated_Gradients.pdf (sent October 29, 2026)",
   "old": []
  },
  "C309": {
   "file": "papers/C309.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/8995e0eb-Towards_Private_Data-driven_Control.pdf (sent October 29, 2026)",
+  "from": "Towards_Private_Data-driven_Control.pdf (sent October 29, 2026)",
   "old": []
  },
  "J116": {
   "file": "papers/J116.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/514de39a-3419742.pdf (sent October 29, 2026)",
+  "from": "3419742.pdf (sent October 29, 2026)",
   "old": []
  },
  "C310": {
   "file": "papers/C310.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/d74c4193-Almost-Zero_Duality_Gaps_in_Model-Free_Resource_Allocation_for_Wireless_Systems.pdf (sent October 29, 2026)",
+  "from": "Almost-Zero_Duality_Gaps_in_Model-Free_Resource_Allocation_for_Wireless_Systems.pdf (sent October 29, 2026)",
   "old": []
  },
  "J117": {
   "file": "papers/J117.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/356ae9da-Approximate_Supermodularity_of_Kalman_Filter_Sensor_Selection.pdf (sent October 29, 2026)",
+  "from": "Approximate_Supermodularity_of_Kalman_Filter_Sensor_Selection.pdf (sent October 29, 2026)",
   "old": []
  },
  "J119": {
   "file": "papers/J119.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/d0039dae-1-s2.0-S0005109820305884-main.pdf (sent October 29, 2026)",
+  "from": "1-s2.0-S0005109820305884-main.pdf (sent October 29, 2026)",
   "old": []
  },
  "J120": {
   "file": "papers/J120.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/daefad60-Latency-Reliability_Tradeoffs_for_State_Estimation.pdf (sent October 29, 2026)",
+  "from": "Latency-Reliability_Tradeoffs_for_State_Estimation.pdf (sent October 29, 2026)",
   "old": []
  },
  "J121": {
   "file": "papers/J121.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/b218181a-LQG_Control_and_Sensing_Co-Design.pdf (sent October 29, 2026)",
+  "from": "LQG_Control_and_Sensing_Co-Design.pdf (sent October 29, 2026)",
   "old": []
  },
  "J122": {
   "file": "papers/J122.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/ae8fb64d-Fair_Robust_Assignment_Using_Redundancy.pdf (sent October 29, 2026)",
+  "from": "Fair_Robust_Assignment_Using_Redundancy.pdf (sent October 29, 2026)",
   "old": []
  },
  "J123": {
   "file": "papers/J123.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/70581f40-s42256-021-00321-2.pdf (sent October 29, 2026)",
+  "from": "s42256-021-00321-2.pdf (sent October 29, 2026)",
   "old": []
  },
  "C312": {
   "file": "papers/C312.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/3b84e353-Source_Seeking_in_Unknown_Environments_with_Convex_Obstacles.pdf (sent October 29, 2026)",
+  "from": "Source_Seeking_in_Unknown_Environments_with_Convex_Obstacles.pdf (sent October 29, 2026)",
   "old": []
  },
  "J124": {
   "file": "papers/J124.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/8102a6a8-Cloud-Based_Quadratic_Optimization_With_Partially_Homomorphic_Encryption.pdf (sent October 29, 2026)",
+  "from": "Cloud-Based_Quadratic_Optimization_With_Partially_Homomorphic_Encryption.pdf (sent October 29, 2026)",
   "old": []
  },
  "J125": {
   "file": "papers/J125.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/ec451744-Encrypted_Control_for_Networked_Systems_An_Illustrative_Introduction_and_Current_Challenges.pdf (sent October 29, 2026)",
+  "from": "Encrypted_Control_for_Networked_Systems_An_Illustrative_Introduction_and_Current_Challenges.pdf (sent October 29, 2026)",
   "old": []
  },
  "C296": {
   "file": "papers/C296.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/d8d2e12a-Distributed_Attack-Robust_Submodular_Maximization_for_Multi-Robot_Planning.pdf (sent October 29, 2026)",
+  "from": "Distributed_Attack-Robust_Submodular_Maximization_for_Multi-Robot_Planning.pdf (sent October 29, 2026)",
   "old": []
  },
  "C298": {
   "file": "papers/C298.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/fbe5f23d-Reactive_Temporal_Logic_Planning_for_Multiple_Robots_in_Unknown_Environments.pdf (sent October 29, 2026)",
+  "from": "Reactive_Temporal_Logic_Planning_for_Multiple_Robots_in_Unknown_Environments.pdf (sent October 29, 2026)",
   "old": []
  },
  "J111": {
   "file": "papers/J111.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/4803f66d-Consensus_of_Multiagent_Systems_Via_Asynchronous_Cloud_Communication.pdf (sent October 29, 2026)",
+  "from": "Consensus_of_Multiagent_Systems_Via_Asynchronous_Cloud_Communication.pdf (sent October 29, 2026)",
   "old": []
  },
  "C301": {
   "file": "papers/C301.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/11992fbd-1-s2.0-S2405896320315937-main.pdf (sent October 29, 2026)",
+  "from": "1-s2.0-S2405896320315937-main.pdf (sent October 29, 2026)",
   "old": []
  },
  "C302": {
   "file": "papers/C302.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/264db351-1-s2.0-S2405896320305255-main.pdf (sent October 29, 2026)",
+  "from": "1-s2.0-S2405896320305255-main.pdf (sent October 29, 2026)",
   "old": []
  },
  "C303": {
   "file": "papers/C303.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/7fbf2027-1-s2.0-S2405896320305899-main.pdf (sent October 29, 2026)",
+  "from": "1-s2.0-S2405896320305899-main.pdf (sent October 29, 2026)",
   "old": []
  },
  "J112": {
   "file": "papers/J112.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/90428bed-Reactive_Semantic_Planning_in_Unexplored_Semantic_Environments_Using_Deep_Perceptual_Feedback.pdf (sent October 29, 2026)",
+  "from": "Reactive_Semantic_Planning_in_Unexplored_Semantic_Environments_Using_Deep_Perceptual_Feedback.pdf (sent October 29, 2026)",
   "old": []
  },
  "J113": {
   "file": "papers/J113.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/73ce7613-Network_Design_for_Controllability_Metrics.pdf (sent October 29, 2026)",
+  "from": "Network_Design_for_Controllability_Metrics.pdf (sent October 29, 2026)",
   "old": []
  },
  "J114": {
   "file": "papers/J114.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/830aaf3e-Model-Free_Learning_of_Optimal_Ergodic_Policies_in_Wireless_Systems.pdf (sent October 29, 2026)",
+  "from": "Model-Free_Learning_of_Optimal_Ergodic_Policies_in_Wireless_Systems.pdf (sent October 29, 2026)",
   "old": []
  },
  "J115": {
   "file": "papers/J115.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/5c9c86cd-netn_a_00158.pdf (sent October 29, 2026)",
+  "from": "netn_a_00158.pdf (sent October 29, 2026)",
   "old": []
  },
  "C305": {
   "file": "papers/C305.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/b12e70c7-Control_Barrier_Functions_for_Unknown_Nonlinear_Systems_using_Gaussian_Processes.pdf (sent October 29, 2026)",
+  "from": "Control_Barrier_Functions_for_Unknown_Nonlinear_Systems_using_Gaussian_Processes.pdf (sent October 29, 2026)",
   "old": []
  },
  "C306": {
   "file": "papers/C306.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/bedb8899-Risk-Constrained_Linear-Quadratic_Regulators.pdf (sent October 29, 2026)",
+  "from": "Risk-Constrained_Linear-Quadratic_Regulators.pdf (sent October 29, 2026)",
   "old": []
  },
  "C308": {
   "file": "papers/C308.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/aeb682b5-Reach-SDP_Reachability_Analysis_of_Closed-Loop_Systems_with_Neural_Network_Controllers_via_Semidefinite_Programming.pdf (sent October 29, 2026)",
+  "from": "Reach-SDP_Reachability_Analysis_of_Closed-Loop_Systems_with_Neural_Network_Controllers_via_Semidefinite_Programming.pdf (sent October 29, 2026)",
   "old": []
  },
  "J118": {
   "file": "papers/J118.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/85a7f501-3418287.pdf (sent October 29, 2026)",
+  "from": "3418287.pdf (sent October 29, 2026)",
   "old": []
  },
  "C178": {
   "file": "papers/C178.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/cc4a1208-Differentially_private_distributed_protocol_for_electric_vehicle_charging.pdf (sent October 29, 2026)",
+  "from": "Differentially_private_distributed_protocol_for_electric_vehicle_charging.pdf (sent October 29, 2026)",
   "old": []
  },
  "E5": {
   "file": "papers/E5.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/70ac4f4a-Guest_Editorial_Special_Issue_on_Control_of_Cyber-Physical_Systems.pdf (sent October 29, 2026)",
+  "from": "Guest_Editorial_Special_Issue_on_Control_of_Cyber-Physical_Systems.pdf (sent October 29, 2026)",
   "old": []
  },
  "C189": {
   "file": "papers/C189.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/c90b5d4e-Distributed_resource_allocation_for_control_of_spreading_processes.pdf (sent October 29, 2026)",
+  "from": "Distributed_resource_allocation_for_control_of_spreading_processes.pdf (sent October 29, 2026)",
   "old": []
  },
  "C199": {
   "file": "papers/C199.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/fad72219-Robust_estimation_using_context-aware_filtering.pdf (sent October 29, 2026)",
+  "from": "Robust_estimation_using_context-aware_filtering.pdf (sent October 29, 2026)",
   "old": []
  },
  "C221": {
   "file": "papers/C221.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/2c8dbc9d-Minimum_number_of_sensors_to_ensure_observability_of_physiological_systems_A_case_study.pdf (sent October 29, 2026)",
+  "from": "Minimum_number_of_sensors_to_ensure_observability_of_physiological_systems_A_case_study.pdf (sent October 29, 2026)",
   "old": []
  },
  "C223": {
   "file": "papers/C223.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/a7506e93-Approximation_of_network_linear_operators_using_similarity_shift_filters.pdf (sent October 29, 2026)",
+  "from": "Approximation_of_network_linear_operators_using_similarity_shift_filters.pdf (sent October 29, 2026)",
   "old": []
  },
  "C285": {
   "file": "papers/C285.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/0cab85bc-Learning_Q-network_for_Active_Information_Acquisition.pdf (sent October 29, 2026)",
+  "from": "Learning_Q-network_for_Active_Information_Acquisition.pdf (sent October 29, 2026)",
   "old": []
  },
  "C286": {
   "file": "papers/C286.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/8f1d259c-Maximum_Information_Bounds_for_Planning_Active_Sensing_Trajectories.pdf (sent October 29, 2026)",
+  "from": "Maximum_Information_Bounds_for_Planning_Active_Sensing_Trajectories.pdf (sent October 29, 2026)",
   "old": []
  },
  "C287": {
   "file": "papers/C287.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/d244f71e-Optimal_Temporal_Logic_Planning_for_Multi-Robot_Systems_in_Uncertain_Semantic_Maps.pdf (sent October 29, 2026)",
+  "from": "Optimal_Temporal_Logic_Planning_for_Multi-Robot_Systems_in_Uncertain_Semantic_Maps.pdf (sent October 29, 2026)",
   "old": []
  },
  "C288": {
   "file": "papers/C288.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/9eccd055-Probabilistic_Verification_and_Reachability_Analysis_of_Neural_Networks_via_Semidefinite_Programming.pdf (sent October 29, 2026)",
+  "from": "Probabilistic_Verification_and_Reachability_Analysis_of_Neural_Networks_via_Semidefinite_Programming.pdf (sent October 29, 2026)",
   "old": []
  },
  "C289": {
   "file": "papers/C289.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/5cfd18e4-Reinforcement_Learning_for_Temporal_Logic_Control_Synthesis_with_Probabilistic_Satisfaction_Guarantees.pdf (sent October 29, 2026)",
+  "from": "Reinforcement_Learning_for_Temporal_Logic_Control_Synthesis_with_Probabilistic_Satisfaction_Guarantees.pdf (sent October 29, 2026)",
   "old": []
  },
  "C290": {
   "file": "papers/C290.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/3c656184-Encrypted_Cooperative_Control_Revisited.pdf (sent October 29, 2026)",
+  "from": "Encrypted_Cooperative_Control_Revisited.pdf (sent October 29, 2026)",
   "old": []
  },
  "C293": {
   "file": "papers/C293.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/c8a29ae6-3365365.3382216.pdf (sent October 29, 2026)",
+  "from": "3365365.3382216.pdf (sent October 29, 2026)",
   "old": []
  },
  "C294": {
   "file": "papers/C294.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/bd4014e2-A_Zeroth-Order_Learning_Algorithm_for_Ergodic_Optimization_of_Wireless_Systems_with_no_Models_and_no_Gradients.pdf (sent October 29, 2026)",
+  "from": "A_Zeroth-Order_Learning_Algorithm_for_Ergodic_Optimization_of_Wireless_Systems_with_no_Models_and_no_Gradients.pdf (sent October 29, 2026)",
   "old": []
  },
  "C295": {
   "file": "papers/C295.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/2537eccf-Better_Safe_Than_Sorry_Risk-Aware_Nonlinear_Bayesian_Estimation.pdf (sent October 29, 2026)",
+  "from": "Better_Safe_Than_Sorry_Risk-Aware_Nonlinear_Bayesian_Estimation.pdf (sent October 29, 2026)",
   "old": []
  },
  "J109": {
   "file": "papers/J109.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/9a552f0a-1-s2.0-S0005109819303735-main.pdf (sent October 29, 2026)",
+  "from": "1-s2.0-S0005109819303735-main.pdf (sent October 29, 2026)",
   "old": []
  },
  "C297": {
   "file": "papers/C297.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/b12163fc-Information_Theoretic_Active_Exploration_in_Signed_Distance_Fields.pdf (sent October 29, 2026)",
+  "from": "Information_Theoretic_Active_Exploration_in_Signed_Distance_Fields.pdf (sent October 29, 2026)",
   "old": []
  },
  "C304": {
   "file": "papers/C304.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/a4b85dae-Adaptive_Partitioning_for_Coordinated_Multi-agent_Perimeter_Defense.pdf (sent October 29, 2026)",
+  "from": "Adaptive_Partitioning_for_Coordinated_Multi-agent_Perimeter_Defense.pdf (sent October 29, 2026)",
   "old": []
  },
  "C307": {
   "file": "papers/C307.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/89d9544d-Control_Barrier_Functions_for_Nonholonomic_Systems_under_Risk_Signal_Temporal_Logic_Specifications.pdf (sent October 29, 2026)",
+  "from": "Control_Barrier_Functions_for_Nonholonomic_Systems_under_Risk_Signal_Temporal_Logic_Specifications.pdf (sent October 29, 2026)",
   "old": []
  },
  "C4": {
   "file": "papers/C4.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/fc114f12-Stabilization_and_tracking_of_feedback_linearizable_systems_under_input_constraints.pdf (sent October 29, 2026)",
+  "from": "Stabilization_and_tracking_of_feedback_linearizable_systems_under_input_constraints.pdf (sent October 29, 2026)",
   "old": []
  },
  "C5": {
   "file": "papers/C5.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/cce1341c-1-s2.0-S1474667017585596-main.pdf (sent October 29, 2026)",
+  "from": "1-s2.0-S1474667017585596-main.pdf (sent October 29, 2026)",
   "old": []
  },
  "C6": {
   "file": "papers/C6.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/7ef5597e-Avoiding_saturation_by_trajectory_reparameterization.pdf (sent October 29, 2026)",
+  "from": "Avoiding_saturation_by_trajectory_reparameterization.pdf (sent October 29, 2026)",
   "old": []
  },
  "C7": {
   "file": "papers/C7.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/ad0a983d-Conflict_resolution_for_multi-agent_hybrid_systems.pdf (sent October 29, 2026)",
+  "from": "Conflict_resolution_for_multi-agent_hybrid_systems.pdf (sent October 29, 2026)",
   "old": []
  },
  "C9": {
   "file": "papers/C9.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/d7b0e720-Noncooperative_conflict_resolution_air_traffic_management.pdf (sent October 29, 2026)",
+  "from": "Noncooperative_conflict_resolution_air_traffic_management.pdf (sent October 29, 2026)",
   "old": []
  },
  "C13": {
   "file": "papers/C13.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/e992fb76-1-s2.0-S1474667017418787-main.pdf (sent October 29, 2026)",
+  "from": "1-s2.0-S1474667017418787-main.pdf (sent October 29, 2026)",
   "old": []
  },
  "C14": {
   "file": "papers/C14.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/d131c64b-2_1_2_D_conflict_resolution_maneuvers_for_ATMS.pdf (sent October 29, 2026)",
+  "from": "2_1_2_D_conflict_resolution_maneuvers_for_ATMS.pdf (sent October 29, 2026)",
   "old": []
  },
  "C46": {
   "file": "papers/C46.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/ecc2714f-Abstractions_of_constrained_linear_systems.pdf (sent October 29, 2026)",
+  "from": "Abstractions_of_constrained_linear_systems.pdf (sent October 29, 2026)",
   "old": []
  },
  "E2": {
   "file": "papers/E2.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/8f6b52f3-Special_Section_on_Symbolic_Methods_for_Complex_Control_Systems.pdf (sent October 29, 2026)",
+  "from": "Special_Section_on_Symbolic_Methods_for_Complex_Control_Systems.pdf (sent October 29, 2026)",
   "old": []
  },
  "E1": {
   "file": "papers/E1.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/fc20dcb2-1-s2.0-S0005109806002202-main.pdf (sent October 29, 2026)",
+  "from": "1-s2.0-S0005109806002202-main.pdf (sent October 29, 2026)",
   "old": []
  },
  "C98": {
   "file": "papers/C98.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/4e2bcf54-From_discrete_to_continuous_and_back_Abstractions_and_mesoscopic_phenomena_in_cells.pdf (sent October 29, 2026)",
+  "from": "From_discrete_to_continuous_and_back_Abstractions_and_mesoscopic_phenomena_in_cells.pdf (sent October 29, 2026)",
   "old": []
  },
  "C99": {
   "file": "papers/C99.pdf",
-  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/4263e7c0-Distributed_multi-robot_task_assignment_and_formation_control.pdf (sent October 29, 2026)",
+  "from": "Distributed_multi-robot_task_assignment_and_formation_control.pdf (sent October 29, 2026)",
   "old": []
  },
  "Ch30": {

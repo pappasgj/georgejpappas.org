@@ -16,14 +16,20 @@ def block(name):
     return out
 
 
+ACCENTS = [("\\'e", "\u00e9"), ("\\'E", "\u00c9"), ("\\`a", "\u00e0"), ("\\`e", "\u00e8"), ('\\"o', "\u00f6"), ('\\"u', "\u00fc"), ('\\"a', "\u00e4"),
+           ("\\'a", "\u00e1"), ("\\'o", "\u00f3"), ("\\'i", "\u00ed"), ("\\'\\i", "\u00ed"), ("\\c{c}", "\u00e7"), ("\\~a", "\u00e3"), ("\\o ", "\u00f8"),
+           ("\\'{e}", "\u00e9"), ("\\`{e}", "\u00e8"), ('\\"{o}', "\u00f6"), ('\\"{u}', "\u00fc"), ('\\"{a}', "\u00e4"), ("\\'{a}", "\u00e1"), ("\\'{o}", "\u00f3"), ("\\'{i}", "\u00ed")]
+
+
 def tex(s):
-    s = re.sub(r"%[^\n]*", "", s)
+    s = re.sub(r"(?<!\\)%[^\n]*", "", s)
     s = s.replace("\\looseness=-1", "").replace("\\fitpar", "")
+    s = re.sub(r"\\href\{[^}]*\}\{\\nolinkurl\{([^}]*)\}\}", r"\1", s)  # DOI:~\href{https://doi.org/x}{\nolinkurl{x}} -> x
     s = re.sub(r"\\url\{([^}]*)\}", r"\1", s)
+    for a, b in ACCENTS:  # before quotes, so \`e and \'e are not turned into curly quotes first
+        s = s.replace(a, b)
     s = s.replace("``", "\u201c").replace("''", "\u201d").replace("`", "\u2018").replace("'", "\u2019")
     s = s.replace("---", "\u2014").replace("--", "\u2013").replace("~", " ").replace("\\&", "&").replace("\\%", "%")
-    for a, b in [("\\'e", "\u00e9"), ("\\'E", "\u00c9"), ("\\`a", "\u00e0"), ("\\`e", "\u00e8"), ('\\"o', "\u00f6"), ('\\"u', "\u00fc"), ('\\"a', "\u00e4"), ("\\'a", "\u00e1"), ("\\'o", "\u00f3"), ("\\'i", "\u00ed"), ("\\c{c}", "\u00e7"), ("\\~a", "\u00e3"), ("\\o ", "\u00f8")]:
-        s = s.replace(a, b)
     s = s.replace("\\ ", " ").replace("\\,", " ")
     return s
 
@@ -66,7 +72,7 @@ for sec, kind in TYPES:
         else:
             pre, post = authors + (", " if authors else ""), ""
         rest = rest.replace("in Proceedings of the ", "in Proc. ").replace("in Proceedings of ", "in Proc. ")
-        out.append([pid, kind, year, pre, post, title, rest, doi, awards[0] if awards else ""])
+        out.append([pid, kind, year, pre, post, title, rest, doi, "; ".join(awards)])
 print(len(out), "entries; unparsed:", bad, file=sys.stderr)
 from collections import Counter
 print(Counter(x[1] for x in out), file=sys.stderr)
