@@ -2862,5 +2862,10 @@
   "file": "papers/J166.pdf",
   "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/13a864ad-Safe_MPC_Alignment_With_Human_Directional_Feedback.pdf (sent October 29, 2026)",
   "old": []
+ },
+ "J162": {
+  "file": "papers/J162.pdf",
+  "from": "Formal_Verification_and_Control_With_Conformal_Prediction_Practical_Safety_Guarantees_For_Autonomous_Systems.pdf (sent October 29, 2026)",
+  "old": []
  }
 }
