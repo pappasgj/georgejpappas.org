@@ -2867,5 +2867,20 @@
   "file": "papers/J162.pdf",
   "from": "Formal_Verification_and_Control_With_Conformal_Prediction_Practical_Safety_Guarantees_For_Autonomous_Systems.pdf (sent October 29, 2026)",
   "old": []
+ },
+ "C402": {
+  "file": "papers/C402.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/b426b2cc-Policy_Gradient_for_LQR_with_Domain_Randomization.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C403": {
+  "file": "papers/C403.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/4366736a-Layered_Multirate_Control_of_Constrained_Linear_Systems.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C404": {
+  "file": "papers/C404.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/dc93e29e-Learning_with_Imperfect_Models_When_Multi-step_Prediction_Mitigates_Compounding_Error.pdf (sent October 29, 2026)",
+  "old": []
  }
 }
