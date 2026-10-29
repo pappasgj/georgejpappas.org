@@ -3252,5 +3252,65 @@
   "file": "papers/C326.pdf",
   "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/d07a8b7b-Federated_Learning_with_Incrementally_Aggregated_Gradients.pdf (sent October 29, 2026)",
   "old": []
+ },
+ "C309": {
+  "file": "papers/C309.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/8995e0eb-Towards_Private_Data-driven_Control.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J116": {
+  "file": "papers/J116.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/514de39a-3419742.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C310": {
+  "file": "papers/C310.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/d74c4193-Almost-Zero_Duality_Gaps_in_Model-Free_Resource_Allocation_for_Wireless_Systems.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J117": {
+  "file": "papers/J117.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/356ae9da-Approximate_Supermodularity_of_Kalman_Filter_Sensor_Selection.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J119": {
+  "file": "papers/J119.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/d0039dae-1-s2.0-S0005109820305884-main.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J120": {
+  "file": "papers/J120.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/daefad60-Latency-Reliability_Tradeoffs_for_State_Estimation.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J121": {
+  "file": "papers/J121.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/b218181a-LQG_Control_and_Sensing_Co-Design.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J122": {
+  "file": "papers/J122.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/ae8fb64d-Fair_Robust_Assignment_Using_Redundancy.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J123": {
+  "file": "papers/J123.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/70581f40-s42256-021-00321-2.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C312": {
+  "file": "papers/C312.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/3b84e353-Source_Seeking_in_Unknown_Environments_with_Convex_Obstacles.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J124": {
+  "file": "papers/J124.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/8102a6a8-Cloud-Based_Quadratic_Optimization_With_Partially_Homomorphic_Encryption.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J125": {
+  "file": "papers/J125.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/ec451744-Encrypted_Control_for_Networked_Systems_An_Illustrative_Introduction_and_Current_Challenges.pdf (sent October 29, 2026)",
+  "old": []
  }
 }
