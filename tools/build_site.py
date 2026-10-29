@@ -229,7 +229,7 @@ def publications():
         item = {
             "id": pid, "pre": pre, "me": "G. J. Pappas", "post": post, "title": title, "rest": rest,
             "award": award, "hasAward": bool(award), "pdf": pdf, "hasPdf": bool(pdf),
-            "doiUrl": doi_url, "hasDoi": bool(doi), "url": url, "hasUrl": bool(url), "urlLabel": "Google Patents" if kind == "patent" else "OpenReview" if "openreview.net" in url else "Proceedings" if re.search(r"mlr\.press|neurips\.cc", url) else "Publisher",
+            "doiUrl": doi_url, "hasDoi": bool(doi), "url": url, "hasUrl": bool(url), "urlLabel": "Google Patents" if kind == "patent" else "OpenReview" if "openreview.net" in url else "Proceedings" if re.search(r"mlr\.press|neurips\.cc", url) else "CCC Blog" if "cccblog.org" in url else "Publisher",
             "project": (project_links.get(pid) or {}).get("project", ""), "hasProject": bool((project_links.get(pid) or {}).get("project")),
             "video": (project_links.get(pid) or {}).get("video", ""), "hasVideo": bool((project_links.get(pid) or {}).get("video")),
             "blog": (project_links.get(pid) or {}).get("blog", ""), "hasBlog": bool((project_links.get(pid) or {}).get("blog")),
