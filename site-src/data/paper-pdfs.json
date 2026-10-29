@@ -2992,5 +2992,35 @@
   "file": "papers/C387.pdf",
   "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/09ff225e-Active_Learning_for_Control-Oriented_Identification_of_Nonlinear_Systems.pdf (sent October 29, 2026)",
   "old": []
+ },
+ "J145": {
+  "file": "papers/J145.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/be7317a0-Online_Learning_of_the_Kalman_Filter_With_Logarithmic_Regret.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C364": {
+  "file": "papers/C364.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/5b04d35c-1-s2.0-S2405896323020293-main.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J147": {
+  "file": "papers/J147.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/5ac0f9e4-Energy-Aware_Collision-Free_Information_Gathering_for_Heterogeneous_Robot_Teams.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C367": {
+  "file": "papers/C367.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/4fadf4e4-Robust_Localization_of_Aerial_Vehicles_via_Active_Control_of_Identical_Ground_Vehicles.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C368": {
+  "file": "papers/C368.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/b40718bd-Enhancing_Sample_Efficiency_and_Uncertainty_Compensation_in_Learning-Based_Model_Predictive_Control_for_Aerial_Robots.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C370": {
+  "file": "papers/C370.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/15e69a53-Resilient_Temporal_Logic_Planning_in_the_Presence_of_Robot_Failures.pdf (sent October 29, 2026)",
+  "old": []
  }
 }

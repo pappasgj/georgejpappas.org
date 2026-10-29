@@ -1789,9 +1789,6 @@
   "doi": "10.1609/aaai.v38i19.30089",
   "pdf": "https://ojs.aaai.org/index.php/AAAI/article/view/30089/31918"
  },
- "conf|2023|Uncertainty Compensation in Learning-Based Model Predictive Control for Aerial Robots": {
-  "doi": "10.1109/iros55552.2023.10341774"
- },
  "conf|2023|Learning Switching Port-Hamiltonian Systems with Uncertainty Quantification": {
   "doi": "10.1016/j.ifacol.2023.10.1621"
  },
@@ -1925,5 +1922,8 @@
  },
  "conf|2026|Beyond Binary Success: Sample-Efficient and Statistically Rigorous Robot Policy Comparison": {
   "pdf": "https://roboticsproceedings.org/rss22/p076.pdf"
+ },
+ "conf|2023|Enhancing Sample Efficiency and Uncertainty Compensation in Learning-Based Model Predictive Control for Aerial Robots": {
+  "doi": "10.1109/iros55552.2023.10341774"
  }
 }
