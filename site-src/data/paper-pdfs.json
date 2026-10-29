@@ -3092,5 +3092,40 @@
   "file": "papers/J141.pdf",
   "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/3374f114-Combined_Left_and_Right_Temporal_Robustness_for_Control_Under_STL_Specifications.pdf (sent October 29, 2026)",
   "old": []
+ },
+ "J136": {
+  "file": "papers/J136.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/a5ad648a-Perception-Based_Temporal_Logic_Planning_in_Uncertain_Semantic_Maps.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J138": {
+  "file": "papers/J138.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/4c6bdb33-Reactive_and_Risk-Aware_Control_for_Signal_Temporal_Logic.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C343": {
+  "file": "papers/C343.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/416bbba1-Adaptive_Sampling_of_Latent_Phenomena_using_Heterogeneous_Robot_Teams_ASLaP-HR.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C347": {
+  "file": "papers/C347.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/cf88d6ca-ODE_Discretization_Schemes_as_Optimization_Algorithms.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C349": {
+  "file": "papers/C349.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/3028c6df-Secure_state_estimation_over_Markov_wireless_communication_channels.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C350": {
+  "file": "papers/C350.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/f7607bf7-Gaussian_Process_Port-Hamiltonian_Systems_Bayesian_Learning_with_Physics_Prior.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C351": {
+  "file": "papers/C351.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/6d2a1471-Chordal_Sparsity_for_Lipschitz_Constant_Estimation_of_Deep_Neural_Networks.pdf (sent October 29, 2026)",
+  "old": []
  }
 }
