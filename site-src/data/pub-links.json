@@ -771,7 +771,8 @@
   "doi": "10.23919/acc50511.2021.9483164"
  },
  "conf|2021|Learning Lyapunov Functions for Hybrid Systems": {
-  "doi": "10.1109/ciss50987.2021.9400289"
+  "doi": "10.1145/3447928.3456644",
+  "pdf": "https://dl.acm.org/doi/pdf/10.1145/3447928.3456644"
  },
  "conf|2021|Almost-Zero Duality Gaps in Model-Free Resource Allocation for Wireless Systems": {
   "doi": "10.23919/eusipco47968.2020.9287660"
@@ -963,7 +964,8 @@
   "doi": "10.1145/3055004.3055024"
  },
  "conf|2017|Poster Abstract: Wireless Control for the IoT: Power, Spectrum, and Security Challenges": {
-  "doi": "10.1145/3054977.3057313"
+  "doi": "10.1145/3054977.3057313",
+  "pdf": "https://dl.acm.org/doi/pdf/10.1145/3054977.3057313"
  },
  "conf|2016|Differential Privacy in Control and Network Systems": {
   "doi": "10.1109/cdc.2016.7798915"
@@ -1098,7 +1100,8 @@
   "doi": "10.1109/icra.2015.7139863"
  },
  "conf|2015|Smart Building: A Private Cyber-Physical System Approach": {
-  "doi": "10.1145/2756755.2756756"
+  "doi": "10.1145/2756755.2756756",
+  "pdf": "https://dl.acm.org/doi/pdf/10.1145/2756755.2756756"
  },
  "conf|2014|Stability Analysis of Generalized Epidemic Models over Directed Networks": {
   "doi": "10.1109/cdc.2014.7040360"
@@ -1179,7 +1182,8 @@
   "doi": "10.1145/2461446.2461452"
  },
  "conf|2013|Demo Abstract: Synthesis of Platform-Aware Attack-Resilient Vehicular Systems": {
-  "doi": "10.1145/2502524.2502570"
+  "doi": "10.1145/2502524.2502570",
+  "pdf": "https://dl.acm.org/doi/pdf/10.1145/2502524.2502570"
  },
  "conf|2012|Green Scheduling for Radiant Systems in Buildings": {
   "doi": "10.1109/cdc.2012.6426318"
