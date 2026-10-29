@@ -1783,9 +1783,6 @@
  "conf|2023|Learning Switching Port-Hamiltonian Systems with Uncertainty Quantification": {
   "doi": "10.1016/j.ifacol.2023.10.1621"
  },
- "conf|2021|Distributed Active Information Acquisition for Multi-Robot Systems": {
-  "doi": "10.1109/icra48506.2021.9561244"
- },
  "conf|2020|Learning to Control over Unknown Wireless Channels": {
   "doi": "10.1016/j.ifacol.2020.12.308"
  },
@@ -1925,5 +1922,8 @@
  },
  "conf|2018|Optimization of Switched Linear Systems over Non-Stationary Wireless Channels": {
   "doi": "10.1109/spawc.2018.8445988"
+ },
+ "conf|2021|Scalable Active Information Acquisition for Multi-Robot Systems": {
+  "doi": "10.1109/icra48506.2021.9561244"
  }
 }

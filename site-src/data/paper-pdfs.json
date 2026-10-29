@@ -3187,5 +3187,70 @@
   "file": "papers/C348.pdf",
   "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/f490ccbf-Distributed_Statistical_Min-Max_Learning_in_the_Presence_of_Byzantine_Agents.pdf (sent October 29, 2026)",
   "old": []
+ },
+ "C314": {
+  "file": "papers/C314.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/9eb580f3-Non-Monotone_Energy-Aware_Information_Gathering_for_Heterogeneous_Robot_Teams.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C315": {
+  "file": "papers/C315.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/a445fd25-Reactive_Planning_for_Mobile_Manipulation_Tasks_in_Unexplored_Semantic_Environments.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C316": {
+  "file": "papers/C316.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/8ca841fb-Deep_Reinforcement_Learning_for_Active_Target_Tracking.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C317": {
+  "file": "papers/C317.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/1029042d-Scalable_Active_Information_Acquisition_for_Multi-Robot_Systems.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J126": {
+  "file": "papers/J126.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/be63fd8d-Stochastic_Motion_Planning_Under_Partial_Observability_for_Mobile_Robots_With_Continuous_Range_Measurements.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J127": {
+  "file": "papers/J127.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/59800871-s10514-021-09995-4.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C321": {
+  "file": "papers/C321.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/0fc632a2-Actor-only_Deterministic_Policy_Gradient_via_Zeroth-order_Gradient_Oracles_in_Action_Space.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J128": {
+  "file": "papers/J128.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/c766f4a9-On_the_Structural_Target_Controllability_of_Undirected_Networks.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C322": {
+  "file": "papers/C322.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/d7f7818c-Distributed_Sampling-based_Planning_for_Non-Myopic_Active_Information_Gathering.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C323": {
+  "file": "papers/C323.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/40c17368-Scalable_Reinforcement_Learning_Policies_for_Multi-Agent_Control.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C324": {
+  "file": "papers/C324.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/fd875db3-An_Introduction_to_Neural_Network_Analysis_via_Semidefinite_Programming.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C325": {
+  "file": "papers/C325.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/3ba41cb4-Learning_Region_of_Attraction_for_Nonlinear_Systems.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C326": {
+  "file": "papers/C326.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/d07a8b7b-Federated_Learning_with_Incrementally_Aggregated_Gradients.pdf (sent October 29, 2026)",
+  "old": []
  }
 }
