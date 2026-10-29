@@ -3477,5 +3477,70 @@
   "file": "papers/C307.pdf",
   "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/89d9544d-Control_Barrier_Functions_for_Nonholonomic_Systems_under_Risk_Signal_Temporal_Logic_Specifications.pdf (sent October 29, 2026)",
   "old": []
+ },
+ "C4": {
+  "file": "papers/C4.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/fc114f12-Stabilization_and_tracking_of_feedback_linearizable_systems_under_input_constraints.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C5": {
+  "file": "papers/C5.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/cce1341c-1-s2.0-S1474667017585596-main.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C6": {
+  "file": "papers/C6.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/7ef5597e-Avoiding_saturation_by_trajectory_reparameterization.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C7": {
+  "file": "papers/C7.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/ad0a983d-Conflict_resolution_for_multi-agent_hybrid_systems.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C9": {
+  "file": "papers/C9.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/d7b0e720-Noncooperative_conflict_resolution_air_traffic_management.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C13": {
+  "file": "papers/C13.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/e992fb76-1-s2.0-S1474667017418787-main.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C14": {
+  "file": "papers/C14.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/d131c64b-2_1_2_D_conflict_resolution_maneuvers_for_ATMS.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C46": {
+  "file": "papers/C46.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/ecc2714f-Abstractions_of_constrained_linear_systems.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "E2": {
+  "file": "papers/E2.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/8f6b52f3-Special_Section_on_Symbolic_Methods_for_Complex_Control_Systems.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "E1": {
+  "file": "papers/E1.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/fc20dcb2-1-s2.0-S0005109806002202-main.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C98": {
+  "file": "papers/C98.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/4e2bcf54-From_discrete_to_continuous_and_back_Abstractions_and_mesoscopic_phenomena_in_cells.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C99": {
+  "file": "papers/C99.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/4263e7c0-Distributed_multi-robot_task_assignment_and_formation_control.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "Ch30": {
+  "file": "papers/Ch30.pdf",
+  "from": "pp. 787–789 (PDF pages 802–804) cut from the full HSCC 2007 volume 978-3-540-71493-4.pdf (sent October 29, 2026)",
+  "old": []
  }
 }
