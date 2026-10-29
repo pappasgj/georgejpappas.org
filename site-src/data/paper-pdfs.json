@@ -3382,5 +3382,100 @@
   "file": "papers/J118.pdf",
   "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/85a7f501-3418287.pdf (sent October 29, 2026)",
   "old": []
+ },
+ "C178": {
+  "file": "papers/C178.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/cc4a1208-Differentially_private_distributed_protocol_for_electric_vehicle_charging.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "E5": {
+  "file": "papers/E5.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/70ac4f4a-Guest_Editorial_Special_Issue_on_Control_of_Cyber-Physical_Systems.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C189": {
+  "file": "papers/C189.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/c90b5d4e-Distributed_resource_allocation_for_control_of_spreading_processes.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C199": {
+  "file": "papers/C199.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/fad72219-Robust_estimation_using_context-aware_filtering.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C221": {
+  "file": "papers/C221.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/2c8dbc9d-Minimum_number_of_sensors_to_ensure_observability_of_physiological_systems_A_case_study.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C223": {
+  "file": "papers/C223.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/a7506e93-Approximation_of_network_linear_operators_using_similarity_shift_filters.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C285": {
+  "file": "papers/C285.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/0cab85bc-Learning_Q-network_for_Active_Information_Acquisition.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C286": {
+  "file": "papers/C286.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/8f1d259c-Maximum_Information_Bounds_for_Planning_Active_Sensing_Trajectories.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C287": {
+  "file": "papers/C287.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/d244f71e-Optimal_Temporal_Logic_Planning_for_Multi-Robot_Systems_in_Uncertain_Semantic_Maps.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C288": {
+  "file": "papers/C288.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/9eccd055-Probabilistic_Verification_and_Reachability_Analysis_of_Neural_Networks_via_Semidefinite_Programming.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C289": {
+  "file": "papers/C289.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/5cfd18e4-Reinforcement_Learning_for_Temporal_Logic_Control_Synthesis_with_Probabilistic_Satisfaction_Guarantees.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C290": {
+  "file": "papers/C290.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/3c656184-Encrypted_Cooperative_Control_Revisited.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C293": {
+  "file": "papers/C293.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/c8a29ae6-3365365.3382216.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C294": {
+  "file": "papers/C294.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/bd4014e2-A_Zeroth-Order_Learning_Algorithm_for_Ergodic_Optimization_of_Wireless_Systems_with_no_Models_and_no_Gradients.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C295": {
+  "file": "papers/C295.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/2537eccf-Better_Safe_Than_Sorry_Risk-Aware_Nonlinear_Bayesian_Estimation.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J109": {
+  "file": "papers/J109.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/9a552f0a-1-s2.0-S0005109819303735-main.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C297": {
+  "file": "papers/C297.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/b12163fc-Information_Theoretic_Active_Exploration_in_Signed_Distance_Fields.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C304": {
+  "file": "papers/C304.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/a4b85dae-Adaptive_Partitioning_for_Coordinated_Multi-agent_Perimeter_Defense.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C307": {
+  "file": "papers/C307.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/89d9544d-Control_Barrier_Functions_for_Nonholonomic_Systems_under_Risk_Signal_Temporal_Logic_Specifications.pdf (sent October 29, 2026)",
+  "old": []
  }
 }
