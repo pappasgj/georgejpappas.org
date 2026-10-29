@@ -21,6 +21,18 @@ ACCENTS = [("\\'e", "\u00e9"), ("\\'E", "\u00c9"), ("\\`a", "\u00e0"), ("\\`e", 
            ("\\'{e}", "\u00e9"), ("\\`{e}", "\u00e8"), ('\\"{o}', "\u00f6"), ('\\"{u}', "\u00fc"), ('\\"{a}', "\u00e4"), ("\\'{a}", "\u00e1"), ("\\'{o}", "\u00f3"), ("\\'{i}", "\u00ed")]
 
 
+def unwrap_doi_link(s):
+    """\\href{https://doi.org/X}{TEXT} around a title -> (TEXT, X). Titles link to their DOI in the CV."""
+    m = re.search(r"\\href\{https://doi\.org/([^}]*)\}\{", s)
+    if not m:
+        return s, ""
+    i, depth = m.end(), 1
+    while depth:
+        depth += {"{": 1, "}": -1}.get(s[i], 0)
+        i += 1
+    return s[:m.start()] + s[m.end():i - 1] + s[i:], m.group(1)
+
+
 def tex(s):
     s = re.sub(r"(?<!\\)%[^\n]*", "", s)
     s = s.replace("\\looseness=-1", "").replace("\\fitpar", "")
@@ -47,12 +59,13 @@ TYPES = [("Books and Edited Volumes", "book"), ("Refereed Journal Publications",
 out, bad = [], []
 for sec, kind in TYPES:
     for pid, raw in block(sec):
+        raw, title_doi = unwrap_doi_link(raw)
         raw = tex(raw)
         body = plain(raw)
         awards = re.findall(r"\[\[(.*?)\]\]", body)
         body = re.sub(r"\s*\[\[.*?\]\];?", "", body).strip().rstrip("}").strip()
         doi = re.search(r"DOI: ?(\S+?)\.?$", body)
-        doi = doi.group(1) if doi else ""
+        doi = doi.group(1) if doi else title_doi
         body = re.sub(r"\s*DOI: ?\S+$", "", body).rstrip(".").strip()
         m = re.match(r"(.*?), \u201c(.*?),?\u201d,? (.*)", body)
         if m:
