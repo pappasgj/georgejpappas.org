@@ -234,7 +234,7 @@ def publications():
             "video": (project_links.get(pid) or {}).get("video", ""), "hasVideo": bool((project_links.get(pid) or {}).get("video")),
             "blog": (project_links.get(pid) or {}).get("blog", ""), "hasBlog": bool((project_links.get(pid) or {}).get("blog")),
             "code": (code_links.get(pid) or {}).get("code", ""), "hasCode": bool((code_links.get(pid) or {}).get("code")),
-            "scholar": scholar, "titleUrl": pdf or doi_url or url, "titleLink": bool(pdf or doi_url or url), "showScholar": not (pdf or doi or url),
+            "scholar": scholar, "titleUrl": (url if kind == "book" and url else pdf or doi_url or url), "titleLink": bool(pdf or doi_url or url), "showScholar": not (pdf or doi or url),
             "kind": PUB_KIND.get(kind, "other"), "awardFlag": "1" if award else "", "codeFlag": "1" if (code_links.get(pid) or {}).get("code") else "",
             "search": " ".join([pid, pre, "G. J. Pappas", post, title, rest]).lower(),
         }

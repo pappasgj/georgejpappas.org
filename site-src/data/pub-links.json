@@ -1883,7 +1883,8 @@
   "doi": "10.1007/s10703-007-0047-0"
  },
  "book|2021|Proceedings of the 3rd Conference on Learning for Dynamics and Control (L4DC)": {
-  "url": "https://proceedings.mlr.press/v144/"
+  "url": "https://proceedings.mlr.press/v144/",
+  "pdf": "https://proceedings.mlr.press/v144/jadbabaie21a/jadbabaie21a.pdf"
  },
  "journal|2022|Learning Operators with Coupled Attention": {
   "url": "https://jmlr.org/papers/v23/21-1521.html",
