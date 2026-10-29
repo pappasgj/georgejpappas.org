@@ -6,7 +6,8 @@
   "doi": "10.1007/978-3-642-00196-3"
  },
  "journal|2024|Macroscopic Resting-State Brain Dynamics Are Best Described by Linear Models": {
-  "doi": "10.1038/s41551-023-01117-y"
+  "doi": "10.1038/s41551-023-01117-y",
+  "pdf": "https://www.nature.com/articles/s41551-023-01117-y.pdf"
  },
  "journal|2023|Statistical Learning Theory for Control: A Finite-Sample Perspective": {
   "doi": "10.1109/mcs.2023.3310345"
@@ -18,7 +19,8 @@
   "doi": "10.1109/tro.2023.3257512"
  },
  "journal|2023|Federated TD Learning over Finite-Rate Erasure Channels: Linear Speedup under Markovian Sampling": {
-  "doi": "10.1109/lcsys.2023.3287499"
+  "doi": "10.1109/lcsys.2023.3287499",
+  "pdf": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10158993"
  },
  "journal|2023|Online Learning of the Kalman Filter with Logarithmic Regret": {
   "doi": "10.1109/tac.2022.3207670"
@@ -39,7 +41,8 @@
   "doi": "10.1016/j.artint.2022.103782"
  },
  "journal|2022|Robust Object-Level Semantic Visual SLAM Using Semantic Keypoints": {
-  "doi": "10.55417/fr.2022018"
+  "doi": "10.55417/fr.2022018",
+  "pdf": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10876022"
  },
  "journal|2022|Reactive and Risk-Aware Control for Signal Temporal Logic": {
   "doi": "10.1109/tac.2021.3120681"
@@ -123,7 +126,8 @@
   "doi": "10.1016/j.automatica.2019.108512"
  },
  "journal|2020|Model-Based Design for Seizure Control by Stimulation": {
-  "doi": "10.1088/1741-2552/ab7a4e"
+  "doi": "10.1088/1741-2552/ab7a4e",
+  "pdf": "https://iopscience.iop.org/article/10.1088/1741-2552/ab7a4e/pdf"
  },
  "journal|2020|Robust Economic Model Predictive Control of Continuous-Time Epidemic Processes": {
   "doi": "10.1109/tac.2019.2919136"
@@ -549,7 +553,8 @@
   "doi": "10.1109/icra57385.2026.11696002"
  },
  "conf|2025|Defending Large Language Models Against Jailbreak Attacks via Semantic Smoothing": {
-  "doi": "10.18653/v1/2025.ijcnlp-short.2"
+  "doi": "10.18653/v1/2025.ijcnlp-short.2",
+  "pdf": "https://aclanthology.org/2025.ijcnlp-short.2.pdf"
  },
  "conf|2025|Flying Quadrotors in Tight Formations Using Learning-Based Model Predictive Control": {
   "doi": "10.1109/icra55743.2025.11127756"
@@ -570,22 +575,31 @@
   "doi": "10.1109/cdc57313.2025.11312642"
  },
  "conf|2025|Conformal Inference under High-Dimensional Covariate Shifts via Likelihood-Ratio Regularization": {
-  "doi": "10.52202/085713-0543"
+  "doi": "10.52202/085713-0543",
+  "url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/17aa70697d6cd35835f201c6fb0a2fd5-Abstract-Conference.html",
+  "pdf": "https://proceedings.neurips.cc/paper_files/paper/2025/file/17aa70697d6cd35835f201c6fb0a2fd5-Paper-Conference.pdf"
  },
  "conf|2025|Conformal Prediction Beyond the Seen: A Missing Mass Perspective for Uncertainty Quantification in Generative Models": {
-  "doi": "10.52202/085713-1084"
+  "doi": "10.52202/085713-1084",
+  "pdf": "https://www.proceedings.com/content/085/085713-1084open.pdf"
  },
  "conf|2025|Uncertainty-Calibrated Prediction of Randomly-Timed Biomarker Trajectories with Conformal Bands": {
-  "doi": "10.52202/085713-3859"
+  "doi": "10.52202/085713-3859",
+  "url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/a80ed64454caa59cb1a3a6e979306412-Abstract-Conference.html",
+  "pdf": "https://proceedings.neurips.cc/paper_files/paper/2025/file/a80ed64454caa59cb1a3a6e979306412-Paper-Conference.pdf"
  },
  "conf|2025|Jailbreaking Black Box Large Language Models in Twenty Queries": {
   "doi": "10.1109/satml64287.2025.00010"
  },
  "conf|2024|JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models": {
-  "doi": "10.52202/079017-1745"
+  "doi": "10.52202/079017-1745",
+  "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/63092d79154adebd7305dfd498cbff70-Abstract-Datasets_and_Benchmarks_Track.html",
+  "pdf": "https://proceedings.neurips.cc/paper_files/paper/2024/file/63092d79154adebd7305dfd498cbff70-Paper-Datasets_and_Benchmarks_Track.pdf"
  },
  "conf|2024|Length Optimization in Conformal Prediction": {
-  "doi": "10.52202/079017-3158"
+  "doi": "10.52202/079017-3158",
+  "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/b41907dd4df5c60f86216b73fe0c7465-Abstract-Conference.html",
+  "pdf": "https://proceedings.neurips.cc/paper_files/paper/2024/file/b41907dd4df5c60f86216b73fe0c7465-Paper-Conference.pdf"
  },
  "conf|2024|Rate-Optimal Non-Asymptotics for the Quadratic Prediction Error Method": {
   "doi": "10.1109/cdc56724.2024.10886130"
@@ -630,13 +644,16 @@
   "doi": "10.1109/cdc49753.2023.10383968"
  },
  "conf|2023|The Noise Level in Linear Regression with Dependent Data": {
-  "doi": "10.52202/075280-3273"
+  "doi": "10.52202/075280-3273",
+  "url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/ecffd829f90b0a4b6aa017b6df15904f-Abstract-Conference.html",
+  "pdf": "https://proceedings.neurips.cc/paper_files/paper/2023/file/ecffd829f90b0a4b6aa017b6df15904f-Paper-Conference.pdf"
  },
  "conf|2023|Robust Localization of Aerial Vehicles via Active Control of Identical Ground Vehicles": {
   "doi": "10.1109/iros55552.2023.10341900"
  },
  "conf|2023|Active Collaborative Localization in Heterogeneous Robot Teams": {
-  "doi": "10.15607/rss.2023.xix.112"
+  "doi": "10.15607/rss.2023.xix.112",
+  "pdf": "https://www.roboticsproceedings.org/rss19/p112.pdf"
  },
  "conf|2023|Path Defense in Dynamic Defender-Attacker Blotto Games (dDAB) with Limited Information": {
   "doi": "10.23919/acc55779.2023.10156261"
@@ -678,13 +695,19 @@
   "doi": "10.1109/cdc51059.2022.9992691"
  },
  "conf|2022|NOMAD: Nonlinear Manifold Decoders for Operator Learning": {
-  "doi": "10.52202/068431-0405"
+  "doi": "10.52202/068431-0405",
+  "url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/24f49b2ad9fbe65eefbfd99d6f6c3fd2-Abstract-Conference.html",
+  "pdf": "https://proceedings.neurips.cc/paper_files/paper/2022/file/24f49b2ad9fbe65eefbfd99d6f6c3fd2-Paper-Conference.pdf"
  },
  "conf|2022|Collaborative Linear Bandits with Adversarial Agents: Near-Optimal Regret Bounds": {
-  "doi": "10.52202/068431-1642"
+  "doi": "10.52202/068431-1642",
+  "url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/8df705957a5262de3cb37ba9f1fb96f3-Abstract-Conference.html",
+  "pdf": "https://proceedings.neurips.cc/paper_files/paper/2022/file/8df705957a5262de3cb37ba9f1fb96f3-Paper-Conference.pdf"
  },
  "conf|2022|Probable Domain Generalization via Quantile Risk Minimization": {
-  "doi": "10.52202/068431-1261"
+  "doi": "10.52202/068431-1261",
+  "url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/6f11132f6ecbbcafafdf6decfc98f7be-Abstract-Conference.html",
+  "pdf": "https://proceedings.neurips.cc/paper_files/paper/2022/file/6f11132f6ecbbcafafdf6decfc98f7be-Paper-Conference.pdf"
  },
  "conf|2022|Adaptive Sampling of Latent Phenomena Using Heterogeneous Robot Teams": {
   "doi": "10.1109/iros47612.2022.9982270"
@@ -735,7 +758,8 @@
   "doi": "10.1137/1.9781611976847.3"
  },
  "conf|2021|Verisig 2.0: Verification of Neural Network Controllers Using Taylor Model Preconditioning": {
-  "doi": "10.1007/978-3-030-81685-8_11"
+  "doi": "10.1007/978-3-030-81685-8_11",
+  "pdf": "https://link.springer.com/content/pdf/10.1007/978-3-030-81685-8_11.pdf"
  },
  "conf|2021|Deep Reinforcement Learning for Active Target Tracking": {
   "doi": "10.1109/icra48506.2021.9561258"
@@ -1584,49 +1608,64 @@
   "doi": "10.1145/1176887.1176890"
  },
  "conf|2026|Conformal Risk Minimization with Variance Reduction": {
-  "url": "https://proceedings.mlr.press/v337/noorani26a.html"
+  "url": "https://proceedings.mlr.press/v337/noorani26a.html",
+  "pdf": "https://raw.githubusercontent.com/mlresearch/v337/main/assets/noorani26a/noorani26a.pdf"
  },
  "conf|2026|When to Trust the Cheap Check: Weak and Strong Verification for Reasoning": {
-  "url": "https://proceedings.mlr.press/v306/kiyani26a.html"
+  "url": "https://proceedings.mlr.press/v306/kiyani26a.html",
+  "pdf": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/kiyani26a/kiyani26a.pdf"
  },
  "conf|2026|Multi-Round Human–AI Collaboration with User-Specified Requirements": {
-  "url": "https://proceedings.mlr.press/v306/noorani26a.html"
+  "url": "https://proceedings.mlr.press/v306/noorani26a.html",
+  "pdf": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/noorani26a/noorani26a.pdf"
  },
  "conf|2026|Human-AI Collaborative Uncertainty Quantification": {
-  "url": "https://proceedings.mlr.press/v306/noorani26b.html"
+  "url": "https://proceedings.mlr.press/v306/noorani26b.html",
+  "pdf": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/noorani26b/noorani26b.pdf"
  },
  "conf|2026|Conformal Risk-Averse Decision Making with Action Conditional Guarantee": {
-  "url": "https://proceedings.mlr.press/v306/zhu26z.html"
+  "url": "https://proceedings.mlr.press/v306/zhu26z.html",
+  "pdf": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhu26z/zhu26z.pdf"
  },
  "conf|2025|Distilling on-Device Language Models for Robot Planning with Minimal Human Intervention": {
-  "url": "https://proceedings.mlr.press/v305/ravichandran25a.html"
+  "url": "https://proceedings.mlr.press/v305/ravichandran25a.html",
+  "pdf": "https://raw.githubusercontent.com/mlresearch/v305/main/assets/ravichandran25a/ravichandran25a.pdf"
  },
  "conf|2025|State Space Models, Emergence, and Ergodicity: How Many Parameters Are Needed for Stable Predictions?": {
-  "url": "https://proceedings.mlr.press/v283/ziemann25a.html"
+  "url": "https://proceedings.mlr.press/v283/ziemann25a.html",
+  "pdf": "https://raw.githubusercontent.com/mlresearch/v283/main/assets/ziemann25a/ziemann25a.pdf"
  },
  "conf|2025|Domain Randomization Is Sample Efficient for Linear Quadratic Control": {
-  "url": "https://proceedings.mlr.press/v283/fujinami25a.html"
+  "url": "https://proceedings.mlr.press/v283/fujinami25a.html",
+  "pdf": "https://raw.githubusercontent.com/mlresearch/v283/main/assets/fujinami25a/fujinami25a.pdf"
  },
  "conf|2025|Symmetries-Enhanced Multi-Agent Reinforcement Learning": {
-  "url": "https://proceedings.mlr.press/v283/bousias25a.html"
+  "url": "https://proceedings.mlr.press/v283/bousias25a.html",
+  "pdf": "https://raw.githubusercontent.com/mlresearch/v283/main/assets/bousias25a/bousias25a.pdf"
  },
  "conf|2025|STLGame: Signal Temporal Logic Games in Adversarial Multi-Agent Systems": {
-  "url": "https://proceedings.mlr.press/v283/yang25a.html"
+  "url": "https://proceedings.mlr.press/v283/yang25a.html",
+  "pdf": "https://raw.githubusercontent.com/mlresearch/v283/main/assets/yang25a/yang25a.pdf"
  },
  "conf|2025|Decision Theoretic Foundations for Conformal Prediction: Optimal Uncertainty Quantification for Risk-Averse Agents": {
-  "url": "https://proceedings.mlr.press/v267/kiyani25a.html"
+  "url": "https://proceedings.mlr.press/v267/kiyani25a.html",
+  "pdf": "https://raw.githubusercontent.com/mlresearch/v267/main/assets/kiyani25a/kiyani25a.pdf"
  },
  "conf|2025|Adversarial Reasoning at Jailbreaking Time": {
-  "url": "https://proceedings.mlr.press/v267/sabbaghi25a.html"
+  "url": "https://proceedings.mlr.press/v267/sabbaghi25a.html",
+  "pdf": "https://raw.githubusercontent.com/mlresearch/v267/main/assets/sabbaghi25a/sabbaghi25a.pdf"
  },
  "conf|2024|Sharp Rates in Dependent Learning Theory: Avoiding Sample Size Deflation for the Square Loss": {
-  "url": "https://proceedings.mlr.press/v235/ziemann24a.html"
+  "url": "https://proceedings.mlr.press/v235/ziemann24a.html",
+  "pdf": "https://raw.githubusercontent.com/mlresearch/v235/main/assets/ziemann24a/ziemann24a.pdf"
  },
  "conf|2024|Conformal Prediction with Learned Features": {
-  "url": "https://proceedings.mlr.press/v235/kiyani24a.html"
+  "url": "https://proceedings.mlr.press/v235/kiyani24a.html",
+  "pdf": "https://raw.githubusercontent.com/mlresearch/v235/main/assets/kiyani24a/kiyani24a.pdf"
  },
  "conf|2024|Guarantees for Nonlinear Representation Learning: Non-Identical Covariates, Dependent Data, Fewer Samples": {
-  "url": "https://proceedings.mlr.press/v235/zhang24ab.html"
+  "url": "https://proceedings.mlr.press/v235/zhang24ab.html",
+  "pdf": "https://raw.githubusercontent.com/mlresearch/v235/main/assets/zhang24ab/zhang24ab.pdf"
  },
  "conf|2024|Uncertainty Quantification and Robustification of Model-Based Controllers Using Conformal Prediction": {
   "url": "https://proceedings.mlr.press/v242/chee24a.html",
@@ -1693,7 +1732,8 @@
   "pdf": "https://proceedings.neurips.cc/paper_files/paper/2021/file/7a6bda9ad6ffdac035c752743b7e9d0e-Paper.pdf"
  },
  "conf|2021|Optimal Algorithms for Submodular Maximization with Distributed Constraints": {
-  "url": "https://proceedings.mlr.press/v144/robey21a.html"
+  "url": "https://proceedings.mlr.press/v144/robey21a.html",
+  "pdf": "https://proceedings.mlr.press/v144/robey21a/robey21a.pdf"
  },
  "conf|2019|Efficient and Accurate Estimation of Lipschitz Constants for Deep Neural Networks": {
   "url": "https://proceedings.neurips.cc/paper_files/paper/2019/hash/95e1533eb1b20a97777749fb94fdb944-Abstract.html",
@@ -1746,7 +1786,8 @@
   "doi": "10.1002/047172288x.ch16"
  },
  "conf|2024|Conformal Prediction Regions for Time Series Using Linear Complementarity Programming": {
-  "doi": "10.1609/aaai.v38i19.30089"
+  "doi": "10.1609/aaai.v38i19.30089",
+  "pdf": "https://ojs.aaai.org/index.php/AAAI/article/view/30089/31918"
  },
  "conf|2023|Uncertainty Compensation in Learning-Based Model Predictive Control for Aerial Robots": {
   "doi": "10.1109/iros55552.2023.10341774"
@@ -1881,5 +1922,8 @@
  },
  "white|2026|Securing the Robotics Supply Chain: Technical Needs and Investment Opportunities for the Domestic Robotics Research Ecosystem": {
   "url": "https://cccblog.org/2026/10/20/securing-the-robotics-supply-chain-new-white-paper-lays-out-research-priorities-and-federal-investment-opportunities-for-a-u-s-robotics-ecosystem/"
+ },
+ "conf|2026|Beyond Binary Success: Sample-Efficient and Statistically Rigorous Robot Policy Comparison": {
+  "pdf": "https://roboticsproceedings.org/rss22/p076.pdf"
  }
 }
