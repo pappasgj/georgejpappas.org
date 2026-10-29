@@ -2942,5 +2942,10 @@
   "file": "papers/J157.pdf",
   "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/bef4951f-Policy_Gradient_Bounds_in_Multitask_LQR.pdf (sent October 29, 2026)",
   "old": []
+ },
+ "J165": {
+  "file": "papers/J165.pdf",
+  "from": "scirobotics.aef2191.pdf (sent October 29, 2026)",
+  "old": []
  }
 }
