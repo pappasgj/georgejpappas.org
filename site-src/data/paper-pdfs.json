@@ -2947,5 +2947,50 @@
   "file": "papers/J165.pdf",
   "from": "scirobotics.aef2191.pdf (sent October 29, 2026)",
   "old": []
+ },
+ "C371": {
+  "file": "papers/C371.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/f37909c0-Safe_Perception-Based_Control_Under_Stochastic_Sensor_Uncertainty_Using_Conformal_Prediction.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C372": {
+  "file": "papers/C372.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/ba702d4b-Uncertainty_Quantification_for_Learning-based_MPC_using_Weighted_Conformal_Prediction.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C373": {
+  "file": "papers/C373.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/866ec3a7-Safety_Filter_Design_for_Neural_Network_Systems_via_Convex_Optimization.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C374": {
+  "file": "papers/C374.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/c8de6432-Navigation_with_Shadow_Prices_to_Optimize_Multi-Commodity_Flow_Rates.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C378": {
+  "file": "papers/C378.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/c0ffcc6f-Optimal_Scene_Graph_Planning_with_Large_Language_Model_Guidance.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C380": {
+  "file": "papers/C380.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/cf5cf0aa-Structural_Risk_Minimization_for_Learning_Nonlinear_Dynamics.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C381": {
+  "file": "papers/C381.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/3c2225bd-Finite-_Time_Analysis_of_Asynchronous_Multi-Agent_TD_Learning.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C386": {
+  "file": "papers/C386.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/d5fde10d-DASA_Delay-Adaptive_Multi-Agent_Stochastic_Approximation.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C387": {
+  "file": "papers/C387.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/09ff225e-Active_Learning_for_Control-Oriented_Identification_of_Nonlinear_Systems.pdf (sent October 29, 2026)",
+  "old": []
  }
 }
