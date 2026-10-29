@@ -3022,5 +3022,55 @@
   "file": "papers/C370.pdf",
   "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/15e69a53-Resilient_Temporal_Logic_Planning_in_the_Presence_of_Robot_Failures.pdf (sent October 29, 2026)",
   "old": []
+ },
+ "J140": {
+  "file": "papers/J140.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/7ab4dc89-1-s2.0-S0004370222001229-main.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J142": {
+  "file": "papers/J142.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/9636b241-3550072.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C354": {
+  "file": "papers/C354.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/9f4a3d08-Toward_Certified_Robustness_Against_Real-World_Distribution_Shifts.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J143": {
+  "file": "papers/J143.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/cc1052aa-_Mobility-Driven_Integration_of_Heterogeneous_Urban_Cyber-Physical_Systems_Under_Disruptive_Events.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C356": {
+  "file": "papers/C356.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/485028d5-Multi-Robot_Mission_Planning_in_Dynamic_Semantic_Environments.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C357": {
+  "file": "papers/C357.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/a2fbe070-Graph_Neural_Networks_for_Multi-Robot_Active_Information_Acquisition.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C358": {
+  "file": "papers/C358.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/39eb9343-3576841.3585927.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C359": {
+  "file": "papers/C359.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/044e9b27-Path_Defense_in_Dynamic_Defender-Attacker_Blotto_Games_dDAB_with_Limited_Information.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J144": {
+  "file": "papers/J144.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/57af5d51-3580490.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C385": {
+  "file": "papers/C385.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/12cd1a8a-From_Convexity_to_Strong_Convexity_and_Beyond_Bridging_The_Gap_In_Convergence_Rates.pdf (sent October 29, 2026)",
+  "old": []
  }
 }
