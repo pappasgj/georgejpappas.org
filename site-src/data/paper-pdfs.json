@@ -2907,5 +2907,40 @@
   "file": "papers/J161.pdf",
   "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/3326740d-PKF_Probabilistic_Data_Association_Kalman_Filter_for_Multi-Object_Tracking.pdf (sent October 29, 2026)",
   "old": []
+ },
+ "C388": {
+  "file": "papers/C388.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/230084a3-Reactive_Planning_for_Teams_of_Heterogeneous_Robots_with_Dynamic_Collaborative_Temporal_Logic_Missions.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C389": {
+  "file": "papers/C389.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/fea9404f-Rate-Optimal_Non-Asymptotics_for_the_Quadratic_Prediction_Error_Method.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C395": {
+  "file": "papers/C395.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/a416ae38-Jailbreaking_Black_Box_Large_Language_Models_in_Twenty_Queries.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C410": {
+  "file": "papers/C410.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/edb9eaa4-SPINE_Online_Semantic_Planning_for_Missions_with_Incomplete_Natural_Language_Specifications_in_Unstructured_Environments.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C411": {
+  "file": "papers/C411.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/272d4ac8-Jailbreaking_LLM-Controlled_Robots.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C412": {
+  "file": "papers/C412.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/38306f25-Flying_Quadrotors_in_Tight_Formations_Using_Learning-Based_Model_Predictive_Control.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J157": {
+  "file": "papers/J157.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/bef4951f-Policy_Gradient_Bounds_in_Multitask_LQR.pdf (sent October 29, 2026)",
+  "old": []
  }
 }
