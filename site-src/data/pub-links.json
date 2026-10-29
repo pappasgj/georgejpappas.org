@@ -1830,9 +1830,6 @@
  "conf|1996|Hybrid Control in Air Traffic Management": {
   "doi": "10.1016/s1474-6670(17)58559-6"
  },
- "conf|1993|Dynamic Modeling and Tracking Control of Nonholonomic Vehicles": {
-  "doi": "10.1016/s1474-6670(17)48682-4"
- },
  "book|2016|A 21st Century Cyber-Physical Systems Education": {
   "doi": "10.17226/23686"
  },
@@ -1865,9 +1862,6 @@
  },
  "conf|1997|Noncooperative Conflict Resolution": {
   "doi": "10.1109/cdc.1997.657827"
- },
- "conf|1992|Modeling and Feedback Control of Nonholonomic Vehicles": {
-  "doi": "10.1109/cdc.1992.371331"
  },
  "conf|2017|Hierarchical Data-Driven Vehicle Dispatch and Ride-Sharing": {
   "doi": "10.1109/cdc.2017.8264317"
@@ -1931,5 +1925,17 @@
  },
  "conf|2021|Scalable Active Information Acquisition for Multi-Robot Systems": {
   "doi": "10.1109/icra48506.2021.9561244"
+ },
+ "conf|2000|Parameter Synthesis in Robot Motion Planning Using Symbolic Reachability Computation": {
+  "pdf": "https://www.cse.chalmers.se/~gersch/med2000.pdf"
+ },
+ "conf|1999|Reach Set Computation for Linear Vector Fields Using Quantifier Elimination": {
+  "url": "https://math.unm.edu/~aca/ACA/1999/Proceedings/Sessions.html"
+ },
+ "conf|1993|Dynamic Modelling and Tracking Control of Nonholonomic Wheeled Vehicles": {
+  "doi": "10.1016/s1474-6670(17)48682-4"
+ },
+ "conf|1992|Modeling and Feedback Control of Nonholonomic Mobile Vehicles": {
+  "doi": "10.1109/cdc.1992.371331"
  }
 }
