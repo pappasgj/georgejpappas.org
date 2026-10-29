@@ -3072,5 +3072,25 @@
   "file": "papers/C385.pdf",
   "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/12cd1a8a-From_Convexity_to_Strong_Convexity_and_Beyond_Bridging_The_Gap_In_Convergence_Rates.pdf (sent October 29, 2026)",
   "old": []
+ },
+ "C352": {
+  "file": "papers/C352.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/3607468d-Learning_Rigidity-based_Flocking_Control_using_Gaussian_Processes_with_Probabilistic_Stability_Guarantees.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C353": {
+  "file": "papers/C353.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/c6ccb5a9-Learning-based_Balancing_of_Model-based_and_Feedback_Control_for_Second-order_Mechanical_Systems.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C355": {
+  "file": "papers/C355.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/66899034-Socially_Fair_Coverage_Control.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J141": {
+  "file": "papers/J141.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/3374f114-Combined_Left_and_Right_Temporal_Robustness_for_Control_Under_STL_Specifications.pdf (sent October 29, 2026)",
+  "old": []
  }
 }
