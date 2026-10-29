@@ -3127,5 +3127,65 @@
   "file": "papers/C351.pdf",
   "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/6d2a1471-Chordal_Sparsity_for_Lipschitz_Constant_Estimation_of_Deep_Neural_Networks.pdf (sent October 29, 2026)",
   "old": []
+ },
+ "C327": {
+  "file": "papers/C327.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/c2ae99b2-Robust_Motion_Planning_in_the_Presence_of_Estimation_Uncertainty.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C328": {
+  "file": "papers/C328.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/1e6d44f8-Encrypted_Distributed_Lasso_for_Sparse_Data_Predictive_Control.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C329": {
+  "file": "papers/C329.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/4afe22c4-STL_Robustness_Risk_over_Discrete-Time_Stochastic_Processes.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C331": {
+  "file": "papers/C331.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/e3008c41-Online_Federated_Learning.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C332": {
+  "file": "papers/C332.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/69b6694c-Linear_Systems_can_be_Hard_to_Learn.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J131": {
+  "file": "papers/J131.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/92795cab-Robust_and_Adaptive_Sequential_Submodular_Optimization.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J134": {
+  "file": "papers/J134.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/0cf88c72-Private_Weighted_Sum_Aggregation.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C337": {
+  "file": "papers/C337.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/5c874664-3501710.3519504.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C339": {
+  "file": "papers/C339.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/c7fe9ff7-Reactive_Informative_Planning_for_Mobile_Manipulation_Tasks_under_Sensing_and_Environmental_Uncertainty.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J132": {
+  "file": "papers/J132.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/635e07c5-Online_Learning-Based_Trajectory_Tracking_for_Underactuated_Vehicles_With_Uncertain_Dynamics.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "J137": {
+  "file": "papers/J137.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/4d8a155f-Distributed_Attack-Robust_Submodular_Maximization_for_Multirobot_Planning.pdf (sent October 29, 2026)",
+  "old": []
+ },
+ "C348": {
+  "file": "papers/C348.pdf",
+  "from": "data/attachments/a2dd0f03-926a-5bd2-9cdf-bfc3c9010c67/f490ccbf-Distributed_Statistical_Min-Max_Learning_in_the_Presence_of_Byzantine_Agents.pdf (sent October 29, 2026)",
+  "old": []
  }
 }
