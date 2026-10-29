@@ -31,6 +31,16 @@
  "items": [
   {
    "k": 202610,
+   "date": "Oct 2026",
+   "kind": "press",
+   "text": "Penn Engineering: George Pappas Helps Chart More Secure Future for U.S. Robotics",
+   "url": "https://www.engineering.upenn.edu/stories/penn-engineerings-george-pappas-helps-chart-more-secure-future-for-u-s-robotics/",
+   "areas": [
+    "safe-physical-ai"
+   ]
+  },
+  {
+   "k": 202610,
    "date": "Oct 1, 2026",
    "kind": "press",
    "text": "TechTarget: Humanoid Buildup Overlooks the Robots Already Running Factories",
