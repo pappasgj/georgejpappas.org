@@ -201,11 +201,14 @@ def orcid_additions(rows=None):
 def publications():
     rows = load("publications.json")
     links = load("pub-links.json") if os.path.exists(os.path.join(DATA, "pub-links.json")) else {}
+    paper_pdfs = load("paper-pdfs.json") if os.path.exists(os.path.join(DATA, "paper-pdfs.json")) else {}
     for r in rows:  # DOIs, PDFs and publisher pages the CV lacks, keyed "kind|year|title" in pub-links.json
         extra = links.get("%s|%s|%s" % (r[1], r[2], r[5]), {})
         if not r[7] and extra.get("doi"):
             r[7] = extra["doi"]
         r[9:] = [extra.get("pdf", r[9] if len(r) > 9 else ""), extra.get("url", r[10] if len(r) > 10 else "")]
+        if not r[9] and r[0] in paper_pdfs:  # the paper's own PDF, hosted here (papers/<CV id>.pdf)
+            r[9] = "../" + paper_pdfs[r[0]]["file"]
     for a in orcid_additions(rows):  # newly published papers from ORCID that the CV does not list yet
         rows.append(list(a["row"]) + ["", ""])
     if os.path.exists(os.path.join(DATA, "patents.json")):  # issued patents and published applications
@@ -492,6 +495,7 @@ OLD_PREFIXES = [
     ("/category/", "/press/"),
     ("/tag/", "/press/"),
     ("/wp-content/uploads/", "/publications/"),
+    ("/papers/", "/publications/"),
     ("/publication", "/publications/"),
     ("/project", "/research/"),
     ("/research-", "/research/"),
@@ -503,6 +507,13 @@ OLD_PREFIXES = [
 def write_404(layout, today, updated):
     """GitHub Pages serves /404.html for any missing address. Links are absolute (it can be served at any depth)."""
     rules = json.dumps(OLD_PREFIXES)
+    # Old PDF addresses (/papers/<file> or /wp-content/uploads/.../<file>) go straight to the paper's PDF here.
+    old_pdfs = {}
+    if os.path.exists(os.path.join(DATA, "paper-pdfs.json")):
+        for e in load("paper-pdfs.json").values():
+            for name in e["old"]:
+                old_pdfs[name.lower()] = "/" + e["file"]
+    pdf_map = json.dumps(old_pdfs, ensure_ascii=False, sort_keys=True)
     body = (
         '<div style="background: #011F5B; color: #FFFFFF"><div style="max-width: 1200px; margin: 0 auto; padding: 30px 32px 32px; '
         'display: flex; flex-direction: column; gap: 8px"><h1 class="page-h1" style="margin: 0; font-family: \'Source Serif 4\', Georgia, serif; '
@@ -514,9 +525,12 @@ def write_404(layout, today, updated):
         '<ul style="margin: 0; padding-left: 20px; display: flex; flex-direction: column; gap: 8px; font-size: 18px">'
         + "".join('<li><a href="/%s">%s</a></li>' % (folder + "/" if folder else "", label) for _k, label, folder, _t, _d in PAGES)
         + '</ul></div>'
-        '<script>(function(){var p=location.pathname.toLowerCase(),r=%s;for(var i=0;i<r.length;i++){'
+        '<script>(function(){var p=location.pathname.toLowerCase(),r=%s,f=%s,n;'
+        'try{n=decodeURIComponent(p.split("/").pop())}catch(e){n=p.split("/").pop()}'
+        'if((p.indexOf("/papers/")===0||p.indexOf("/wp-content/uploads/")===0)&&f[n]){location.replace(f[n]);return}'
+        'for(var i=0;i<r.length;i++){'
         'if(p.indexOf(r[i][0])===0){document.getElementById("moved").hidden=false;location.replace(r[i][1]);return}}})();</script>'
-        % rules)
+        % (rules, pdf_map))
     page = render(layout, {
         "root": "/", "title": "George J. Pappas — Page not found",
         "description": "This page was not found on George J. Pappas's website. Browse his biography, research, group, publications, book, teaching and press.",

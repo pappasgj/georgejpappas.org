@@ -1,0 +1,2831 @@
+{
+ "Ch1": {
+  "file": "papers/Ch1.pdf",
+  "from": "cdcsurvey.ps.gz",
+  "old": [
+   "cdcsurvey.ps.gz"
+  ]
+ },
+ "Ch2": {
+  "file": "papers/Ch2.pdf",
+  "from": "hsiv2.ps.gz",
+  "old": [
+   "hsiv2.ps.gz"
+  ]
+ },
+ "Ch3": {
+  "file": "papers/Ch3.pdf",
+  "from": "hsiv.ps.gz",
+  "old": [
+   "hsiv.ps.gz"
+  ]
+ },
+ "Ch4": {
+  "file": "papers/Ch4.pdf",
+  "from": "ctas98.ps.gz",
+  "old": [
+   "ctas98.ps.gz"
+  ]
+ },
+ "Ch5": {
+  "file": "papers/Ch5.pdf",
+  "from": "berkeley98.ps.gz",
+  "old": [
+   "berkeley98.ps.gz"
+  ]
+ },
+ "Ch6": {
+  "file": "papers/Ch6.pdf",
+  "from": "ima96.ps.gz",
+  "old": [
+   "ima96.ps.gz"
+  ]
+ },
+ "Ch7": {
+  "file": "papers/Ch7.pdf",
+  "from": "HSV.pdf",
+  "old": [
+   "HSV.pdf",
+   "LPS98-1.ps.gz"
+  ]
+ },
+ "Ch8": {
+  "file": "papers/Ch8.pdf",
+  "from": "HSCC99.pdf",
+  "old": [
+   "HSCC99.pdf"
+  ]
+ },
+ "C8": {
+  "file": "papers/C8.pdf",
+  "from": "iros97.ps.gz",
+  "old": [
+   "iros97.ps.gz"
+  ]
+ },
+ "Ch9": {
+  "file": "papers/Ch9.pdf",
+  "from": "HSCC00.pdf",
+  "old": [
+   "HSCC00.pdf"
+  ]
+ },
+ "Ch10": {
+  "file": "papers/Ch10.pdf",
+  "from": "HSCC01-EKP.pdf",
+  "old": [
+   "HSCC01-EKP.pdf"
+  ]
+ },
+ "C10": {
+  "file": "papers/C10.pdf",
+  "from": "cdc97-1.ps.gz",
+  "old": [
+   "cdc97-1.ps.gz"
+  ]
+ },
+ "Ch11": {
+  "file": "papers/Ch11.pdf",
+  "from": "HSCC01-SPS.pdf",
+  "old": [
+   "HSCC01-SPS.pdf"
+  ]
+ },
+ "C11": {
+  "file": "papers/C11.pdf",
+  "from": "WSC97.ps.gz",
+  "old": [
+   "WSC97.ps.gz"
+  ]
+ },
+ "Ch12": {
+  "file": "papers/Ch12.pdf",
+  "from": "HSCC01-BIO.pdf",
+  "old": [
+   "HSCC01-BIO.pdf"
+  ]
+ },
+ "Ch13": {
+  "file": "papers/Ch13.pdf",
+  "from": "HSCC01-ATP.pdf",
+  "old": [
+   "HSCC01-ATP.pdf"
+  ]
+ },
+ "Ch14": {
+  "file": "papers/Ch14.pdf",
+  "from": "HSCC01-KPS.pdf",
+  "old": [
+   "HSCC01-KPS.pdf"
+  ]
+ },
+ "Ch15": {
+  "file": "papers/Ch15.pdf",
+  "from": "HSCC01-TP.pdf",
+  "old": [
+   "HSCC01-TP.pdf"
+  ]
+ },
+ "C15": {
+  "file": "papers/C15.pdf",
+  "from": "cdc98-1.ps.gz",
+  "old": [
+   "cdc98-1.ps.gz"
+  ]
+ },
+ "C16": {
+  "file": "papers/C16.pdf",
+  "from": "cdc98-2.ps.gz",
+  "old": [
+   "cdc98-2.ps.gz"
+  ]
+ },
+ "Ch17": {
+  "file": "papers/Ch17.pdf",
+  "from": "EMSOFT01.pdf",
+  "old": [
+   "EMSOFT01.pdf"
+  ]
+ },
+ "C17": {
+  "file": "papers/C17.pdf",
+  "from": "ifac99.ps.gz",
+  "old": [
+   "ifac99.ps.gz"
+  ]
+ },
+ "Ch18": {
+  "file": "papers/Ch18.pdf",
+  "from": "HSCC02.pdf",
+  "old": [
+   "HSCC02.pdf"
+  ]
+ },
+ "Ch19": {
+  "file": "papers/Ch19.pdf",
+  "from": "HSCC03.pdf",
+  "old": [
+   "HSCC03.pdf"
+  ]
+ },
+ "C19": {
+  "file": "papers/C19.pdf",
+  "from": "NCN99.ps.gz",
+  "old": [
+   "NCN99.ps.gz"
+  ]
+ },
+ "Ch20": {
+  "file": "papers/Ch20.pdf",
+  "from": "SEC02.ps.gz",
+  "old": [
+   "SEC02.ps.gz"
+  ]
+ },
+ "C21": {
+  "file": "papers/C21.pdf",
+  "from": "CDC00-2.ps.gz",
+  "old": [
+   "CDC00-2.ps.gz"
+  ]
+ },
+ "Ch22": {
+  "file": "papers/Ch22.pdf",
+  "from": "HSCC05.pdf",
+  "old": [
+   "HSCC05.pdf"
+  ]
+ },
+ "C22": {
+  "file": "papers/C22.pdf",
+  "from": "CDC00.ps.gz",
+  "old": [
+   "CDC00.ps.gz"
+  ]
+ },
+ "C23": {
+  "file": "papers/C23.pdf",
+  "from": "ACC01.pdf",
+  "old": [
+   "ACC01.pdf"
+  ]
+ },
+ "Ch23": {
+  "file": "papers/Ch23.pdf",
+  "from": "HSCC06-2.pdf",
+  "old": [
+   "HSCC06-2.pdf"
+  ]
+ },
+ "Ch24": {
+  "file": "papers/Ch24.pdf",
+  "from": "HSCC06-1.pdf",
+  "old": [
+   "HSCC06-1.pdf"
+  ]
+ },
+ "C24": {
+  "file": "papers/C24.pdf",
+  "from": "ecc8827.pdf",
+  "old": [
+   "ecc8827.pdf"
+  ]
+ },
+ "C25": {
+  "file": "papers/C25.pdf",
+  "from": "ECC01_games.pdf",
+  "old": [
+   "ECC01_games.pdf",
+   "ecc8044.pdf"
+  ]
+ },
+ "Ch25": {
+  "file": "papers/Ch25.pdf",
+  "from": "ISER06.pdf",
+  "old": [
+   "ISER06.pdf"
+  ]
+ },
+ "Ch26": {
+  "file": "papers/Ch26.pdf",
+  "from": "RV06.pdf",
+  "old": [
+   "RV06.pdf"
+  ]
+ },
+ "C26": {
+  "file": "papers/C26.pdf",
+  "from": "ecc8197.pdf",
+  "old": [
+   "ecc8197.pdf"
+  ]
+ },
+ "C27": {
+  "file": "papers/C27.pdf",
+  "from": "CDC01-Sim.pdf",
+  "old": [
+   "CDC01-Sim.pdf"
+  ]
+ },
+ "Ch27": {
+  "file": "papers/Ch27.pdf",
+  "from": "FORMATS06.pdf",
+  "old": [
+   "FORMATS06.pdf"
+  ]
+ },
+ "C28": {
+  "file": "papers/C28.pdf",
+  "from": "CDC01-Modes.pdf",
+  "old": [
+   "CDC01-Modes.pdf",
+   "CDC01-modes.ps.gz"
+  ]
+ },
+ "Ch28": {
+  "file": "papers/Ch28.pdf",
+  "from": "FGP-HSCC07.pdf",
+  "old": [
+   "FGP-HSCC07.pdf"
+  ]
+ },
+ "C29": {
+  "file": "papers/C29.pdf",
+  "from": "CDC01-Bio.pdf",
+  "old": [
+   "CDC01-Bio.pdf"
+  ]
+ },
+ "Ch29": {
+  "file": "papers/Ch29.pdf",
+  "from": "JFALP-HSCC07.pdf",
+  "old": [
+   "JFALP-HSCC07.pdf"
+  ]
+ },
+ "C30": {
+  "file": "papers/C30.pdf",
+  "from": "CDC01-Compose.pdf",
+  "old": [
+   "CDC01-Compose.pdf",
+   "CDC01-REG1777.ps.gz"
+  ]
+ },
+ "C31": {
+  "file": "papers/C31.pdf",
+  "from": "CDC01-Ham.pdf",
+  "old": [
+   "CDC01-Ham.pdf",
+   "CDC01-REG1620.ps.gz"
+  ]
+ },
+ "Ch31": {
+  "file": "papers/Ch31.pdf",
+  "from": "FORMATS07.pdf",
+  "old": [
+   "FORMATS07.pdf"
+  ]
+ },
+ "C32": {
+  "file": "papers/C32.pdf",
+  "from": "CDC01-Stab.pdf",
+  "old": [
+   "CDC01-Stab.pdf",
+   "CDC01-REG1402.ps.gz"
+  ]
+ },
+ "Ch32": {
+  "file": "papers/Ch32.pdf",
+  "from": "ISER08.pdf",
+  "old": [
+   "ISER08.pdf",
+   "ISER2008.pdf"
+  ]
+ },
+ "Ch33": {
+  "file": "papers/Ch33.pdf",
+  "from": "hscc09.pdf",
+  "old": [
+   "HSCC2009.pdf",
+   "hscc09.pdf"
+  ]
+ },
+ "C33": {
+  "file": "papers/C33.pdf",
+  "from": "ICRA02.pdf",
+  "old": [
+   "ICRA02.pdf"
+  ]
+ },
+ "C34": {
+  "file": "papers/C34.pdf",
+  "from": "ACC02.pdf",
+  "old": [
+   "ACC02.pdf"
+  ]
+ },
+ "C36": {
+  "file": "papers/C36.pdf",
+  "from": "IFAC02s.pdf",
+  "old": [
+   "IFAC02s.pdf"
+  ]
+ },
+ "Ch37": {
+  "file": "papers/Ch37.pdf",
+  "from": "10.1007%2F978-3-319-10575-8_30.pdf",
+  "old": [
+   "10.1007%2F978-3-319-10575-8_30.pdf"
+  ]
+ },
+ "C37": {
+  "file": "papers/C37.pdf",
+  "from": "IFAC02f.pdf",
+  "old": [
+   "IFAC02f.pdf"
+  ]
+ },
+ "Ch38": {
+  "file": "papers/Ch38.pdf",
+  "from": "2020_Chapter_-9.pdf",
+  "old": [
+   "2020_Chapter_-9.pdf"
+  ]
+ },
+ "C38": {
+  "file": "papers/C38.pdf",
+  "from": "MTNS02_ISS.pdf",
+  "old": [
+   "MTNS02_ISS.pdf"
+  ]
+ },
+ "C39": {
+  "file": "papers/C39.pdf",
+  "from": "MTNS02_Hybrid.pdf",
+  "old": [
+   "MTNS02_Hybrid.pdf"
+  ]
+ },
+ "C40": {
+  "file": "papers/C40.pdf",
+  "from": "MTNS02_Quotients.ps",
+  "old": [
+   "MTNS02_Quotients.ps"
+  ]
+ },
+ "C41": {
+  "file": "papers/C41.pdf",
+  "from": "CDC02-Form.pdf",
+  "old": [
+   "CDC02-Form.pdf"
+  ]
+ },
+ "C42": {
+  "file": "papers/C42.pdf",
+  "from": "CDC02-REG0278.pdf",
+  "old": [
+   "CDC02-REG0278.pdf"
+  ]
+ },
+ "C43": {
+  "file": "papers/C43.pdf",
+  "from": "CDC02-REG0644.pdf",
+  "old": [
+   "CDC02-REG0644.pdf"
+  ]
+ },
+ "C44": {
+  "file": "papers/C44.pdf",
+  "from": "CDC02-INV1306.pdf",
+  "old": [
+   "CDC02-INV1306.pdf"
+  ]
+ },
+ "C45": {
+  "file": "papers/C45.pdf",
+  "from": "CTCS02.pdf",
+  "old": [
+   "CTCS02.pdf"
+  ]
+ },
+ "C47": {
+  "file": "papers/C47.pdf",
+  "from": "MED03.pdf",
+  "old": [
+   "MED03.pdf"
+  ]
+ },
+ "C48": {
+  "file": "papers/C48.pdf",
+  "from": "CDC03-Boids2.pdf",
+  "old": [
+   "CDC03-Boids2.pdf"
+  ]
+ },
+ "C49": {
+  "file": "papers/C49.pdf",
+  "from": "CDC03-Boids1.pdf",
+  "old": [
+   "CDC03-Boids1.pdf"
+  ]
+ },
+ "C50": {
+  "file": "papers/C50.pdf",
+  "from": "CDC03-Refine.pdf",
+  "old": [
+   "CDC03-Refine.pdf"
+  ]
+ },
+ "C51": {
+  "file": "papers/C51.pdf",
+  "from": "CDC03-Hybrid.pdf",
+  "old": [
+   "CDC03-Hybrid.pdf"
+  ]
+ },
+ "C52": {
+  "file": "papers/C52.pdf",
+  "from": "CDC03-Bisim.pdf",
+  "old": [
+   "CDC03-Bisim.pdf"
+  ]
+ },
+ "C53": {
+  "file": "papers/C53.pdf",
+  "from": "ACC04.pdf",
+  "old": [
+   "ACC04.pdf",
+   "YP04ACC.pdf"
+  ]
+ },
+ "C54": {
+  "file": "papers/C54.pdf",
+  "from": "ISER04.pdf",
+  "old": [
+   "ISER04.pdf"
+  ]
+ },
+ "C57": {
+  "file": "papers/C57.pdf",
+  "from": "IROS04.pdf",
+  "old": [
+   "IROS04.pdf"
+  ]
+ },
+ "C58": {
+  "file": "papers/C58.pdf",
+  "from": "CDC04-UAV.pdf",
+  "old": [
+   "CDC04-UAV.pdf"
+  ]
+ },
+ "C59": {
+  "file": "papers/C59.pdf",
+  "from": "CDC04-SOS.pdf",
+  "old": [
+   "CDC04-SOS.pdf"
+  ]
+ },
+ "C60": {
+  "file": "papers/C60.pdf",
+  "from": "CDC04-Barrier.pdf",
+  "old": [
+   "CDC04-Barrier.pdf"
+  ]
+ },
+ "C61": {
+  "file": "papers/C61.pdf",
+  "from": "ICRA05-UAV.pdf",
+  "old": [
+   "ICRA05-UAV.pdf"
+  ]
+ },
+ "C62": {
+  "file": "papers/C62.pdf",
+  "from": "ICRA05-LTL.pdf",
+  "old": [
+   "ICRA05-LTL.pdf"
+  ]
+ },
+ "C63": {
+  "file": "papers/C63.pdf",
+  "from": "CDC05-Localize.pdf",
+  "old": [
+   "CDC05-Localize.pdf"
+  ]
+ },
+ "C64": {
+  "file": "papers/C64.pdf",
+  "from": "CDC05-LTL.pdf",
+  "old": [
+   "CDC05-LTL.pdf"
+  ]
+ },
+ "C65": {
+  "file": "papers/C65.pdf",
+  "from": "CDC05-BMC.pdf",
+  "old": [
+   "CDC05-BMC.pdf"
+  ]
+ },
+ "C66": {
+  "file": "papers/C66.pdf",
+  "from": "CDC05-Approximate.pdf",
+  "old": [
+   "CDC05-Approximate.pdf"
+  ]
+ },
+ "C67": {
+  "file": "papers/C67.pdf",
+  "from": "CDC05-Nonlinear.pdf",
+  "old": [
+   "CDC05-Nonlinear.pdf"
+  ]
+ },
+ "C68": {
+  "file": "papers/C68.pdf",
+  "from": "CDC05-Connected.pdf",
+  "old": [
+   "CDC05-Connected.pdf"
+  ]
+ },
+ "C69": {
+  "file": "papers/C69.pdf",
+  "from": "RTSS05.pdf",
+  "old": [
+   "RTSS05.pdf"
+  ]
+ },
+ "C70": {
+  "file": "papers/C70.pdf",
+  "from": "ACC06.pdf",
+  "old": [
+   "ACC06.pdf"
+  ]
+ },
+ "C71": {
+  "file": "papers/C71.pdf",
+  "from": "ADHS06.pdf",
+  "old": [
+   "ADHS06.pdf"
+  ]
+ },
+ "C73": {
+  "file": "papers/C73.pdf",
+  "from": "EMSOFT06.pdf",
+  "old": [
+   "EMSOFT06.pdf"
+  ]
+ },
+ "C74": {
+  "file": "papers/C74.pdf",
+  "from": "CDC06-ISS.pdf",
+  "old": [
+   "CDC06-ISS.pdf"
+  ]
+ },
+ "C75": {
+  "file": "papers/C75.pdf",
+  "from": "CDC06-UAV.pdf",
+  "old": [
+   "CDC06-UAV.pdf"
+  ]
+ },
+ "C76": {
+  "file": "papers/C76.pdf",
+  "from": "CDC06-Sim.pdf",
+  "old": [
+   "CDC06-Sim.pdf"
+  ]
+ },
+ "C77": {
+  "file": "papers/C77.pdf",
+  "from": "CDC06-Bio.pdf",
+  "old": [
+   "CDC06-Bio.pdf"
+  ]
+ },
+ "C78": {
+  "file": "papers/C78.pdf",
+  "from": "CDC06-LTL.pdf",
+  "old": [
+   "CDC06-LTL.pdf"
+  ]
+ },
+ "C79": {
+  "file": "papers/C79.pdf",
+  "from": "CDC06-Assign.pdf",
+  "old": [
+   "CDC06-Assign.pdf"
+  ]
+ },
+ "C80": {
+  "file": "papers/C80.pdf",
+  "from": "CDC06-Metrics.pdf",
+  "old": [
+   "CDC06-Metrics.pdf"
+  ]
+ },
+ "C81": {
+  "file": "papers/C81.pdf",
+  "from": "MMPPD-ICRA07.pdf",
+  "old": [
+   "MMPPD-ICRA07.pdf"
+  ]
+ },
+ "C82": {
+  "file": "papers/C82.pdf",
+  "from": "CPK-ICRA07.pdf",
+  "old": [
+   "CPK-ICRA07.pdf"
+  ]
+ },
+ "C83": {
+  "file": "papers/C83.pdf",
+  "from": "KFP-ICRA07.pdf",
+  "old": [
+   "KFP-ICRA07.pdf"
+  ]
+ },
+ "C84": {
+  "file": "papers/C84.pdf",
+  "from": "ZP-ICRA07.pdf",
+  "old": [
+   "ZP-ICRA07.pdf"
+  ]
+ },
+ "C85": {
+  "file": "papers/C85.pdf",
+  "from": "ECC07.pdf",
+  "old": [
+   "ECC07.pdf"
+  ]
+ },
+ "C86": {
+  "file": "papers/C86.pdf",
+  "from": "ACC07-ZP.pdf",
+  "old": [
+   "ACC07-ZP.pdf"
+  ]
+ },
+ "C87": {
+  "file": "papers/C87.pdf",
+  "from": "ACC07-BIO.pdf",
+  "old": [
+   "ACC07-BIO.pdf"
+  ]
+ },
+ "C88": {
+  "file": "papers/C88.pdf",
+  "from": "IROS07-English.pdf",
+  "old": [
+   "IROS07-English.pdf"
+  ]
+ },
+ "C89": {
+  "file": "papers/C89.pdf",
+  "from": "IROS07-Valet.pdf",
+  "old": [
+   "IROS07-Valet.pdf"
+  ]
+ },
+ "C90": {
+  "file": "papers/C90.pdf",
+  "from": "CDC07-Timed.pdf",
+  "old": [
+   "CDC07-Timed.pdf"
+  ]
+ },
+ "C91": {
+  "file": "papers/C91.pdf",
+  "from": "CDC07-Sim.pdf",
+  "old": [
+   "CDC07-Sim.pdf"
+  ]
+ },
+ "C92": {
+  "file": "papers/C92.pdf",
+  "from": "CDC07-PathPlanning.pdf",
+  "old": [
+   "CDC07-PathPlanning.pdf"
+  ]
+ },
+ "C93": {
+  "file": "papers/C93.pdf",
+  "from": "CDC07-Hierarchy.pdf",
+  "old": [
+   "CDC07-Hierarchy.pdf"
+  ]
+ },
+ "C94": {
+  "file": "papers/C94.pdf",
+  "from": "CDC07-Bio.pdf",
+  "old": [
+   "CDC07-Bio.pdf"
+  ]
+ },
+ "C95": {
+  "file": "papers/C95.pdf",
+  "from": "CDC07-Flocking.pdf",
+  "old": [
+   "CDC07-Flocking.pdf",
+   "ZJP_CDC07_flocking.pdf"
+  ]
+ },
+ "C96": {
+  "file": "papers/C96.pdf",
+  "from": "CDC07-Formation.pdf",
+  "old": [
+   "CDC07-Formation.pdf",
+   "ZP_CDC07_formations.pdf"
+  ]
+ },
+ "C97": {
+  "file": "papers/C97.pdf",
+  "from": "CDC07-Connectivity.pdf",
+  "old": [
+   "CDC07-Connectivity.pdf",
+   "ZP_CDC07_connectivity.pdf"
+  ]
+ },
+ "C100": {
+  "file": "papers/C100.pdf",
+  "from": "AJPK-ACC08.pdf",
+  "old": [
+   "AJPK-ACC08.pdf"
+  ]
+ },
+ "C101": {
+  "file": "papers/C101.pdf",
+  "from": "ZTJP-ACC08.pdf",
+  "old": [
+   "ZTJP-ACC08.pdf"
+  ]
+ },
+ "C102": {
+  "file": "papers/C102.pdf",
+  "from": "ZJBP-ACC08.pdf",
+  "old": [
+   "ZJBP-ACC08.pdf"
+  ]
+ },
+ "C103": {
+  "file": "papers/C103.pdf",
+  "from": "CASE08-Recycle.pdf",
+  "old": [
+   "CASE08-Recycle.pdf"
+  ]
+ },
+ "C104": {
+  "file": "papers/C104.pdf",
+  "from": "CASE08-UrbanChallenge.pdf",
+  "old": [
+   "CASE08-UrbanChallenge.pdf"
+  ]
+ },
+ "C105": {
+  "file": "papers/C105.pdf",
+  "from": "CDC08-Assignment.pdf",
+  "old": [
+   "CDC08-Assignment.pdf",
+   "ZSP08-CDC.pdf"
+  ]
+ },
+ "C106": {
+  "file": "papers/C106.pdf",
+  "from": "CDC08-Testing.pdf",
+  "old": [
+   "CDC08-Testing.pdf",
+   "JP08-CDC-Testing.pdf"
+  ]
+ },
+ "C107": {
+  "file": "papers/C107.pdf",
+  "from": "CDC08-Metabolic.pdf",
+  "old": [
+   "CDC08-Metabolic.pdf",
+   "JIP08-CDC.pdf"
+  ]
+ },
+ "C108": {
+  "file": "papers/C108.pdf",
+  "from": "RTAS09.pdf",
+  "old": [
+   "RTAS09.pdf"
+  ]
+ },
+ "C109": {
+  "file": "papers/C109.pdf",
+  "from": "ICRA09-Multivehicle.pdf",
+  "old": [
+   "ICRA09-Multivehicle.pdf"
+  ]
+ },
+ "C110": {
+  "file": "papers/C110.pdf",
+  "from": "ICRA09-Bio.pdf",
+  "old": [
+   "ICRA09-Bio.pdf"
+  ]
+ },
+ "C111": {
+  "file": "papers/C111.pdf",
+  "from": "ACC2009-Markov.pdf",
+  "old": [
+   "ACC2009-Markov.pdf"
+  ]
+ },
+ "C112": {
+  "file": "papers/C112.pdf",
+  "from": "ACC2009-LPV.pdf",
+  "old": [
+   "ACC2009-LPV.pdf"
+  ]
+ },
+ "C113": {
+  "file": "papers/C113.pdf",
+  "from": "CASE2009.pdf",
+  "old": [
+   "CASE2009.pdf"
+  ]
+ },
+ "C115": {
+  "file": "papers/C115.pdf",
+  "from": "IEEE-CDC09-LZP.pdf",
+  "old": [
+   "IEEE-CDC09-LZP.pdf"
+  ]
+ },
+ "C116": {
+  "file": "papers/C116.pdf",
+  "from": "IEEE-CDC09-LP.pdf",
+  "old": [
+   "IEEE-CDC09-LP.pdf"
+  ]
+ },
+ "C117": {
+  "file": "papers/C117.pdf",
+  "from": "IEEE-CDC09-Multihop.pdf",
+  "old": [
+   "IEEE-CDC09-Multihop.pdf"
+  ]
+ },
+ "C118": {
+  "file": "papers/C118.pdf",
+  "from": "HSCC2010.pdf",
+  "old": [
+   "HSCC2010.pdf"
+  ]
+ },
+ "C119": {
+  "file": "papers/C119.pdf",
+  "from": "ICCPS2010.pdf",
+  "old": [
+   "ICCPS2010.pdf"
+  ]
+ },
+ "C120": {
+  "file": "papers/C120.pdf",
+  "from": "Dual-ICRA2010.pdf",
+  "old": [
+   "Dual-ICRA2010.pdf"
+  ]
+ },
+ "C121": {
+  "file": "papers/C121.pdf",
+  "from": "LTL-ICRA2010.pdf",
+  "old": [
+   "LTL-ICRA2010.pdf"
+  ]
+ },
+ "C122": {
+  "file": "papers/C122.pdf",
+  "from": "Bio-ICRA2010.pdf",
+  "old": [
+   "Bio-ICRA2010.pdf"
+  ]
+ },
+ "C123": {
+  "file": "papers/C123.pdf",
+  "from": "Duality-ACC2010.pdf",
+  "old": [
+   "Duality-ACC2010.pdf"
+  ]
+ },
+ "C124": {
+  "file": "papers/C124.pdf",
+  "from": "Laplacian-ACC2010.pdf",
+  "old": [
+   "Laplacian-ACC2010.pdf"
+  ]
+ },
+ "C125": {
+  "file": "papers/C125.pdf",
+  "from": "ACC2010-Bisim.pdf",
+  "old": [
+   "ACC2010-Bisim.pdf"
+  ]
+ },
+ "C126": {
+  "file": "papers/C126.pdf",
+  "from": "ATC-ACC2010.pdf",
+  "old": [
+   "ATC-ACC2010.pdf"
+  ]
+ },
+ "C128": {
+  "file": "papers/C128.pdf",
+  "from": "SA-CDC2010.pdf",
+  "old": [
+   "SA-CDC2010.pdf",
+   "SA_multirobots.pdf"
+  ]
+ },
+ "C129": {
+  "file": "papers/C129.pdf",
+  "from": "Seeking-CDC2010.pdf",
+  "old": [
+   "CDC10.pdf",
+   "Seeking-CDC2010.pdf"
+  ]
+ },
+ "C130": {
+  "file": "papers/C130.pdf",
+  "from": "WCN-CDC2010.pdf",
+  "old": [
+   "WCN-CDC2010.pdf",
+   "distrCtrl_conv-6page.pdf"
+  ]
+ },
+ "C131": {
+  "file": "papers/C131.pdf",
+  "from": "Security-CDC2010.pdf",
+  "old": [
+   "Security-CDC2010.pdf",
+   "byz_det_netcon.pdf"
+  ]
+ },
+ "C132": {
+  "file": "papers/C132.pdf",
+  "from": "Routing-CDC2010.pdf",
+  "old": [
+   "Routing-CDC2010.pdf"
+  ]
+ },
+ "C135": {
+  "file": "papers/C135.pdf",
+  "from": "LQR-HSCC2011.pdf",
+  "old": [
+   "LQR-HSCC2011.pdf",
+   "LQRscheduling.pdf"
+  ]
+ },
+ "C136": {
+  "file": "papers/C136.pdf",
+  "from": "Network_Controller_Revised.pdf",
+  "old": [
+   "Network_Controller_Revised.pdf",
+   "Reputation-HSCC2011.pdf"
+  ]
+ },
+ "C137": {
+  "file": "papers/C137.pdf",
+  "from": "ICRA2011.pdf",
+  "old": [
+   "ICRA2011.pdf"
+  ]
+ },
+ "C138": {
+  "file": "papers/C138.pdf",
+  "from": "SPAWC2011.pdf",
+  "old": [
+   "SPAWC2011.pdf",
+   "ZRP[SPAWC11].pdf"
+  ]
+ },
+ "C139": {
+  "file": "papers/C139.pdf",
+  "from": "GreenComputing2011.pdf",
+  "old": [
+   "GreenComputing2011.pdf"
+  ]
+ },
+ "C140": {
+  "file": "papers/C140.pdf",
+  "from": "Green-ACC2011.pdf",
+  "old": [
+   "Green-ACC2011.pdf",
+   "GreenBuildins-ACC2011.pdf",
+   "NSF-CPS-PhysioCtrlSys_Mangharam_Jan2012.pdf"
+  ]
+ },
+ "C141": {
+  "file": "papers/C141.pdf",
+  "from": "ZRP[ASILOMAR11].pdf",
+  "old": [
+   "ZRP[ASILOMAR11].pdf"
+  ]
+ },
+ "C142": {
+  "file": "papers/C142.pdf",
+  "from": "06190122.pdf",
+  "old": [
+   "06190122.pdf"
+  ]
+ },
+ "C143": {
+  "file": "papers/C143.pdf",
+  "from": "06121447.pdf",
+  "old": [
+   "06121447.pdf"
+  ]
+ },
+ "C144": {
+  "file": "papers/C144.pdf",
+  "from": "06161347.pdf",
+  "old": [
+   "06161347.pdf",
+   "WCN-CDC2011.pdf"
+  ]
+ },
+ "C145": {
+  "file": "papers/C145.pdf",
+  "from": "06161164.pdf",
+  "old": [
+   "06161164.pdf",
+   "Green-CDC2011.pdf"
+  ]
+ },
+ "C146": {
+  "file": "papers/C146.pdf",
+  "from": "06160837.pdf",
+  "old": [
+   "06160837.pdf",
+   "Deployment-CDC2011.pdf"
+  ]
+ },
+ "C147": {
+  "file": "papers/C147.pdf",
+  "from": "p15-sloth.pdf",
+  "old": [
+   "p15-sloth.pdf"
+  ]
+ },
+ "C148": {
+  "file": "papers/C148.pdf",
+  "from": "p11-chang.pdf",
+  "old": [
+   "p11-chang.pdf"
+  ]
+ },
+ "C149": {
+  "file": "papers/C149.pdf",
+  "from": "p25-pajic.pdf",
+  "old": [
+   "p25-pajic.pdf"
+  ]
+ },
+ "C150": {
+  "file": "papers/C150.pdf",
+  "from": "06224797.pdf",
+  "old": [
+   "06224797.pdf"
+  ]
+ },
+ "C151": {
+  "file": "papers/C151.pdf",
+  "from": "06225289.pdf",
+  "old": [
+   "06225289.pdf"
+  ]
+ },
+ "C152": {
+  "file": "papers/C152.pdf",
+  "from": "06315252.pdf",
+  "old": [
+   "06315252.pdf"
+  ]
+ },
+ "C153": {
+  "file": "papers/C153.pdf",
+  "from": "06314804.pdf",
+  "old": [
+   "06314804.pdf"
+  ]
+ },
+ "C154": {
+  "file": "papers/C154.pdf",
+  "from": "06483414.pdf",
+  "old": [
+   "06483414.pdf",
+   "1207.4592v1.pdf"
+  ]
+ },
+ "C155": {
+  "file": "papers/C155.pdf",
+  "from": "1796.pdf",
+  "old": [
+   "1796.pdf"
+  ]
+ },
+ "C156": {
+  "file": "papers/C156.pdf",
+  "from": "06426318.pdf",
+  "old": [
+   "06426318.pdf",
+   "1534.pdf"
+  ]
+ },
+ "C157": {
+  "file": "papers/C157.pdf",
+  "from": "06426355.pdf",
+  "old": [
+   "06426355.pdf",
+   "1468.pdf"
+  ]
+ },
+ "C159": {
+  "file": "papers/C159.pdf",
+  "from": "p33-enyioha.pdf",
+  "old": [
+   "p33-enyioha.pdf"
+  ]
+ },
+ "C160": {
+  "file": "papers/C160.pdf",
+  "from": "p49-leny.pdf",
+  "old": [
+   "p49-leny.pdf"
+  ]
+ },
+ "C161": {
+  "file": "papers/C161.pdf",
+  "from": "p75-pajic.pdf",
+  "old": [
+   "p75-pajic.pdf"
+  ]
+ },
+ "C162": {
+  "file": "papers/C162.pdf",
+  "from": "06631173.pdf",
+  "old": [
+   "06631173.pdf"
+  ]
+ },
+ "C163": {
+  "file": "papers/C163.pdf",
+  "from": "1719.pdf",
+  "old": [
+   "1719.pdf"
+  ]
+ },
+ "C164": {
+  "file": "papers/C164.pdf",
+  "from": "1436.pdf",
+  "old": [
+   "1436.pdf"
+  ]
+ },
+ "C165": {
+  "file": "papers/C165.pdf",
+  "from": "1489.pdf",
+  "old": [
+   "1489.pdf"
+  ]
+ },
+ "C166": {
+  "file": "papers/C166.pdf",
+  "from": "1749.pdf",
+  "old": [
+   "1749.pdf"
+  ]
+ },
+ "C167": {
+  "file": "papers/C167.pdf",
+  "from": "1946.pdf",
+  "old": [
+   "1946.pdf"
+  ]
+ },
+ "C168": {
+  "file": "papers/C168.pdf",
+  "from": "1948.pdf",
+  "old": [
+   "1948.pdf"
+  ]
+ },
+ "C169": {
+  "file": "papers/C169.pdf",
+  "from": "2035.pdf",
+  "old": [
+   "2035.pdf"
+  ]
+ },
+ "C170": {
+  "file": "papers/C170.pdf",
+  "from": "06843720.pdf",
+  "old": [
+   "06843720.pdf"
+  ]
+ },
+ "C171": {
+  "file": "papers/C171.pdf",
+  "from": "06843710.pdf",
+  "old": [
+   "06843710.pdf"
+  ]
+ },
+ "C172": {
+  "file": "papers/C172.pdf",
+  "from": "06843714.pdf",
+  "old": [
+   "06843714.pdf"
+  ]
+ },
+ "C173": {
+  "file": "papers/C173.pdf",
+  "from": "0528.pdf",
+  "old": [
+   "0528.pdf"
+  ]
+ },
+ "C174": {
+  "file": "papers/C174.pdf",
+  "from": "p43.pdf",
+  "old": [
+   "p43.pdf"
+  ]
+ },
+ "C175": {
+  "file": "papers/C175.pdf",
+  "from": "chp%3A10.1007%2F978-3-319-10584-0_19.pdf",
+  "old": [
+   "chp%3A10.1007%2F978-3-319-10584-0_19 (1).pdf",
+   "chp%3A10.1007%2F978-3-319-10584-0_19.pdf",
+   "chp3A10.1007%2F978-3-319-10584-0_19 (1).pdf",
+   "chp3A10.1007-2F978-3-319-10584-0_19 (1).pdf"
+  ]
+ },
+ "C176": {
+  "file": "papers/C176.pdf",
+  "from": "1521.pdf",
+  "old": [
+   "1521.pdf"
+  ]
+ },
+ "C177": {
+  "file": "papers/C177.pdf",
+  "from": "1559.pdf",
+  "old": [
+   "1559.pdf"
+  ]
+ },
+ "C179": {
+  "file": "papers/C179.pdf",
+  "from": "1988.pdf",
+  "old": [
+   "1988.pdf"
+  ]
+ },
+ "C180": {
+  "file": "papers/C180.pdf",
+  "from": "1849.pdf",
+  "old": [
+   "1849.pdf"
+  ]
+ },
+ "C181": {
+  "file": "papers/C181.pdf",
+  "from": "1748.pdf",
+  "old": [
+   "1748.pdf"
+  ]
+ },
+ "C182": {
+  "file": "papers/C182.pdf",
+  "from": "1694.pdf",
+  "old": [
+   "1694.pdf"
+  ]
+ },
+ "C183": {
+  "file": "papers/C183.pdf",
+  "from": "1603.pdf",
+  "old": [
+   "1603.pdf"
+  ]
+ },
+ "C184": {
+  "file": "papers/C184.pdf",
+  "from": "1044.pdf",
+  "old": [
+   "1044.pdf"
+  ]
+ },
+ "C185": {
+  "file": "papers/C185.pdf",
+  "from": "1471.pdf",
+  "old": [
+   "1471.pdf"
+  ]
+ },
+ "C187": {
+  "file": "papers/C187.pdf",
+  "from": "p100-miao.pdf",
+  "old": [
+   "full_taxi_dispatch-iccps.pdf",
+   "p100-miao.pdf"
+  ]
+ },
+ "C188": {
+  "file": "papers/C188.pdf",
+  "from": "07139863.pdf",
+  "old": [
+   "07139863.pdf"
+  ]
+ },
+ "C190": {
+  "file": "papers/C190.pdf",
+  "from": "1348.pdf",
+  "old": [
+   "1348.pdf"
+  ]
+ },
+ "C191": {
+  "file": "papers/C191.pdf",
+  "from": "1224.pdf",
+  "old": [
+   "1224.pdf"
+  ]
+ },
+ "C192": {
+  "file": "papers/C192.pdf",
+  "from": "1204.pdf",
+  "old": [
+   "1204.pdf"
+  ]
+ },
+ "C193": {
+  "file": "papers/C193.pdf",
+  "from": "1186.pdf",
+  "old": [
+   "1186.pdf"
+  ]
+ },
+ "C194": {
+  "file": "papers/C194.pdf",
+  "from": "1165.pdf",
+  "old": [
+   "1165.pdf"
+  ]
+ },
+ "C195": {
+  "file": "papers/C195.pdf",
+  "from": "1039.pdf",
+  "old": [
+   "1039.pdf"
+  ]
+ },
+ "C196": {
+  "file": "papers/C196.pdf",
+  "from": "1-s2.0-S2405896315022120-main.pdf",
+  "old": [
+   "1-s2.0-S2405896315022120-main.pdf"
+  ]
+ },
+ "C197": {
+  "file": "papers/C197.pdf",
+  "from": "1-s2.0-S2405896315022235-main.pdf",
+  "old": [
+   "1-s2.0-S2405896315022235-main.pdf"
+  ]
+ },
+ "C198": {
+  "file": "papers/C198.pdf",
+  "from": "p217-pajic.pdf",
+  "old": [
+   "p217-pajic.pdf"
+  ]
+ },
+ "C200": {
+  "file": "papers/C200.pdf",
+  "from": "cp11.pdf",
+  "old": [
+   "cp11.pdf"
+  ]
+ },
+ "C201": {
+  "file": "papers/C201.pdf",
+  "from": "2000.pdf",
+  "old": [
+   "2000.pdf"
+  ]
+ },
+ "C202": {
+  "file": "papers/C202.pdf",
+  "from": "1921.pdf",
+  "old": [
+   "1921.pdf"
+  ]
+ },
+ "C203": {
+  "file": "papers/C203.pdf",
+  "from": "1828.pdf",
+  "old": [
+   "1828.pdf"
+  ]
+ },
+ "C204": {
+  "file": "papers/C204.pdf",
+  "from": "1727.pdf",
+  "old": [
+   "1727.pdf"
+  ]
+ },
+ "C205": {
+  "file": "papers/C205.pdf",
+  "from": "1712.pdf",
+  "old": [
+   "1712.pdf"
+  ]
+ },
+ "C206": {
+  "file": "papers/C206.pdf",
+  "from": "1612.pdf",
+  "old": [
+   "1612.pdf"
+  ]
+ },
+ "C207": {
+  "file": "papers/C207.pdf",
+  "from": "1529.pdf",
+  "old": [
+   "1529.pdf"
+  ]
+ },
+ "C208": {
+  "file": "papers/C208.pdf",
+  "from": "1274.pdf",
+  "old": [
+   "1274.pdf"
+  ]
+ },
+ "C209": {
+  "file": "papers/C209.pdf",
+  "from": "0651.pdf",
+  "old": [
+   "0651.pdf"
+  ]
+ },
+ "C210": {
+  "file": "papers/C210.pdf",
+  "from": "0829.pdf",
+  "old": [
+   "0829.pdf"
+  ]
+ },
+ "C211": {
+  "file": "papers/C211.pdf",
+  "from": "1294.pdf",
+  "old": [
+   "1294.pdf"
+  ]
+ },
+ "C212": {
+  "file": "papers/C212.pdf",
+  "from": "07479105.pdf",
+  "old": [
+   "07479105.pdf"
+  ]
+ },
+ "C213": {
+  "file": "papers/C213.pdf",
+  "from": "07479102.pdf",
+  "old": [
+   "07479102.pdf"
+  ]
+ },
+ "C214": {
+  "file": "papers/C214.pdf",
+  "from": "07479071.pdf",
+  "old": [
+   "07479071.pdf"
+  ]
+ },
+ "C215": {
+  "file": "papers/C215.pdf",
+  "from": "07487554.pdf",
+  "old": [
+   "07487554.pdf"
+  ]
+ },
+ "C216": {
+  "file": "papers/C216.pdf",
+  "from": "0593.pdf",
+  "old": [
+   "0593.pdf"
+  ]
+ },
+ "C217": {
+  "file": "papers/C217.pdf",
+  "from": "0618.pdf",
+  "old": [
+   "0618.pdf"
+  ]
+ },
+ "C218": {
+  "file": "papers/C218.pdf",
+  "from": "0979.pdf",
+  "old": [
+   "0979.pdf"
+  ]
+ },
+ "C219": {
+  "file": "papers/C219.pdf",
+  "from": "1132.pdf",
+  "old": [
+   "1132.pdf"
+  ]
+ },
+ "C220": {
+  "file": "papers/C220.pdf",
+  "from": "1405.pdf",
+  "old": [
+   "1405.pdf"
+  ]
+ },
+ "C222": {
+  "file": "papers/C222.pdf",
+  "from": "online_planning_IROS_v6.pdf",
+  "old": [
+   "online_planning_IROS_v6.pdf"
+  ]
+ },
+ "C225": {
+  "file": "papers/C225.pdf",
+  "from": "2079.pdf",
+  "old": [
+   "2079.pdf"
+  ]
+ },
+ "C226": {
+  "file": "papers/C226.pdf",
+  "from": "1802.pdf",
+  "old": [
+   "1802.pdf"
+  ]
+ },
+ "C227": {
+  "file": "papers/C227.pdf",
+  "from": "1676.pdf",
+  "old": [
+   "1676.pdf"
+  ]
+ },
+ "C228": {
+  "file": "papers/C228.pdf",
+  "from": "1441.pdf",
+  "old": [
+   "1441.pdf"
+  ]
+ },
+ "C229": {
+  "file": "papers/C229.pdf",
+  "from": "1434.pdf",
+  "old": [
+   "1434.pdf"
+  ]
+ },
+ "C230": {
+  "file": "papers/C230.pdf",
+  "from": "1393.pdf",
+  "old": [
+   "1393.pdf"
+  ]
+ },
+ "C231": {
+  "file": "papers/C231.pdf",
+  "from": "0718.pdf",
+  "old": [
+   "0718.pdf"
+  ]
+ },
+ "C232": {
+  "file": "papers/C232.pdf",
+  "from": "0487.pdf",
+  "old": [
+   "0487.pdf"
+  ]
+ },
+ "C233": {
+  "file": "papers/C233.pdf",
+  "from": "0465.pdf",
+  "old": [
+   "0465.pdf"
+  ]
+ },
+ "C234": {
+  "file": "papers/C234.pdf",
+  "from": "2393.pdf",
+  "old": [
+   "2393.pdf"
+  ]
+ },
+ "C236": {
+  "file": "papers/C236.pdf",
+  "from": "p261-miao.pdf",
+  "old": [
+   "p261-miao.pdf"
+  ]
+ },
+ "C237": {
+  "file": "papers/C237.pdf",
+  "from": "hscc062-shoukryA2.pdf",
+  "old": [
+   "hscc062-shoukryA2.pdf",
+   "smconvex.pdf"
+  ]
+ },
+ "C238": {
+  "file": "papers/C238.pdf",
+  "from": "DiFranco_UWBNetworkLocalization_IPSN17.pdf",
+  "old": [
+   "DiFranco_UWBNetworkLocalization_IPSN17.pdf"
+  ]
+ },
+ "C239": {
+  "file": "papers/C239.pdf",
+  "from": "07963373.pdf",
+  "old": [
+   "07963373.pdf"
+  ]
+ },
+ "C240": {
+  "file": "papers/C240.pdf",
+  "from": "07963808.pdf",
+  "old": [
+   "07963808.pdf"
+  ]
+ },
+ "C241": {
+  "file": "papers/C241.pdf",
+  "from": "07963828.pdf",
+  "old": [
+   "07963828.pdf"
+  ]
+ },
+ "C242": {
+  "file": "papers/C242.pdf",
+  "from": "07963015.pdf",
+  "old": [
+   "07963015.pdf"
+  ]
+ },
+ "C243": {
+  "file": "papers/C243.pdf",
+  "from": "07963498.pdf",
+  "old": [
+   "07963498.pdf"
+  ]
+ },
+ "C244": {
+  "file": "papers/C244.pdf",
+  "from": "4732-2088.pdf",
+  "old": [
+   "4732-2088.pdf"
+  ]
+ },
+ "C245": {
+  "file": "papers/C245.pdf",
+  "from": "2683.pdf",
+  "old": [
+   "2683.pdf"
+  ]
+ },
+ "C246": {
+  "file": "papers/C246.pdf",
+  "from": "Paper234.pdf",
+  "old": [
+   "Paper234.pdf"
+  ]
+ },
+ "C247": {
+  "file": "papers/C247.pdf",
+  "from": "Paper235.pdf",
+  "old": [
+   "Paper235.pdf"
+  ]
+ },
+ "C248": {
+  "file": "papers/C248.pdf",
+  "from": "Paper236.pdf",
+  "old": [
+   "Paper236.pdf"
+  ]
+ },
+ "C249": {
+  "file": "papers/C249.pdf",
+  "from": "Paper237.pdf",
+  "old": [
+   "Paper237.pdf"
+  ]
+ },
+ "C250": {
+  "file": "papers/C250.pdf",
+  "from": "Paper238.pdf",
+  "old": [
+   "Paper238.pdf"
+  ]
+ },
+ "C251": {
+  "file": "papers/C251.pdf",
+  "from": "Paper239.pdf",
+  "old": [
+   "Paper239.pdf"
+  ]
+ },
+ "C252": {
+  "file": "papers/C252.pdf",
+  "from": "Paper240.pdf",
+  "old": [
+   "Paper240.pdf"
+  ]
+ },
+ "C253": {
+  "file": "papers/C253.pdf",
+  "from": "Paper241.pdf",
+  "old": [
+   "Paper241.pdf"
+  ]
+ },
+ "C254": {
+  "file": "papers/C254.pdf",
+  "from": "Paper242.pdf",
+  "old": [
+   "Paper242.pdf"
+  ]
+ },
+ "C255": {
+  "file": "papers/C255.pdf",
+  "from": "Paper243.pdf",
+  "old": [
+   "Paper243.pdf"
+  ]
+ },
+ "C256": {
+  "file": "papers/C256.pdf",
+  "from": "Paper244.pdf",
+  "old": [
+   "Paper244.pdf"
+  ]
+ },
+ "C257": {
+  "file": "papers/C257.pdf",
+  "from": "Paper245.pdf",
+  "old": [
+   "Paper245.pdf"
+  ]
+ },
+ "C258": {
+  "file": "papers/C258.pdf",
+  "from": "Paper246.pdf",
+  "old": [
+   "Paper246.pdf"
+  ]
+ },
+ "C259": {
+  "file": "papers/C259.pdf",
+  "from": "Paper247.pdf",
+  "old": [
+   "Paper247.pdf"
+  ]
+ },
+ "C260": {
+  "file": "papers/C260.pdf",
+  "from": "Paper248.pdf",
+  "old": [
+   "Paper248.pdf"
+  ]
+ },
+ "C261": {
+  "file": "papers/C261.pdf",
+  "from": "Paper249.pdf",
+  "old": [
+   "Paper249.pdf"
+  ]
+ },
+ "C262": {
+  "file": "papers/C262.pdf",
+  "from": "Paper250.pdf",
+  "old": [
+   "Paper250.pdf"
+  ]
+ },
+ "C263": {
+  "file": "papers/C263.pdf",
+  "from": "Paper251.pdf",
+  "old": [
+   "Paper251.pdf"
+  ]
+ },
+ "C264": {
+  "file": "papers/C264.pdf",
+  "from": "Paper252.pdf",
+  "old": [
+   "Paper252.pdf"
+  ]
+ },
+ "C265": {
+  "file": "papers/C265.pdf",
+  "from": "Paper253.pdf",
+  "old": [
+   "Paper253.pdf"
+  ]
+ },
+ "C266": {
+  "file": "papers/C266.pdf",
+  "from": "Paper254.pdf",
+  "old": [
+   "Paper254.pdf"
+  ]
+ },
+ "C267": {
+  "file": "papers/C267.pdf",
+  "from": "Paper255.pdf",
+  "old": [
+   "Paper255.pdf"
+  ]
+ },
+ "C268": {
+  "file": "papers/C268.pdf",
+  "from": "Paper256.pdf",
+  "old": [
+   "Paper256.pdf"
+  ]
+ },
+ "C269": {
+  "file": "papers/C269.pdf",
+  "from": "Paper257.pdf",
+  "old": [
+   "Paper257.pdf"
+  ]
+ },
+ "C270": {
+  "file": "papers/C270.pdf",
+  "from": "Paper258.pdf",
+  "old": [
+   "Paper258.pdf"
+  ]
+ },
+ "C271": {
+  "file": "papers/C271.pdf",
+  "from": "Paper259.pdf",
+  "old": [
+   "Paper259.pdf"
+  ]
+ },
+ "C272": {
+  "file": "papers/C272.pdf",
+  "from": "Paper260.pdf",
+  "old": [
+   "Paper260.pdf"
+  ]
+ },
+ "C273": {
+  "file": "papers/C273.pdf",
+  "from": "Paper261.pdf",
+  "old": [
+   "Paper261.pdf"
+  ]
+ },
+ "C274": {
+  "file": "papers/C274.pdf",
+  "from": "Paper262.pdf",
+  "old": [
+   "Paper262.pdf"
+  ]
+ },
+ "C275": {
+  "file": "papers/C275.pdf",
+  "from": "Paper263.pdf",
+  "old": [
+   "Paper263.pdf"
+  ]
+ },
+ "C276": {
+  "file": "papers/C276.pdf",
+  "from": "Paper264.pdf",
+  "old": [
+   "Paper264.pdf"
+  ]
+ },
+ "C277": {
+  "file": "papers/C277.pdf",
+  "from": "Paper265.pdf",
+  "old": [
+   "Paper265.pdf"
+  ]
+ },
+ "C278": {
+  "file": "papers/C278.pdf",
+  "from": "Paper266.pdf",
+  "old": [
+   "Paper266.pdf"
+  ]
+ },
+ "C279": {
+  "file": "papers/C279.pdf",
+  "from": "Paper267.pdf",
+  "old": [
+   "Paper267.pdf"
+  ]
+ },
+ "C280": {
+  "file": "papers/C280.pdf",
+  "from": "Paper268.pdf",
+  "old": [
+   "Paper268.pdf"
+  ]
+ },
+ "C281": {
+  "file": "papers/C281.pdf",
+  "from": "Paper269.pdf",
+  "old": [
+   "Paper269.pdf"
+  ]
+ },
+ "C282": {
+  "file": "papers/C282.pdf",
+  "from": "Paper270.pdf",
+  "old": [
+   "Paper270.pdf"
+  ]
+ },
+ "C283": {
+  "file": "papers/C283.pdf",
+  "from": "1-s2.0-S2405896319320488-main.pdf",
+  "old": [
+   "1-s2.0-S2405896319320488-main.pdf"
+  ]
+ },
+ "C284": {
+  "file": "papers/C284.pdf",
+  "from": "CoRL2020.pdf",
+  "old": [
+   "CoRL2020.pdf"
+  ]
+ },
+ "C291": {
+  "file": "papers/C291.pdf",
+  "from": "Root_camera_ready.pdf",
+  "old": [
+   "Root_camera_ready.pdf"
+  ]
+ },
+ "C330": {
+  "file": "papers/C330.pdf",
+  "from": "Time-Robust_Control_for_STL_Specifications.pdf",
+  "old": [
+   "Time-Robust_Control_for_STL_Specifications.pdf"
+  ]
+ },
+ "C375": {
+  "file": "papers/C375.pdf",
+  "from": "A_Tutorial_on_the_Non-Asymptotic_Theory_of_System_Identification.pdf",
+  "old": [
+   "A_Tutorial_on_the_Non-Asymptotic_Theory_of_System_Identification.pdf"
+  ]
+ },
+ "J2": {
+  "file": "papers/J2.pdf",
+  "from": "TAC98.pdf",
+  "old": [
+   "TAC98.pdf"
+  ]
+ },
+ "J3": {
+  "file": "papers/J3.pdf",
+  "from": "SCL98.pdf",
+  "old": [
+   "SCL98.pdf"
+  ]
+ },
+ "J4": {
+  "file": "papers/J4.pdf",
+  "from": "mcss01.pdf",
+  "old": [
+   "mcss01.pdf"
+  ]
+ },
+ "J5": {
+  "file": "papers/J5.pdf",
+  "from": "TAC00.pdf",
+  "old": [
+   "TAC00.pdf"
+  ]
+ },
+ "J6": {
+  "file": "papers/J6.pdf",
+  "from": "IEEE00.pdf",
+  "old": [
+   "IEEE00.pdf"
+  ]
+ },
+ "J7": {
+  "file": "papers/J7.pdf",
+  "from": "JSC01.pdf",
+  "old": [
+   "JSC01.pdf"
+  ]
+ },
+ "J8": {
+  "file": "papers/J8.pdf",
+  "from": "CISE02.pdf",
+  "old": [
+   "CISE02.pdf"
+  ]
+ },
+ "J9": {
+  "file": "papers/J9.pdf",
+  "from": "TAC02.pdf",
+  "old": [
+   "TAC02.pdf"
+  ]
+ },
+ "J10": {
+  "file": "papers/J10.pdf",
+  "from": "IJRR02.pdf",
+  "old": [
+   "IJRR02.pdf"
+  ]
+ },
+ "J11": {
+  "file": "papers/J11.pdf",
+  "from": "IEEE03.pdf",
+  "old": [
+   "IEEE03.pdf"
+  ]
+ },
+ "J12": {
+  "file": "papers/J12.pdf",
+  "from": "IEEETAC-Hamilton.pdf",
+  "old": [
+   "IEEETAC-Hamilton.pdf"
+  ]
+ },
+ "J13": {
+  "file": "papers/J13.pdf",
+  "from": "AUT03-Hamiltonian.pdf",
+  "old": [
+   "AUT03-Hamiltonian.pdf"
+  ]
+ },
+ "J14": {
+  "file": "papers/J14.pdf",
+  "from": "AUT03.pdf",
+  "old": [
+   "AUT03.pdf"
+  ]
+ },
+ "J15": {
+  "file": "papers/J15.pdf",
+  "from": "DEDS04.pdf",
+  "old": [
+   "DEDS04.pdf"
+  ]
+ },
+ "J16": {
+  "file": "papers/J16.pdf",
+  "from": "TP04SCL.pdf",
+  "old": [
+   "SCL02-Bisim.ps",
+   "TP04SCL.pdf"
+  ]
+ },
+ "J17": {
+  "file": "papers/J17.pdf",
+  "from": "ALP04.pdf",
+  "old": [
+   "ALP04.pdf"
+  ]
+ },
+ "J18": {
+  "file": "papers/J18.pdf",
+  "from": "IEEETRA-LFS.pdf",
+  "old": [
+   "IEEETRA-LFS.pdf"
+  ]
+ },
+ "J19": {
+  "file": "papers/J19.pdf",
+  "from": "AUT05.pdf",
+  "old": [
+   "AUT05.pdf"
+  ]
+ },
+ "J20": {
+  "file": "papers/J20.pdf",
+  "from": "SICON05.pdf",
+  "old": [
+   "SICON05.pdf"
+  ]
+ },
+ "J21": {
+  "file": "papers/J21.pdf",
+  "from": "TR05-TPL.pdf",
+  "old": [
+   "TR05-TPL.pdf"
+  ]
+ },
+ "J22": {
+  "file": "papers/J22.pdf",
+  "from": "TCS05-HTP.pdf",
+  "old": [
+   "HTP.pdf",
+   "TCS05-HTP.pdf"
+  ]
+ },
+ "J23": {
+  "file": "papers/J23.pdf",
+  "from": "TR05.pdf",
+  "old": [
+   "TR05.pdf"
+  ]
+ },
+ "J24": {
+  "file": "papers/J24.pdf",
+  "from": "Computer06.pdf",
+  "old": [
+   "Computer06.pdf"
+  ]
+ },
+ "J25": {
+  "file": "papers/J25.pdf",
+  "from": "RAM06.pdf",
+  "old": [
+   "RAM06.pdf"
+  ]
+ },
+ "J26": {
+  "file": "papers/J26.pdf",
+  "from": "LTLControl.pdf",
+  "old": [
+   "LTLControl.pdf"
+  ]
+ },
+ "J27": {
+  "file": "papers/J27.pdf",
+  "from": "IEEE-RAM07.pdf",
+  "old": [
+   "IEEE-RAM07.pdf"
+  ]
+ },
+ "J28": {
+  "file": "papers/J28.pdf",
+  "from": "TJP07-TAC.pdf",
+  "old": [
+   "TJP07-TAC.pdf"
+  ]
+ },
+ "J29": {
+  "file": "papers/J29.pdf",
+  "from": "GP07-TAC.pdf",
+  "old": [
+   "GP07-TAC.pdf"
+  ]
+ },
+ "J30": {
+  "file": "papers/J30.pdf",
+  "from": "GP-AUT07.pdf",
+  "old": [
+   "GP-AUT07.pdf"
+  ]
+ },
+ "J31": {
+  "file": "papers/J31.pdf",
+  "from": "ZP07-TRO.pdf",
+  "old": [
+   "ZP07-TRO.pdf"
+  ]
+ },
+ "J32": {
+  "file": "papers/J32.pdf",
+  "from": "TAC05-Barrier.pdf",
+  "old": [
+   "TAC05-Barrier.pdf"
+  ]
+ },
+ "J33": {
+  "file": "papers/J33.pdf",
+  "from": "TAC08-Bio.pdf",
+  "old": [
+   "TAC08-Bio.pdf"
+  ]
+ },
+ "J34": {
+  "file": "papers/J34.pdf",
+  "from": "TRO08-Assign.pdf",
+  "old": [
+   "TRO08-Assign.pdf"
+  ]
+ },
+ "J35": {
+  "file": "papers/J35.pdf",
+  "from": "IEEE-RAM08.pdf",
+  "old": [
+   "IEEE-RAM08.pdf"
+  ]
+ },
+ "J36": {
+  "file": "papers/J36.pdf",
+  "from": "DEDS2008.pdf",
+  "old": [
+   "DEDS2008.pdf",
+   "GJP07.pdf"
+  ]
+ },
+ "J37": {
+  "file": "papers/J37.pdf",
+  "from": "SCL08.pdf",
+  "old": [
+   "SCL08.pdf",
+   "TAJP08.pdf"
+  ]
+ },
+ "J38": {
+  "file": "papers/J38.pdf",
+  "from": "ZP08-Graph.pdf",
+  "old": [
+   "ZP08-Graph.pdf"
+  ]
+ },
+ "J39": {
+  "file": "papers/J39.pdf",
+  "from": "AutonomousRobots-2008.pdf",
+  "old": [
+   "AutonomousRobots-2008.pdf"
+  ]
+ },
+ "J40": {
+  "file": "papers/J40.pdf",
+  "from": "ZP08-Connectivity.pdf",
+  "old": [
+   "ZP08-Connectivity.pdf"
+  ]
+ },
+ "J41": {
+  "file": "papers/J41.pdf",
+  "from": "JDBP08.pdf",
+  "old": [
+   "JDBP08.pdf"
+  ]
+ },
+ "J42": {
+  "file": "papers/J42.pdf",
+  "from": "FGKP09.pdf",
+  "old": [
+   "FGKP09.pdf"
+  ]
+ },
+ "J43": {
+  "file": "papers/J43.pdf",
+  "from": "GP09.pdf",
+  "old": [
+   "GP09.pdf"
+  ]
+ },
+ "J45": {
+  "file": "papers/J45.pdf",
+  "from": "IEEE-TAC09-Stochastic.pdf",
+  "old": [
+   "IEEE-TAC09-Stochastic.pdf"
+  ]
+ },
+ "J46": {
+  "file": "papers/J46.pdf",
+  "from": "TCS-FP09.pdf",
+  "old": [
+   "TCS-FP09.pdf"
+  ]
+ },
+ "J47": {
+  "file": "papers/J47.pdf",
+  "from": "IEEE-TAC-ZTJP09.pdf",
+  "old": [
+   "IEEE-TAC-ZTJP09.pdf"
+  ]
+ },
+ "J48": {
+  "file": "papers/J48.pdf",
+  "from": "IEEE-VISION2009.pdf",
+  "old": [
+   "IEEE-VISION2009.pdf"
+  ]
+ },
+ "J49": {
+  "file": "papers/J49.pdf",
+  "from": "IEEE-LTL2009.pdf",
+  "old": [
+   "IEEE-LTL2009.pdf"
+  ]
+ },
+ "J50": {
+  "file": "papers/J50.pdf",
+  "from": "ApplPhysLett_96_043705.pdf",
+  "old": [
+   "ApplPhysLett_96_043705.pdf"
+  ]
+ },
+ "J51": {
+  "file": "papers/J51.pdf",
+  "from": "JMM2011.pdf",
+  "old": [
+   "JMM2011.pdf"
+  ]
+ },
+ "J52": {
+  "file": "papers/J52.pdf",
+  "from": "IJRR2011.pdf",
+  "old": [
+   "IJRR2011.pdf",
+   "The International Journal of Robotics Research-2011-Mahmut Selman Sakar-647-58.pdf"
+  ]
+ },
+ "J53": {
+  "file": "papers/J53.pdf",
+  "from": "GeneticNetworks2011.pdf",
+  "old": [
+   "GeneticNetworks2011.pdf"
+  ]
+ },
+ "J54": {
+  "file": "papers/J54.pdf",
+  "from": "ZEP2011.pdf",
+  "old": [
+   "ZEP2011.pdf"
+  ]
+ },
+ "J55": {
+  "file": "papers/J55.pdf",
+  "from": "AIAA-53253-446.pdf",
+  "old": [
+   "AIAA-53253-446.pdf"
+  ]
+ },
+ "J56": {
+  "file": "papers/J56.pdf",
+  "from": "05978186.pdf",
+  "old": [
+   "05978186.pdf",
+   "MultiHop2011.pdf"
+  ]
+ },
+ "J57": {
+  "file": "papers/J57.pdf",
+  "from": "TAC-WCN.pdf",
+  "old": [
+   "TAC-WCN.pdf"
+  ]
+ },
+ "J58": {
+  "file": "papers/J58.pdf",
+  "from": "10_EJC-Pappas-bis.pdf",
+  "old": [
+   "10_EJC-Pappas-bis.pdf",
+   "EJC-Pappas.pdf"
+  ]
+ },
+ "J59": {
+  "file": "papers/J59.pdf",
+  "from": "06214703.pdf",
+  "old": [
+   "06214703.pdf"
+  ]
+ },
+ "J60": {
+  "file": "papers/J60.pdf",
+  "from": "a58-nghiem.pdf",
+  "old": [
+   "a58-nghiem.pdf"
+  ]
+ },
+ "J61": {
+  "file": "papers/J61.pdf",
+  "from": "06145741.pdf",
+  "old": [
+   "06145741.pdf"
+  ]
+ },
+ "J62": {
+  "file": "papers/J62.pdf",
+  "from": "Automatica2012.pdf",
+  "old": [
+   "Automatica2012.pdf"
+  ]
+ },
+ "J63": {
+  "file": "papers/J63.pdf",
+  "from": "06213085.pdf",
+  "old": [
+   "06213085.pdf"
+  ]
+ },
+ "J64": {
+  "file": "papers/J64.pdf",
+  "from": "06286993.pdf",
+  "old": [
+   "06286993.pdf"
+  ]
+ },
+ "J65": {
+  "file": "papers/J65.pdf",
+  "from": "06481631.pdf",
+  "old": [
+   "06481631.pdf"
+  ]
+ },
+ "J67": {
+  "file": "papers/J67.pdf",
+  "from": "06606817.pdf",
+  "old": [
+   "06606817.pdf"
+  ]
+ },
+ "J68": {
+  "file": "papers/J68.pdf",
+  "from": "06763066.pdf",
+  "old": [
+   "06763066.pdf"
+  ]
+ },
+ "J69": {
+  "file": "papers/J69.pdf",
+  "from": "06740858.pdf",
+  "old": [
+   "06740858.pdf",
+   "root.pdf"
+  ]
+ },
+ "J70": {
+  "file": "papers/J70.pdf",
+  "from": "06781658.pdf",
+  "old": [
+   "06781658.pdf"
+  ]
+ },
+ "J71": {
+  "file": "papers/J71.pdf",
+  "from": "06822578.pdf",
+  "old": [
+   "06822578.pdf"
+  ]
+ },
+ "J72": {
+  "file": "papers/J72.pdf",
+  "from": "ds_137_03_031011 (2) 2.pdf",
+  "old": [
+   "ASME.pdf",
+   "DS-14-1055 (13).pdf",
+   "ds_137_03_031011 (2) 2.pdf"
+  ]
+ },
+ "J73": {
+  "file": "papers/J73.pdf",
+  "from": "07070754.pdf",
+  "old": [
+   "07070754 (2).pdf",
+   "07070754.pdf",
+   "GatsisEtal_TAC14_a.pdf",
+   "GatsisEtal_TAC15.pdf"
+  ]
+ },
+ "J74": {
+  "file": "papers/J74.pdf",
+  "from": "07327231.pdf",
+  "old": [
+   "07327231.pdf"
+  ]
+ },
+ "J75": {
+  "file": "papers/J75.pdf",
+  "from": "The International Journal of Robotics Research-2016-Atanasov-73-99.pdf",
+  "old": [
+   "The International Journal of Robotics Research-2016-Atanasov-73-99.pdf"
+  ]
+ },
+ "J76": {
+  "file": "papers/J76.pdf",
+  "from": "07393962.pdf",
+  "old": [
+   "07393962.pdf"
+  ]
+ },
+ "J77": {
+  "file": "papers/J77.pdf",
+  "from": "a6-lin.pdf",
+  "old": [
+   "a6-lin.pdf"
+  ]
+ },
+ "J78": {
+  "file": "papers/J78.pdf",
+  "from": "07122316.pdf",
+  "old": [
+   "07122316.pdf"
+  ]
+ },
+ "J79": {
+  "file": "papers/J79.pdf",
+  "from": "07438925.pdf",
+  "old": [
+   "07438925.pdf"
+  ]
+ },
+ "J80": {
+  "file": "papers/J80.pdf",
+  "from": "07431982.pdf",
+  "old": [
+   "07431982.pdf"
+  ]
+ },
+ "J81": {
+  "file": "papers/J81.pdf",
+  "from": "srep39978.pdf",
+  "old": [
+   "srep39978.pdf"
+  ]
+ },
+ "J82": {
+  "file": "papers/J82.pdf",
+  "from": "Gradual Release of Sensitive Data under Differential Privacy.pdf",
+  "old": [
+   "Gradual Release of Sensitive Data under Differential Privacy.pdf"
+  ]
+ },
+ "J83": {
+  "file": "papers/J83.pdf",
+  "from": "1-s2.0-S0005109816305477-main 2.pdf",
+  "old": [
+   "1-s2.0-S0005109816305477-main 2.pdf"
+  ]
+ },
+ "J84": {
+  "file": "papers/J84.pdf",
+  "from": "07822915.pdf",
+  "old": [
+   "07822915.pdf"
+  ]
+ },
+ "J85": {
+  "file": "papers/J85.pdf",
+  "from": "07879899.pdf",
+  "old": [
+   "07879899.pdf"
+  ]
+ },
+ "J86": {
+  "file": "papers/J86.pdf",
+  "from": "07478650.pdf",
+  "old": [
+   "07478650.pdf"
+  ]
+ },
+ "J87": {
+  "file": "papers/J87.pdf",
+  "from": "07563303.pdf",
+  "old": [
+   "07563303.pdf"
+  ]
+ },
+ "J88": {
+  "file": "papers/J88.pdf",
+  "from": "07277005.pdf",
+  "old": [
+   "07277005.pdf"
+  ]
+ },
+ "J89": {
+  "file": "papers/J89.pdf",
+  "from": "s41598-017-18769-x.pdf",
+  "old": [
+   "s41598-017-18769-x.pdf"
+  ]
+ },
+ "J90": {
+  "file": "papers/J90.pdf",
+  "from": "07563882.pdf",
+  "old": [
+   "07563882.pdf"
+  ]
+ },
+ "J91": {
+  "file": "papers/J91.pdf",
+  "from": "08260881.pdf",
+  "old": [
+   "08260881.pdf"
+  ]
+ },
+ "J92": {
+  "file": "papers/J92.pdf",
+  "from": "1-s2.0-S0005109818300281-main.pdf",
+  "old": [
+   "1-s2.0-S0005109818300281-main.pdf"
+  ]
+ },
+ "J93": {
+  "file": "papers/J93.pdf",
+  "from": "annurev-control-060117-105018 (1).pdf",
+  "old": [
+   "annurev-control-060117-105018 (1).pdf"
+  ]
+ },
+ "J94": {
+  "file": "papers/J94.pdf",
+  "from": "08302921.pdf",
+  "old": [
+   "08302921.pdf",
+   "Paper93.pdf"
+  ]
+ },
+ "J95": {
+  "file": "papers/J95.pdf",
+  "from": "1-s2.0-S0005109818300992-main.pdf",
+  "old": [
+   "1-s2.0-S0005109818300992-main.pdf",
+   "Paper94.pdf"
+  ]
+ },
+ "J96": {
+  "file": "papers/J96.pdf",
+  "from": "Paper95.pdf",
+  "old": [
+   "07862797.pdf",
+   "Paper95.pdf"
+  ]
+ },
+ "J97": {
+  "file": "papers/J97.pdf",
+  "from": "08428633.pdf",
+  "old": [
+   "08428633.pdf",
+   "31 SMC_IEEEproc17.pdf",
+   "Paper96.pdf"
+  ]
+ },
+ "J98": {
+  "file": "papers/J98.pdf",
+  "from": "08105899.pdf",
+  "old": [
+   "08105899.pdf",
+   "Paper97.pdf"
+  ]
+ },
+ "J99": {
+  "file": "papers/J99.pdf",
+  "from": "Paper98.pdf",
+  "old": [
+   "Paper98.pdf"
+  ]
+ },
+ "J100": {
+  "file": "papers/J100.pdf",
+  "from": "Paper99.pdf",
+  "old": [
+   "08268063.pdf",
+   "Paper99.pdf"
+  ]
+ },
+ "J101": {
+  "file": "papers/J101.pdf",
+  "from": "Paper100.pdf",
+  "old": [
+   "08358739.pdf",
+   "Paper100.pdf"
+  ]
+ },
+ "J102": {
+  "file": "papers/J102.pdf",
+  "from": "Paper101.pdf",
+  "old": [
+   "Paper101.pdf"
+  ]
+ },
+ "J103": {
+  "file": "papers/J103.pdf",
+  "from": "Paper102.pdf",
+  "old": [
+   "08310926.pdf",
+   "Paper102.pdf"
+  ]
+ },
+ "J104": {
+  "file": "papers/J104.pdf",
+  "from": "Paper103.pdf",
+  "old": [
+   "Paper103.pdf"
+  ]
+ },
+ "J105": {
+  "file": "papers/J105.pdf",
+  "from": "Paper104.pdf",
+  "old": [
+   "Paper104.pdf"
+  ]
+ },
+ "J106": {
+  "file": "papers/J106.pdf",
+  "from": "Paper105.pdf",
+  "old": [
+   "Paper105.pdf"
+  ]
+ },
+ "J107": {
+  "file": "papers/J107.pdf",
+  "from": "Paper106.pdf",
+  "old": [
+   "Paper106.pdf"
+  ]
+ },
+ "J110": {
+  "file": "papers/J110.pdf",
+  "from": "Paper107.pdf",
+  "old": [
+   "Paper107.pdf"
+  ]
+ },
+ "J130": {
+  "file": "papers/J130.pdf",
+  "from": "Safety_Verification_and_Robustness_Analysis_of_Neural_Networks_via_Quadratic_Constraints_and_Semidefinite_Programming.pdf",
+  "old": [
+   "Safety_Verification_and_Robustness_Analysis_of_Neural_Networks_via_Quadratic_Constraints_and_Semidefinite_Programming.pdf"
+  ]
+ },
+ "J133": {
+  "file": "papers/J133.pdf",
+  "from": "Resilient_Active_Information_Acquisition_With_Teams_of_Robots.pdf",
+  "old": [
+   "Resilient_Active_Information_Acquisition_With_Teams_of_Robots.pdf"
+  ]
+ },
+ "J148": {
+  "file": "papers/J148.pdf",
+  "from": "Safe_Planning_in_Dynamic_Environments_Using_Conformal_Prediction.pdf",
+  "old": [
+   "Safe_Planning_in_Dynamic_Environments_Using_Conformal_Prediction.pdf"
+  ]
+ },
+ "J149": {
+  "file": "papers/J149.pdf",
+  "from": "Statistical_Learning_Theory_for_Control_A_Finite-Sample_Perspective.pdf",
+  "old": [
+   "Statistical_Learning_Theory_for_Control_A_Finite-Sample_Perspective.pdf"
+  ]
+ },
+ "J156": {
+  "file": "papers/J156.pdf",
+  "from": "2112.07564.pdf",
+  "old": [
+   "2112.07564.pdf"
+  ]
+ }
+}
