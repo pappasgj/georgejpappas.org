@@ -4,6 +4,7 @@
 #   2. PMLR / NeurIPS proceedings pages for papers without a DOI
 #   3. Crossref BibTeX for any new DOIs
 #   4. rebuild and run the site checks
+#   5. ready-to-paste resume.tex entries for the new papers -> cv-new-entries.tex (sent to George; the CV comes first)
 # Then review `git diff`, commit and push. Run from the repository root: tools/monthly_update.sh
 set -euo pipefail
 cd "$(dirname "$0")/.."
@@ -18,3 +19,5 @@ echo "== Build"
 ./build.sh
 echo "== Checks"
 python3 tools/check_site.py
+echo "== CV entries for George"
+python3 tools/cv_entries.py

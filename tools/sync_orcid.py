@@ -95,7 +95,9 @@ def row_from_crossref(m, pid):
     when = (MONTHS[date[1] - 1] + " " if len(date) > 1 and date[1] else "") + str(date[0])
     bits.append(when)
     title = html.unescape(re.sub(r"<[^>]+>", "", (m.get("title") or [""])[0])).strip()
-    return [pid, kind, int(date[0]), pre, post, title, ", ".join(b for b in bits if b), m["DOI"], ""]
+    row = [pid, kind, int(date[0]), pre, post, title, ", ".join(b for b in bits if b), m["DOI"], ""]
+    row_from_crossref.parts = {"venue": venue, "after": ", ".join(b for b in bits[1 if venue else 0:] if b)}
+    return row
 
 
 def main():
@@ -129,7 +131,7 @@ def main():
             continue
         bib = get("https://api.crossref.org/works/%s/transform/application/x-bibtex" % urllib.parse.quote(doi, safe="/"),
                   accept="application/x-bibtex") or ""
-        adds.append({"row": row, "bib": bib.strip(), "added": datetime.date.today().isoformat()})
+        adds.append({"row": row, "bib": bib.strip(), "added": datetime.date.today().isoformat(), **row_from_crossref.parts})
         have_dois.add(doi)
         have_titles.add(norm(row[5]))
         added.append(row)

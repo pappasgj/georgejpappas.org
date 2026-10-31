@@ -4,3 +4,4 @@ cv/*
 !cv/README.md
 .DS_Store
 __pycache__/
+cv-new-entries.tex
