@@ -30,6 +30,17 @@
  ],
  "items": [
   {
+   "k": 202611,
+   "date": "Nov 9, 2026",
+   "kind": "press",
+   "text": "Tech Times: Anthropic Usage Policy Takes Effect Thursday: Claude-Driven Machines Must Stop When Connection Drops",
+   "note": "Cites RoboPAIR jailbreaking of LLM-controlled robots in coverage of new safety rules for AI-driven machines.",
+   "url": "https://www.techtimes.com/articles/330283/20261109/anthropic-usage-policy-takes-effect-thursday-claude-driven-machines-must-stop-when-connection-drops.htm",
+   "areas": [
+    "safe-physical-ai"
+   ]
+  },
+  {
    "k": 202610,
    "date": "Oct 28, 2026",
    "kind": "press",
