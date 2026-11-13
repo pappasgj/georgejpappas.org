@@ -87,9 +87,10 @@
   {
    "name": "Pascal Sikorski",
    "role": "Ph.D. student",
-   "dept": "ESE",
+   "dept": "CIS",
    "since": "September 2026",
-   "url": "https://www.pascalsikorski.com/"
+   "url": "https://www.pascalsikorski.com/",
+   "photo": "images/people/pascal-sikorski.jpg"
   },
   {
    "name": "David Snyder",
